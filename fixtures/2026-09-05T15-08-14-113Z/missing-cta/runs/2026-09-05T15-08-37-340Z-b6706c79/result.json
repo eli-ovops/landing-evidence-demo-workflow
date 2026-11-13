@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:08:39.054Z",
+  "owner": "fixture-owner",
+  "client": "missing-cta",
+  "activeVersion": "active",
+  "inputHash": "5fe167b161ca1ce68b61b93ac58f86e468e08f1048bfba7e812e5055020ceefa",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-cta",
+      "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "#cta",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "#cta",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-cta",
+      "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "#cta",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "#cta",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-cta",
+        "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-cta",
+        "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+        "level": "UNKNOWN"
+      }
+    ],
+    "page": [
+      {
+        "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+        "target": "#cta",
+        "detail": "Core CTA not within first screen",
+        "level": "FAIL"
+      },
+      {
+        "code": "HERO_CTA_NOT_VISIBLE",
+        "target": "#cta",
+        "detail": "CTA hidden/clipped/occluded",
+        "level": "FAIL"
+      },
+      {
+        "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+        "target": "#cta",
+        "detail": "Core CTA not within first screen",
+        "level": "FAIL"
+      },
+      {
+        "code": "HERO_CTA_NOT_VISIBLE",
+        "target": "#cta",
+        "detail": "CTA hidden/clipped/occluded",
+        "level": "FAIL"
+      }
+    ],
+    "external": []
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "9186c53bccf606bed30cf9285866eb8ff946563a3eaf828b2527482be85598ed"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "368ea447ba392f97006ec4d7b1baedaab617f49fcb2d746dd3889df25fbf7227"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "41587d7a82217d33b23da1d7ea773af32ed6ff6a34742ee76d3af2b1b88e288c"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "dd61ca73d36efa4bc436d98a767b0bf5b5d610fbadf7e8b7f154696eab52f4b5"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "ccf758b81e33091b26c5ed4e474d0779d18f1bd07b9868024eb419bbb95e1ee8"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "f8df91bb451cf0aee437aab6f6b733ac433f616f6d199dbf0f4a64807e0c8d3a"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

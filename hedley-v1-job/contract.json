@@ -1,0 +1,957 @@
+{
+  "schemaVersion": 1,
+  "client": "G Hedley Landscape Gardener and Builder",
+  "owner": "01a0793a-35b0-74a3-8fc3-38cb7f837ac3",
+  "activeVersion": "v1",
+  "currentEvidence": "User authorized local Demo; pre-code review pending; source and assets recorded 2026-09-07",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "sha256": "e15dc5f8341be81b80b51d0fc599261426470e619bcdd8b0631d83f263ea77e6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "sha256": "cab0223da35a369e31419875bbdd6a87589be33d284a6d1851b04ead5e630c86"
+    }
+  ],
+  "sources": [
+    {
+      "id": "council",
+      "grade": "C",
+      "url": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+      "retrievedDate": "2026-09-07",
+      "platform": "Derbyshire County Council",
+      "attribution": "Public business directory facts and attributed customer review claims; no host imagery reused"
+    },
+    {
+      "id": "concept",
+      "grade": "C",
+      "url": "original-generation://hedley-v1",
+      "retrievedDate": "2026-09-07",
+      "platform": "OpenAI built-in imagegen",
+      "attribution": "User-authorized original fictional garden/material illustrations; no reference image; prompts and original files retained in client planning ledger"
+    },
+    {
+      "id": "council-photo",
+      "grade": "C",
+      "url": "https://apps.derbyshire.gov.uk/applications/trusted-trader/images/profilepics/35659.jpg",
+      "retrievedDate": "2026-09-07",
+      "platform": "Derbyshire County Council trader profile",
+      "attribution": "Image displayed under exact trader tid35659; uploader/copyright/project authorship not independently verified. User explicitly selected this exact image for local Demo."
+    }
+  ],
+  "assets": [
+    {
+      "id": "G01",
+      "path": "assets/hero.jpg",
+      "sha256": "bc852e85cfd9baf2881ec1aa357ed2c40e7039e6b09bf3ebe82cd605c6076d33",
+      "originalPath": "assets/originals/hero.png",
+      "originalSha256": "ebb1f2a9a823033aced5f3d76a9b49be488f55c8d526dbce8811710392c89e38",
+      "sourceId": "concept",
+      "role": "Outdoor landscaping recognition and hero atmosphere",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "authenticity": "CONCEPT",
+      "rights": "User-authorized original generation for local independent concept; no merchant authorization or real-project claim",
+      "permissionEvidence": "Current user local-demo authorization; built-in original image generation; ASSET_INVENTORY.csv and IMAGE_PROMPTS.json"
+    },
+    {
+      "id": "G02",
+      "path": "assets/patio.jpg",
+      "sha256": "f8c451d395b2a4dee6d1b1eb4beed70a7537a0f6e3667bae63678296a564eb7a",
+      "originalPath": "assets/originals/patio.png",
+      "originalSha256": "2e678acb944c9a361c9cb13e206adf0f1d48aa089d95c5ab658e459f276481da",
+      "sourceId": "concept",
+      "role": "Patio and path stone material selection",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "authenticity": "CONCEPT",
+      "rights": "User-authorized original generation for local independent concept; no merchant authorization or real-project claim",
+      "permissionEvidence": "Current user local-demo authorization; built-in original image generation; ASSET_INVENTORY.csv and IMAGE_PROMPTS.json"
+    },
+    {
+      "id": "G03",
+      "path": "assets/drive.jpg",
+      "sha256": "18f7d77a35dc9093cb3ca3cbccd41778c2af1d4a5aa7c7d3ebfcc1050576d3c1",
+      "originalPath": "assets/originals/drive.png",
+      "originalSha256": "2db21e3092536b91b7bd1a375077cc90afff0bcd803467fee6595ef3003733e4",
+      "sourceId": "concept",
+      "role": "Resin drive and path material differentiation",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "authenticity": "CONCEPT",
+      "rights": "User-authorized original generation for local independent concept; no merchant authorization or real-project claim",
+      "permissionEvidence": "Current user local-demo authorization; built-in original image generation; ASSET_INVENTORY.csv and IMAGE_PROMPTS.json"
+    },
+    {
+      "id": "G04",
+      "path": "assets/boundary.jpg",
+      "sha256": "793a04abcb4298b679501b4ea5ded11af711cfe989d899927e904854706e52fd",
+      "originalPath": "assets/originals/boundary.png",
+      "originalSha256": "cfdcb78d52a943e0d4327544918bf46f96f97d54306da2e014945d9ca0772ea9",
+      "sourceId": "concept",
+      "role": "Wall and fencing boundary service recognition",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "authenticity": "CONCEPT",
+      "rights": "User-authorized original generation for local independent concept; no merchant authorization or real-project claim",
+      "permissionEvidence": "Current user local-demo authorization; built-in original image generation; ASSET_INVENTORY.csv and IMAGE_PROMPTS.json"
+    },
+    {
+      "id": "G05",
+      "path": "assets/closing.jpg",
+      "sha256": "55e9b6482213cec975aeb39932131193de846e5d2af8c0a2c1e0212a33530fb9",
+      "originalPath": "assets/originals/closing.png",
+      "originalSha256": "da13d51537907756f0aad39c8767ed362c48cbf1737118fe5efab8b6bfbb500b",
+      "sourceId": "concept",
+      "role": "Garden detail visual reward and local enquiry closing",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "authenticity": "CONCEPT",
+      "rights": "User-authorized original generation for local independent concept; no merchant authorization or real-project claim",
+      "permissionEvidence": "Current user local-demo authorization; built-in original image generation; ASSET_INVENTORY.csv and IMAGE_PROMPTS.json"
+    },
+    {
+      "id": "R01",
+      "path": "assets/council-garden.jpg",
+      "originalPath": "assets/council-garden.jpg",
+      "sha256": "22daba4c6f3fb712a366629e07e0575398bb46339682874347121bba81cc547a",
+      "originalSha256": "22daba4c6f3fb712a366629e07e0575398bb46339682874347121bba81cc547a",
+      "sourceId": "council-photo",
+      "role": "Patio service real photographic context from trader listing",
+      "focus": "Full uncropped image including terrace, steps and existing sign; no reconstruction",
+      "authenticity": "REAL",
+      "rights": "Explicit user authorization for this local Demo only; customer ownership and final transfer not verified",
+      "permissionEvidence": "User confirmed \u662f\u7684 to exact question \u4f7f\u7528\u76ee\u5f55\u9875\u91cc\u7684\u90a3\u5f20\u5ead\u9662\u7167\u7247\u5417 in current task2026-09-07."
+    }
+  ],
+  "items": [
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F01",
+      "category": "business-fact",
+      "baselineId": "F01",
+      "selector": ".brand",
+      "section": ".brand",
+      "disposition": "DIRECT USE",
+      "text": "Hedley"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F02",
+      "category": "business-fact",
+      "baselineId": "F02",
+      "selector": "#contact .location",
+      "section": "#contact",
+      "disposition": "LOCATION/VISIT USE",
+      "text": "Boythorpe"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F03",
+      "category": "business-fact",
+      "baselineId": "F03",
+      "selector": "#contact .email",
+      "section": "#contact",
+      "disposition": "DIRECT USE",
+      "text": "[REDACTED_EMAIL]",
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "Email Hedley about a project"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F04",
+      "category": "business-fact",
+      "baselineId": "F04",
+      "selector": "#contact .mobile",
+      "section": "#contact",
+      "disposition": "DIRECT USE",
+      "text": "07891 873820",
+      "href": "tel:+447891873820",
+      "promise": "Call the published mobile number"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F04b",
+      "category": "business-fact",
+      "baselineId": "F04b",
+      "selector": "#contact .landline",
+      "section": "#contact",
+      "disposition": "DIRECT USE",
+      "text": "01246 230493",
+      "href": "tel:+441246230493",
+      "promise": "Call the published landline number"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F05",
+      "category": "business-fact",
+      "baselineId": "F05",
+      "selector": "#services",
+      "section": "#services",
+      "disposition": "FACT/PARAPHRASE USE",
+      "text": "Patios"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F06",
+      "category": "business-fact",
+      "baselineId": "F06",
+      "selector": "#reviews .review-patio",
+      "section": "#reviews",
+      "disposition": "FACT/PARAPHRASE USE",
+      "text": "13 August 2026"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F07",
+      "category": "business-fact",
+      "baselineId": "F07",
+      "selector": "#reviews .review-drive",
+      "section": "#reviews",
+      "disposition": "FACT/PARAPHRASE USE",
+      "text": "6 July 2026"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F07b",
+      "category": "business-fact",
+      "baselineId": "F07b",
+      "selector": "#reviews .review-garden",
+      "section": "#reviews",
+      "disposition": "FACT/PARAPHRASE USE",
+      "text": "17 June 2026"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "F08",
+      "category": "business-fact",
+      "baselineId": "F08",
+      "selector": "#reviews .source-note",
+      "section": "#reviews",
+      "disposition": "FACT/PARAPHRASE USE",
+      "text": "Derbyshire",
+      "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+      "promise": "Read the original Council directory reviews"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council-photo",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "reason": "User explicitly selected this exact directory photograph for local use; no inference of copyright or project authorship.",
+      "id": "A01",
+      "category": "business-fact",
+      "baselineId": "A01",
+      "selector": ".service-patio img",
+      "section": "#services",
+      "disposition": "DIRECT USE",
+      "text": "",
+      "assetId": "R01"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "concept",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "A03",
+      "category": "business-fact",
+      "baselineId": "A03",
+      "selector": "#contact img",
+      "section": "#contact",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "text": "",
+      "assetId": "G05"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "reason": "Council host branding is not the business logo and is excluded.",
+      "id": "A02",
+      "category": "business-fact",
+      "baselineId": "A02",
+      "selector": "none",
+      "section": "none",
+      "disposition": "EXCLUDE",
+      "text": ""
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "reason": "Current team or owner identities have not been confirmed; no biography.",
+      "id": "F09",
+      "category": "business-fact",
+      "baselineId": "F09",
+      "selector": "none",
+      "section": "none",
+      "disposition": "EXCLUDE",
+      "text": ""
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "reason": "Hours, radius, prices, availability and credentials unverified; no promises.",
+      "id": "F10",
+      "category": "business-fact",
+      "baselineId": "F10",
+      "selector": "none",
+      "section": "none",
+      "disposition": "EXCLUDE",
+      "text": ""
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "reason": "Bounded website status is internal screening evidence, not customer copy.",
+      "id": "F11",
+      "category": "business-fact",
+      "baselineId": "F11",
+      "selector": "none",
+      "section": "none",
+      "disposition": "EXCLUDE",
+      "text": ""
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "council",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "reason": "Council social and review-submission routes are not merchant enquiries.",
+      "id": "F12",
+      "category": "business-fact",
+      "baselineId": "F12",
+      "selector": "none",
+      "section": "none",
+      "disposition": "EXCLUDE",
+      "text": ""
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "concept",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "visual-G01",
+      "category": "business-fact",
+      "baselineId": "visual-G01",
+      "selector": "#hero .hero-image",
+      "section": "#hero",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "text": "",
+      "assetId": "G01"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "concept",
+      "factState": "OBSERVED FACT",
+      "applicability": "NO",
+      "reason": "Original concept patio image superseded in visible page by the exact Council photograph explicitly selected by user; retained original evidence.",
+      "id": "visual-G02",
+      "category": "business-fact",
+      "baselineId": "visual-G02",
+      "selector": ".service-patio img",
+      "section": ".service-patio",
+      "disposition": "EXCLUDE",
+      "text": "",
+      "assetId": "G02"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "concept",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "visual-G03",
+      "category": "business-fact",
+      "baselineId": "visual-G03",
+      "selector": ".service-drive img",
+      "section": ".service-drive",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "text": "",
+      "assetId": "G03"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "concept",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "visual-G04",
+      "category": "business-fact",
+      "baselineId": "visual-G04",
+      "selector": ".service-boundary img",
+      "section": ".service-boundary",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "text": "",
+      "assetId": "G04"
+    },
+    {
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "sourceId": "concept",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "reason": "Mapped from the current source inventory and approved pre-code placement.",
+      "id": "visual-G05",
+      "category": "business-fact",
+      "baselineId": "visual-G05",
+      "selector": "#contact img",
+      "section": "#contact",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "text": "",
+      "assetId": "G05"
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#hero .button"
+  },
+  "sections": [
+    "#hero",
+    "#services",
+    "#reviews",
+    "#contact"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "UNKNOWN",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 2,
+      "text": "F01,Identity,G Hedley Landscape Gardener and Builder,Directory identity and linked Hedleys Landscapes name variant,https://www.chesterfieldlocal.com/local-business,Chesterfield Local / public search,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Factual identity only,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,DIRECT USE,Identity / Hero,Factual identity only,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 3,
+      "text": "F02,Location,G Hedley Landscape Gardener and Builder,Boythorpe / Chesterfield identity; full directory address retained in S1 browser evidence,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Use town; service radius and public visit status UNKNOWN,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,LOCATION/VISIT USE,Location / closing,Use town; service radius and public visit status UNKNOWN,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 4,
+      "text": "F03,Email,G Hedley Landscape Gardener and Builder,[REDACTED_EMAIL],https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Public business email; no consent or deliverability inferred,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,DIRECT USE,Contact,Public business email; no consent or deliverability inferred,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 5,
+      "text": "F04,Phone,G Hedley Landscape Gardener and Builder,01246230493 / 07891873820,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,No call placed; no WhatsApp claim,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,DIRECT USE,Contact,No call placed; no WhatsApp claim,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 6,
+      "text": "F05,Services,G Hedley Landscape Gardener and Builder,Patios; drives/resin drives/paths; walls/fences; trees; hedge/lawn cutting,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,SOURCE CLAIM,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Do not expand into unverified building qualifications,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,FACT/PARAPHRASE USE,Services,Do not expand into unverified building qualifications,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 7,
+      "text": "F06,H0 review,G Hedley Landscape Gardener and Builder,2026-08-13 patio replacement; window 2026-06-09 to 2026-09-07,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED DATE + CUSTOMER CLAIM,HIGH,NOT DOWNLOADED,NOT ACQUIRED,H0 only; not proof of growth or purchase intent,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,FACT/PARAPHRASE USE,Proof,H0 only; not proof of growth or purchase intent,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 8,
+      "text": "F07,Review,G Hedley Landscape Gardener and Builder,2026-07-06 driveway feedback and 2026-06-17 garden transformation,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,CUSTOMER CLAIM,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Attributed feedback; not service guarantees,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,FACT/PARAPHRASE USE,Proof,Attributed feedback; not service guarantees,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 9,
+      "text": "F08,Membership,G Hedley Landscape Gardener and Builder,Directory join date 2015-12-23; 78 reviews displayed,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Not founded date or universal certification; future count recheck,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,TIME-SENSITIVE VERIFY/REPHRASE,Proof,Not founded date or universal certification; future count recheck,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 10,
+      "text": "A01,Photo,G Hedley Landscape Gardener and Builder,Small patio/garden profile image; project and uploader attribution unknown,https://apps.derbyshire.gov.uk/applications/trusted-trader/images/profilepics/35659.jpg,Derbyshire County Council,2026-09-07,OBSERVED IMAGE; PROJECT UNKNOWN,MEDIUM,NOT DOWNLOADED,NOT ACQUIRED,C \u2014 UNATTRIBUTED / RIGHTS UNKNOWN; research reference only,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,CONCEPT VISUAL REPLACEMENT,Future service visuals,C \u2014 UNATTRIBUTED / RIGHTS UNKNOWN; research reference only,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 11,
+      "text": "A02,Host branding,G Hedley Landscape Gardener and Builder,Council logo/purple theme/rating ticks,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Host assets are not customer Logo or customer brand,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,None,Host assets are not customer Logo or customer brand,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 12,
+      "text": "A03,Official assets,G Hedley Landscape Gardener and Builder,Logo / customer fonts / official photos / videos / vehicles / equipment not verified,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,UNKNOWN,LOW,NOT DOWNLOADED,NOT ACQUIRED,No attributable official account found; no generation performed,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,CONCEPT VISUAL REPLACEMENT,Future Hero / services,No attributable official account found; no generation performed,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 13,
+      "text": "F09,People,G Hedley Landscape Gardener and Builder,Reviews name a team; current legal owner and staffing not verified,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,CUSTOMER CLAIM / UNKNOWN,MEDIUM,NOT DOWNLOADED,NOT ACQUIRED,No invented biography; no personal investigation,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,No team section,No invented biography; no personal investigation,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 14,
+      "text": "F10,Hours / scope,G Hedley Landscape Gardener and Builder,Hours; service radius; visit status; pricing; certifications; availability UNKNOWN,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,UNKNOWN,LOW,NOT DOWNLOADED,NOT ACQUIRED,Use known local identity and direct enquiry only,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,No unsupported promises,Use known local identity and direct enquiry only,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 15,
+      "text": "F11,Website / social,G Hedley Landscape Gardener and Builder,Bounded searches and directories found no attributable owned site/account,https://www.chesterfieldlocal.com/local-business,Chesterfield Local / public search,2026-09-07,BOUNDED OBSERVATION,MEDIUM,NOT DOWNLOADED,NOT ACQUIRED,Track N is not a universal absence claim,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,Internal research,Track N is not a universal absence claim,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 16,
+      "text": "F12,CTA boundary,G Hedley Landscape Gardener and Builder,Council review submission and Council social links are not merchant enquiry channels,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Use confirmed business contact only,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,No copied form,Use confirmed business contact only,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 2,
+      "text": "G01,original-generation://hedley-v1/hero,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/hero.png,ebb1f2a9a823033aced5f3d76a9b49be488f55c8d526dbce8811710392c89e38,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/hero.jpg,bc852e85cfd9baf2881ec1aa357ed2c40e7039e6b09bf3ebe82cd605c6076d33,#hero .hero-image,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1672x941,1672x941,Outdoor landscaping recognition and hero atmosphere"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 3,
+      "text": "G02,original-generation://hedley-v1/patio,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/patio.png,2e678acb944c9a361c9cb13e206adf0f1d48aa089d95c5ab658e459f276481da,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/patio.jpg,f8c451d395b2a4dee6d1b1eb4beed70a7537a0f6e3667bae63678296a564eb7a,.service-patio img,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1448x1086,1448x1086,Patio and path stone material selection"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 4,
+      "text": "G03,original-generation://hedley-v1/drive,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/drive.png,2db21e3092536b91b7bd1a375077cc90afff0bcd803467fee6595ef3003733e4,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/drive.jpg,18f7d77a35dc9093cb3ca3cbccd41778c2af1d4a5aa7c7d3ebfcc1050576d3c1,.service-drive img,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1448x1086,1448x1086,Resin drive and path material differentiation"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 5,
+      "text": "G04,original-generation://hedley-v1/boundary,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/boundary.png,cfdcb78d52a943e0d4327544918bf46f96f97d54306da2e014945d9ca0772ea9,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/boundary.jpg,793a04abcb4298b679501b4ea5ded11af711cfe989d899927e904854706e52fd,.service-boundary img,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1448x1086,1448x1086,Wall and fencing boundary service recognition"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 6,
+      "text": "G05,original-generation://hedley-v1/closing,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/closing.png,da13d51537907756f0aad39c8767ed362c48cbf1737118fe5efab8b6bfbb500b,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/closing.jpg,55e9b6482213cec975aeb39932131193de846e5d2af8c0a2c1e0212a33530fb9,#contact img,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1086x1448,1086x1448,Garden detail visual reward and local enquiry closing"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 2,
+      "excerpt": "F01,Identity,G Hedley Landscape Gardener and Builder,Directory identity and linked Hedleys Landscapes name variant,https://www.chesterfieldlocal.com/local-business,Chesterfield Local / public search,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Factual identity only,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,DIRECT USE,Identity / Hero,Factual identity only,NONE",
+      "excerptSha256": "3a53b009082ed3177da695dcda17c701edc25a1aae8bc4d6bd7fb8f2bb327a71",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F01"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE2",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 3,
+      "excerpt": "F02,Location,G Hedley Landscape Gardener and Builder,Boythorpe / Chesterfield identity; full directory address retained in S1 browser evidence,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Use town; service radius and public visit status UNKNOWN,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,LOCATION/VISIT USE,Location / closing,Use town; service radius and public visit status UNKNOWN,NONE",
+      "excerptSha256": "1bd0529a397a698e8e5aa0a372b5e54bbdc05827e2542fec9db8a584cd70df37",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F02"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE3",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 4,
+      "excerpt": "F03,Email,G Hedley Landscape Gardener and Builder,[REDACTED_EMAIL],https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Public business email; no consent or deliverability inferred,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,DIRECT USE,Contact,Public business email; no consent or deliverability inferred,NONE",
+      "excerptSha256": "44d6047e0c2af625c092b3e94e0b1ef85bc288ca515d97993e909b2a6c98dfe1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F03"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE4",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 5,
+      "excerpt": "F04,Phone,G Hedley Landscape Gardener and Builder,01246230493 / 07891873820,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,No call placed; no WhatsApp claim,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,DIRECT USE,Contact,No call placed; no WhatsApp claim,NONE",
+      "excerptSha256": "e6b3b67493aabc6e2b4f1b201340bc5e1cb91b010ab028bc6e8f18884213ea44",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F04",
+        "F04b"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE5",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 6,
+      "excerpt": "F05,Services,G Hedley Landscape Gardener and Builder,Patios; drives/resin drives/paths; walls/fences; trees; hedge/lawn cutting,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,SOURCE CLAIM,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Do not expand into unverified building qualifications,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,FACT/PARAPHRASE USE,Services,Do not expand into unverified building qualifications,NONE",
+      "excerptSha256": "43b30ef0fbe32baa96561e70f598cd0e0ba8dea640ad68d1479cd817e27adc49",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F05"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE6",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 7,
+      "excerpt": "F06,H0 review,G Hedley Landscape Gardener and Builder,2026-08-13 patio replacement; window 2026-06-09 to 2026-09-07,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED DATE + CUSTOMER CLAIM,HIGH,NOT DOWNLOADED,NOT ACQUIRED,H0 only; not proof of growth or purchase intent,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,FACT/PARAPHRASE USE,Proof,H0 only; not proof of growth or purchase intent,NONE",
+      "excerptSha256": "01fd4aca6ca54549bd74a8c146b44bbd1fff8ecece15c96cfca6f90ca462ce98",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F06"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE7",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 8,
+      "excerpt": "F07,Review,G Hedley Landscape Gardener and Builder,2026-07-06 driveway feedback and 2026-06-17 garden transformation,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,CUSTOMER CLAIM,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Attributed feedback; not service guarantees,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,FACT/PARAPHRASE USE,Proof,Attributed feedback; not service guarantees,NONE",
+      "excerptSha256": "3348ea9a58626137ecae9f1d08cbc15a2d83a638ac08fb4731821af0596a634a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F07",
+        "F07b"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE8",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 9,
+      "excerpt": "F08,Membership,G Hedley Landscape Gardener and Builder,Directory join date 2015-12-23; 78 reviews displayed,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Not founded date or universal certification; future count recheck,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,TIME-SENSITIVE VERIFY/REPHRASE,Proof,Not founded date or universal certification; future count recheck,NONE",
+      "excerptSha256": "5f89b8f6299f6974f731fe91c3c15338735ccebd368a094b3b2705888ae96c75",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F08"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE9",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 10,
+      "excerpt": "A01,Photo,G Hedley Landscape Gardener and Builder,Small patio/garden profile image; project and uploader attribution unknown,https://apps.derbyshire.gov.uk/applications/trusted-trader/images/profilepics/35659.jpg,Derbyshire County Council,2026-09-07,OBSERVED IMAGE; PROJECT UNKNOWN,MEDIUM,NOT DOWNLOADED,NOT ACQUIRED,C \u2014 UNATTRIBUTED / RIGHTS UNKNOWN; research reference only,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,CONCEPT VISUAL REPLACEMENT,Future service visuals,C \u2014 UNATTRIBUTED / RIGHTS UNKNOWN; research reference only,NONE",
+      "excerptSha256": "875f9ea18c24fc7151d204e2434c994db9d6dae83afacf261b8f005172c858fc",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "A01"
+      ],
+      "sourceIds": [
+        "council-photo"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 11,
+      "excerpt": "A02,Host branding,G Hedley Landscape Gardener and Builder,Council logo/purple theme/rating ticks,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Host assets are not customer Logo or customer brand,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,None,Host assets are not customer Logo or customer brand,NONE",
+      "excerptSha256": "fea68a42c4ac1d5be7da870c31c06bfb5d17b17a02dd508f698dd8c620a4abbd",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "A02"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Council host branding is not the business logo and is excluded."
+    },
+    {
+      "id": "BASE11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 12,
+      "excerpt": "A03,Official assets,G Hedley Landscape Gardener and Builder,Logo / customer fonts / official photos / videos / vehicles / equipment not verified,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,UNKNOWN,LOW,NOT DOWNLOADED,NOT ACQUIRED,No attributable official account found; no generation performed,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,CONCEPT VISUAL REPLACEMENT,Future Hero / services,No attributable official account found; no generation performed,NONE",
+      "excerptSha256": "9ee2abf614f0ee39d569642dc5c8d56a7d4c83bfb6dff6d01cfd1395623c978d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "A03"
+      ],
+      "sourceIds": [
+        "concept"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 13,
+      "excerpt": "F09,People,G Hedley Landscape Gardener and Builder,Reviews name a team; current legal owner and staffing not verified,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,CUSTOMER CLAIM / UNKNOWN,MEDIUM,NOT DOWNLOADED,NOT ACQUIRED,No invented biography; no personal investigation,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,No team section,No invented biography; no personal investigation,NONE",
+      "excerptSha256": "77d3c9e5fc1e4f1ddea55ac620a120ef9d43b0d21a5da4a73d5ef85bb9aa4602",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F09"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Current team or owner identities have not been confirmed; no biography."
+    },
+    {
+      "id": "BASE13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 14,
+      "excerpt": "F10,Hours / scope,G Hedley Landscape Gardener and Builder,Hours; service radius; visit status; pricing; certifications; availability UNKNOWN,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,UNKNOWN,LOW,NOT DOWNLOADED,NOT ACQUIRED,Use known local identity and direct enquiry only,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,No unsupported promises,Use known local identity and direct enquiry only,NONE",
+      "excerptSha256": "c3b52553163077bcc81cf133f20e7fc7d43807ec8e722c1d8e10a7083d3948cb",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F10"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Hours, radius, prices, availability and credentials unverified; no promises."
+    },
+    {
+      "id": "BASE14",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 15,
+      "excerpt": "F11,Website / social,G Hedley Landscape Gardener and Builder,Bounded searches and directories found no attributable owned site/account,https://www.chesterfieldlocal.com/local-business,Chesterfield Local / public search,2026-09-07,BOUNDED OBSERVATION,MEDIUM,NOT DOWNLOADED,NOT ACQUIRED,Track N is not a universal absence claim,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,Internal research,Track N is not a universal absence claim,NONE",
+      "excerptSha256": "4413bd17d1c03e4770be13a9549e75a437bf56ec68c65f4e221de9048811892e",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F11"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Bounded website status is internal screening evidence, not customer copy."
+    },
+    {
+      "id": "BASE15",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "line": 16,
+      "excerpt": "F12,CTA boundary,G Hedley Landscape Gardener and Builder,Council review submission and Council social links are not merchant enquiry channels,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659,Derbyshire County Council,2026-09-07,OBSERVED FACT,HIGH,NOT DOWNLOADED,NOT ACQUIRED,Use confirmed business contact only,No likeness use; directory address not a walk-in invitation,Research only; no asset treatment this round,EXCLUDE,No copied form,Use confirmed business contact only,NONE",
+      "excerptSha256": "697c0ceb21cb54294e5a5dba3a3227a38b71c1292083653bd96b3ad3c1c69ffa",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F12"
+      ],
+      "sourceIds": [
+        "council"
+      ],
+      "reason": "Council social and review-submission routes are not merchant enquiries."
+    },
+    {
+      "id": "BASE16",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 2,
+      "excerpt": "G01,original-generation://hedley-v1/hero,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/hero.png,ebb1f2a9a823033aced5f3d76a9b49be488f55c8d526dbce8811710392c89e38,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/hero.jpg,bc852e85cfd9baf2881ec1aa357ed2c40e7039e6b09bf3ebe82cd605c6076d33,#hero .hero-image,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1672x941,1672x941,Outdoor landscaping recognition and hero atmosphere",
+      "excerptSha256": "c1dd5679b14c3578e2daf35b11bb412b752309d41737ef926b566f11600f1e14",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "visual-G01"
+      ],
+      "sourceIds": [
+        "concept"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE17",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 3,
+      "excerpt": "G02,original-generation://hedley-v1/patio,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/patio.png,2e678acb944c9a361c9cb13e206adf0f1d48aa089d95c5ab658e459f276481da,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/patio.jpg,f8c451d395b2a4dee6d1b1eb4beed70a7537a0f6e3667bae63678296a564eb7a,.service-patio img,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1448x1086,1448x1086,Patio and path stone material selection",
+      "excerptSha256": "be4100bfec6cd13dfaf4c8a20de6d601a6f1386fbcbf9843adc3fec1dbeb25b9",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "visual-G02"
+      ],
+      "sourceIds": [
+        "concept"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE18",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 4,
+      "excerpt": "G03,original-generation://hedley-v1/drive,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/drive.png,2db21e3092536b91b7bd1a375077cc90afff0bcd803467fee6595ef3003733e4,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/drive.jpg,18f7d77a35dc9093cb3ca3cbccd41778c2af1d4a5aa7c7d3ebfcc1050576d3c1,.service-drive img,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1448x1086,1448x1086,Resin drive and path material differentiation",
+      "excerptSha256": "c4fc2b9cc102990957b091e240fb329d890d681ba624832647dc77f4f2d35e21",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "visual-G03"
+      ],
+      "sourceIds": [
+        "concept"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE19",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 5,
+      "excerpt": "G04,original-generation://hedley-v1/boundary,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/boundary.png,cfdcb78d52a943e0d4327544918bf46f96f97d54306da2e014945d9ca0772ea9,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/boundary.jpg,793a04abcb4298b679501b4ea5ded11af711cfe989d899927e904854706e52fd,.service-boundary img,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1448x1086,1448x1086,Wall and fencing boundary service recognition",
+      "excerptSha256": "69583628f234dc5a58b2bb23c8c74620ee6defac16c98581d6f9424a10ebaf11",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "visual-G04"
+      ],
+      "sourceIds": [
+        "concept"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    },
+    {
+      "id": "BASE20",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "line": 6,
+      "excerpt": "G05,original-generation://hedley-v1/closing,OpenAI built-in imagegen,2026-09-07,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/originals/closing.png,da13d51537907756f0aad39c8767ed362c48cbf1737118fe5efab8b6bfbb500b,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/demo/assets/closing.jpg,55e9b6482213cec975aeb39932131193de846e5d2af8c0a2c1e0212a33530fb9,#contact img,ORIGINAL CONCEPT VISUAL; fictional scene; not Hedley work,User-authorized original generation for local independent concept; no merchant authorization or real-project claim,sips JPEG conversion quality86; no content edit; PNG retained,/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_uk_hedley/planning/IMAGE_PROMPTS.json,\"No people, identifiable properties, logos or third-party source image\",1086x1448,1086x1448,Garden detail visual reward and local enquiry closing",
+      "excerptSha256": "886c7e942772863f2a926f9728ec3e24e8e6ed3f409ef613ed7c065220e39e09",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "visual-G05"
+      ],
+      "sourceIds": [
+        "concept"
+      ],
+      "reason": "Source row explicitly reconciled to current business fact or original concept visual."
+    }
+  ]
+}

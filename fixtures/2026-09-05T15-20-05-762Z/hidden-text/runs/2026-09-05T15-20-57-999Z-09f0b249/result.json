@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:21:00.032Z",
+  "owner": "fixture-owner",
+  "client": "hidden-text",
+  "activeVersion": "active",
+  "inputHash": "3392f5220cf94c6b81a14b91810d05af9186622d2ae3d8dddf50ed1d6f539330",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "5bb3dc5377036c5ee581f19f7be635b719c7f84dc762517b0d9fefd1d43fafd2"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "d8fb3805799857ba3497950386b1b74d800845ff6f04618a545917a1ffa09d9e"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "41587d7a82217d33b23da1d7ea773af32ed6ff6a34742ee76d3af2b1b88e288c"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "9cced26853778d900f3117946226bcc1b31b09a93907aaf667a90b5403b8abe0"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "ccf758b81e33091b26c5ed4e474d0779d18f1bd07b9868024eb419bbb95e1ee8"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "d883efcf5a97766038c7b4a2d7375e7565c3ef014c8d087f9b885c0f3a67d1d7"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

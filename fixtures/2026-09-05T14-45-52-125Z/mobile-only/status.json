@@ -1,0 +1,22 @@
+{
+  "phase": "进行中",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "inputHash": "1d8399c55f39261c0851b4be0f6804de0dadd75bf69b0d563d13e23607a75fae",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-45-52-125Z/mobile-only/runs/2026-09-05T14-46-51-240Z-f84c019e/result.json",
+  "resultSha256": "d2de9593c2af90e7e53cc257096c95d596df8427fa63487e5fd321659c335f8d",
+  "mechanical": "FAIL",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

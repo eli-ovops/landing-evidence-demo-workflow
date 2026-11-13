@@ -1,0 +1,2421 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "image5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-5",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 208.296875,
+                "width": 406.65625,
+                "height": 508.3125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-5.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-5",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 208.296875,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-5.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-6",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 516.65625,
+                "y": 208.296875,
+                "width": 406.671875,
+                "height": 508.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-6.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-6",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 516.65625,
+              "y": 208.296875,
+              "width": 406.671875,
+              "height": 508.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-6.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-7",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 953.328125,
+                "y": 208.296875,
+                "width": 406.65625,
+                "height": 508.3125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-7.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-7",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 953.328125,
+              "y": 208.296875,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-7.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-8",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 207.8125,
+                "width": 406.65625,
+                "height": 508.3125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-8.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-8",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 207.8125,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-8.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image9",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-9",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 516.65625,
+                "y": 207.8125,
+                "width": 406.671875,
+                "height": 508.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-9.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-9",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 516.65625,
+              "y": 207.8125,
+              "width": 406.671875,
+              "height": 508.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-9.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-11",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 953.328125,
+                "y": 207.8125,
+                "width": 406.65625,
+                "height": 508.3125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-11.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-11",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 953.328125,
+              "y": 207.8125,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-11.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-12",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 208.328125,
+                "width": 406.65625,
+                "height": 508.3125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-12.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-12",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 208.328125,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-12.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-13",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 516.65625,
+                "y": 208.328125,
+                "width": 406.671875,
+                "height": 508.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-13.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-13",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 516.65625,
+              "y": 208.328125,
+              "width": 406.671875,
+              "height": 508.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-13.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-14",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 953.328125,
+                "y": 208.328125,
+                "width": 406.65625,
+                "height": 508.3125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-14",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 953.328125,
+              "y": 208.328125,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-15",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 207.84375,
+                "width": 406.65625,
+                "height": 508.3125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-15.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-15",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 207.84375,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-15.jpg"
+            ]
+          }
+        },
+        {
+          "id": "gallery-heading",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-hero",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 80,
+                "width": 1280,
+                "height": 338.296875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "← Back to selected work More of Chris's work. Additional views of rooms, kitchen finishes and wallcoverings. Open any photograph to see the original in more detail. Discuss your decorating project ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-hero",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 80,
+              "width": 1280,
+              "height": 338.296875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "← Back to selected work More of Chris's work. Additional views of rooms, kitchen finishes and wallcoverings. Open any photograph to see the original in more detail. Discuss your decorating project ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "gallery-contact",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 332.296875,
+                "width": 209.90625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Discuss your decorating project ↗",
+              "actualHref": "index.html#contact",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 332.296875,
+              "width": 209.90625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Discuss your decorating project ↗",
+            "actualHref": "index.html#contact",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "gallery-return",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-next",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 545.34375,
+                "width": 1280,
+                "height": 291.40625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Something in mind for your home? Talk to Chris ↗ Return to services",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-next",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 545.34375,
+              "width": 1280,
+              "height": 291.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Something in mind for your home? Talk to Chris ↗ Return to services",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#gallery-photo-5",
+          "url": "http://demo.local/assets/photo-5.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 208.296875,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-6",
+          "url": "http://demo.local/assets/photo-6.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 516.65625,
+              "y": 208.296875,
+              "width": 406.671875,
+              "height": 508.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-7",
+          "url": "http://demo.local/assets/photo-7.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 953.328125,
+              "y": 208.296875,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-8",
+          "url": "http://demo.local/assets/photo-8.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 207.8125,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-9",
+          "url": "http://demo.local/assets/photo-9.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 516.65625,
+              "y": 207.8125,
+              "width": 406.671875,
+              "height": 508.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-11",
+          "url": "http://demo.local/assets/photo-11.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 953.328125,
+              "y": 207.8125,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-12",
+          "url": "http://demo.local/assets/photo-12.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 208.328125,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-13",
+          "url": "http://demo.local/assets/photo-13.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 516.65625,
+              "y": 208.328125,
+              "width": 406.671875,
+              "height": 508.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-14",
+          "url": "http://demo.local/assets/photo-14.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 953.328125,
+              "y": 208.328125,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-15",
+          "url": "http://demo.local/assets/photo-15.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 207.84375,
+              "width": 406.65625,
+              "height": 508.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html#work",
+          "text": "Selected work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "index.html#care",
+          "text": "Working with Chris"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "index.html#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html#work",
+          "text": "← Back to selected work"
+        },
+        {
+          "selector": "#gallery-contact",
+          "href": "index.html#contact",
+          "text": "Discuss your decorating project ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-5.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-6.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-7.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "assets/photo-8.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(5) > a:nth-of-type(1)",
+          "href": "assets/photo-9.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(6) > a:nth-of-type(1)",
+          "href": "assets/photo-11.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(7) > a:nth-of-type(1)",
+          "href": "assets/photo-12.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(8) > a:nth-of-type(1)",
+          "href": "assets/photo-13.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(9) > a:nth-of-type(1)",
+          "href": "assets/photo-14.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(10) > a:nth-of-type(1)",
+          "href": "assets/photo-15.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "index.html#contact",
+          "text": "Talk to Chris ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(2)",
+          "href": "index.html#work",
+          "text": "Return to services"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-5",
+          "urls": [
+            "http://demo.local/assets/photo-5.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-6",
+          "urls": [
+            "http://demo.local/assets/photo-6.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-7",
+          "urls": [
+            "http://demo.local/assets/photo-7.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-8",
+          "urls": [
+            "http://demo.local/assets/photo-8.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-9",
+          "urls": [
+            "http://demo.local/assets/photo-9.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-11",
+          "urls": [
+            "http://demo.local/assets/photo-11.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-12",
+          "urls": [
+            "http://demo.local/assets/photo-12.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-13",
+          "urls": [
+            "http://demo.local/assets/photo-13.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-14",
+          "urls": [
+            "http://demo.local/assets/photo-14.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-15",
+          "urls": [
+            "http://demo.local/assets/photo-15.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": "#work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html#work",
+          "text": "Selected work",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/index.html",
+          "hash": "#care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "index.html#care",
+          "text": "Working with Chris",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "path": "/index.html",
+          "hash": "#contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "index.html#contact",
+          "text": "Get in touch ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": "#work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html#work",
+          "text": "← Back to selected work",
+          "section": "gallery-hero"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#gallery-contact",
+          "path": "/index.html",
+          "hash": "#contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#gallery-contact",
+          "href": "index.html#contact",
+          "text": "Discuss your decorating project ↗",
+          "section": "gallery-hero"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-5.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-5.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/assets/photo-6.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-6.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/assets/photo-7.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-7.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(4) > a:nth-of-type(1)",
+          "path": "/assets/photo-8.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "assets/photo-8.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(5) > a:nth-of-type(1)",
+          "path": "/assets/photo-9.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(5) > a:nth-of-type(1)",
+          "href": "assets/photo-9.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(6) > a:nth-of-type(1)",
+          "path": "/assets/photo-11.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(6) > a:nth-of-type(1)",
+          "href": "assets/photo-11.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(7) > a:nth-of-type(1)",
+          "path": "/assets/photo-12.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(7) > a:nth-of-type(1)",
+          "href": "assets/photo-12.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(8) > a:nth-of-type(1)",
+          "path": "/assets/photo-13.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(8) > a:nth-of-type(1)",
+          "href": "assets/photo-13.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(9) > a:nth-of-type(1)",
+          "path": "/assets/photo-14.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(9) > a:nth-of-type(1)",
+          "href": "assets/photo-14.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(10) > a:nth-of-type(1)",
+          "path": "/assets/photo-15.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(10) > a:nth-of-type(1)",
+          "href": "assets/photo-15.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": "#contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "index.html#contact",
+          "text": "Talk to Chris ↗",
+          "section": "gallery-next"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(2)",
+          "path": "/index.html",
+          "hash": "#work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(2)",
+          "href": "index.html#work",
+          "text": "Return to services",
+          "section": "gallery-next"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "More of Chris's work.",
+          "section": "gallery-hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > h2:nth-of-type(1)",
+          "text": "Something in mind for your home?",
+          "section": "gallery-next"
+        }
+      ],
+      "width": 1440,
+      "height": 3106
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "image5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-5",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 329.265625,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-5.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-5",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.265625,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-5.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-6",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 203,
+                "y": 329.265625,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-6.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-6",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.265625,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-6.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-7",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 329.203125,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-7.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-7",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.203125,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-7.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-8",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 203,
+                "y": 329.203125,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-8.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-8",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.203125,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-8.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image9",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-9",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 329.140625,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-9.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-9",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.140625,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-9.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-11",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 203,
+                "y": 329.140625,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-11.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-11",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.140625,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-11.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-12",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 329.671875,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-12.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-12",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.671875,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-12.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-13",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 203,
+                "y": 329.671875,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-13.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-13",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.671875,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-13.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-14",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 329.609375,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-14",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.609375,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-photo-15",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 203,
+                "y": 329.609375,
+                "width": 167,
+                "height": 208.75
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-15.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#gallery-photo-15",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.609375,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-15.jpg"
+            ]
+          }
+        },
+        {
+          "id": "gallery-heading",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-hero",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 76,
+                "width": 350,
+                "height": 340.265625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "← Back to selected work More of Chris's work. Additional views of rooms, kitchen finishes and wallcoverings. Open any photograph to see the original in more detail. Discuss your decorating project ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-hero",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 76,
+              "width": 350,
+              "height": 340.265625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "← Back to selected work More of Chris's work. Additional views of rooms, kitchen finishes and wallcoverings. Open any photograph to see the original in more detail. Discuss your decorating project ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "gallery-contact",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 340.265625,
+                "width": 209.90625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Discuss your decorating project ↗",
+              "actualHref": "index.html#contact",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 340.265625,
+              "width": 209.90625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Discuss your decorating project ↗",
+            "actualHref": "index.html#contact",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "gallery-return",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-next",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 562.546875,
+                "width": 350,
+                "height": 219.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Something in mind for your home? Talk to Chris ↗ Return to services",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-next",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 562.546875,
+              "width": 350,
+              "height": 219.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Something in mind for your home? Talk to Chris ↗ Return to services",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#gallery-photo-5",
+          "url": "http://demo.local/assets/photo-5.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.265625,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-6",
+          "url": "http://demo.local/assets/photo-6.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.265625,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-7",
+          "url": "http://demo.local/assets/photo-7.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.203125,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-8",
+          "url": "http://demo.local/assets/photo-8.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.203125,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-9",
+          "url": "http://demo.local/assets/photo-9.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.140625,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-11",
+          "url": "http://demo.local/assets/photo-11.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.140625,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-12",
+          "url": "http://demo.local/assets/photo-12.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.671875,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-13",
+          "url": "http://demo.local/assets/photo-13.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.671875,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-14",
+          "url": "http://demo.local/assets/photo-14.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 329.609375,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#gallery-photo-15",
+          "url": "http://demo.local/assets/photo-15.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.609375,
+              "width": 167,
+              "height": 208.75
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html#work",
+          "text": "Selected work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "index.html#care",
+          "text": "Working with Chris"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "index.html#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html#work",
+          "text": "← Back to selected work"
+        },
+        {
+          "selector": "#gallery-contact",
+          "href": "index.html#contact",
+          "text": "Discuss your decorating project ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-5.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-6.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-7.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "assets/photo-8.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(5) > a:nth-of-type(1)",
+          "href": "assets/photo-9.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(6) > a:nth-of-type(1)",
+          "href": "assets/photo-11.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(7) > a:nth-of-type(1)",
+          "href": "assets/photo-12.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(8) > a:nth-of-type(1)",
+          "href": "assets/photo-13.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(9) > a:nth-of-type(1)",
+          "href": "assets/photo-14.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(10) > a:nth-of-type(1)",
+          "href": "assets/photo-15.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "index.html#contact",
+          "text": "Talk to Chris ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(2)",
+          "href": "index.html#work",
+          "text": "Return to services"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-5",
+          "urls": [
+            "http://demo.local/assets/photo-5.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-6",
+          "urls": [
+            "http://demo.local/assets/photo-6.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-7",
+          "urls": [
+            "http://demo.local/assets/photo-7.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-8",
+          "urls": [
+            "http://demo.local/assets/photo-8.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-9",
+          "urls": [
+            "http://demo.local/assets/photo-9.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-11",
+          "urls": [
+            "http://demo.local/assets/photo-11.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-12",
+          "urls": [
+            "http://demo.local/assets/photo-12.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-13",
+          "urls": [
+            "http://demo.local/assets/photo-13.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-14",
+          "urls": [
+            "http://demo.local/assets/photo-14.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#gallery-photo-15",
+          "urls": [
+            "http://demo.local/assets/photo-15.jpg"
+          ],
+          "section": "additional-work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": "#work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html#work",
+          "text": "Selected work",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/index.html",
+          "hash": "#care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "index.html#care",
+          "text": "Working with Chris",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "path": "/index.html",
+          "hash": "#contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "index.html#contact",
+          "text": "Get in touch ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": "#work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html#work",
+          "text": "← Back to selected work",
+          "section": "gallery-hero"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#gallery-contact",
+          "path": "/index.html",
+          "hash": "#contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#gallery-contact",
+          "href": "index.html#contact",
+          "text": "Discuss your decorating project ↗",
+          "section": "gallery-hero"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-5.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-5.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/assets/photo-6.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-6.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/assets/photo-7.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-7.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(4) > a:nth-of-type(1)",
+          "path": "/assets/photo-8.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "assets/photo-8.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(5) > a:nth-of-type(1)",
+          "path": "/assets/photo-9.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(5) > a:nth-of-type(1)",
+          "href": "assets/photo-9.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(6) > a:nth-of-type(1)",
+          "path": "/assets/photo-11.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(6) > a:nth-of-type(1)",
+          "href": "assets/photo-11.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(7) > a:nth-of-type(1)",
+          "path": "/assets/photo-12.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(7) > a:nth-of-type(1)",
+          "href": "assets/photo-12.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(8) > a:nth-of-type(1)",
+          "path": "/assets/photo-13.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(8) > a:nth-of-type(1)",
+          "href": "assets/photo-13.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(9) > a:nth-of-type(1)",
+          "path": "/assets/photo-14.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(9) > a:nth-of-type(1)",
+          "href": "assets/photo-14.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(10) > a:nth-of-type(1)",
+          "path": "/assets/photo-15.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > figure:nth-of-type(10) > a:nth-of-type(1)",
+          "href": "assets/photo-15.jpg",
+          "text": "View detail ↗",
+          "section": "additional-work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": "#contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "index.html#contact",
+          "text": "Talk to Chris ↗",
+          "section": "gallery-next"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(2)",
+          "path": "/index.html",
+          "hash": "#work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(2)",
+          "href": "index.html#work",
+          "text": "Return to services",
+          "section": "gallery-next"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "More of Chris's work.",
+          "section": "gallery-hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > h2:nth-of-type(1)",
+          "text": "Something in mind for your home?",
+          "section": "gallery-next"
+        }
+      ],
+      "width": 390,
+      "height": 2138
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

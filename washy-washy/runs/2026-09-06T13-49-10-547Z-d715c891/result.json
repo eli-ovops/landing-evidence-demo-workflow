@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T13:49:16.478Z",
+  "owner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "client": "Washy Washy",
+  "activeVersion": "demo_20260902/index.html",
+  "inputHash": "92f2af03bbb86622b9b9cd2dcca92c66bfa4c9ca3f86ec25f63507a0e5fd67df",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": ".hero-facts a",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+        "target": ".hero-facts a",
+        "detail": "Core CTA not within first screen",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "c9ebcdd561a66ca2076d53f0daeee6ff49b06d19e13678d3e909f5bc2cdde218"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "0630b38dcc567109168a267656473ce7bc64ebbdac4610d2235c1f4c14f1d3ae"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "0f42ace4b096b424f3e47c8766051b4d5763575299fda48c9d6e3a853be6e336"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "c8b72cd68628ca2cff6af3c867ac3d31df95c7006c9aa254a47ba14069cbff9c"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "23f7863be2ed1bc6b3237e4374e43fc1be326380e1ab8439d115f0da27cb7f3d"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "1ee3d9d3e38da29f85b9cb73faae00dd884ee8ca30a9c9d0bd09e0eaaaf437d3"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "8804480396d4460e9bf9b4bb1588b4ff72fd5caf843d988f0a0786c1356c08c1"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "1b5ec6ebced9a01fe8de84ab89cec5f7e1fdc83c46fddfe621936b1131c7c94b"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "8a9e007fea6a55d620a7abf70ab9ed1370fc9922cc2a030a51c7841f20a4407c"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "70b53b70ab9c0009806b348c76c5fa198a54b28442aa10303b049e66652da287"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "a6bf8ed16c5f6b9c3af20c2cfbe0c07d96a5de145c6e39e74f0a9524106685d5"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "92ea7c6cfc5822a34ff683c7e289db402953b873be93449630d3de83cd45e9b9"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "1bcfa8cd7b501744ae76abc6271a18f7077100c4907568784d982f8f97b274da"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "fb73c3d2ca17047bf0fc0c9306264d8d95f3eb3fe5baf6593a433d37cbb1b8be"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c076afbcef8af33733bd03233b2db3e963ad37c0d79601a6f5fe9d55621b7c30"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "3ef9720978327d3876c6e3071980379e12fa2a24157838deb01efece8863424e"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

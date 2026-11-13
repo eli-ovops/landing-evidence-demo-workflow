@@ -1,0 +1,82 @@
+{
+  "inputHash": "1c5c7580d1716d44012f8a28bdfb9872f3bd943ea2d89bb9b3a4f3f63ddc6742",
+  "assets": [
+    {
+      "assetId": "AS1",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo/assets/antique-still-life.png",
+      "originalSha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo/assets/antique-still-life.png",
+      "sha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581",
+      "focus": "Whole subject visible; contain or original aspect ratio; no factual edit",
+      "role": "hero",
+      "selectors": [
+        "#hero-art"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "AS2",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo/assets/silver-study.png",
+      "originalSha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo/assets/silver-study.png",
+      "sha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1",
+      "focus": "Whole subject visible; contain or original aspect ratio; no factual edit",
+      "role": "selling",
+      "selectors": [
+        "#silver-art"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "AS3",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo/assets/objects-study.png",
+      "originalSha256": "a4333214311ced5a8f91cbd2c4a807b032ab03acd179417b465bdd94ced0392b",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo/assets/objects-study.png",
+      "sha256": "a4333214311ced5a8f91cbd2c4a807b032ab03acd179417b465bdd94ced0392b",
+      "focus": "Whole subject visible; contain or original aspect ratio; no factual edit",
+      "role": "catalogue",
+      "selectors": [
+        "#objects-art"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "AS4",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo/assets/showroom-detail.jpg",
+      "originalSha256": "3cdba2effd6edf20c3d2d6e934c631ee6fcf538c40043e7c83ef0316f0abafce",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo/assets/showroom-detail.jpg",
+      "sha256": "3cdba2effd6edf20c3d2d6e934c631ee6fcf538c40043e7c83ef0316f0abafce",
+      "focus": "Entire original2016x1512 scene, original4:3 ratio, unmodified",
+      "role": "visit",
+      "selectors": [
+        "#showroom-photo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

@@ -1,0 +1,9 @@
+{
+  "owner": "fixture-owner",
+  "client": "hidden-text",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-40-28-413Z/hidden-text/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-40-28-413Z/hidden-text/site/source.md"
+  ],
+  "scheduler": false
+}

@@ -1,0 +1,33 @@
+{
+  "phase": "进行中",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "inputHash": "0d9cd4dbf92edc3a136a15c1ac87cd1397b333acc22572471e7b587553eedbf4",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-26-43-360Z/transparent-overlay/runs/2026-09-06T00-28-03-608Z-f7caab3d/result.json",
+  "resultSha256": "00bdce9a79f2d8b33934d111e435f67da0046806a7fa99653f8b2382b4ec4ac6",
+  "mechanical": "FAIL",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

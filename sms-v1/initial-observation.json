@@ -1,0 +1,593 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/hero.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 745,
+              "y": 156,
+              "width": 615,
+              "height": 569.390625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "55% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/indoor.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 247.859375,
+              "width": 663.265625,
+              "height": 427.90625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/outdoor.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 807.265625,
+              "y": 242.859375,
+              "width": 552.71875,
+              "height": 438.65625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "53% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/handrail.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 218.09375,
+              "width": 605,
+              "height": 487.890625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "40% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "S M S. HANDYMAN SERVICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "What needs doing?"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#reviews",
+          "text": "Customer feedback"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447725999370",
+          "text": "↗ 07725 999370"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "tel:+447725999370",
+          "text": "Let’s talk about your job ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#services",
+          "text": "Explore the services ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "Call and ask about your job ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+          "text": "Read the original reviews ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+          "text": "See Grassmoor on the map ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/hero.webp"
+          ],
+          "section": "hero wrap",
+          "focus": "55% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/indoor.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/outdoor.webp"
+          ],
+          "section": "services",
+          "focus": "53% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/handrail.webp"
+          ],
+          "section": "contact",
+          "focus": "40% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447725999370",
+          "text": "↗ 07725 999370",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-cta",
+          "href": "tel:+447725999370",
+          "text": "Let’s talk about your job ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "Call and ask about your job ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+          "text": "Read the original reviews ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+          "text": "See Grassmoor on the map ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Practical help. Indoors & out.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "What’s on your to-do list?",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Make the everyday work better.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Put your garden plans into place.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#reviews-title",
+          "text": "Small details. A real difference.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Help where it matters.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "A garden building, brought together.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "#contact-title",
+          "text": "Let’s start with your job.",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 3479
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/hero.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.0625,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/indoor.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.5625,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/outdoor.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.453125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "53% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/handrail.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.296875,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "40% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "S M S. HANDYMAN SERVICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "What needs doing?"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#reviews",
+          "text": "Customer feedback"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "tel:+447725999370",
+          "text": "Let’s talk about your job ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#services",
+          "text": "Explore the services ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "Call and ask about your job ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+          "text": "Read the original reviews ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+          "text": "See Grassmoor on the map ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/hero.webp"
+          ],
+          "section": "hero wrap",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/indoor.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/outdoor.webp"
+          ],
+          "section": "services",
+          "focus": "53% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/handrail.webp"
+          ],
+          "section": "contact",
+          "focus": "40% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-cta",
+          "href": "tel:+447725999370",
+          "text": "Let’s talk about your job ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "Call and ask about your job ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+          "text": "Read the original reviews ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+          "text": "See Grassmoor on the map ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Practical help. Indoors & out.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "What’s on your to-do list?",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Make the everyday work better.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Put your garden plans into place.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#reviews-title",
+          "text": "Small details. A real difference.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Help where it matters.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "A garden building, brought together.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "#contact-title",
+          "text": "Let’s start with your job.",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 4171
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

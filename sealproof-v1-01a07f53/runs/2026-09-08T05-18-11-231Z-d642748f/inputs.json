@@ -1,0 +1,70 @@
+{
+  "contractSha256": "8e2aab397caefaac864f42576c6407c11f84de0bf621010a34bd8a27ff40b14d",
+  "activeVersion": "demo-v1",
+  "manifest": [
+    {
+      "path": "assets/brand-complete.png",
+      "sha256": "c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9",
+      "bytes": 52437
+    },
+    {
+      "path": "assets/brand-original.png",
+      "sha256": "37876e3d564d71b377741b4bb48384beea4d17ac9fa6502f3932f667d5e6db88",
+      "bytes": 1283
+    },
+    {
+      "path": "assets/brand-stable.png",
+      "sha256": "e6c45e4e9b9786b461eaa9e40913fb61b37d93c8066f9cba6f483e63e07283fd",
+      "bytes": 52140
+    },
+    {
+      "path": "assets/shower-concept.png",
+      "sha256": "3971a6e92d158dd07bbc8f6435003bed2ef2cf7b978cb9f68333cabbd425086c",
+      "bytes": 2175145
+    },
+    {
+      "path": "assets/tap-concept.png",
+      "sha256": "a57e37ea2336b3c33480fb1a54e03a69ea13c8b8f4a6c4746ef0aecf5848688e",
+      "bytes": 2030885
+    },
+    {
+      "path": "assets/tools-concept.png",
+      "sha256": "2910fd30a53010c30bc7bc9745733f76f13b64559e847590858257d7bc49c243",
+      "bytes": 2308606
+    },
+    {
+      "path": "index.html",
+      "sha256": "4bc0c2f354aabef9424ce54083e4a46ec7266ed9da76c956b762734ddeef7422",
+      "bytes": 6372
+    },
+    {
+      "path": "styles.css",
+      "sha256": "efb85d66a377ffa6be07d079d287a4d066e1d8516bf95e3245d599dc35c41c2c",
+      "bytes": 8460
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "b44508e20416906f541e708fd81b3cb894618be76c6ea54e2e3c8fe27fa37e76"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "sha256": "906696fced1e2b4ed1814f730db55ef17ef1ee6044e7a4278378d93de983d63d"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

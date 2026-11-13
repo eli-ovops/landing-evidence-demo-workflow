@@ -1,0 +1,9 @@
+{
+  "owner": "fixture-owner",
+  "client": "opaque-sibling-overlay",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-26-43-360Z/opaque-sibling-overlay/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-26-43-360Z/opaque-sibling-overlay/site/source.md"
+  ],
+  "scheduler": false
+}

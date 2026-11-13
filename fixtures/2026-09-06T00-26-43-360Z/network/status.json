@@ -1,0 +1,166 @@
+{
+  "phase": "进行中",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "inputHash": "7bf71f3bbdd9559308e89b7b17bf6ba993c53467e0661059c0f9017011c6136d",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-26-43-360Z/network/runs/2026-09-06T00-28-09-268Z-b9d9a068/result.json",
+  "resultSha256": "14a365af09dddbf1879119a47917b187ed26af7de8bb4781876fc263ffc520a0",
+  "mechanical": "FAIL",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-map",
+      "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-social",
+      "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-cta",
+      "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_MISSING",
+      "target": "#hero",
+      "detail": "missing",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "#cta",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "#cta",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "BROWSER_CHECK_BLOCKED",
+      "target": "mobile",
+      "detail": "page.evaluate: Execution context was destroyed, most likely because of a navigation.",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "document GET https://example.invalid/navigate; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "document GET https://example.invalid/navigate; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

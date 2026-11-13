@@ -1,0 +1,116 @@
+{
+  "inputHash": "ad3b53e707f39cd141c4d09518a4506a086f72d4951c2dabcf6d79c2f3b5876e",
+  "assets": [
+    {
+      "assetId": "A-facebook-6",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-6.jpg",
+      "originalSha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-6.jpg",
+      "sha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "role": "objects",
+      "selectors": [
+        "#objects .facebook-6"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-logo",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/logo.jpg",
+      "originalSha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/logo.jpg",
+      "sha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "role": "header",
+      "selectors": [
+        "#header .logo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-yell-01",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/yell-01.jpg",
+      "originalSha256": "7b67e81836fd4ade41af3f58c17a678d29f1492d91125e9119b8d6e937b61b73",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/yell-01.jpg",
+      "sha256": "7b67e81836fd4ade41af3f58c17a678d29f1492d91125e9119b8d6e937b61b73",
+      "focus": "Center; CSS clips baked white padding only, preserving entire photographed scene and complete frame",
+      "role": "artwork",
+      "selectors": [
+        "#artwork .yell-01"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-yell-48",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/yell-48.jpg",
+      "originalSha256": "1ffc2320980840f97121921c5c7a3ed9c4f53eac1faccb3fa0ed53ec473bd991",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/yell-48.jpg",
+      "sha256": "1ffc2320980840f97121921c5c7a3ed9c4f53eac1faccb3fa0ed53ec473bd991",
+      "focus": "Center; CSS clips baked white padding only, preserving entire photographed scene and complete frame",
+      "role": "hero",
+      "selectors": [
+        "#hero .yell-48"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-yell-50",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/yell-50.jpg",
+      "originalSha256": "4cb9d311c24bf6dea4ea341f43783b488fb644a71210199a7e4ab78c45a68a30",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/yell-50.jpg",
+      "sha256": "4cb9d311c24bf6dea4ea341f43783b488fb644a71210199a7e4ab78c45a68a30",
+      "focus": "Center; CSS clips baked white padding only, preserving entire photographed scene and complete frame",
+      "role": "closing",
+      "selectors": [
+        "#closing .yell-50"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-yell-56",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/yell-56.jpg",
+      "originalSha256": "8ea7f386ea3e4ecbcda8d923276c551453798aa21b1ca78c33fc024cf579509e",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/yell-56.jpg",
+      "sha256": "8ea7f386ea3e4ecbcda8d923276c551453798aa21b1ca78c33fc024cf579509e",
+      "focus": "Center; CSS clips baked white padding only, preserving entire photographed scene and complete frame",
+      "role": "shirts",
+      "selectors": [
+        "#shirts .yell-56"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

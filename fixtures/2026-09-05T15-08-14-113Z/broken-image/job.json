@@ -1,0 +1,9 @@
+{
+  "owner": "fixture-owner",
+  "client": "broken-image",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/broken-image/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/broken-image/site/source.md"
+  ],
+  "scheduler": false
+}

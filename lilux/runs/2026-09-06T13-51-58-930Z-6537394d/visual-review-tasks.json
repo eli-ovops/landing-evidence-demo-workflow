@@ -1,0 +1,541 @@
+{
+  "inputHash": "11be17f205537d429c7dad27945b8f36498c790012cb9c6112f7ceebeea42db1",
+  "assets": [
+    {
+      "assetId": "A1",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2870.jpeg",
+      "originalSha256": "2e68f5d4acb0ddecd6128aa67093e82f5c211466fdb1f181cfde6f8addcb1915",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2870.jpeg",
+      "sha256": "2e68f5d4acb0ddecd6128aa67093e82f5c211466fdb1f181cfde6f8addcb1915",
+      "focus": "50% 50%",
+      "role": "top",
+      "selectors": [
+        "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A2",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0315.jpeg",
+      "originalSha256": "08031b2a2fc23b56bebdd0156864c7bed762f7f78af8da83f35a2ecc8290b626",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0315.jpeg",
+      "sha256": "08031b2a2fc23b56bebdd0156864c7bed762f7f78af8da83f35a2ecc8290b626",
+      "focus": "50% 50%",
+      "role": "hero",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A3",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0316.jpeg",
+      "originalSha256": "9fa407c5b7b96e0d6ee8fea844cb0bfaf461e4f39b7229adf90f16dc1006ffc1",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0316.jpeg",
+      "sha256": "9fa407c5b7b96e0d6ee8fea844cb0bfaf461e4f39b7229adf90f16dc1006ffc1",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A4",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0317.jpeg",
+      "originalSha256": "579896e2175135552163d22d002729c74e0c618bf651f66fd35a40f72926e7fb",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0317.jpeg",
+      "sha256": "579896e2175135552163d22d002729c74e0c618bf651f66fd35a40f72926e7fb",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A5",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0798.jpeg",
+      "originalSha256": "c642bf5a23335291c4b9fa112c29e36027e3b8d66e35fecd81e5090b093a0404",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0798.jpeg",
+      "sha256": "c642bf5a23335291c4b9fa112c29e36027e3b8d66e35fecd81e5090b093a0404",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A6",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg",
+      "originalSha256": "689bf46e085bab6fce36bdf3a07fb7c73766ef92ff6f8887b25cd18ee326db3d",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg",
+      "sha256": "689bf46e085bab6fce36bdf3a07fb7c73766ef92ff6f8887b25cd18ee326db3d",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A7",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg",
+      "originalSha256": "8ccdfba774ba0ecba9c7b9d10a1f14d35a869833c69bebad76828548a949e162",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg",
+      "sha256": "8ccdfba774ba0ecba9c7b9d10a1f14d35a869833c69bebad76828548a949e162",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A8",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg",
+      "originalSha256": "d90e9a923a5f9f4eb74d82138d7eee660bae65850c3feb0a59ac7aa19604b192",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg",
+      "sha256": "d90e9a923a5f9f4eb74d82138d7eee660bae65850c3feb0a59ac7aa19604b192",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(2) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A9",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0823.jpeg",
+      "originalSha256": "c0ee63dfc19dd4091e6d31baf2651ff565d4980fc28d695059c526e8d8e7fa02",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0823.jpeg",
+      "sha256": "c0ee63dfc19dd4091e6d31baf2651ff565d4980fc28d695059c526e8d8e7fa02",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A10",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0868.jpeg",
+      "originalSha256": "2c6ec6f0be2daf9298aeb4b16a2fc687858383c00904bc3103aa84df64981edc",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0868.jpeg",
+      "sha256": "2c6ec6f0be2daf9298aeb4b16a2fc687858383c00904bc3103aa84df64981edc",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A11",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0870.jpeg",
+      "originalSha256": "c1d12f08b88396dcb602c7b58f541ce9c56e498ff7c768e1672e55bc62ecf413",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_0870.jpeg",
+      "sha256": "c1d12f08b88396dcb602c7b58f541ce9c56e498ff7c768e1672e55bc62ecf413",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A12",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_1070.jpeg",
+      "originalSha256": "191e6d62718df5eace01894b442a3039e6968472b06fae450abb67748e961a2a",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_1070.jpeg",
+      "sha256": "191e6d62718df5eace01894b442a3039e6968472b06fae450abb67748e961a2a",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A13",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg",
+      "originalSha256": "9b23fc31e1fd716254b7ffb32186e5a9cd2dc09bca2c6d9fd28f4a71e6d40505",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg",
+      "sha256": "9b23fc31e1fd716254b7ffb32186e5a9cd2dc09bca2c6d9fd28f4a71e6d40505",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A14",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg",
+      "originalSha256": "f94f3dacd26233e9e8ed735eb59e27da956313e1adc21c22d23fd9f2191c56e9",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg",
+      "sha256": "f94f3dacd26233e9e8ed735eb59e27da956313e1adc21c22d23fd9f2191c56e9",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A15",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg",
+      "originalSha256": "49b8df8895c397352f96848e3ec29229811a2950cf914954c7fd1b0cab0a90ed",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg",
+      "sha256": "49b8df8895c397352f96848e3ec29229811a2950cf914954c7fd1b0cab0a90ed",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A16",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg",
+      "originalSha256": "7d9ec537b43ad07c082d4e36564f6ca657c531dfc6f73e6e855fe19f8512e989",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg",
+      "sha256": "7d9ec537b43ad07c082d4e36564f6ca657c531dfc6f73e6e855fe19f8512e989",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A17",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg",
+      "originalSha256": "bf34a21856b1c68918e5fbf757ed0e32119fe94213f148f812f74e5f2dab3752",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg",
+      "sha256": "bf34a21856b1c68918e5fbf757ed0e32119fe94213f148f812f74e5f2dab3752",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A18",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg",
+      "originalSha256": "99a3a48b9fdd8a11b0fcbc644f315e6a9658ed5f0d66ee99d6fa3dc780c4d971",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg",
+      "sha256": "99a3a48b9fdd8a11b0fcbc644f315e6a9658ed5f0d66ee99d6fa3dc780c4d971",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A19",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg",
+      "originalSha256": "c3e708037d37e757456faedee3c0258909b912a7596b81a4132e013378c7f101",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg",
+      "sha256": "c3e708037d37e757456faedee3c0258909b912a7596b81a4132e013378c7f101",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A20",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg",
+      "originalSha256": "2ad2d7e6be975bc8860f8638f09a6b2dab9da0e1eb9651627fef7aa541f07d5f",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg",
+      "sha256": "2ad2d7e6be975bc8860f8638f09a6b2dab9da0e1eb9651627fef7aa541f07d5f",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A21",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg",
+      "originalSha256": "65596ba7661b7c62767f9e90175dd890ce28c1a349e2c8c8c94a75c21bd59186",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg",
+      "sha256": "65596ba7661b7c62767f9e90175dd890ce28c1a349e2c8c8c94a75c21bd59186",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A22",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg",
+      "originalSha256": "3f842fb39a95d16f723250476648aa2e43812dd829d181f87b7ce8346be252e4",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg",
+      "sha256": "3f842fb39a95d16f723250476648aa2e43812dd829d181f87b7ce8346be252e4",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A23",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg",
+      "originalSha256": "d3eb19373fd5629f8b9f93ee9e48473c6d0d147be0b815cf7dfcabeef4147c1c",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg",
+      "sha256": "d3eb19373fd5629f8b9f93ee9e48473c6d0d147be0b815cf7dfcabeef4147c1c",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A24",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_1061.jpeg",
+      "originalSha256": "62d39eb1f2b39496ea7832579f3e5e378b929f9acbf92b5bc9f6e75d726e1d2b",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_1061.jpeg",
+      "sha256": "62d39eb1f2b39496ea7832579f3e5e378b929f9acbf92b5bc9f6e75d726e1d2b",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A25",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2769.jpeg",
+      "originalSha256": "d179c71d77ebe8702b5ce10892e7aaf5b691ec3051de4c60732b827ea1d7c23c",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2769.jpeg",
+      "sha256": "d179c71d77ebe8702b5ce10892e7aaf5b691ec3051de4c60732b827ea1d7c23c",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A26",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_3003.jpeg",
+      "originalSha256": "8dc0b3a18680e078c3eadd37db6c0d65d40506aa5af8c0c8020e8f66fb7c60e6",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_3003.jpeg",
+      "sha256": "8dc0b3a18680e078c3eadd37db6c0d65d40506aa5af8c0c8020e8f66fb7c60e6",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A27",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_3143.jpeg",
+      "originalSha256": "a9ab3b8579fc196b2e878b800f94979d018740862e46ba33a7de0c81a8b648c0",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_3143.jpeg",
+      "sha256": "a9ab3b8579fc196b2e878b800f94979d018740862e46ba33a7de0c81a8b648c0",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A28",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_3146.jpeg",
+      "originalSha256": "4c803a26daba7f69e1c0dba9a4419948f12694fce95ee78832b42d0f9ac9e931",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_3146.jpeg",
+      "sha256": "4c803a26daba7f69e1c0dba9a4419948f12694fce95ee78832b42d0f9ac9e931",
+      "focus": "50% 50%",
+      "role": "work",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A29",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2770.jpeg",
+      "originalSha256": "77dfb1ad2dc60edd90292b899f652ff8695b3b237b9b177b93f5a7837b0e2620",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2770.jpeg",
+      "sha256": "77dfb1ad2dc60edd90292b899f652ff8695b3b237b9b177b93f5a7837b0e2620",
+      "focus": "50% 50%",
+      "role": "proof",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A30",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2766.jpeg",
+      "originalSha256": "b2fdd1b9df4e29fc8a1c7d31d6aa24c7e121e02181f1d937dcd28b9daff8fa83",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2766.jpeg",
+      "sha256": "b2fdd1b9df4e29fc8a1c7d31d6aa24c7e121e02181f1d937dcd28b9daff8fa83",
+      "focus": "50% 50%",
+      "role": "proof",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A31",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2773.jpeg",
+      "originalSha256": "3fb0dcd240c9f351b227ed714cbd2dc268a7e2cecf97158c3af1043dd3583c91",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/assets/official/IMG_2773.jpeg",
+      "sha256": "3fb0dcd240c9f351b227ed714cbd2dc268a7e2cecf97158c3af1043dd3583c91",
+      "focus": "50% 50%",
+      "role": "proof",
+      "selectors": [
+        "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(3) > img:nth-of-type(1)"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

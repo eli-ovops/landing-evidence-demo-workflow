@@ -1,0 +1,99 @@
+{
+  "contractSha256": "92bbe264499f6cf32eb8583be735d37a918a56e0178cba6ad99963618fe5d6f3",
+  "activeVersion": "local-v1",
+  "manifest": [
+    {
+      "path": "assets/facebook-11.jpg",
+      "sha256": "0340ba99f1903dfaf86f8a5d7b47f42d3aadb55cf2e018ad3e188f929e87e139",
+      "bytes": 17590
+    },
+    {
+      "path": "assets/facebook-13.jpg",
+      "sha256": "64a1a218aa8fdbe9d9d68ac1257403ffaec3140a3b5ee9e9084c3731bc9b979c",
+      "bytes": 21093
+    },
+    {
+      "path": "assets/facebook-15.jpg",
+      "sha256": "893088b8ff79e80a2b9454af60c058b573c2f92d9d50aa914148a07e794d7765",
+      "bytes": 123074
+    },
+    {
+      "path": "assets/facebook-6.jpg",
+      "sha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847",
+      "bytes": 22911
+    },
+    {
+      "path": "assets/facebook-8.jpg",
+      "sha256": "be3cce96c27ac7849a9fc979dc873ed0a7cae8877f2871982299a6ccd4cc8a7f",
+      "bytes": 21071
+    },
+    {
+      "path": "assets/logo.jpg",
+      "sha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6",
+      "bytes": 21378
+    },
+    {
+      "path": "assets/yell-01.jpg",
+      "sha256": "7b67e81836fd4ade41af3f58c17a678d29f1492d91125e9119b8d6e937b61b73",
+      "bytes": 62301
+    },
+    {
+      "path": "assets/yell-48.jpg",
+      "sha256": "1ffc2320980840f97121921c5c7a3ed9c4f53eac1faccb3fa0ed53ec473bd991",
+      "bytes": 73345
+    },
+    {
+      "path": "assets/yell-50.jpg",
+      "sha256": "4cb9d311c24bf6dea4ea341f43783b488fb644a71210199a7e4ab78c45a68a30",
+      "bytes": 67616
+    },
+    {
+      "path": "assets/yell-56.jpg",
+      "sha256": "8ea7f386ea3e4ecbcda8d923276c551453798aa21b1ca78c33fc024cf579509e",
+      "bytes": 79557
+    },
+    {
+      "path": "gallery.js",
+      "sha256": "15353f03d2b25da42e39305c75d9605136ca57f2d83ca5bd592ab3834b62bdc6",
+      "bytes": 1518
+    },
+    {
+      "path": "index.html",
+      "sha256": "146827c17550656babd1d37e9f55043e821aaabc464003029d7fab20a1f99c50",
+      "bytes": 14877
+    },
+    {
+      "path": "styles.css",
+      "sha256": "d9e0d68653df2213392f165d07bb89dd3e028259daf02132b3d5b6e51850915d",
+      "bytes": 15989
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "sha256": "7201ff1d7036ac2a56359338add886db293d4102f6224ad9e6b14d3d85c9b485"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "sha256": "4fd306921b3af2c37121eaeb4e08a35a74874014d5290d9c568e160e7cc27f6b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "sha256": "9fc4e4fd6fe5e14de16f942b4664502f37aa65966bca645222ec4cf7aa08396c"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

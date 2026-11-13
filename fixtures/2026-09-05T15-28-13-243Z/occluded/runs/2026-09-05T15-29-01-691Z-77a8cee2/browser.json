@@ -1,0 +1,784 @@
+{
+  "defects": [
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-map",
+      "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-social",
+      "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-cta",
+      "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "#cta",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-map",
+      "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-social",
+      "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-cta",
+      "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "#cta",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "views": {
+    "desktop": {
+      "issues": [
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-logo",
+          "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-real",
+          "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-fact",
+          "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-map",
+          "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-social",
+          "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-cta",
+          "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "HERO_CTA_NOT_VISIBLE",
+          "target": "#cta",
+          "detail": "CTA hidden/clipped/occluded",
+          "level": "FAIL"
+        }
+      ],
+      "mapping": [
+        {
+          "id": "I-logo",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#logo",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 24,
+                "width": 90,
+                "height": 60
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/logo.svg"
+              ]
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-real",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#real",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 249.8125,
+                "width": 600,
+                "height": 400
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/real.svg"
+              ]
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-fact",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#fact",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 439.8125,
+                "width": 1392,
+                "height": 21
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Care for your dog",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-map",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#map",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 762,
+                "width": 135.0625,
+                "height": 45
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Get directions",
+              "actualHref": "https://example.invalid/map",
+              "actualUrls": []
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-social",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#social",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 159.0625,
+                "y": 762,
+                "width": 130.0625,
+                "height": 45
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "See our work",
+              "actualHref": "https://example.invalid/social",
+              "actualUrls": []
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-cta",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#cta",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 168.875,
+                "width": 133.078125,
+                "height": 45
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call the salon",
+              "actualHref": "tel:+441234567890",
+              "actualUrls": []
+            }
+          ],
+          "match": null
+        }
+      ],
+      "images": [
+        {
+          "selector": "#logo",
+          "url": "http://demo.local/logo.svg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 24,
+              "y": 24,
+              "width": 90,
+              "height": 60
+            },
+            "samples": 0,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 600,
+          "height": 400
+        },
+        {
+          "selector": "#real",
+          "url": "http://demo.local/real.svg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 24,
+              "y": 249.8125,
+              "width": 600,
+              "height": 400
+            },
+            "samples": 0,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "links": [
+        {
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon"
+        },
+        {
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions"
+        },
+        {
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#logo",
+          "urls": [
+            "http://demo.local/logo.svg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#real",
+          "urls": [
+            "http://demo.local/real.svg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions",
+          "section": "location"
+        },
+        {
+          "kind": "path",
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work",
+          "section": "location"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Grooming in Example Town",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Dog grooming",
+          "section": "services"
+        }
+      ],
+      "width": 1440,
+      "height": 1322
+    },
+    "mobile": {
+      "issues": [
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-logo",
+          "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-real",
+          "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-fact",
+          "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-map",
+          "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-social",
+          "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I-cta",
+          "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+          "level": "FAIL",
+          "findingClass": "PAGE_RENDER_DEFECT"
+        },
+        {
+          "code": "HERO_CTA_NOT_VISIBLE",
+          "target": "#cta",
+          "detail": "CTA hidden/clipped/occluded",
+          "level": "FAIL"
+        }
+      ],
+      "mapping": [
+        {
+          "id": "I-logo",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#logo",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 24,
+                "width": 90,
+                "height": 60
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/logo.svg"
+              ]
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-real",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#real",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 307.6875,
+                "width": 342,
+                "height": 228
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/real.svg"
+              ]
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-fact",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#fact",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 411.6875,
+                "width": 342,
+                "height": 21
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Care for your dog",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-map",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#map",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 705.875,
+                "width": 135.0625,
+                "height": 45
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Get directions",
+              "actualHref": "https://example.invalid/map",
+              "actualUrls": []
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-social",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#social",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 159.0625,
+                "y": 705.875,
+                "width": 130.0625,
+                "height": 45
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "See our work",
+              "actualHref": "https://example.invalid/social",
+              "actualUrls": []
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I-cta",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#cta",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 24,
+                "y": 205.875,
+                "width": 133.078125,
+                "height": 45
+              },
+              "samples": 0,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call the salon",
+              "actualHref": "tel:+441234567890",
+              "actualUrls": []
+            }
+          ],
+          "match": null
+        }
+      ],
+      "images": [
+        {
+          "selector": "#logo",
+          "url": "http://demo.local/logo.svg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 24,
+              "y": 24,
+              "width": 90,
+              "height": 60
+            },
+            "samples": 0,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 600,
+          "height": 400
+        },
+        {
+          "selector": "#real",
+          "url": "http://demo.local/real.svg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 24,
+              "y": 307.6875,
+              "width": 342,
+              "height": 228
+            },
+            "samples": 0,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "links": [
+        {
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon"
+        },
+        {
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions"
+        },
+        {
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#logo",
+          "urls": [
+            "http://demo.local/logo.svg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#real",
+          "urls": [
+            "http://demo.local/real.svg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions",
+          "section": "location"
+        },
+        {
+          "kind": "path",
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work",
+          "section": "location"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Grooming in Example Town",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Dog grooming",
+          "section": "services"
+        }
+      ],
+      "width": 390,
+      "height": 1337
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

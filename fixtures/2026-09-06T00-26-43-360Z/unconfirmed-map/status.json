@@ -1,0 +1,82 @@
+{
+  "phase": "进行中",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "inputHash": "0721f631b1d75eafc4fa8e08ebeafe3f8c5298b64bff1c7d2dd2bde70eec5800",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-26-43-360Z/unconfirmed-map/runs/2026-09-06T00-28-12-281Z-917e391f/result.json",
+  "resultSha256": "e309565fb1e7e68d762a9aa0f29d52a0684e228044f9cf32730b49367ded7e22",
+  "mechanical": "FAIL",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPING_CONFIRMATION_PENDING",
+      "target": "I-logo",
+      "detail": "global reconciled coverage cannot leave item mapping unconfirmed",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-map",
+      "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-social",
+      "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HORIZONTAL_OVERFLOW",
+      "target": "document",
+      "detail": "624 > required viewport 390",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

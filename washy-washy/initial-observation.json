@@ -1,0 +1,825 @@
+{
+  "defects": [
+    {
+      "code": "HERO_MISSING",
+      "target": "UNKNOWN",
+      "detail": "missing",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "UNKNOWN",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "UNKNOWN",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_MISSING",
+      "target": "UNKNOWN",
+      "detail": "missing",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "UNKNOWN",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "UNKNOWN",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "views": {
+    "desktop": {
+      "issues": [
+        {
+          "code": "HERO_MISSING",
+          "target": "UNKNOWN",
+          "detail": "missing",
+          "level": "FAIL"
+        },
+        {
+          "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+          "target": "UNKNOWN",
+          "detail": "Core CTA not within first screen",
+          "level": "FAIL"
+        },
+        {
+          "code": "HERO_CTA_NOT_VISIBLE",
+          "target": "UNKNOWN",
+          "detail": "CTA hidden/clipped/occluded",
+          "level": "FAIL"
+        }
+      ],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/washy-washy-official-logo-20260902.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 9.5,
+              "width": 52,
+              "height": 52
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1170,
+          "height": 1156
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-04.jpg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 590.390625,
+              "y": 36,
+              "width": 849.609375,
+              "height": 828
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 45%"
+          },
+          "decoded": true,
+          "width": 1000,
+          "height": 1237
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-01.jpg",
+          "visibility": {
+            "visible": false,
+            "reason": "hidden ancestor"
+          },
+          "decoded": true,
+          "width": 640,
+          "height": 1023
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-02.jpg",
+          "visibility": {
+            "visible": false,
+            "reason": "hidden ancestor"
+          },
+          "decoded": true,
+          "width": 355,
+          "height": 569
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-05.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 981.625,
+              "y": 16.667724609375,
+              "width": 400.78125,
+              "height": 861.03125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 40%"
+          },
+          "decoded": true,
+          "width": 995,
+          "height": 1587
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-03.jpg",
+          "visibility": {
+            "visible": false,
+            "reason": "hidden ancestor"
+          },
+          "decoded": true,
+          "width": 1000,
+          "height": 1757
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": "WASHY WASHY"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#dogs",
+          "text": "Dogs"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#area",
+          "text": "Coverage"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "07466 669399"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/washy-washy-official-logo-20260902.jpg"
+          ],
+          "section": "body",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-04.jpg"
+          ],
+          "section": "top",
+          "focus": "50% 45%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-01.jpg"
+          ],
+          "section": "dogs",
+          "focus": "50% 45%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-02.jpg"
+          ],
+          "section": "dogs",
+          "focus": "50% 42%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-05.webp"
+          ],
+          "section": "dogs",
+          "focus": "50% 40%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-03.jpg"
+          ],
+          "section": "proof reveal is-visible",
+          "focus": "50% 42%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now",
+          "section": "top"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "07466 669399",
+          "section": "area"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text",
+          "section": "area"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Your dog’s day, made easier.",
+          "section": "top"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Two ways to care, at your door.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Wash & Go",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Washywashy Luxury",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From small puppy to large dog.",
+          "section": "dogs"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "text": "We’re all about pampering your furry friend.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "London care, without the journey.",
+          "section": "area"
+        }
+      ],
+      "width": 1440,
+      "height": 4451
+    },
+    "mobile": {
+      "issues": [
+        {
+          "code": "HERO_MISSING",
+          "target": "UNKNOWN",
+          "detail": "missing",
+          "level": "FAIL"
+        },
+        {
+          "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+          "target": "UNKNOWN",
+          "detail": "Core CTA not within first screen",
+          "level": "FAIL"
+        },
+        {
+          "code": "HERO_CTA_NOT_VISIBLE",
+          "target": "UNKNOWN",
+          "detail": "CTA hidden/clipped/occluded",
+          "level": "FAIL"
+        }
+      ],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/washy-washy-official-logo-20260902.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 9.5,
+              "width": 48,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1170,
+          "height": 1156
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-04.jpg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 0,
+              "y": 68,
+              "width": 390,
+              "height": 371.359375
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 45%"
+          },
+          "decoded": true,
+          "width": 1000,
+          "height": 1237
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-01.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 141.8125,
+              "width": 350,
+              "height": 559.453125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 45%"
+          },
+          "decoded": true,
+          "width": 640,
+          "height": 1023
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-02.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 286.265625,
+              "width": 169,
+              "height": 270.875
+            },
+            "samples": 6,
+            "objectFit": "cover",
+            "focus": "50% 42%"
+          },
+          "decoded": true,
+          "width": 355,
+          "height": 569
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-05.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 201,
+              "y": 270.265625,
+              "width": 169,
+              "height": 302.875
+            },
+            "samples": 6,
+            "objectFit": "cover",
+            "focus": "50% 40%"
+          },
+          "decoded": true,
+          "width": 995,
+          "height": 1587
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-03.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 79.859375,
+              "width": 390,
+              "height": 685.21875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%"
+          },
+          "decoded": true,
+          "width": 1000,
+          "height": 1757
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#dogs",
+          "text": "Dogs"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#area",
+          "text": "Coverage"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "07466 669399"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/washy-washy-official-logo-20260902.jpg"
+          ],
+          "section": "body",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-04.jpg"
+          ],
+          "section": "top",
+          "focus": "50% 45%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-01.jpg"
+          ],
+          "section": "dogs",
+          "focus": "50% 45%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-02.jpg"
+          ],
+          "section": "dogs",
+          "focus": "50% 42%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-05.webp"
+          ],
+          "section": "dogs",
+          "focus": "50% 40%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-03.jpg"
+          ],
+          "section": "proof reveal is-visible",
+          "focus": "50% 42%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now",
+          "section": "top"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "07466 669399",
+          "section": "area"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text",
+          "section": "area"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Your dog’s day, made easier.",
+          "section": "top"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Two ways to care, at your door.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Wash & Go",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Washywashy Luxury",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From small puppy to large dog.",
+          "section": "dogs"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "text": "We’re all about pampering your furry friend.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "London care, without the journey.",
+          "section": "area"
+        }
+      ],
+      "width": 390,
+      "height": 5213
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

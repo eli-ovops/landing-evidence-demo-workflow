@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:21:09.836Z",
+  "owner": "fixture-owner",
+  "client": "fake-form",
+  "activeVersion": "active",
+  "inputHash": "4b254e17ede26510e6fd131807d62f2f3fe46e9bfbae908331c85e98e710b6e9",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "FORM_OR_DATA_ENTRY",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1)",
+      "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "FORM_OR_DATA_ENTRY",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(1)",
+      "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "FORM_OR_DATA_ENTRY",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1)",
+      "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "FORM_OR_DATA_ENTRY",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(1)",
+      "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "FORM_OR_DATA_ENTRY",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1)",
+        "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+        "level": "FAIL"
+      },
+      {
+        "code": "FORM_OR_DATA_ENTRY",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(1)",
+        "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+        "level": "FAIL"
+      },
+      {
+        "code": "FORM_OR_DATA_ENTRY",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1)",
+        "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+        "level": "FAIL"
+      },
+      {
+        "code": "FORM_OR_DATA_ENTRY",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(1)",
+        "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "95cdd58719b8d1dbc89fd3247025a8d123391b6cf2c0da1ebc515323ef4b30e5"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "d987d9f69d25cb127376a5bfbe32a04083b6b587de6808d77d95d1862c1c4f0b"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "344fc8b70711e3c68e2843d3d63ac44941d5423bdb49a8d0d943cc638d5debdd"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "9544ad747de3b5caf959b89cd1a65d95a5e24427f6bd471aa9eed59b0339b07c"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "43da57e71c4c5b3caed4dbd892e845aeac99a064eadcc2290ef441547c55770d"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "00aaee38ca4eb75ecfa0d5ed6e347758724889440daabb878a47d19d672eb1ba"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

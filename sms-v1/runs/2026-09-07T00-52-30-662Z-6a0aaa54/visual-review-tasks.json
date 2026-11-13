@@ -1,0 +1,82 @@
+{
+  "inputHash": "1c587ec5bafe7b8b8e4b2b8fd0c1c6c56e8d7d6389c9ba00fdd1894ba4f48d62",
+  "assets": [
+    {
+      "assetId": "IMG_hero",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo/Users/USER/.codex/generated_images/01a0793a-2eb8-7a22-a908-0aec95a59591/exec-9b05e37b-7382-4376-bbef-d9493e9be478.png",
+      "originalSha256": "83f92a75eec11d0a342a911d7e4992571e70b91f1022a35cd3829ede13e9e6ae",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo/assets/hero.webp",
+      "sha256": "bb0b97ee3535fd58a7f1aa58d07a17ec358391481045c7e9d607791e57dc3501",
+      "focus": "Centre subject; retain tool/bracket/hinge/rail",
+      "role": "hero service illustration",
+      "selectors": [
+        ".hero-photo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "IMG_indoor",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo/Users/USER/.codex/generated_images/01a0793a-2eb8-7a22-a908-0aec95a59591/exec-7f4892fe-cb15-4d4e-baf4-de308ec32679.png",
+      "originalSha256": "346a1ee4199973a0b43b00367900ff3c37eb71975c918478e7e2901e7b90131f",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo/assets/indoor.webp",
+      "sha256": "92f8c9685910bc2ce54edb4ffb4351b2f3e5ffa2acace96455244c2c1772ec41",
+      "focus": "Centre subject; retain tool/bracket/hinge/rail",
+      "role": "indoor service illustration",
+      "selectors": [
+        "#indoor img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "IMG_outdoor",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo/Users/USER/.codex/generated_images/01a0793a-2eb8-7a22-a908-0aec95a59591/exec-f354edb6-19ed-48ce-b506-84ce251b37fd.png",
+      "originalSha256": "f2076f762710572603a8343d0f42745f13bf065f23d1ff0704bca9e8145b3aeb",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo/assets/outdoor.webp",
+      "sha256": "f61e6012347fdf913eb895ae76e04b931b5a476fe7d714645404af08e4a41c5c",
+      "focus": "Centre subject; retain tool/bracket/hinge/rail",
+      "role": "outdoor service illustration",
+      "selectors": [
+        "#outdoor img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "IMG_handrail",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo/Users/USER/.codex/generated_images/01a0793a-2eb8-7a22-a908-0aec95a59591/exec-db89eab0-7a19-4c81-8067-739c629d8514.png",
+      "originalSha256": "c34cd6e84df46c9a2edcd738eceb764ba95de85e5afbe473024c1b0c0c804f8b",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo/assets/handrail.webp",
+      "sha256": "cacc059a00164c4e14bfcabfe4a62dcf3cc0966cabcba545c8e159d4a51bd53c",
+      "focus": "Centre subject; retain tool/bracket/hinge/rail",
+      "role": "handrail service illustration",
+      "selectors": [
+        ".contact-image img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

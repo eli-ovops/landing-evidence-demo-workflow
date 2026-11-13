@@ -1,0 +1,12 @@
+{
+  "owner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "client": "Washy Washy",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv",
+    "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+    "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md"
+  ],
+  "createdAt": "2026-09-05T14:56:47.873Z",
+  "scheduler": false
+}

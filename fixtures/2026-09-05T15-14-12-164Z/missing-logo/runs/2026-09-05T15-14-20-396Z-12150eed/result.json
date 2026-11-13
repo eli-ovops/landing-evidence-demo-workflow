@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:14:22.302Z",
+  "owner": "fixture-owner",
+  "client": "missing-logo",
+  "activeVersion": "active",
+  "inputHash": "ef220c8561501cba0900f0a8dce8a51dae94e67e609caa671e529514ea227f60",
+  "mechanical": "UNKNOWN",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    }
+  ],
+  "findingSummary": {
+    "contract": [
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-logo",
+        "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-logo",
+        "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+        "level": "UNKNOWN"
+      }
+    ],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {
+      "I-logo": {
+        "codes": [
+          "MAPPING_MISSING"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      }
+    }
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "725e15f8c7475480071b8b0a5d273477b46511bb0e05b7d63b6c8c3665d00e85"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "10341eef708c6d5dfdf413a7e9b247f0426f6de21543f5db683a782f00f1462f"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "fd9af61bc16a52b256cb059e0a4a850c044fa9bd432f4355db02bb686f79d748"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "771457cff3232a7088d09b7f68d37b21883a6ae7359bf965a2d52e5b8a7fbf25"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "11851df9a682d94531292115caeca0b560809551cf47da06a1d3c5b257826a2a"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "aa740e83563d5d2a5e8c03e8931db31e4e4ee90641e6cf51535d291a96bd11f7"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c39b1259fd97a1421f2072ee93e6a16f761da27f6605e449f4d67f46dda659f9"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "deff7af6029e32a4cd33ac9d9e8f21305f808bc519e7f75e4387ebe060d99ac7"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

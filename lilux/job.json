@@ -1,0 +1,14 @@
+{
+  "owner": "01a07433-2cdb-7131-be97-e0d626c14758",
+  "client": "Lilux Developments",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+    "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+    "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md"
+  ],
+  "createdAt": "2026-09-05T14:56:47.872Z",
+  "scheduler": false,
+  "previousOwner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "ownershipTransfer": "User explicitly requested current thread take over execution"
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-08T05:31:52.701Z",
+  "owner": "/root",
+  "client": "Bridgend Antiques",
+  "activeVersion": "v1",
+  "inputHash": "1c5c7580d1716d44012f8a28bdfb9872f3bd943ea2d89bb9b3a4f3f63ddc6742",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "cce5d19f53cf9ee8fa18e2a7aa6908da1de734bfe235789cc31f585f267da5dc"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "0fad48f76c7ce536906a76f32dd644b231f718ec26dde496549c4c290f9dfad5"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "250688731f3e56714b1a31f6fb4d4b372523c4629cab8ab57972eb7946e362da"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "99f04cb4172f605efd16a4ce431df3db86f716d14535bae278f0527181f77409"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "e4fdc78c8d7c99ad66c6197ace11bee6522277cdf531a09502cf221677440e7c"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "653abbeda442d6bfc3a402007cc2fd2289baaf014d7db6d66f1ed4b156d1f777"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "f3d6f8f2dab901675caec6c9862b31cee132707cceb61ff85c4dd4056a7223d2"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "7d13ebe9a7b0068abd1357b58fc2e86fe4852154ba9f67c9559e6fb051ca9ad3"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "726d6a71ada0c7c85d4fba1beca8292d18438831ecfd09c4c31869efa41cfeae"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "6fbc2ed67f5915ccf8e8f0e39c6933d75fc9ae4d3b5ffb61479d1522fc9255b8"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "3d2fc8bd63d4b90d7a8f6e2d04506c787c5183e62353910710ddefd766ed3187"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "eab1d4223e5042373b96b453e4130045738a7230dc6f5b8528a08f80b90c13b9"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "c5c0f36ed9e5971a74c68c317a0cecbbddd7fa4df8e6547ff2858cc891033165"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "03ae140cd023620db3d883745291b9e5d46914fc56abc3f2c0b99965196db094"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "dbc2f2a9b4789abf6d79c2baa12194e6da15f27f08ce2136e168467675fe62bc"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "4314521172fea92b808a460852dfe32c550b636e481b7d9029401250872591f2"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "dd6f2711f831d58b23459bc9004315e252475f7d839195cf047227a45a5ab83b"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "32b0ac815cc28be4dd158b91a87460e89d571ed5e560d2e362f0489b616b4a00"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

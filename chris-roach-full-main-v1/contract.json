@@ -1,0 +1,1430 @@
+{
+  "schemaVersion": 1,
+  "client": "Chris Roach Limited",
+  "owner": "01a07f53-672a-7770-afcc-243bc0a789db",
+  "activeVersion": "full-local-main",
+  "currentEvidence": "Full replacement local coverage; external transactions and rights BLOCKED",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "sha256": "a1d17cd44e592c3e30d7f080da8810a535f605cc07fd4f6c04b6cb69e4986c33"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/ALL_ASSETS.json",
+      "sha256": "96cc86a6d7a88297c869591973e7fa9670ab5cdf3754cfacedcebe4d27ffa6a4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "B",
+      "url": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Which Trusted Traders",
+      "attribution": "Business-managed profile and My work gallery; reviews separately attributed to customers"
+    },
+    {
+      "id": "Soriginal",
+      "grade": "A",
+      "url": "local:original-guidance",
+      "retrievedDate": "2026-09-08",
+      "platform": "Local original copy",
+      "attribution": "Owner authored visitor guidance"
+    },
+    {
+      "id": "S3",
+      "grade": "B",
+      "url": "https://www.hamuch.com/1005434/chris-roach-limited",
+      "retrievedDate": "2026-09-08",
+      "platform": "HaMuch",
+      "attribution": "Existing merchant profile"
+    },
+    {
+      "id": "SA0",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/1095/profile_thumb_BBB5CAD0-969E-4AAE-8675-AF221B9CE618.jpeg",
+      "retrievedDate": "2026-09-08T05:03:28.509Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA1",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/119568/gallery_large_IMG_6999.jpeg",
+      "retrievedDate": "2026-09-08T05:03:29.476Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA2",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/119567/gallery_large_IMG_6997.jpeg",
+      "retrievedDate": "2026-09-08T05:03:29.811Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA3",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/114943/gallery_large_IMG_6303.jpeg",
+      "retrievedDate": "2026-09-08T05:03:30.184Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA10",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82696/gallery_large_82E19DD8-0413-44BA-9563-6CBC95447FD9.jpeg",
+      "retrievedDate": "2026-09-08T05:03:31.885Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA4",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/103356/gallery_large_IMG_4398.jpeg",
+      "retrievedDate": "2026-09-08T05:26:04.926Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business-managed My work gallery distinct from customer review uploads"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A0",
+      "path": "assets/photo-0.jpg",
+      "originalPath": "assets/photo-0.jpg",
+      "sha256": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+      "originalSha256": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+      "sourceId": "SA0",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A1",
+      "path": "assets/photo-1.jpg",
+      "originalPath": "assets/photo-1.jpg",
+      "sha256": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+      "originalSha256": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+      "sourceId": "SA1",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A2",
+      "path": "assets/photo-2.jpg",
+      "originalPath": "assets/photo-2.jpg",
+      "sha256": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+      "originalSha256": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+      "sourceId": "SA2",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A3",
+      "path": "assets/photo-3.jpg",
+      "originalPath": "assets/photo-3.jpg",
+      "sha256": "a9f2c781a510db0ea52eec9a171226b4b81a3bb920c21551fd69d1b5a0f1d4cd",
+      "originalSha256": "a9f2c781a510db0ea52eec9a171226b4b81a3bb920c21551fd69d1b5a0f1d4cd",
+      "sourceId": "SA3",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A10",
+      "path": "assets/photo-10.jpg",
+      "originalPath": "assets/photo-10.jpg",
+      "sha256": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+      "originalSha256": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+      "sourceId": "SA10",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A4",
+      "path": "assets/photo-4.jpg",
+      "originalPath": "assets/photo-4.jpg",
+      "sha256": "036a834251db5360904d997eded1f4bd71fe527e4ab5b6eef1987ece9987b770",
+      "originalSha256": "036a834251db5360904d997eded1f4bd71fe527e4ab5b6eef1987ece9987b770",
+      "sourceId": "SA4",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "Local concept only; final transfer UNKNOWN"
+    }
+  ],
+  "items": [
+    {
+      "id": "identity",
+      "page": "index.html",
+      "selector": ".brand",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": ".brand",
+      "text": "Chris Roach",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B1",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "history",
+      "page": "index.html",
+      "selector": "#established",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#established",
+      "text": "1986",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B2",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "about",
+      "page": "index.html",
+      "selector": "#about-chris",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#about-chris",
+      "text": "45 years",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B3",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "wallpaper",
+      "page": "index.html",
+      "selector": "#wallpaper",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#wallpaper",
+      "text": "Wallpapering",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B4",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "interiors",
+      "page": "index.html",
+      "selector": "#interiors",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#interiors",
+      "text": "Interior decorating",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B5",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "kitchens",
+      "page": "index.html",
+      "selector": "#kitchens",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#kitchens",
+      "text": "Hand-painted kitchens",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B6",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "preparation",
+      "page": "index.html",
+      "selector": "#care",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#care",
+      "text": "prepared",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B7",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "sanding",
+      "page": "index.html",
+      "selector": "#method",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#method",
+      "text": "95%",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B8",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "insurance",
+      "page": "index.html",
+      "selector": "#insurance",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#insurance",
+      "text": "public liability",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B9",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "updates",
+      "page": "index.html",
+      "selector": "#updates",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#updates",
+      "text": "Daily updates",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B10",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "rating",
+      "page": "index.html",
+      "selector": "#rating",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#rating",
+      "text": "101 customer reviews",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B11",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "review-bedroom",
+      "page": "index.html",
+      "selector": "#case-bedroom",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#case-bedroom",
+      "text": "Cracks",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B12",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "review-sitting",
+      "page": "index.html",
+      "selector": "#case-sitting",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#case-sitting",
+      "text": "plaster cracks",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B13",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "review-care",
+      "page": "index.html",
+      "selector": "#care-review",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#care-review",
+      "text": "Careful and considerate",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B14",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "areas",
+      "page": "index.html",
+      "selector": "#areas",
+      "sourceId": "S1",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#areas",
+      "text": "Chorleywood",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B15",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "guide",
+      "page": "index.html",
+      "selector": "#enquiry-guide",
+      "sourceId": "Soriginal",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#enquiry-guide",
+      "text": "Tell Chris",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B16",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image0",
+      "page": "index.html",
+      "selector": "#van",
+      "sourceId": "SA0",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#van",
+      "assetId": "A0",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B17",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image1",
+      "page": "index.html",
+      "selector": "#hero-photo",
+      "sourceId": "SA1",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#hero-photo",
+      "assetId": "A1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B18",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image2",
+      "page": "index.html",
+      "selector": "#wallpaper-photo",
+      "sourceId": "SA2",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#wallpaper-photo",
+      "assetId": "A2",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B19",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image3",
+      "page": "index.html",
+      "selector": "#care-photo",
+      "sourceId": "SA3",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#care-photo",
+      "assetId": "A3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B20",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image4",
+      "page": "index.html",
+      "selector": "#kitchen-photo",
+      "sourceId": "SA4",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#kitchen-photo",
+      "assetId": "A4",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B21",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image10",
+      "page": "index.html",
+      "selector": "#interior-photo",
+      "sourceId": "SA10",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#interior-photo",
+      "assetId": "A10",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B22",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-phone",
+      "page": "index.html",
+      "selector": "#phone",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#phone",
+      "text": "07889 397102",
+      "href": "tel:07889397102",
+      "promise": "07889 397102",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B23",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-landline",
+      "page": "index.html",
+      "selector": "#landline",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#landline",
+      "text": "01895 638174",
+      "href": "tel:01895638174",
+      "promise": "01895 638174",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B24",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-email",
+      "page": "index.html",
+      "selector": "#email",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#email",
+      "text": "[REDACTED_EMAIL]",
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "[REDACTED_EMAIL]",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B25",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-address",
+      "page": "index.html",
+      "selector": "#address",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#address",
+      "text": "50 The Ridgeway",
+      "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+      "promise": "50 The Ridgeway",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B26",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-original-map",
+      "page": "index.html",
+      "selector": "#original-map",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#original-map",
+      "text": "View the Which? location map",
+      "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+      "promise": "View the Which? location map",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B27",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-review-link",
+      "page": "index.html",
+      "selector": "#review-link",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#review-link",
+      "text": "Read all reviews",
+      "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+      "promise": "Read all reviews",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B28",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-write-review",
+      "page": "index.html",
+      "selector": "#write-review",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#write-review",
+      "text": "Leave a review",
+      "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+      "promise": "Leave a review",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B29",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-review-verification",
+      "page": "index.html",
+      "selector": "#review-verification",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#review-verification",
+      "text": "How reviews are checked",
+      "href": "https://trustedtraders.which.co.uk/faqs/",
+      "promise": "How reviews are checked",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B30",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-conduct",
+      "page": "index.html",
+      "selector": "#conduct",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#conduct",
+      "text": "Code of Conduct",
+      "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+      "promise": "Code of Conduct",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B31",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-review-terms",
+      "page": "index.html",
+      "selector": "#review-terms",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#review-terms",
+      "text": "Which? terms",
+      "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+      "promise": "Which? terms",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B32",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-hamuch-quote",
+      "page": "index.html",
+      "selector": "#hamuch-quote",
+      "sourceId": "S3",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#hamuch-quote",
+      "text": "Request a quote through HaMuch",
+      "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+      "promise": "Request a quote through HaMuch",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B33",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "action-more-work-link",
+      "page": "index.html",
+      "selector": "#more-work-link",
+      "sourceId": "Soriginal",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#more-work-link",
+      "text": "Explore more of Chris's work",
+      "href": "more-work.html",
+      "promise": "Explore more of Chris's work",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B34",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "sort-newest",
+      "page": "index.html",
+      "selector": "#sort-newest",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#sort-newest",
+      "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+      "promise": "Retained original external business workflow entry; outcome separately audited",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B35",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "sort-oldest",
+      "page": "index.html",
+      "selector": "#sort-oldest",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#sort-oldest",
+      "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+      "promise": "Retained original external business workflow entry; outcome separately audited",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B36",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "sort-highest",
+      "page": "index.html",
+      "selector": "#sort-highest",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#sort-highest",
+      "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+      "promise": "Retained original external business workflow entry; outcome separately audited",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B37",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "sort-lowest",
+      "page": "index.html",
+      "selector": "#sort-lowest",
+      "sourceId": "S1",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#sort-lowest",
+      "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+      "promise": "Retained original external business workflow entry; outcome separately audited",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B38",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#hero-cta"
+  },
+  "sections": [
+    "#hero",
+    "#work",
+    "#care",
+    "#testimonial",
+    "#contact"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "BLOCKED",
+  "researchCandidates": [],
+  "baseline": [
+    {
+      "id": "B1",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 1,
+      "excerpt": "{\"id\": \"identity\", \"page\": \"index.html\", \"selector\": \".brand\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \".brand\", \"text\": \"Chris Roach\"}",
+      "excerptSha256": "703fe2f8ecc7d28e80820515f302b6bb96121280012d4fdea46528689bedb683",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "identity"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B2",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 2,
+      "excerpt": "{\"id\": \"history\", \"page\": \"index.html\", \"selector\": \"#established\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#established\", \"text\": \"1986\"}",
+      "excerptSha256": "4ae880e478160324d1db44a6625f7b97f76aa2dda19d02361391991933b26578",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "history"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B3",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 3,
+      "excerpt": "{\"id\": \"about\", \"page\": \"index.html\", \"selector\": \"#about-chris\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#about-chris\", \"text\": \"45 years\"}",
+      "excerptSha256": "c2841d7a22238e358df8107522eb651f503abee3b24394ea20e9b7e724b5c31b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "about"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B4",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 4,
+      "excerpt": "{\"id\": \"wallpaper\", \"page\": \"index.html\", \"selector\": \"#wallpaper\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#wallpaper\", \"text\": \"Wallpapering\"}",
+      "excerptSha256": "231140073ad2d9df60b6fd8a57b58d25ddd58c91cc031538b7ab0cf770f92397",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "wallpaper"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B5",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 5,
+      "excerpt": "{\"id\": \"interiors\", \"page\": \"index.html\", \"selector\": \"#interiors\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#interiors\", \"text\": \"Interior decorating\"}",
+      "excerptSha256": "fecb48671cb6853cef384dc0838820605f0dbde5d45d76560fa24de5381e9a8c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "interiors"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B6",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 6,
+      "excerpt": "{\"id\": \"kitchens\", \"page\": \"index.html\", \"selector\": \"#kitchens\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#kitchens\", \"text\": \"Hand-painted kitchens\"}",
+      "excerptSha256": "2927834d8a3d38e6f32df71aa41714c11e1b8d30b0cbf3b3d2c7108b2019fb54",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "kitchens"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B7",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 7,
+      "excerpt": "{\"id\": \"preparation\", \"page\": \"index.html\", \"selector\": \"#care\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#care\", \"text\": \"prepared\"}",
+      "excerptSha256": "9fda94a2c6d8f67a4c596e346a2feb4e0b0840d7bdf1b18bf9571315c9900bbc",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "preparation"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B8",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 8,
+      "excerpt": "{\"id\": \"sanding\", \"page\": \"index.html\", \"selector\": \"#method\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#method\", \"text\": \"95%\"}",
+      "excerptSha256": "ae5835add995984c921af902405700f81bc12b489747991b60a6ceacb57ec3ec",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "sanding"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B9",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 9,
+      "excerpt": "{\"id\": \"insurance\", \"page\": \"index.html\", \"selector\": \"#insurance\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#insurance\", \"text\": \"public liability\"}",
+      "excerptSha256": "25f49eb9a078ee7c68628f16858b0a37570779fd74158d94bae604c70e60db33",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "insurance"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 10,
+      "excerpt": "{\"id\": \"updates\", \"page\": \"index.html\", \"selector\": \"#updates\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#updates\", \"text\": \"Daily updates\"}",
+      "excerptSha256": "abfc9ddb61b7454fa8f8e0adc672c84c98e2e28f839b8ac6dd20ac88bb5a27b7",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "updates"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 11,
+      "excerpt": "{\"id\": \"rating\", \"page\": \"index.html\", \"selector\": \"#rating\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#rating\", \"text\": \"101 customer reviews\"}",
+      "excerptSha256": "a57d7dfa0c40415f17d86a302b8f092483d6bbe5880fa653156dfe8f9b3ab5dd",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "rating"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 12,
+      "excerpt": "{\"id\": \"review-bedroom\", \"page\": \"index.html\", \"selector\": \"#case-bedroom\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#case-bedroom\", \"text\": \"Cracks\"}",
+      "excerptSha256": "7fb0873bc4c62b9fe5f47a96ce6dcb645eefbdb949127ba65831bec668a26ee4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "review-bedroom"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 13,
+      "excerpt": "{\"id\": \"review-sitting\", \"page\": \"index.html\", \"selector\": \"#case-sitting\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#case-sitting\", \"text\": \"plaster cracks\"}",
+      "excerptSha256": "68bf09150ae4442f8ef540d737890453ab14ea964ebff9a073c23807ec8b66c5",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "review-sitting"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B14",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 14,
+      "excerpt": "{\"id\": \"review-care\", \"page\": \"index.html\", \"selector\": \"#care-review\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#care-review\", \"text\": \"Careful and considerate\"}",
+      "excerptSha256": "305808d898bb65b917b068ac028273ff3a5c30c3e16ec4a0c54095d56d6d3e59",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "review-care"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B15",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 15,
+      "excerpt": "{\"id\": \"areas\", \"page\": \"index.html\", \"selector\": \"#areas\", \"sourceId\": \"S1\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#areas\", \"text\": \"Chorleywood\"}",
+      "excerptSha256": "14f027e8249bb8674ba91859adc4c0c2e12484c2463f4b48fcdf4256c526f42f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "areas"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B16",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 16,
+      "excerpt": "{\"id\": \"guide\", \"page\": \"index.html\", \"selector\": \"#enquiry-guide\", \"sourceId\": \"Soriginal\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#enquiry-guide\", \"text\": \"Tell Chris\"}",
+      "excerptSha256": "1b777a1c224521e1e4203eab5b41eebe1849edaf4764b7fb0d025456ec2c07e4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "guide"
+      ],
+      "sourceIds": [
+        "Soriginal"
+      ]
+    },
+    {
+      "id": "B17",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 17,
+      "excerpt": "{\"id\": \"image0\", \"page\": \"index.html\", \"selector\": \"#van\", \"sourceId\": \"SA0\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#van\", \"assetId\": \"A0\"}",
+      "excerptSha256": "1884a23b87e772e447ee022fb9e9f733b5d05c3ceeddb7c2ddd435b4a3a8ee7f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image0"
+      ],
+      "sourceIds": [
+        "SA0"
+      ]
+    },
+    {
+      "id": "B18",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 18,
+      "excerpt": "{\"id\": \"image1\", \"page\": \"index.html\", \"selector\": \"#hero-photo\", \"sourceId\": \"SA1\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#hero-photo\", \"assetId\": \"A1\"}",
+      "excerptSha256": "a2b77ebbc86dae8349c81c7fcf69c81a56ce3f92cd55481e11459f296e9a17a8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image1"
+      ],
+      "sourceIds": [
+        "SA1"
+      ]
+    },
+    {
+      "id": "B19",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 19,
+      "excerpt": "{\"id\": \"image2\", \"page\": \"index.html\", \"selector\": \"#wallpaper-photo\", \"sourceId\": \"SA2\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#wallpaper-photo\", \"assetId\": \"A2\"}",
+      "excerptSha256": "aab6ad834994c4e3a4d648c4584fcb6999838c4eef54299ffde04b857dcf8ab9",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image2"
+      ],
+      "sourceIds": [
+        "SA2"
+      ]
+    },
+    {
+      "id": "B20",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 20,
+      "excerpt": "{\"id\": \"image3\", \"page\": \"index.html\", \"selector\": \"#care-photo\", \"sourceId\": \"SA3\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#care-photo\", \"assetId\": \"A3\"}",
+      "excerptSha256": "71719903e9bd4479f6350333841f02150f064a9d07bb57bad7f7f3a5bc7903b6",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image3"
+      ],
+      "sourceIds": [
+        "SA3"
+      ]
+    },
+    {
+      "id": "B21",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 21,
+      "excerpt": "{\"id\": \"image4\", \"page\": \"index.html\", \"selector\": \"#kitchen-photo\", \"sourceId\": \"SA4\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#kitchen-photo\", \"assetId\": \"A4\"}",
+      "excerptSha256": "973e4b2d125bcaabc2339ea3c3459255d3635db4952b76bab0be33c45939194f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image4"
+      ],
+      "sourceIds": [
+        "SA4"
+      ]
+    },
+    {
+      "id": "B22",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 22,
+      "excerpt": "{\"id\": \"image10\", \"page\": \"index.html\", \"selector\": \"#interior-photo\", \"sourceId\": \"SA10\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#interior-photo\", \"assetId\": \"A10\"}",
+      "excerptSha256": "9a2261ac1cf472e6c71bf6d5a6b6d858e87819c7c6e643ae61d2e34f03e423b4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image10"
+      ],
+      "sourceIds": [
+        "SA10"
+      ]
+    },
+    {
+      "id": "B23",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 23,
+      "excerpt": "{\"id\": \"action-phone\", \"page\": \"index.html\", \"selector\": \"#phone\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#phone\", \"text\": \"07889 397102\", \"href\": \"tel:07889397102\", \"promise\": \"07889 397102\"}",
+      "excerptSha256": "614c847a2239b678623b368796e15ff981b315f190dbcaf6f7eecd98f7b0ad3a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-phone"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B24",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 24,
+      "excerpt": "{\"id\": \"action-landline\", \"page\": \"index.html\", \"selector\": \"#landline\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#landline\", \"text\": \"01895 638174\", \"href\": \"tel:01895638174\", \"promise\": \"01895 638174\"}",
+      "excerptSha256": "35dec151cf9805fdc71cef7a4037ebcaf3968820778b06620503b98779a35d71",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-landline"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B25",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 25,
+      "excerpt": "{\"id\": \"action-email\", \"page\": \"index.html\", \"selector\": \"#email\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#email\", \"text\": \"[REDACTED_EMAIL]\", \"href\": \"mailto:[REDACTED_EMAIL]\", \"promise\": \"[REDACTED_EMAIL]\"}",
+      "excerptSha256": "e95d56a7b9a26450b0884807ed54588e0bf945d95c826b3f1acd56999355c0e3",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-email"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B26",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 26,
+      "excerpt": "{\"id\": \"action-address\", \"page\": \"index.html\", \"selector\": \"#address\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#address\", \"text\": \"50 The Ridgeway\", \"href\": \"https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ\", \"promise\": \"50 The Ridgeway\"}",
+      "excerptSha256": "9ad652e5c2cb16f97cb91551102d1f71acc6576632a038a164288e3112c3f17d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-address"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B27",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 27,
+      "excerpt": "{\"id\": \"action-original-map\", \"page\": \"index.html\", \"selector\": \"#original-map\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#original-map\", \"text\": \"View the Which? location map\", \"href\": \"https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/\", \"promise\": \"View the Which? location map\"}",
+      "excerptSha256": "18ec24b71ce6497a14204393eae9e44dd0a93500ee6cced4be369e4961a212c8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-original-map"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B28",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 28,
+      "excerpt": "{\"id\": \"action-review-link\", \"page\": \"index.html\", \"selector\": \"#review-link\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#review-link\", \"text\": \"Read all reviews\", \"href\": \"https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count\", \"promise\": \"Read all reviews\"}",
+      "excerptSha256": "cff275ae9e6567ebb7cb42167f480ecc2eb4c6f6c754e200432bb6c2cd33270f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-review-link"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B29",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 29,
+      "excerpt": "{\"id\": \"action-write-review\", \"page\": \"index.html\", \"selector\": \"#write-review\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#write-review\", \"text\": \"Leave a review\", \"href\": \"https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/\", \"promise\": \"Leave a review\"}",
+      "excerptSha256": "d7c24766117d6132783f9a863c9e8c7577649098edfebc132a917a532b1acbe6",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-write-review"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B30",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 30,
+      "excerpt": "{\"id\": \"action-review-verification\", \"page\": \"index.html\", \"selector\": \"#review-verification\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#review-verification\", \"text\": \"How reviews are checked\", \"href\": \"https://trustedtraders.which.co.uk/faqs/\", \"promise\": \"How reviews are checked\"}",
+      "excerptSha256": "8f34325efd6be202ef07057eb2d35cbe24d85ace372fab799838208acfc4ef66",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-review-verification"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B31",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 31,
+      "excerpt": "{\"id\": \"action-conduct\", \"page\": \"index.html\", \"selector\": \"#conduct\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#conduct\", \"text\": \"Code of Conduct\", \"href\": \"https://trustedtraders.which.co.uk/about/code-of-conduct/\", \"promise\": \"Code of Conduct\"}",
+      "excerptSha256": "cf35c3ad47f392b6b759650f1ea76253289ffd4d763a16c34d0bfe33a11ce70c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-conduct"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B32",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 32,
+      "excerpt": "{\"id\": \"action-review-terms\", \"page\": \"index.html\", \"selector\": \"#review-terms\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#review-terms\", \"text\": \"Which? terms\", \"href\": \"https://trustedtraders.which.co.uk/about/terms-and-conditions/\", \"promise\": \"Which? terms\"}",
+      "excerptSha256": "22db2a98392428728b683b9765560a84cc5bb4051cda0cfafd14d836a97341c2",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-review-terms"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B33",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 33,
+      "excerpt": "{\"id\": \"action-hamuch-quote\", \"page\": \"index.html\", \"selector\": \"#hamuch-quote\", \"sourceId\": \"S3\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#hamuch-quote\", \"text\": \"Request a quote through HaMuch\", \"href\": \"https://www.hamuch.com/1005434/chris-roach-limited\", \"promise\": \"Request a quote through HaMuch\"}",
+      "excerptSha256": "9e0f1ee255d0b255776845f022f99163f6c1fea0a21c87d1115ca0282134fcb1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-hamuch-quote"
+      ],
+      "sourceIds": [
+        "S3"
+      ]
+    },
+    {
+      "id": "B34",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 34,
+      "excerpt": "{\"id\": \"action-more-work-link\", \"page\": \"index.html\", \"selector\": \"#more-work-link\", \"sourceId\": \"Soriginal\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#more-work-link\", \"text\": \"Explore more of Chris's work\", \"href\": \"more-work.html\", \"promise\": \"Explore more of Chris's work\"}",
+      "excerptSha256": "86c8e6e981a0119766476e5953faffc558968932d8b9b81fbdcccfbd8fabd2d7",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "action-more-work-link"
+      ],
+      "sourceIds": [
+        "Soriginal"
+      ]
+    },
+    {
+      "id": "B35",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 35,
+      "excerpt": "{\"id\": \"sort-newest\", \"page\": \"index.html\", \"selector\": \"#sort-newest\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#sort-newest\", \"href\": \"https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort\", \"promise\": \"Retained original external business workflow entry; outcome separately audited\"}",
+      "excerptSha256": "91b39bf9dfd39591c66729a70ef17bf57112ac0794e00ff73a775419826e523c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "sort-newest"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B36",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 36,
+      "excerpt": "{\"id\": \"sort-oldest\", \"page\": \"index.html\", \"selector\": \"#sort-oldest\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#sort-oldest\", \"href\": \"https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort\", \"promise\": \"Retained original external business workflow entry; outcome separately audited\"}",
+      "excerptSha256": "6d47943ef772059bdab8e875b1b2c466bd307723ee40fddcc02a0c244cf20b90",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "sort-oldest"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B37",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 37,
+      "excerpt": "{\"id\": \"sort-highest\", \"page\": \"index.html\", \"selector\": \"#sort-highest\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#sort-highest\", \"href\": \"https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort\", \"promise\": \"Retained original external business workflow entry; outcome separately audited\"}",
+      "excerptSha256": "a58e0eb7de974aaf4b64c99063a7dbe517115f9b137e35085e2e784b2a75fb55",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "sort-highest"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B38",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+      "line": 38,
+      "excerpt": "{\"id\": \"sort-lowest\", \"page\": \"index.html\", \"selector\": \"#sort-lowest\", \"sourceId\": \"S1\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#sort-lowest\", \"href\": \"https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort\", \"promise\": \"Retained original external business workflow entry; outcome separately audited\"}",
+      "excerptSha256": "1aab463a93c00ed549b3a22079d034c6996797034ee90142154f272f6e7dab27",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "sort-lowest"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    }
+  ]
+}

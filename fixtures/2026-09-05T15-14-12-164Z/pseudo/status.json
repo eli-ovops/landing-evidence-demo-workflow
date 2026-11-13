@@ -1,0 +1,33 @@
+{
+  "phase": "受阻",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "inputHash": "f25bc1d4df12e4f3069e37addde5fc3e7c924685c45992435c78ed669398db26",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-14-12-164Z/pseudo/runs/2026-09-05T15-15-34-148Z-0aefc7c1/result.json",
+  "resultSha256": "d570fd0414ad1126c11477d90a76656f342b852750c0db23a2d372c89ebc3485",
+  "mechanical": "UNKNOWN",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "#real",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "desktop",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "#real",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "mobile",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

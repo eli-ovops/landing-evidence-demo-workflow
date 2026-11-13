@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:50:19.548Z",
+  "owner": "fixture-owner",
+  "client": "mobile-only",
+  "activeVersion": "active",
+  "inputHash": "21aee9fe6a9f79284c140e20b75395054aac53b767826dd2e9fe4ed4657d1212",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-map",
+      "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-social",
+      "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HORIZONTAL_OVERFLOW",
+      "target": "document",
+      "detail": "700 > required viewport 390",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "007592c9cbf06fe2eb050527bb95372d0eb794e0c47d0399d7361d0194292feb"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "41587d7a82217d33b23da1d7ea773af32ed6ff6a34742ee76d3af2b1b88e288c"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "f0e8989f6088fafe3cce31734cd10267366b8023274320aa9d293a5818190163"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "1bbabc356297361a2fc8140735c55f0f5e7d926446442aaa51a[REDACTED_PHONE]c4"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "0fe433f3e343f69d4933c3d2e7af5dc374cf29c3d874b7d652ea166a62b7c2d2"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "d9403897cf827650362e62a654087a645ddb545a9ba5e2b42fe5d398a0fffcc6"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

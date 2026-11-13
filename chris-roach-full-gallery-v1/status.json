@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "01a07f53-672a-7770-afcc-243bc0a789db",
+  "activeVersion": "full-local-gallery",
+  "inputHash": "eea621945d489a3e592082de741d8cd2efb14979b2c4c9e8783e9edc63133082",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/chris-roach-full-gallery-v1/runs/2026-09-08T06-20-10-443Z-35f4308c/result.json",
+  "resultSha256": "c51ad7a5c6727bdbfda15f78a79a4dc51af3a84da7f3db3417c9f0c6d4f4ef38",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

@@ -1,0 +1,22 @@
+{
+  "phase": "受阻",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "inputHash": "cd7ac4b7bc25270c40062f365f8962497cf9c55d936ed2813955625bdeb81f32",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-26-43-360Z/hero-unknown/runs/2026-09-06T00-28-10-357Z-63e7a5f0/result.json",
+  "resultSha256": "115269800b2eab913d4cc9193acac32de2c2c88c9e26a070af0a03277e0ef728",
+  "mechanical": "UNKNOWN",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "HERO_MAPPING",
+      "target": "hero",
+      "detail": "缺已确认 hero / CTA selector；跳过 contract-dependent hero mapping，不伪造页面缺陷",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

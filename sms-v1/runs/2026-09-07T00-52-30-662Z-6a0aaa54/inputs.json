@@ -1,0 +1,61 @@
+{
+  "contractSha256": "3b35c61c800b8a7bfa25849919753ab42f9402a36befc89e26b4c4b37485b576",
+  "activeVersion": "v1",
+  "manifest": [
+    {
+      "path": "assets/barlow-700.ttf",
+      "sha256": "6098b66ce7d608dcea8c6a2eeacfdeeee5416e0e0c12a2318595d3dd8c5babef",
+      "bytes": 88644
+    },
+    {
+      "path": "assets/handrail.webp",
+      "sha256": "cacc059a00164c4e14bfcabfe4a62dcf3cc0966cabcba545c8e159d4a51bd53c",
+      "bytes": 119338
+    },
+    {
+      "path": "assets/hero.webp",
+      "sha256": "bb0b97ee3535fd58a7f1aa58d07a17ec358391481045c7e9d607791e57dc3501",
+      "bytes": 281570
+    },
+    {
+      "path": "assets/indoor.webp",
+      "sha256": "92f8c9685910bc2ce54edb4ffb4351b2f3e5ffa2acace96455244c2c1772ec41",
+      "bytes": 199294
+    },
+    {
+      "path": "assets/outdoor.webp",
+      "sha256": "f61e6012347fdf913eb895ae76e04b931b5a476fe7d714645404af08e4a41c5c",
+      "bytes": 141264
+    },
+    {
+      "path": "index.html",
+      "sha256": "f7783fd4a01a414bc0e84ace050980c69d106a68e8c7a5adec088291f05a2630",
+      "bytes": 6967
+    },
+    {
+      "path": "style.css",
+      "sha256": "24dd138f0b972cad7df1a1a5fb9e8e0897181e7b2bc181954574b59e58d6f523",
+      "bytes": 10948
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "sha256": "5a803d3c4550865b5afe405e498411c0bcefc7ca83ad61de7a74bc09f6c46088"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

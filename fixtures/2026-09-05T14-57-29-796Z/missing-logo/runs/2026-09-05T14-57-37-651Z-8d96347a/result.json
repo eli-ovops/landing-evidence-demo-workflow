@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:57:39.437Z",
+  "owner": "fixture-owner",
+  "client": "missing-logo",
+  "activeVersion": "active",
+  "inputHash": "9d888a7df4609e0749d08817488c67419c80878ef88a102ad5c96b6c51ee994b",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "be1acf1ac64c4a8adb7435ee50097811ee5d168099305ae034bb9c9437527053"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "10341eef708c6d5dfdf413a7e9b247f0426f6de21543f5db683a782f00f1462f"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "fd9af61bc16a52b256cb059e0a4a850c044fa9bd432f4355db02bb686f79d748"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "771457cff3232a7088d09b7f68d37b21883a6ae7359bf965a2d52e5b8a7fbf25"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "7ae149e9fdbbc9389b13ff164cd23a80b644163cdcb3a292588d14036680c9f8"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "aa740e83563d5d2a5e8c03e8931db31e4e4ee90641e6cf51535d291a96bd11f7"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c39b1259fd97a1421f2072ee93e6a16f761da27f6605e449f4d67f46dda659f9"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "98f11cc9d093d0d1e999b13bd0bfa66e059b6639e63d4ed5bd8d8c661adb2ca9"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

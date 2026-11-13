@@ -1,0 +1,9 @@
+{
+  "owner": "fixture-owner",
+  "client": "opacity",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-45-52-125Z/opacity/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-45-52-125Z/opacity/site/source.md"
+  ],
+  "scheduler": false
+}

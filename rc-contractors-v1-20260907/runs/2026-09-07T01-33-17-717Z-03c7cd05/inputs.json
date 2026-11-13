@@ -1,0 +1,91 @@
+{
+  "contractSha256": "ce0b488b3d1953bee1c0a7388f1aadff677d5ad8d953ca87316c102f9156cb76",
+  "activeVersion": "v1",
+  "manifest": [
+    {
+      "path": "assets/barlow-condensed-bold.ttf",
+      "sha256": "e476562ec9c1e16cf16475895b511f08c804f438cc9a9f80a44ea50a0eeb5b65",
+      "bytes": 109912
+    },
+    {
+      "path": "assets/barlow-regular.ttf",
+      "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea",
+      "bytes": 104068
+    },
+    {
+      "path": "assets/barlow-semibold.ttf",
+      "sha256": "86577cb32f8abe3673db53ca0f4221e6856751a4f6730c867e00f720f8bb1fc5",
+      "bytes": 108348
+    },
+    {
+      "path": "assets/hero.webp",
+      "sha256": "f370e3f890683794fd15c80085b4a6228471392cedff2a6fcd0f5525c1047a0f",
+      "bytes": 140736
+    },
+    {
+      "path": "assets/masonry.webp",
+      "sha256": "48496da893f550a4f44119f6bbe363c2297bec686f709827604668b5bf827407",
+      "bytes": 84084
+    },
+    {
+      "path": "assets/originals/hero.png",
+      "sha256": "e77b7d70f29dc64728a627f02dc536996d0f6a844b9c2e38533b8656e801f599",
+      "bytes": 2816032
+    },
+    {
+      "path": "assets/originals/masonry.png",
+      "sha256": "2c03fae07cff26a0849040803d48a910b314d0ca66a06fc21c2a3f2f8e01f187",
+      "bytes": 2610797
+    },
+    {
+      "path": "assets/originals/paving.png",
+      "sha256": "ba35bd0a3e7f071c42b8627966747f353b66a81c82bdb408a54a0ebe21e042fa",
+      "bytes": 3065619
+    },
+    {
+      "path": "assets/originals/repair.png",
+      "sha256": "f4bee191351abd6a673a000f42a8d4e2d92346eb5a86331e035707acf7209261",
+      "bytes": 2221348
+    },
+    {
+      "path": "assets/paving.webp",
+      "sha256": "4adb0b65e2cb3cb38a68356a9d08452aea1ef9c21a5248fb951e29f006756d56",
+      "bytes": 96966
+    },
+    {
+      "path": "assets/repair.webp",
+      "sha256": "fd328ebe688d6dbc7def2e84ffde40c377851008bed7b2d23dc8cab1b46d85b1",
+      "bytes": 43240
+    },
+    {
+      "path": "index.html",
+      "sha256": "f1e3af4859f2319ae37e176108b205a7ce3661829e8015aed7dc7ce042edbd98",
+      "bytes": 8238
+    },
+    {
+      "path": "styles.css",
+      "sha256": "cbf19c83ded68f577bf4aed8daf020918464602eda6bec1383f1c209aada10d9",
+      "bytes": 15849
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "sha256": "80b1cdfd2aaf5fc74d893476b7e739c7d0c6a3f63342e3dd567f9d6498e9cb33"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

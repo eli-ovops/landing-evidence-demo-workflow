@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:14:12.604Z",
+  "owner": "fixture-owner",
+  "client": "bad-background",
+  "activeVersion": "active",
+  "inputHash": "bd74097b4a8bb26ea212db260cbb18bf987dac070c75991e922e55b626854684",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "desktop",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "mobile",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "BROKEN_IMAGE",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+        "detail": "http://demo.local/broken.svg",
+        "level": "FAIL"
+      },
+      {
+        "code": "BROKEN_IMAGE",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+        "detail": "http://demo.local/broken.svg",
+        "level": "FAIL"
+      }
+    ],
+    "external": [
+      {
+        "code": "BACKGROUND_PAINT_REVIEW",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+        "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "BACKGROUND_PAINT_REVIEW",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+        "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+        "level": "UNKNOWN"
+      }
+    ],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "224f4d5b459d28866b315b8c8256bd66b428497e1d0a894b4efce160e0007acc"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "d6e710cad4bf2f7463a99bad1df5733dbb0b13f8c0023f1b393978c16a9a1720"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "74168e2ad2ea107e11cbc03b4f44ee304ac8086715b1eb394fd982f04cbdeea6"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "a67b5313776968a578a1b1b807fda9602b6d9e63ba1fd90a4e8db53a400f9cdc"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "7a01f882459bba1be8eea2c37705561a4f50525f00175430c37eaf404a4aa297"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "e6ce4e055f91566bd016391839a877a21a04d9628f47a99f8654b043e2e6bb30"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

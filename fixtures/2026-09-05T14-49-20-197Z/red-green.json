@@ -1,0 +1,146 @@
+[
+  {
+    "name": "missing-logo",
+    "expected": "MAPPING_MISSING",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-logo/runs/2026-09-05T14-49-28-976Z-f13eaeb7/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-logo/runs/2026-09-05T14-49-30-858Z-a64b4c44/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "missing-real",
+    "expected": "MAPPING_MISSING",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-real/runs/2026-09-05T14-49-32-826Z-e5dbd296/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-real/runs/2026-09-05T14-49-34-687Z-df0e2eff/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "missing-map",
+    "expected": "MAPPING_MISSING",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-map/runs/2026-09-05T14-49-36-681Z-27913df1/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-map/runs/2026-09-05T14-49-38-635Z-e64e1554/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "missing-social",
+    "expected": "MAPPING_MISSING",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-social/runs/2026-09-05T14-49-40-615Z-30c2ff19/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-social/runs/2026-09-05T14-49-42-538Z-be7a2ed2/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "missing-cta",
+    "expected": "MAPPING_MISSING",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-cta/runs/2026-09-05T14-49-44-544Z-b17d6075/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-cta/runs/2026-09-05T14-49-46-392Z-f9e53690/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "broken-image",
+    "expected": "BROKEN_IMAGE",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/broken-image/runs/2026-09-05T14-49-48-401Z-ef98e45a/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/broken-image/runs/2026-09-05T14-49-50-388Z-7b97d15c/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "chosen-srcset",
+    "expected": "BROKEN_IMAGE",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/chosen-srcset/runs/2026-09-05T14-49-52-462Z-27457edd/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/chosen-srcset/runs/2026-09-05T14-49-54-487Z-1ba5df25/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "bad-background",
+    "expected": "BROKEN_IMAGE",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/bad-background/runs/2026-09-05T14-49-56-475Z-58d7078b/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/bad-background/runs/2026-09-05T14-49-58-624Z-ee948f3f/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "opacity",
+    "expected": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/opacity/runs/2026-09-05T14-50-00-625Z-f159fc6d/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/opacity/runs/2026-09-05T14-50-02-628Z-918b270e/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "zero-size",
+    "expected": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/zero-size/runs/2026-09-05T14-50-04-656Z-a5608b80/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/zero-size/runs/2026-09-05T14-50-06-660Z-c5390372/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "occluded",
+    "expected": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/occluded/runs/2026-09-05T14-50-08-621Z-a6aa5b73/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/occluded/runs/2026-09-05T14-50-10-622Z-65cf4d7f/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "hidden-text",
+    "expected": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/hidden-text/runs/2026-09-05T14-50-12-613Z-2b10ac8d/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/hidden-text/runs/2026-09-05T14-50-14-625Z-a0b90b73/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "mobile-only",
+    "expected": "HORIZONTAL_OVERFLOW",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/mobile-only/runs/2026-09-05T14-50-17-416Z-a52e7b2a/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/mobile-only/runs/2026-09-05T14-50-19-549Z-86c0bd31/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "hero",
+    "expected": "HERO_UNBOUNDED",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/hero/runs/2026-09-05T14-50-21-524Z-faf4a72e/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/hero/runs/2026-09-05T14-50-23-743Z-8078442f/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "fake-form",
+    "expected": "FORM_OR_DATA_ENTRY",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/fake-form/runs/2026-09-05T14-50-25-729Z-f76f410e/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/fake-form/runs/2026-09-05T14-50-27-707Z-210352ea/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "internal",
+    "expected": "INTERNAL_OR_PLACEHOLDER_TEXT",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/internal/runs/2026-09-05T14-50-29-671Z-945b3d60/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/internal/runs/2026-09-05T14-50-31-693Z-cd279ceb/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "local-href",
+    "expected": "LOCAL_LINK_MISSING_OR_UNSUPPORTED",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/local-href/runs/2026-09-05T14-50-33-657Z-9329209d/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/local-href/runs/2026-09-05T14-50-35-678Z-33bb79bb/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  },
+  {
+    "name": "json-dependency",
+    "expected": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+    "red": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/json-dependency/runs/2026-09-05T14-50-37-677Z-350eac83/result.json",
+    "green": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/json-dependency/runs/2026-09-05T14-50-39-829Z-d6914275/result.json",
+    "redStatus": "FAIL",
+    "greenStatus": "PASS"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "contractSha256": "eeced373201e7174799362b46047479f2aa7152a4f50e19a3f21b49fd26d804d",
+  "activeVersion": "local-demo-v1-upgrade",
+  "manifest": [
+    {
+      "path": "assets/photo-0.jpg",
+      "sha256": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+      "bytes": 46927
+    },
+    {
+      "path": "assets/photo-1.jpg",
+      "sha256": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+      "bytes": 205301
+    },
+    {
+      "path": "assets/photo-10.jpg",
+      "sha256": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+      "bytes": 75665
+    },
+    {
+      "path": "assets/photo-2.jpg",
+      "sha256": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+      "bytes": 87264
+    },
+    {
+      "path": "assets/photo-3.jpg",
+      "sha256": "a9f2c781a510db0ea52eec9a171226b4b81a3bb920c21551fd69d1b5a0f1d4cd",
+      "bytes": 142689
+    },
+    {
+      "path": "assets/photo-4.jpg",
+      "sha256": "036a834251db5360904d997eded1f4bd71fe527e4ab5b6eef1987ece9987b770",
+      "bytes": 82020
+    },
+    {
+      "path": "assets/photo-6.jpg",
+      "sha256": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+      "bytes": 138934
+    },
+    {
+      "path": "assets/photo-7.jpg",
+      "sha256": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+      "bytes": 185657
+    },
+    {
+      "path": "gallery.js",
+      "sha256": "e7a79c230d803d567ee2c3e4cfcab6d8884efb8655d5cb4b8313ff6253b049b1",
+      "bytes": 1027
+    },
+    {
+      "path": "index.html",
+      "sha256": "20ca635b3bee68e2fadf2d8358bb791753269ccfc57f38a2efc71697c9a26079",
+      "bytes": 8974
+    },
+    {
+      "path": "styles.css",
+      "sha256": "8eeec549e8e813b8e9d34f310405a83d775dc07b29578429b671146ca1f49f61",
+      "bytes": 12632
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/upgrade/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "06280091756bc967b094ca2b7f3509363be3329a5cf1b429d0ac4efd6e83bdcb"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/upgrade/ALL_ASSETS.json",
+      "sha256": "deceb11acc23222e31b82f688afb288926f86e8e622d9c0525102b381749e567"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/upgrade/source/which.json",
+      "sha256": "9d8c1bf3bc9b5e270597e3e6d308dfa512c80a19c98141d5b532ccb5de9458ae"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

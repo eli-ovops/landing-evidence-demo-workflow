@@ -1,0 +1,189 @@
+{
+  "contractSha256": "8f28a113015b72f3403b6108068776a3f2406a68705bf3008d07fb0d8c882801",
+  "activeVersion": "demo_20260902/index.html",
+  "manifest": [
+    {
+      "path": "assets/official-aggie.webp",
+      "sha256": "fc3baaf7998125630660ffbc51e0b5fab751e30aac9f371030f58280f6b40ae1",
+      "bytes": 6918
+    },
+    {
+      "path": "assets/official-bathtub-dog.jpeg",
+      "sha256": "3dbc75489b44a371e58015b3fc5b5f6be3d07f95c34699f664755c6e4b910d43",
+      "bytes": 134825
+    },
+    {
+      "path": "assets/official-clifford.webp",
+      "sha256": "6e7126785d792e74291a2c0c255cda939c8326049b89e14f03e2e1573b60b957",
+      "bytes": 10608
+    },
+    {
+      "path": "assets/official-dog-bath.jpeg",
+      "sha256": "a12b20eb6b52d3cf497d1f7376850423ef0b23110eeae7ed2ef4546889e53e6e",
+      "bytes": 339730
+    },
+    {
+      "path": "assets/official-frankie.webp",
+      "sha256": "c0a3dea63b7217975941ff2cbeea6ebc559afd49d4e0df7ccbf338e096d0038c",
+      "bytes": 8326
+    },
+    {
+      "path": "assets/official-group-dogs.jpeg",
+      "sha256": "2a941c51ae4ec5649a1b38dcdb8902cbdf6f5b08f7b3a90283f390da71f9c05c",
+      "bytes": 383499
+    },
+    {
+      "path": "assets/official-towel-dog.jpg",
+      "sha256": "207cbf31e45caa201bbbfffcbd98fe9726d40e78b5db7294ca99815d1df35533",
+      "bytes": 462554
+    },
+    {
+      "path": "assets/puggles-logo.png",
+      "sha256": "2dd648d233d3f8239fa994166252f081a38679052ec16d4e9f199322fb088d93",
+      "bytes": 71875
+    },
+    {
+      "path": "depth.css",
+      "sha256": "9beed7fa192b4847d1aa251a40f88c10d5bf4d707854f728f74cc139b2c373d6",
+      "bytes": 2643
+    },
+    {
+      "path": "desktop-full-9.png",
+      "sha256": "9ecf6c74ffd79d1760b014053738b7372fdc1511f749670715d43806f9decbdd",
+      "bytes": 2842648
+    },
+    {
+      "path": "desktop-refresh.png",
+      "sha256": "214283e670b19c3e1fa1df99ba41a3abeffca08f7185639924cf47a0132a7126",
+      "bytes": 1127211
+    },
+    {
+      "path": "desktop-supplement.png",
+      "sha256": "4e0b6f225f026accc408f16af558651a292fac24473c34a26f8be505489f4b22",
+      "bytes": 1424851
+    },
+    {
+      "path": "desktop-v2.png",
+      "sha256": "517b2663746d0b67160e85b4bdd72fe6a9af8cf7707ad93e18df00b110928609",
+      "bytes": 135393
+    },
+    {
+      "path": "email-preview-desktop-final.png",
+      "sha256": "24fad5341a6870a702b697bd831d4b124246b65e193a055d9257409829824ed5",
+      "bytes": 1122284
+    },
+    {
+      "path": "hero-refresh.css",
+      "sha256": "5b04704bf81044075ca3ec37a8662e5c5c71460f76f3c24623533654be06f419",
+      "bytes": 9677
+    },
+    {
+      "path": "index.html",
+      "sha256": "934fe17d35c871660824e346165ca2c20d7d5cbe7fd4533b537faef06f586443",
+      "bytes": 11812
+    },
+    {
+      "path": "mobile-9.png",
+      "sha256": "c0c4abbf037f946fcf1b72d1f570a0bed5b2d8a56854d7bd322143d76d2866ff",
+      "bytes": 302353
+    },
+    {
+      "path": "mobile-full-9.png",
+      "sha256": "a40d29cdf2d561cec635e429746908ac49f057d42a29d512cc6809cdaadb6926",
+      "bytes": 1185714
+    },
+    {
+      "path": "mobile-full-9b.png",
+      "sha256": "4cb833818fcb8f6340bf5bdeda2da5642711a98f28a726a116bdd05b89f254a9",
+      "bytes": 1191707
+    },
+    {
+      "path": "mobile-refresh-2.png",
+      "sha256": "e034808ee67ab2f2ebc597d705649e8d4b0d1be19f2afdab1afb3e779996ac7d",
+      "bytes": 303167
+    },
+    {
+      "path": "mobile-refresh.png",
+      "sha256": "a89ac6886dff1d10fb475a8d4b5bb3de3e3c28f9fb2f50703fe6027bee8b3139",
+      "bytes": 304143
+    },
+    {
+      "path": "mobile-supplement.png",
+      "sha256": "48c4e8e4ca6fe4690a4608259e67b20e9260a6fdfceea34dae0d6b4b8f6eeef6",
+      "bytes": 523930
+    },
+    {
+      "path": "mobile-v2.png",
+      "sha256": "43360a55b937562cd781f4cc40c588d8ed478623fe45b26a11a25e5f1211a9b2",
+      "bytes": 71172
+    },
+    {
+      "path": "mobile.css",
+      "sha256": "c4ae7288053566182ba0a3193ef06e55731bdb89f571822b334c9ac6edcccc7c",
+      "bytes": 101
+    },
+    {
+      "path": "motion-fix.css",
+      "sha256": "e512ff975147233203d5ca02689657ca9bb26fc82983f5d44e3c5717b9e7c939",
+      "bytes": 355
+    },
+    {
+      "path": "motion.css",
+      "sha256": "68c3032a71b8456001ac495d17b87acf7ea39393ca7075617ebaa92b4b1e3ae7",
+      "bytes": 1801
+    },
+    {
+      "path": "price-mobile.css",
+      "sha256": "47f923f2ece3d642eccb2c4248f72da2e882f0f898c235bd8f02029cca072c36",
+      "bytes": 240
+    },
+    {
+      "path": "price.css",
+      "sha256": "05fbb63d4b7fbba593ddcbbb1e54e032ab0c603a1a128a7ddc6f4e715755d1ed",
+      "bytes": 1504
+    },
+    {
+      "path": "styles.css",
+      "sha256": "40c94d9ab4b047c195478d1b5b21321f35ff124d3fa401e5ed30f1cbf67bf7a9",
+      "bytes": 5077
+    },
+    {
+      "path": "supplement.css",
+      "sha256": "6ce11868893b9ff5eab412494d58361ed0c0e5977ef9289d92fa182a33c7efd5",
+      "bytes": 996
+    },
+    {
+      "path": "v2.css",
+      "sha256": "8cf2d669fae9e7674dc32344f2f8f0e6b972ff2f4a57a688fa7f201473cea86f",
+      "bytes": 9736
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/docs/ASSET_INVENTORY.csv",
+      "sha256": "3e320036c4183dc1d22ba4a997cdc7ff26540c75feaf73d52180448f5f595399"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "ce20837811edbc1cdb0ff473a6c971daddeb66ec1511a153f18a5aeaa3f2fad6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/docs/PRE_CODE_DECISION.md",
+      "sha256": "d36271b6229488083de046d7a3960699ab9f1b1357fa554d8b521045603526c2"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "1280ff3c02921df319cb6d96cbd34adbef5be30fae2ba8587175c021c88c64ca"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "eabad75dbcb79aa6f6969c3f1408aada0b3d9b956c78a6daa965e41c5f748178"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "19108950b4ef863a7d782ac693c23ddfe0e44778cba706ccc0d499d6d8c143d8"
+    }
+  ]
+}

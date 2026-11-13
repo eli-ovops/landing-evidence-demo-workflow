@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T00:29:13.861Z",
+  "owner": "fixture-owner",
+  "client": "chosen-srcset",
+  "activeVersion": "active",
+  "inputHash": "c741a4eaa3f1a6002a44135df2709d15095b0d6278c2e9d5cc8fc6c6f9a69447",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "#real",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "#real",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "BROKEN_IMAGE",
+        "target": "#real",
+        "detail": "http://demo.local/broken.svg",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "BROKEN_IMAGE",
+        "target": "#real",
+        "detail": "http://demo.local/broken.svg",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "e7183c0f1762b371ea447e1d921cf853d69bee2c54eaa7194b45c0ebeca043d5"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "5a15665ec4fb2e9e38dc4806a1dfa698fea292fda6afc0503621ad860257e381"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "2eb5cf6b36a19bff0700271516a966c861b1063dcc28612898d4ae2ebd6acb3b"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "8cd997da5d2e4b41eee8b5832c8a48b3c7575c7eb85cc57c9625de4853d12402"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "e45dfc2710eb59f3e6ac940d650fce586b98848e44d082e93b59d79bbb9f1a8f"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "2f11d3a97a58fa156b2924e489ee071db852967643dd36396d2834f19d85bc12"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "a51869ab8de7662dd394ffbfe04e3c0ebec87e3ef01683b61ed4a9d7b4f79e74"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "8f8a416e9baae0270d62a56a5bdaed8403beb4b259acd35869dca50ad4710489"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

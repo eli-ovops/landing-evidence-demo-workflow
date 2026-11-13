@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "01a07f53-70e7-7fb2-bb6b-5c8df904ccf6",
+  "activeVersion": "local-v1",
+  "inputHash": "ad3b53e707f39cd141c4d09518a4506a086f72d4951c2dabcf6d79c2f3b5876e",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/framed-focus-v1-01a07f53/runs/2026-09-08T06-53-01-184Z-c4b9ac3b/result.json",
+  "resultSha256": "91b2947352f20f1e6912899896c3551d727f3e952832e4074f35d1cedfaae6b3",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

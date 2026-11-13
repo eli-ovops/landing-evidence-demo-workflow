@@ -1,0 +1,48 @@
+{
+  "inputHash": "c0c02f5438097d25130ab97137260b892342f39c2703160200ca1dfc76158346",
+  "assets": [
+    {
+      "assetId": "A-logo",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/missing-map/site/logo.svg",
+      "originalSha256": "19cc18d8896628809f5d200a132311e3971a462f0cffac3d44c7e8c5d5fd7a65",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/missing-map/site/logo.svg",
+      "sha256": "19cc18d8896628809f5d200a132311e3971a462f0cffac3d44c7e8c5d5fd7a65",
+      "focus": "center subject",
+      "role": "brand",
+      "selectors": [
+        "#logo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-real",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/missing-map/site/real.svg",
+      "originalSha256": "076d2b184f650b044c7f82021e15fbb0357885dddec561a4e386d39f4930ef2a",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/missing-map/site/real.svg",
+      "sha256": "076d2b184f650b044c7f82021e15fbb0357885dddec561a4e386d39f4930ef2a",
+      "focus": "center subject",
+      "role": "service",
+      "selectors": [
+        "#real"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

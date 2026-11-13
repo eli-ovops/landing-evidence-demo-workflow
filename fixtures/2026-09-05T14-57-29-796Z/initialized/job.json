@@ -1,0 +1,10 @@
+{
+  "owner": "fixture-owner",
+  "client": "init baseline",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-57-29-796Z/init-input/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-57-29-796Z/init-input/site/asset.csv"
+  ],
+  "createdAt": "2026-09-05T14:58:54.666Z",
+  "scheduler": false
+}

@@ -1,0 +1,31 @@
+{
+  "phase": "受阻",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "inputHash": "155abc468bc03838348eead7011567b4a80a9c2c1bb28433d9fd44541bf4aa64",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-57-29-796Z/pseudo/runs/2026-09-05T14-58-51-291Z-dd7dbe85/result.json",
+  "resultSha256": "77dea8a05f5f19a21c0a3d73a6461118df76b74e8aca3d4e24a844868a94d2f9",
+  "mechanical": "UNKNOWN",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "#real",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop"
+    },
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "#real",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

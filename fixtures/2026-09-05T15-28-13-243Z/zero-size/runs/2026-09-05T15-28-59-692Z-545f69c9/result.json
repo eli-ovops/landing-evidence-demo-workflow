@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:29:01.688Z",
+  "owner": "fixture-owner",
+  "client": "zero-size",
+  "activeVersion": "active",
+  "inputHash": "c3949b6436ab7b29e4f96d438d5b5c524f9577e7ba6b93be5fdff780ec65fd2f",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "5bb3dc5377036c5ee581f19f7be635b719c7f84dc762517b0d9fefd1d43fafd2"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "7a39787d0aa72a949c939ee959c0f93d62361de6f34e3c6827f67f4947a77a99"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "41587d7a82217d33b23da1d7ea773af32ed6ff6a34742ee76d3af2b1b88e288c"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "20f4eeb5e0ac2a8669e9262f459bd5a71c7c2f47bee1fd3a26b03e82b0526200"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "ccf758b81e33091b26c5ed4e474d0779d18f1bd07b9868024eb419bbb95e1ee8"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "a19a7278a02bea4e58b1bc316b09bf10636f15b6d9d43c5daed29e677c26f5df"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T00:28:54.895Z",
+  "owner": "fixture-owner",
+  "client": "missing-real",
+  "activeVersion": "active",
+  "inputHash": "fe7fea2545d0d713aa62b83f3588be454fcaf8f1681b35781bc1121e10bb4628",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "70d235a78c391b1327f5536fbedd66ffa1ceba288a33e4b3438ab1d3579b15d3"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "048c376f62a71113731e6435385d03e8fe2033c50f8aa8c2db97cb00271ee8fe"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "1d5a6a10bc424da536d4c5bf55341bd46fb9b92dafb822b1b8efeca70d523dc7"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "10c80d7deaed4107d5043a9945e47882e214dc9bcbc697a2341e37d457895206"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "7644064fb8733e013182357d4f8c90e6e69e272eb2242892d81270a1ab0e8e73"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "08be84a2de36c19145460ce6f88c01c5ee70aa0a797129d353a9951c2cad249b"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "4a75fb1cf1b1adf32492787e48cdeb7465918136ea5cb964819d32ec696dc605"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "8ad1f95fa1ab28b1d4e902e49c2390fe440534f0552f8e0824acd4379e4ca72d"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

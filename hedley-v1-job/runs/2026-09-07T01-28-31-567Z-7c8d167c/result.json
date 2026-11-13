@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-07T01:28:38.464Z",
+  "owner": "01a0793a-35b0-74a3-8fc3-38cb7f837ac3",
+  "client": "G Hedley Landscape Gardener and Builder",
+  "activeVersion": "v1",
+  "inputHash": "0e2f21c610e28ce2feb9916c375d417c77e7d1f6c81c2b8ef9edc5c6975a85e6",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "c80202264be29cb57c48615e8b2909c8eafc204c6ba6423cf2b17e231f582907"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "ce921b1bc5e4f9edd25946261c393d4d8c9ab5ff2978a886332d37872528dbd4"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "e6fce3d182adcb4443e9b2fd12216e5a9d01735e617b2482311d7c36fc42d4f2"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "cff78e573531ac37d91b471c89088a0a6513f72e188b44bade49bf0dfa09a1de"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "aac96e07f88feacecc8e9c9fbe0fbeb89dc95b15845c045bfb6b64d700cebb1b"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "d0e34f52352d9c7b25477de7cfddc5115368994a22350088e2f89259d608912f"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "45eda3c5df55bba2b58d7aba5a9af6e7602903d3aaf6d9ac60fe81447112f34d"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "64671f44675e0b29dd0789acd868fc9cfd0800f35a018e838a2ff216091ce598"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "ac1eb399cd751161bacbfb209749b2e73d158d5d4153155f1b3ccd5ca2d15af8"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "40142708748dd746f83669f66143943f30844fe0999094abe472b118b336e0ee"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "0aa51d0f0d7df654f01f397e2387c96cb90fc0d8d02262b278aa3188ac566e13"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "7f477972e8932ee30edd46aa4026fe7f0633f40a6beb4112a09bf3fbacccf0aa"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "b0edd3f7f50a9929644fc0f2e66d5f5bd7c41eb99bff04bb080c7aa632698fef"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "62ff7d46bffe67e95cf6cb607e1a765e1a78d4649fd82d04cbe6f65f283996a4"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "231cf70efe27e94b9aad6c65dedca709452d4631b1b6be6fc548d49f6215c85e"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "44bed703e597158984d472abe6ec3b50d2986416658a9ecf624707574098ecaa"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

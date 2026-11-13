@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T00:41:52.375Z",
+  "owner": "fixture-owner",
+  "client": "pseudo",
+  "activeVersion": "active",
+  "inputHash": "aa58522b81a00d52de62ed05647f1f97c0ac07450298e768e3e4bdd4e074ac23",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "967f0f16536892c82a9cb44acae82d6de423a033ec02a05922e50a5f528d443c"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "b5a7f3b4a8869fab85076db534effe91ee605a8d7a347cb24b44a8c66ce95305"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "7f4af71ccc851c8141a100c1f26bee7049c2d5b673f594011f783e899ac1b679"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "72932c85ee10a52f7a9c05e9b04219dade052706c7799c37247de964770c7895"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "0fc1506996d8cf093a9e78a6464ea6ea5deae032d66c1cb16f5a3f5f30d2b7cc"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "c5bfe0e678326b4d4a20c3cb51ba9d65ca8dfdf8e3e2fd3b25c7ccbb018da7e7"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "aa4eff7ab256b402e9c627e14af1fb49c31d6d1eb3be7ef0f120b9026657579c"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "380ab088422ae2f6ef68de7898efbccbe46fb1129ef54d62bfc216b9261c770d"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

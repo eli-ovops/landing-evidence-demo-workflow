@@ -1,0 +1,3091 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "R01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 17,
+                "width": 156.5625,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Chris Roach LIMITED · PAINTING & DECORATING",
+              "actualHref": "#main",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 17,
+              "width": 156.5625,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Chris Roach LIMITED · PAINTING & DECORATING",
+            "actualHref": "#main",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#areas",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801,
+                "y": 624.234375,
+                "width": 400,
+                "height": 53.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Ruislip · Eastcote · Pinner · Northwood · Rickmansworth · The Chalfonts · Gerrards Cross · Chorleywood",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#areas",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 624.234375,
+              "width": 400,
+              "height": 53.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Ruislip · Eastcote · Pinner · Northwood · Rickmansworth · The Chalfonts · Gerrards Cross · Chorleywood",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interiors",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 577.25,
+                "y": 76.328125,
+                "width": 370.375,
+                "height": 771.203125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ A room, renewed. Interior decorating Walls, ceilings and woodwork. From refreshing one room to decorating more of your home. Discuss your room ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#interiors",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 577.25,
+              "y": 76.328125,
+              "width": 370.375,
+              "height": 771.203125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ A room, renewed. Interior decorating Walls, ceilings and woodwork. From refreshing one room to decorating more of your home. Discuss your room ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#wallpaper",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 61.328125,
+                "width": 450,
+                "height": 801.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ Pattern with presence. Wallpapering A feature wall or a room wrapped in pattern. Wallpapering that gives your space its own character. Discuss your wallpapering ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#wallpaper",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 61.328125,
+              "width": 450,
+              "height": 801.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ Pattern with presence. Wallpapering A feature wall or a room wrapped in pattern. Wallpapering that gives your space its own character. Discuss your wallpapering ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchens",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 989.625,
+                "y": 85.328125,
+                "width": 370.359375,
+                "height": 753.421875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ Keep the kitchen. Change the finish. Hand-painted kitchens Refurbishment of an existing kitchen with a fresh painted finish, without replacing the whole kitchen. Discuss your kitchen ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#kitchens",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 989.625,
+              "y": 85.328125,
+              "width": 370.359375,
+              "height": 753.421875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ Keep the kitchen. Change the finish. Hand-painted kitchens Refurbishment of an existing kitchen with a fresh painted finish, without replacing the whole kitchen. Discuss your kitchen ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 131.703125,
+                "width": 1440,
+                "height": 661.09375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ On the job: alignment, pattern and protection. The care behind the finish. Good preparation is part of the work. So is respect for the home you're living in. Protect and prepare Surroundings covered. Surfaces carefully prepared. A considered approach Dust-controlled sanding and water-based paints. A conversation, every day Daily updates, so you know what work is planned. “Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#care",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 131.703125,
+              "width": 1440,
+              "height": 661.09375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ On the job: alignment, pattern and protection. The care behind the finish. Good preparation is part of the work. So is respect for the home you're living in. Protect and prepare Surroundings covered. Surfaces carefully prepared. A considered approach Dust-controlled sanding and water-based paints. A conversation, every day Daily updates, so you know what work is planned. “Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#method",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801.46875,
+                "y": 439.453125,
+                "width": 558.515625,
+                "height": 44.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A considered approach Dust-controlled sanding and water-based paints.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#method",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801.46875,
+              "y": 439.453125,
+              "width": 558.515625,
+              "height": 44.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A considered approach Dust-controlled sanding and water-based paints.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#rating",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 439.875,
+                "width": 224.140625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#rating",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 439.875,
+              "width": 224.140625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R09",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#testimonial",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 246.796875,
+                "width": 1280,
+                "height": 430.53125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "From customers' homes. Recent experiences, summarised from customer reviews. 13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure. 21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with. Read the reviews on Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#testimonial",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 246.796875,
+              "width": 1280,
+              "height": 430.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "From customers' homes. Recent experiences, summarised from customer reviews. 13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure. 21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with. Read the reviews on Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 536.03125,
+                "width": 250.390625,
+                "height": 53
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07889 397102",
+              "actualHref": "tel:07889397102",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 536.03125,
+              "width": 250.390625,
+              "height": 53
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07889 397102",
+            "actualHref": "tel:07889397102",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 122.234375,
+                "y": 589.03125,
+                "width": 86.203125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "01895 638174",
+              "actualHref": "tel:01895638174",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 122.234375,
+              "y": 589.03125,
+              "width": 86.203125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "01895 638174",
+            "actualHref": "tel:01895638174",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 645.03125,
+                "width": 227.375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 645.03125,
+              "width": 227.375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801,
+                "y": 691.421875,
+                "width": 214.71875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+              "actualHref": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 691.421875,
+              "width": 214.71875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+            "actualHref": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 440.328125,
+                "width": 284.640625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read the reviews on Which? Trusted Traders ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 440.328125,
+              "width": 284.640625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read the reviews on Which? Trusted Traders ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#van",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801,
+                "y": 513.234375,
+                "width": 80,
+                "height": 87
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-0.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#van",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 513.234375,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-0.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R16",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 731.203125,
+                "y": 128,
+                "width": 628.796875,
+                "height": 471.59375
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-1.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 731.203125,
+              "y": 128,
+              "width": 628.796875,
+              "height": 471.59375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-1.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R17",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#wallpaper-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 162.328125,
+                "width": 450,
+                "height": 600
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-2.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#wallpaper-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 162.328125,
+              "width": 450,
+              "height": 600
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-2.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R18",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interior-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 577.25,
+                "y": 215.328125,
+                "width": 370.375,
+                "height": 493.828125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-10.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#interior-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 577.25,
+              "y": 215.328125,
+              "width": 370.375,
+              "height": 493.828125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-10.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R19",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchen-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 989.625,
+                "y": 215.328125,
+                "width": 370.359375,
+                "height": 493.8125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-4.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#kitchen-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 989.625,
+              "y": 215.328125,
+              "width": 370.359375,
+              "height": 493.8125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-4.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R20",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 216.703125,
+                "width": 653.46875,
+                "height": 490.09375
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-3.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#care-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 216.703125,
+              "width": 653.46875,
+              "height": 490.09375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-3.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R30",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#updates",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801.46875,
+                "y": 439.890625,
+                "width": 558.515625,
+                "height": 44.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A conversation, every day Daily updates, so you know what work is planned.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#updates",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801.46875,
+              "y": 439.890625,
+              "width": 558.515625,
+              "height": 44.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A conversation, every day Daily updates, so you know what work is planned.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R31",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#established",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1175.078125,
+                "y": 438.59375,
+                "width": 184.921875,
+                "height": 46.578125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Established 1986 Local experience. A personal service.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#established",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1175.078125,
+              "y": 438.59375,
+              "width": 184.921875,
+              "height": 46.578125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Established 1986 Local experience. A personal service.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R32",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-bedroom",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 392.671875,
+                "width": 600,
+                "height": 138.65625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-bedroom",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 392.671875,
+              "width": 600,
+              "height": 138.65625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R33",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-sitting",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 760,
+                "y": 392.671875,
+                "width": 600,
+                "height": 138.65625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-sitting",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 760,
+              "y": 392.671875,
+              "width": 600,
+              "height": 138.65625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R34",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care-review",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801.46875,
+                "y": 408.328125,
+                "width": 558.515625,
+                "height": 108.09375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#care-review",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801.46875,
+              "y": 408.328125,
+              "width": 558.515625,
+              "height": 108.09375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R35",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#enquiry-guide",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 708.03125,
+                "width": 370,
+                "height": 66.546875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A useful starting point Tell Chris what you'd like decorated and your area. If you email, you can include photos of the space.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#enquiry-guide",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 708.03125,
+              "width": 370,
+              "height": 66.546875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A useful starting point Tell Chris what you'd like decorated and your area. If you email, you can include photos of the space.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#hero-photo",
+          "url": "http://demo.local/assets/photo-1.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 731.203125,
+              "y": 128,
+              "width": 628.796875,
+              "height": 471.59375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#wallpaper-photo",
+          "url": "http://demo.local/assets/photo-2.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 162.328125,
+              "width": 450,
+              "height": 600
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#interior-photo",
+          "url": "http://demo.local/assets/photo-10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 577.25,
+              "y": 215.328125,
+              "width": 370.375,
+              "height": 493.828125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#kitchen-photo",
+          "url": "http://demo.local/assets/photo-4.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 989.625,
+              "y": 215.328125,
+              "width": 370.359375,
+              "height": 493.8125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#care-photo",
+          "url": "http://demo.local/assets/photo-3.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 216.703125,
+              "width": 653.46875,
+              "height": 490.09375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#van",
+          "url": "http://demo.local/assets/photo-0.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 513.234375,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 184,
+          "height": 200
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Selected work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#care",
+          "text": "Working with Chris"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#contact",
+          "text": "Let's talk about your home ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#wallpaper",
+          "text": "Wallpapering ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#interiors",
+          "text": "Interior decorating ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#kitchens",
+          "text": "Hand-painted kitchens ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your wallpapering ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your room ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your kitchen ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Read the reviews on Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-photo",
+          "urls": [
+            "http://demo.local/assets/photo-1.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#wallpaper-photo",
+          "urls": [
+            "http://demo.local/assets/photo-2.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-photo",
+          "urls": [
+            "http://demo.local/assets/photo-10.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-photo",
+          "urls": [
+            "http://demo.local/assets/photo-4.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#care-photo",
+          "urls": [
+            "http://demo.local/assets/photo-3.jpg"
+          ],
+          "section": "care",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#van",
+          "urls": [
+            "http://demo.local/assets/photo-0.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-2.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/assets/photo-10.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/assets/photo-4.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-3.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Read the reviews on Which? Trusted Traders ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "A home with colour. A finish with care.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Paint, paper & a fresh perspective.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Pattern with presence.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A room, renewed.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Keep the kitchen. Change the finish.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The care behind the finish.",
+          "section": "care"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From customers' homes.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A bedroom refreshed.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Care for a high-ceiling room.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What would you like to refresh?",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A useful starting point",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Ruislip based. Locally focused.",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 3737
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "R01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 17,
+                "width": 134.8125,
+                "height": 41
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Chris Roach LIMITED · PAINTING & DECORATING",
+              "actualHref": "#main",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 17,
+              "width": 134.8125,
+              "height": 41
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Chris Roach LIMITED · PAINTING & DECORATING",
+            "actualHref": "#main",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#areas",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 629.734375,
+                "width": 350,
+                "height": 49.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Ruislip · Eastcote · Pinner · Northwood · Rickmansworth · The Chalfonts · Gerrards Cross · Chorleywood",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#areas",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 629.734375,
+              "width": 350,
+              "height": 49.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Ruislip · Eastcote · Pinner · Northwood · Rickmansworth · The Chalfonts · Gerrards Cross · Chorleywood",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interiors",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 142.875,
+                "width": 350,
+                "height": 581.53125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ A room, renewed. Interior decorating Walls, ceilings and woodwork. From refreshing one room to decorating more of your home. Discuss your room ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#interiors",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 142.875,
+              "width": 350,
+              "height": 581.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ A room, renewed. Interior decorating Walls, ceilings and woodwork. From refreshing one room to decorating more of your home. Discuss your room ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#wallpaper",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 117.546875,
+                "width": 350,
+                "height": 633.328125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ Pattern with presence. Wallpapering A feature wall or a room wrapped in pattern. Wallpapering that gives your space its own character. Discuss your wallpapering ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#wallpaper",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 117.546875,
+              "width": 350,
+              "height": 633.328125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ Pattern with presence. Wallpapering A feature wall or a room wrapped in pattern. Wallpapering that gives your space its own character. Discuss your wallpapering ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchens",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 113.40625,
+                "width": 350,
+                "height": 642
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ Keep the kitchen. Change the finish. Hand-painted kitchens Refurbishment of an existing kitchen with a fresh painted finish, without replacing the whole kitchen. Discuss your kitchen ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#kitchens",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 113.40625,
+              "width": 350,
+              "height": 642
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ Keep the kitchen. Change the finish. Hand-painted kitchens Refurbishment of an existing kitchen with a fresh painted finish, without replacing the whole kitchen. Discuss your kitchen ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -3.59375,
+                "width": 390,
+                "height": 874.40625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ On the job: alignment, pattern and protection. The care behind the finish. Good preparation is part of the work. So is respect for the home you're living in. Protect and prepare Surroundings covered. Surfaces carefully prepared. A considered approach Dust-controlled sanding and water-based paints. A conversation, every day Daily updates, so you know what work is planned. “Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#care",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -3.59375,
+              "width": 390,
+              "height": 874.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ On the job: alignment, pattern and protection. The care behind the finish. Good preparation is part of the work. So is respect for the home you're living in. Protect and prepare Surroundings covered. Surfaces carefully prepared. A considered approach Dust-controlled sanding and water-based paints. A conversation, every day Daily updates, so you know what work is planned. “Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#method",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.84375,
+                "width": 350,
+                "height": 44.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A considered approach Dust-controlled sanding and water-based paints.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#method",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.84375,
+              "width": 350,
+              "height": 44.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A considered approach Dust-controlled sanding and water-based paints.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#rating",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 412.359375,
+                "width": 173.75,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#rating",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 412.359375,
+              "width": 173.75,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R09",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#testimonial",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 157.8125,
+                "width": 350,
+                "height": 552.953125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "From customers' homes. Recent experiences, summarised from customer reviews. 13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure. 21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with. Read the reviews on Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#testimonial",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 157.8125,
+              "width": 350,
+              "height": 552.953125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "From customers' homes. Recent experiences, summarised from customer reviews. 13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure. 21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with. Read the reviews on Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 408.1875,
+                "width": 243.96875,
+                "height": 52
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07889 397102",
+              "actualHref": "tel:07889397102",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 408.1875,
+              "width": 243.96875,
+              "height": 52
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07889 397102",
+            "actualHref": "tel:07889397102",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 62.234375,
+                "y": 412.1875,
+                "width": 86.203125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "01895 638174",
+              "actualHref": "tel:01895638174",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 62.234375,
+              "y": 412.1875,
+              "width": 86.203125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "01895 638174",
+            "actualHref": "tel:01895638174",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 412.1875,
+                "width": 212.75,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 412.1875,
+              "width": 212.75,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 693.109375,
+                "width": 197.5,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+              "actualHref": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 693.109375,
+              "width": 197.5,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+            "actualHref": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.765625,
+                "width": 263.375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read the reviews on Which? Trusted Traders ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.765625,
+              "width": 263.375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read the reviews on Which? Trusted Traders ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#van",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 518.734375,
+                "width": 80,
+                "height": 87
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-0.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#van",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 518.734375,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-0.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R16",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 302.859375,
+                "width": 350,
+                "height": 262.5
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-1.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.859375,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-1.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R17",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#wallpaper-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 226.546875,
+                "width": 311.5,
+                "height": 415.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-2.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#wallpaper-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 226.546875,
+              "width": 311.5,
+              "height": 415.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-2.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R18",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interior-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 79.5,
+                "y": 239.875,
+                "width": 290.5,
+                "height": 387.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-10.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#interior-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 79.5,
+              "y": 239.875,
+              "width": 290.5,
+              "height": 387.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-10.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R19",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchen-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 226.40625,
+                "width": 311.5,
+                "height": 415.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-4.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#kitchen-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 226.40625,
+              "width": 311.5,
+              "height": 415.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-4.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R20",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 302.40625,
+                "width": 350,
+                "height": 262.5
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-3.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#care-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.40625,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-3.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R30",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#updates",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.28125,
+                "width": 350,
+                "height": 44.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A conversation, every day Daily updates, so you know what work is planned.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#updates",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.28125,
+              "width": 350,
+              "height": 44.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A conversation, every day Daily updates, so you know what work is planned.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R31",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#established",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 317.375,
+                "y": 414.359375,
+                "width": 52.625,
+                "height": 40
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Established 1986",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#established",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 317.375,
+              "y": 414.359375,
+              "width": 52.625,
+              "height": 40
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Established 1986",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R32",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-bedroom",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 368.640625,
+                "width": 350,
+                "height": 130.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-bedroom",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 368.640625,
+              "width": 350,
+              "height": 130.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R33",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-sitting",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 369.203125,
+                "width": 350,
+                "height": 130.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-sitting",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 369.203125,
+              "width": 350,
+              "height": 130.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R34",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care-review",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 379.71875,
+                "width": 350,
+                "height": 108.09375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#care-review",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 379.71875,
+              "width": 350,
+              "height": 108.09375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R35",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#enquiry-guide",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 401.1875,
+                "width": 350,
+                "height": 66.546875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A useful starting point Tell Chris what you'd like decorated and your area. If you email, you can include photos of the space.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#enquiry-guide",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 401.1875,
+              "width": 350,
+              "height": 66.546875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A useful starting point Tell Chris what you'd like decorated and your area. If you email, you can include photos of the space.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#hero-photo",
+          "url": "http://demo.local/assets/photo-1.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.859375,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#wallpaper-photo",
+          "url": "http://demo.local/assets/photo-2.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 226.546875,
+              "width": 311.5,
+              "height": 415.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#interior-photo",
+          "url": "http://demo.local/assets/photo-10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 79.5,
+              "y": 239.875,
+              "width": 290.5,
+              "height": 387.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#kitchen-photo",
+          "url": "http://demo.local/assets/photo-4.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 226.40625,
+              "width": 311.5,
+              "height": 415.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#care-photo",
+          "url": "http://demo.local/assets/photo-3.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.40625,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#van",
+          "url": "http://demo.local/assets/photo-0.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 518.734375,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 184,
+          "height": 200
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Selected work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#care",
+          "text": "Working with Chris"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#contact",
+          "text": "Let's talk about your home ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#wallpaper",
+          "text": "Wallpapering ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#interiors",
+          "text": "Interior decorating ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#kitchens",
+          "text": "Hand-painted kitchens ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your wallpapering ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your room ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your kitchen ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Read the reviews on Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-photo",
+          "urls": [
+            "http://demo.local/assets/photo-1.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#wallpaper-photo",
+          "urls": [
+            "http://demo.local/assets/photo-2.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-photo",
+          "urls": [
+            "http://demo.local/assets/photo-10.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-photo",
+          "urls": [
+            "http://demo.local/assets/photo-4.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#care-photo",
+          "urls": [
+            "http://demo.local/assets/photo-3.jpg"
+          ],
+          "section": "care",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#van",
+          "urls": [
+            "http://demo.local/assets/photo-0.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-2.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/assets/photo-10.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/assets/photo-4.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-3.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Read the reviews on Which? Trusted Traders ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "A home with colour. A finish with care.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Paint, paper & a fresh perspective.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Pattern with presence.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A room, renewed.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Keep the kitchen. Change the finish.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The care behind the finish.",
+          "section": "care"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From customers' homes.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A bedroom refreshed.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Care for a high-ceiling room.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What would you like to refresh?",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A useful starting point",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Ruislip based. Locally focused.",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 5363
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

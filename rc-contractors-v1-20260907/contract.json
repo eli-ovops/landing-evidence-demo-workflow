@@ -1,0 +1,911 @@
+{
+  "schemaVersion": 1,
+  "client": "R C Contractors",
+  "owner": "01a0793a-28ac-7e60-a889-1e1e21e491c3",
+  "activeVersion": "v1",
+  "currentEvidence": "Current user authorised local Demo following current research and independent Priority B qualification; docs/AUTHORITY.md",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "sha256": "80b1cdfd2aaf5fc74d893476b7e739c7d0c6a3f63342e3dd567f9d6498e9cb33"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S-Council",
+      "grade": "C",
+      "url": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+      "retrievedDate": "2026-09-07",
+      "platform": "Derbyshire County Council Trusted Trader directory",
+      "attribution": "Publicly listed business identity/contacts and source-claimed services; dated customer feedback. Fact/paraphrase only; no hosted image reused."
+    },
+    {
+      "id": "S-original-hero",
+      "grade": "C",
+      "url": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-a66dc0cb-dcd4-4fe0-a3f3-1e44b1d48341.png",
+      "retrievedDate": "2026-09-07T00:47:00.965Z",
+      "platform": "Built-in image generation tool; local immutable PNG output",
+      "attribution": "Original generated miniature material study; never a completed client project; original-created provenance, not third-party business upload. Grade C is the schema non-A/B fallback, not a claim of externally sourced ownership."
+    },
+    {
+      "id": "S-original-masonry",
+      "grade": "C",
+      "url": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-1be75c92-e3a7-4c43-a026-d8ebaed951cd.png",
+      "retrievedDate": "2026-09-07T00:47:01.030Z",
+      "platform": "Built-in image generation tool; local immutable PNG output",
+      "attribution": "Original generated miniature material study; never a completed client project; original-created provenance, not third-party business upload. Grade C is the schema non-A/B fallback, not a claim of externally sourced ownership."
+    },
+    {
+      "id": "S-original-paving",
+      "grade": "C",
+      "url": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-ef285637-a14d-4d79-bc5e-563b2e5f76e0.png",
+      "retrievedDate": "2026-09-07T00:47:01.104Z",
+      "platform": "Built-in image generation tool; local immutable PNG output",
+      "attribution": "Original generated miniature material study; never a completed client project; original-created provenance, not third-party business upload. Grade C is the schema non-A/B fallback, not a claim of externally sourced ownership."
+    },
+    {
+      "id": "S-original-repair",
+      "grade": "C",
+      "url": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-a2bbc130-6be2-4cab-a785-1088cf282f8d.png",
+      "retrievedDate": "2026-09-07T00:47:01.159Z",
+      "platform": "Built-in image generation tool; local immutable PNG output",
+      "attribution": "Original generated miniature material study; never a completed client project; original-created provenance, not third-party business upload. Grade C is the schema non-A/B fallback, not a claim of externally sourced ownership."
+    },
+    {
+      "id": "S-original-hero-space",
+      "grade": "C",
+      "url": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-d5433214-69d6-4e4b-bdfe-4aa94d05d910.png",
+      "retrievedDate": "2026-09-07T01:36:48.623421+00:00",
+      "platform": "Built-in image generation tool; local immutable PNG output",
+      "attribution": "Original architectural garden-space miniature; no real location or completed customer project depicted"
+    }
+  ],
+  "assets": [
+    {
+      "id": "V-hero",
+      "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-d5433214-69d6-4e4b-bdfe-4aa94d05d910.png",
+      "retrievedAt": "2026-09-07T01:36:48.623421+00:00",
+      "originalPath": "assets/originals/hero-space.png",
+      "originalSha256": "3d9cbc04dfc695f1dd3a25177f9f15b9a65f3691e2d56196340fa483625f0f70",
+      "path": "assets/hero-space.webp",
+      "sha256": "27a7a2518495a0800fba0510dce667d8558f78cf6f5635573fdddee17c882795",
+      "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+      "authenticity": "CONCEPT",
+      "attribution": "Original architectural garden-space miniature; no real location or completed customer project depicted",
+      "sourceId": "S-original-hero-space",
+      "role": "Hero garden-space relationship of walls, paved seating area and planted margin",
+      "focus": "50% 50%; entire miniature/model remains visible",
+      "rights": "Original generated concept for authorised local Demo; no third-party/client asset reproduced; transfer separately reviewed",
+      "permissionEvidence": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/AUTHORITY.md current user local concept authorization; ASSET_MANIFEST.json original generation provenance"
+    },
+    {
+      "id": "V-masonry",
+      "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-1be75c92-e3a7-4c43-a026-d8ebaed951cd.png",
+      "retrievedAt": "2026-09-07T00:47:01.030Z",
+      "originalPath": "assets/originals/masonry.png",
+      "originalSha256": "2c03fae07cff26a0849040803d48a910b314d0ca66a06fc21c2a3f2f8e01f187",
+      "path": "assets/masonry.webp",
+      "sha256": "48496da893f550a4f44119f6bbe363c2297bec686f709827604668b5bf827407",
+      "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+      "authenticity": "CONCEPT",
+      "attribution": "Original generated miniature material study; never a completed client project",
+      "sourceId": "S-original-masonry",
+      "role": "Identify masonry service category",
+      "focus": "50% 50%; entire miniature/model remains visible",
+      "rights": "Original generated concept for authorised local Demo; no third-party/client asset reproduced; transfer separately reviewed",
+      "permissionEvidence": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/AUTHORITY.md current user local static Demo authorisation and /Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/ASSET_MANIFEST.json original generation provenance"
+    },
+    {
+      "id": "V-paving",
+      "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-ef285637-a14d-4d79-bc5e-563b2e5f76e0.png",
+      "retrievedAt": "2026-09-07T00:47:01.104Z",
+      "originalPath": "assets/originals/paving.png",
+      "originalSha256": "ba35bd0a3e7f071c42b8627966747f353b66a81c82bdb408a54a0ebe21e042fa",
+      "path": "assets/paving.webp",
+      "sha256": "4adb0b65e2cb3cb38a68356a9d08452aea1ef9c21a5248fb951e29f006756d56",
+      "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+      "authenticity": "CONCEPT",
+      "attribution": "Original generated miniature material study; never a completed client project",
+      "sourceId": "S-original-paving",
+      "role": "Identify paving service category",
+      "focus": "50% 50%; entire miniature/model remains visible",
+      "rights": "Original generated concept for authorised local Demo; no third-party/client asset reproduced; transfer separately reviewed",
+      "permissionEvidence": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/AUTHORITY.md current user local static Demo authorisation and /Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/ASSET_MANIFEST.json original generation provenance"
+    },
+    {
+      "id": "V-repair",
+      "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-a2bbc130-6be2-4cab-a785-1088cf282f8d.png",
+      "retrievedAt": "2026-09-07T00:47:01.159Z",
+      "originalPath": "assets/originals/repair.png",
+      "originalSha256": "f4bee191351abd6a673a000f42a8d4e2d92346eb5a86331e035707acf7209261",
+      "path": "assets/repair.webp",
+      "sha256": "fd328ebe688d6dbc7def2e84ffde40c377851008bed7b2d23dc8cab1b46d85b1",
+      "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+      "authenticity": "CONCEPT",
+      "attribution": "Original generated miniature material study; never a completed client project",
+      "sourceId": "S-original-repair",
+      "role": "Supporting repair scope in lower page",
+      "focus": "50% 50%; entire miniature/model remains visible",
+      "rights": "Original generated concept for authorised local Demo; no third-party/client asset reproduced; transfer separately reviewed",
+      "permissionEvidence": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/AUTHORITY.md current user local static Demo authorisation and /Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/ASSET_MANIFEST.json original generation provenance"
+    }
+  ],
+  "items": [
+    {
+      "id": "R-F01",
+      "selector": "#brand",
+      "text": "R C Contractors",
+      "section": "#brand",
+      "sourceId": "S-Council",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F02",
+      "selector": "#location",
+      "text": "Coal Aston",
+      "section": "#location",
+      "sourceId": "S-Council",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-mobile",
+      "selector": "#call-mobile",
+      "text": "07854 822061",
+      "section": "#call-mobile",
+      "sourceId": "S-Council",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "tel:+447854822061",
+      "promise": "Call the published mobile number; no call placed."
+    },
+    {
+      "id": "R-landline",
+      "selector": "#call-landline",
+      "text": "01246 397245",
+      "section": "#call-landline",
+      "sourceId": "S-Council",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "tel:+441246397245",
+      "promise": "Call the published landline; no call placed."
+    },
+    {
+      "id": "R-email",
+      "selector": "#email",
+      "text": "[REDACTED_EMAIL]",
+      "section": "#email",
+      "sourceId": "S-Council",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "Open the published business mailbox in the visitor email application; no message sent."
+    },
+    {
+      "id": "R-F05",
+      "selector": "#masonry",
+      "text": "Brickwork & stonework",
+      "section": "#masonry",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F05-detail",
+      "selector": "#masonry",
+      "text": "Blockwork",
+      "section": "#masonry",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F05-repointing",
+      "selector": "#masonry",
+      "text": "Repointing",
+      "section": "#masonry",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F06",
+      "selector": "#paving",
+      "text": "Patios & block paving",
+      "section": "#paving",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F07",
+      "selector": "#supporting-services",
+      "text": "Roof repairs",
+      "section": "#supporting-services",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F07-fencing",
+      "selector": "#supporting-services",
+      "text": "Fencing",
+      "section": "#supporting-services",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F07-groundworks",
+      "selector": "#supporting-services",
+      "text": "Groundworks",
+      "section": "#supporting-services",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F07-drainage",
+      "selector": "#supporting-services",
+      "text": "Drainage",
+      "section": "#supporting-services",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F07-landscaping",
+      "selector": "#supporting-services",
+      "text": "Landscaping",
+      "section": "#supporting-services",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F08",
+      "selector": "#review-june",
+      "text": "18 June 2026",
+      "section": "#review-june",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F09",
+      "selector": "#review-april",
+      "text": "30 April 2026",
+      "section": "#review-april",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-F12",
+      "selector": "#listing-since",
+      "text": "16 January 2013",
+      "section": "#listing-since",
+      "sourceId": "S-Council",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R-proof-path",
+      "selector": "#reviews-link",
+      "text": "Read the reviews",
+      "section": "#reviews-link",
+      "sourceId": "S-Council",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+      "promise": "Open the actual Council business listing and dated feedback; no Council endorsement of this concept."
+    },
+    {
+      "id": "R-visual-hero",
+      "selector": "#hero-image",
+      "section": "#hero-image",
+      "sourceId": "S-original-hero-space",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "V-hero",
+      "reason": "Observed original concept asset, not a customer project photograph"
+    },
+    {
+      "id": "R-visual-masonry",
+      "selector": "#masonry-image",
+      "section": "#masonry-image",
+      "sourceId": "S-original-masonry",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "V-masonry",
+      "reason": "Observed original concept asset, not a customer project photograph"
+    },
+    {
+      "id": "R-visual-paving",
+      "selector": "#paving-image",
+      "section": "#paving-image",
+      "sourceId": "S-original-paving",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "V-paving",
+      "reason": "Observed original concept asset, not a customer project photograph"
+    },
+    {
+      "id": "R-visual-repair",
+      "selector": "#repair-image",
+      "section": "#repair-image",
+      "sourceId": "S-original-repair",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "V-repair",
+      "reason": "Observed original concept asset, not a customer project photograph"
+    },
+    {
+      "section": "experience",
+      "sourceId": "S-Council",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "id": "R-F11",
+      "selector": "#experience",
+      "text": "Over 20 years of experience"
+    },
+    {
+      "section": "contact",
+      "sourceId": "S-Council",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "id": "R-postcode",
+      "selector": "#postcode",
+      "text": "S18 3AG"
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#hero-contact"
+  },
+  "sections": [
+    "#hero",
+    ".experience-band",
+    "#services",
+    "#repairs",
+    "#feedback",
+    "#contact"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "NOT VERIFIED; user authorised local independent concept only",
+  "transferEligibility": "UNKNOWN — no source handover requested",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 2,
+      "text": "F01,Observed Fact,商户名称 R C Contractors,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,DIRECT USE,Hero,刊载身份；非法律主体认证,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 3,
+      "text": "F02,Observed Fact,Coal Aston / S18 3AG；目录地址 33 Birches Fold,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,LOCATION/VISIT USE,Location / Closing,不把住宅样式刊载地址当作可到访门店；先用地区,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 4,
+      "text": "F03,Observed Fact,07854822061；01246397245,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,DIRECT USE,CTA,刊载号码；未拨打,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 5,
+      "text": "F04,Observed Fact,[REDACTED_EMAIL]；mailto 一致,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,DIRECT USE,CTA,公开业务邮箱；可投递性/营销同意 UNKNOWN,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 6,
+      "text": "F05,Source Claim,Brickwork / blockwork / repointing / stonework,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Services,目录服务简介；不能扩大为工程设计资质,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 7,
+      "text": "F06,Source Claim,Block paving / patios,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Services,稳定服务类别；不编项目价格,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 8,
+      "text": "F07,Source Claim,Roof repairs / fencing / landscaping / groundworks / drainage,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Secondary services,保留业务宽度；最小切片无需全量展开,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 9,
+      "text": "F08,Source Claim,2026-06-18 客户石墙与 slate 前院反馈,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,2026-06-18,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Proof,H0 81 天；评价主张不是独立现场核验；不得虚构项目图,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 10,
+      "text": "F09,Source Claim,2026-04-30 车库/车道与沟通反馈,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,2026-04-30,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Proof / reassurance,当前 H0 窗口外；不承诺标准流程或响应时限,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 11,
+      "text": "F10,Source Claim,2026-04-02 石墙/门柱/后园；2026-02-24 patio 反馈,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,2026-04-02 / 2026-02-24,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Proof,窗口外历史能力线索；无实际照片,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 12,
+      "text": "F11,Source Claim,自述 20 年以上经验,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,起始年份/连续经营未独立证实；最小切片不需要此断言,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 13,
+      "text": "F12,Observed Fact,目录显示加入日 2013-01-16,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,2013-01-16,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Proof,只可说目录加入记录，不是成立年、保险或客户认可 Demo,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 14,
+      "text": "F13,Observed Fact,live 32 评论；缓存 33/34 不一致,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,不用争议数量或评分资产；以具体有日期反馈替代,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 15,
+      "text": "A01,Brand reference,蓝色建筑线稿名片，Robert Crapper / Builder，600×329,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/images/profilepics/62399.jpg,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,C — UNATTRIBUTED THIRD-PARTY HOSTED; RESEARCH ONLY; NOT B VERIFIED,NOT DOWNLOADED,NOT DOWNLOADED,600x329 browser natural size,EXCLUDE,Research only,旧地址冲突；上传/商户管理归属未确认，C/UNATTRIBUTED，不自授 B,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 16,
+      "text": "A02,Third-party asset,Council Logo、紫色界面、五勾评级图及地图瓦片,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,THIRD PARTY PLATFORM ASSET — EXCLUDE,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,属于目录宿主，不是客户品牌或可转让素材,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 17,
+      "text": "A03,UNKNOWN,未找到可归属项目/团队/设备/车辆图片或视频,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,LOW,NO SOURCE ASSET VERIFIED; NO IMAGE GENERATED,NOT DOWNLOADED,NOT DOWNLOADED,N/A,CONCEPT VISUAL REPLACEMENT,Future service visuals,仅未来授权后原创；不声称不存在；本轮不生成,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 18,
+      "text": "U01,UNKNOWN,精确服务区域与营业时间,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,LOW,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,仅有地区事实；不得猜测半径/营业时段,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 19,
+      "text": "U02,UNKNOWN,官方站和官方社媒未找到,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,有界 Track N；不把 Council 社媒当客户；无可用官方链接,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 20,
+      "text": "U03,UNKNOWN,资质/保险/法律主体/团队规模/支付意愿/增长意图,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,LOW,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,现有来源不支持；不从姓名/评论推断,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 21,
+      "text": "I01,Inference,电话或邮件说明工作类型和地区,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,CTA information prompt,拟议静态询问提示，不是假装客户既有承诺流程,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 2,
+      "excerpt": "F01,Observed Fact,商户名称 R C Contractors,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,DIRECT USE,Hero,刊载身份；非法律主体认证,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "8e4a22c3965a244a983afaf1f6bb57a4eda2444be85a5c5ceb507fff8e47d401",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F01"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F01 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE2",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 3,
+      "excerpt": "F02,Observed Fact,Coal Aston / S18 3AG；目录地址 33 Birches Fold,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,LOCATION/VISIT USE,Location / Closing,不把住宅样式刊载地址当作可到访门店；先用地区,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "68ef251ab0c34396c36e1e8d42666546eb3655d52c7248ed41bb0dbc65e401ee",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F02",
+        "R-postcode"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Locality and listed postcode retained; no street or visitable-premise assertion."
+    },
+    {
+      "id": "BASE3",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 4,
+      "excerpt": "F03,Observed Fact,07854822061；01246397245,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,DIRECT USE,CTA,刊载号码；未拨打,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "0bc32eb442b490e2f09c29a9090248389512f1521e860f6dc9061d06dbb19f7c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-mobile",
+        "R-landline"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F03 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE4",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 5,
+      "excerpt": "F04,Observed Fact,[REDACTED_EMAIL]；mailto 一致,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,DIRECT USE,CTA,公开业务邮箱；可投递性/营销同意 UNKNOWN,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "47b7fe7c27dbcc65a24fa8dd0f06a2657acda1cbb2720f74dd85177f59a272a7",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-email"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F04 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE5",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 6,
+      "excerpt": "F05,Source Claim,Brickwork / blockwork / repointing / stonework,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Services,目录服务简介；不能扩大为工程设计资质,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "6120cfb919956b640ff52851e71ac8c675fc152e3b1a8efd78bac811aab0da4e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F05",
+        "R-F05-detail",
+        "R-F05-repointing"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F05 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE6",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 7,
+      "excerpt": "F06,Source Claim,Block paving / patios,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Services,稳定服务类别；不编项目价格,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "656f212dc203770256dde67b1949a868f105caa35a456f684cb978e3f304bd55",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F06"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F06 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE7",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 8,
+      "excerpt": "F07,Source Claim,Roof repairs / fencing / landscaping / groundworks / drainage,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Secondary services,保留业务宽度；最小切片无需全量展开,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "b6c79468bb3ad74692047304a8e659f2138a73d624b104b18713152d43c44dee",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F07",
+        "R-F07-fencing",
+        "R-F07-groundworks",
+        "R-F07-drainage",
+        "R-F07-landscaping"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F07 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE8",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 9,
+      "excerpt": "F08,Source Claim,2026-06-18 客户石墙与 slate 前院反馈,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,2026-06-18,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Proof,H0 81 天；评价主张不是独立现场核验；不得虚构项目图,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "bde58a00798f71681b196420514c3bb2dcb1b4743bf03a40219760a0f8bc3402",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F08",
+        "R-proof-path"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F08 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE9",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 10,
+      "excerpt": "F09,Source Claim,2026-04-30 车库/车道与沟通反馈,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,2026-04-30,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Proof / reassurance,当前 H0 窗口外；不承诺标准流程或响应时限,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "b89ba4563f13be48f4b58d745f7c993cc3cedcab5cae08ab180bc13ea5ea1bd4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F09"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F09 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE10",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 11,
+      "excerpt": "F10,Source Claim,2026-04-02 石墙/门柱/后园；2026-02-24 patio 反馈,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,2026-04-02 / 2026-02-24,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Proof,窗口外历史能力线索；无实际照片,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "3879fbe2d535bc8280c8dd82ccabaca8b3036597517b9c05f3bfad8acf6e3554",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Older wall/gatepost and patio feedback duplicates the newer June masonry and April driveway feedback; underlying services retained by F05/F06."
+    },
+    {
+      "id": "BASE11",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 12,
+      "excerpt": "F11,Source Claim,自述 20 年以上经验,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,起始年份/连续经营未独立证实；最小切片不需要此断言,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "0d062883c35955444429290a4678a351f5cb148f9e7ae7951c3d9698070cf1b4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F11"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source-claimed experience activated with explicit visible attribution to the business profile; not independent tenure verification or founded year."
+    },
+    {
+      "id": "BASE12",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 13,
+      "excerpt": "F12,Observed Fact,目录显示加入日 2013-01-16,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,2013-01-16,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,Proof,只可说目录加入记录，不是成立年、保险或客户认可 Demo,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "dd05d3698183cf4d50d68d7c58bc3c3fdc6124e998917bd89a4fa4c9e86910ee",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-F12"
+      ],
+      "sourceIds": [
+        "S-Council"
+      ],
+      "reason": "Source row F12 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE13",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 14,
+      "excerpt": "F13,Observed Fact,live 32 评论；缓存 33/34 不一致,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,不用争议数量或评分资产；以具体有日期反馈替代,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "f5c1bc14cbc3267bfd8fbe71de3dc4c8ea32af51c3e8623e57e9743356f67782",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Live and cached aggregate review counts conflict; only dated attributable feedback is shown."
+    },
+    {
+      "id": "BASE14",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 15,
+      "excerpt": "A01,Brand reference,蓝色建筑线稿名片，Robert Crapper / Builder，600×329,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/images/profilepics/62399.jpg,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,C — UNATTRIBUTED THIRD-PARTY HOSTED; RESEARCH ONLY; NOT B VERIFIED,NOT DOWNLOADED,NOT DOWNLOADED,600x329 browser natural size,EXCLUDE,Research only,旧地址冲突；上传/商户管理归属未确认，C/UNATTRIBUTED，不自授 B,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "0cd3c63355e34a3f02a3c02e570daf228fc08e16066bbeda640bf0e9abb5cc47",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "C unattributed historic card with conflicting old address is research reference only; no logo/image copying."
+    },
+    {
+      "id": "BASE15",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 16,
+      "excerpt": "A02,Third-party asset,Council Logo、紫色界面、五勾评级图及地图瓦片,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,HIGH,THIRD PARTY PLATFORM ASSET — EXCLUDE,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,属于目录宿主，不是客户品牌或可转让素材,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "51a6d677c1f78615c55f795d0308d71203ad38a9dfbec74fad01178a11da85cc",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Council platform logo/rating/map tile assets are not the customer brand and are not reused."
+    },
+    {
+      "id": "BASE16",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 17,
+      "excerpt": "A03,UNKNOWN,未找到可归属项目/团队/设备/车辆图片或视频,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,LOW,NO SOURCE ASSET VERIFIED; NO IMAGE GENERATED,NOT DOWNLOADED,NOT DOWNLOADED,N/A,CONCEPT VISUAL REPLACEMENT,Future service visuals,仅未来授权后原创；不声称不存在；本轮不生成,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "8abffaa1d996eee7a05930fc13ef5bd02758849abedb227e558c981fc1aa74ae",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R-visual-hero",
+        "R-visual-masonry",
+        "R-visual-paving",
+        "R-visual-repair"
+      ],
+      "sourceIds": [
+        "S-original-hero-space",
+        "S-original-masonry",
+        "S-original-paving",
+        "S-original-repair"
+      ],
+      "reason": "Source row A03 retained in the named business role; related detail/contact or concept items share this explicit source coverage."
+    },
+    {
+      "id": "BASE17",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 18,
+      "excerpt": "U01,UNKNOWN,精确服务区域与营业时间,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,LOW,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,仅有地区事实；不得猜测半径/营业时段,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "18dc2baebf48e00f6b8e7533a199954701867bc1392729765136161fa507980c",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Hours and precise service radius are unverified; only verified Coal Aston locality is retained."
+    },
+    {
+      "id": "BASE18",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 19,
+      "excerpt": "U02,UNKNOWN,官方站和官方社媒未找到,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,有界 Track N；不把 Council 社媒当客户；无可用官方链接,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "6c00c1095d344baaaaf66ba5ed251c547075c8206d09f51d94af4df9b0a6b137",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "No bounded-search verified owned website/social destination; platform social links excluded."
+    },
+    {
+      "id": "BASE19",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 20,
+      "excerpt": "U03,UNKNOWN,资质/保险/法律主体/团队规模/支付意愿/增长意图,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,LOW,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,EXCLUDE,None,现有来源不支持；不从姓名/评论推断,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "23460728ab88863305df4e0f659a97a1bea092e7edbed421fb7e7ffc7451552e",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Credentials, insurance, legal entity, team size, payment and growth intent remain unverified; no visible claims."
+    },
+    {
+      "id": "BASE20",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/RESEARCH_SOURCE_REGISTER.csv",
+      "line": 21,
+      "excerpt": "I01,Inference,电话或邮件说明工作类型和地区,R C Contractors / Coal Aston,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399,Derbyshire County Council; search receipts for unknown fields,2026-09-07,UNKNOWN / CURRENT OBSERVATION,same name/location/mobile/email; reviewer statements remain claims,MEDIUM,CUSTOMER AUTHORIZATION NOT VERIFIED; facts/paraphrase only; no asset transfer approval,NOT DOWNLOADED,NOT DOWNLOADED,N/A,FACT/PARAPHRASE USE,CTA information prompt,拟议静态询问提示，不是假装客户既有承诺流程,desktop.json; mobile.json; desktop.png; mobile.png; h0-review.png; SEARCH_RECEIPTS.json",
+      "excerptSha256": "8360d6835a9163a88d814578a6911af026e5c373ca36c5715d9158962047e2e9",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Proposed enquiry instruction is not a verified existing business process; interface invitation makes no process promise."
+    }
+  ]
+}

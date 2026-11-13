@@ -1,0 +1,2099 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "identity",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 64.078125,
+                "y": 27.203125,
+                "width": 220.40625,
+                "height": 53.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Bridgend Antiques BALLYNURE · NORTHERN IRELAND",
+              "actualHref": "#hero",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 27.203125,
+              "width": 220.40625,
+              "height": 53.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Bridgend Antiques BALLYNURE · NORTHERN IRELAND",
+            "actualHref": "#hero",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "selling",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-intro",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 64.078125,
+                "y": 433.015625,
+                "width": 295,
+                "height": 57.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Talk to Hector about your antiques, gold and silver.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hero-intro",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 433.015625,
+              "width": 295,
+              "height": 57.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Talk to Hector about your antiques, gold and silver.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "silver",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#selling-title",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 910.203125,
+                "y": 400.6875,
+                "width": 465.71875,
+                "height": 123.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Gold, silver & antiques.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#selling-title",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 910.203125,
+              "y": 400.6875,
+              "width": 465.71875,
+              "height": 123.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Gold, silver & antiques.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "mobile",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-call",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 64.078125,
+                "y": 432.609375,
+                "width": 160.640625,
+                "height": 58
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call Hector ↗",
+              "actualHref": "tel:+447966751699",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hero-call",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 432.609375,
+              "width": 160.640625,
+              "height": 58
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Call Hector ↗",
+            "actualHref": "tel:+447966751699",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "mobile-bottom",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#mobile",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 910.203125,
+                "y": 439.6875,
+                "width": 465.71875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07966 751699 ↗",
+              "actualHref": "tel:+447966751699",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#mobile",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 910.203125,
+              "y": 439.6875,
+              "width": 465.71875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07966 751699 ↗",
+            "actualHref": "tel:+447966751699",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "landline",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 910.203125,
+                "y": 486.078125,
+                "width": 465.71875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "028 9334 1979 ↗",
+              "actualHref": "tel:+442893341979",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 910.203125,
+              "y": 486.078125,
+              "width": 465.71875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "028 9334 1979 ↗",
+            "actualHref": "tel:+442893341979",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "email",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 910.203125,
+                "y": 583.46875,
+                "width": 465.71875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 910.203125,
+              "y": 583.46875,
+              "width": 465.71875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "address",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 64.078125,
+                "y": 618.296875,
+                "width": 747.75,
+                "height": 69.28125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "50 Church Road, Ballynure Ballyclare, Co Antrim Northern Ireland, BT39 9UF",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 618.296875,
+              "width": 747.75,
+              "height": 69.28125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "50 Church Road, Ballynure Ballyclare, Co Antrim Northern Ireland, BT39 9UF",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "directions",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#directions",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 64.078125,
+                "y": 695.578125,
+                "width": 172.75,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Find us on Google Maps ↗",
+              "actualHref": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#directions",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 695.578125,
+              "width": 172.75,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Find us on Google Maps ↗",
+            "actualHref": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-quote",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 523.203125,
+                "y": 409.625,
+                "width": 852.71875,
+                "height": 105.21875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“Paid us on the spot without any quibble.”",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-quote",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 523.203125,
+              "y": 409.625,
+              "width": 852.71875,
+              "height": 105.21875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“Paid us on the spot without any quibble.”",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review-source",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-source",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 523.203125,
+                "y": 440.4375,
+                "width": 150.96875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read the review on Yell ↗",
+              "actualHref": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-source",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 523.203125,
+              "y": 440.4375,
+              "width": 150.96875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read the review on Yell ↗",
+            "actualHref": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "catalogue",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#catalogue-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 64.078125,
+                "y": 432.625,
+                "width": 226.375,
+                "height": 58
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Browse the catalogue ↗",
+              "actualHref": "https://www.antiques-atlas.com/bridgendantiques/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#catalogue-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 432.625,
+              "width": 226.375,
+              "height": 58
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Browse the catalogue ↗",
+            "actualHref": "https://www.antiques-atlas.com/bridgendantiques/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "contact-form",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#atlas-contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 910.203125,
+                "y": 645.46875,
+                "width": 196.5,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Or enquire through Antiques Atlas ↗",
+              "actualHref": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#atlas-contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 910.203125,
+              "y": 645.46875,
+              "width": 196.5,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Or enquire through Antiques Atlas ↗",
+            "actualHref": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "showroom",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#showroom-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 64.078125,
+                "y": 370.296875,
+                "width": 700,
+                "height": 200
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/showroom-public.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#showroom-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 370.296875,
+              "width": 700,
+              "height": 200
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/showroom-public.jpg"
+            ]
+          }
+        },
+        {
+          "id": "concept-1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-art",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 633.59375,
+                "y": 139.203125,
+                "width": 806.390625,
+                "height": 537.59375
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/antique-still-life.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-art",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 633.59375,
+              "y": 139.203125,
+              "width": 806.390625,
+              "height": 537.59375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/antique-still-life.png"
+            ]
+          }
+        },
+        {
+          "id": "concept-2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#silver-art",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 64.078125,
+                "y": 165.1875,
+                "width": 747.75,
+                "height": 593.4375
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 52%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/silver-study.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#silver-art",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 165.1875,
+              "width": 747.75,
+              "height": 593.4375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 52%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/silver-study.png"
+            ]
+          }
+        },
+        {
+          "id": "concept-3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#objects-art",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 662.390625,
+                "y": 202.4375,
+                "width": 777.59375,
+                "height": 518.390625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/objects-study.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#objects-art",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 662.390625,
+              "y": 202.4375,
+              "width": 777.59375,
+              "height": 518.390625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/objects-study.png"
+            ]
+          }
+        },
+        {
+          "id": "hours",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#visit-note",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1035.921875,
+                "y": 438.703125,
+                "width": 340,
+                "height": 46.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Please telephone before travelling. We’ll be glad to hear from you.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#visit-note",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1035.921875,
+              "y": 438.703125,
+              "width": 340,
+              "height": 46.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Please telephone before travelling. We’ll be glad to hear from you.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#hero-art",
+          "url": "http://demo.local/assets/antique-still-life.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 633.59375,
+              "y": 139.203125,
+              "width": 806.390625,
+              "height": 537.59375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#silver-art",
+          "url": "http://demo.local/assets/silver-study.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 165.1875,
+              "width": 747.75,
+              "height": 593.4375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 52%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#objects-art",
+          "url": "http://demo.local/assets/objects-study.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 662.390625,
+              "y": 202.4375,
+              "width": 777.59375,
+              "height": 518.390625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#showroom-photo",
+          "url": "http://demo.local/assets/showroom-public.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 64.078125,
+              "y": 370.296875,
+              "width": 700,
+              "height": 200
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 700,
+          "height": 200
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": "Bridgend Antiques BALLYNURE · NORTHERN IRELAND"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#selling",
+          "text": "Selling"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#visit",
+          "text": "Visit us"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/",
+          "text": "Browse antiques ↗"
+        },
+        {
+          "selector": "#hero-call",
+          "href": "tel:+447966751699",
+          "text": "Call Hector ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#selling",
+          "text": "Explore what we buy ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#visit",
+          "text": "50 Church Road, Ballynure ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#visit",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#review-source",
+          "href": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+          "text": "Read the review on Yell ↗"
+        },
+        {
+          "selector": "#catalogue-link",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/",
+          "text": "Browse the catalogue ↗"
+        },
+        {
+          "selector": "#directions",
+          "href": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+          "text": "Find us on Google Maps ↗"
+        },
+        {
+          "selector": "#mobile",
+          "href": "tel:+447966751699",
+          "text": "07966 751699 ↗"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:+442893341979",
+          "text": "028 9334 1979 ↗"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#atlas-contact",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+          "text": "Or enquire through Antiques Atlas ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": "Bridgend Antiques"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-art",
+          "urls": [
+            "http://demo.local/assets/antique-still-life.png"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#silver-art",
+          "urls": [
+            "http://demo.local/assets/silver-study.png"
+          ],
+          "section": "selling",
+          "focus": "50% 52%"
+        },
+        {
+          "kind": "image",
+          "selector": "#objects-art",
+          "urls": [
+            "http://demo.local/assets/objects-study.png"
+          ],
+          "section": "catalogue",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#showroom-photo",
+          "urls": [
+            "http://demo.local/assets/showroom-public.jpg"
+          ],
+          "section": "visit",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/",
+          "text": "Browse antiques ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-call",
+          "href": "tel:+447966751699",
+          "text": "Call Hector ↗",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-source",
+          "href": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+          "text": "Read the review on Yell ↗",
+          "section": "proof"
+        },
+        {
+          "kind": "path",
+          "selector": "#catalogue-link",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/",
+          "text": "Browse the catalogue ↗",
+          "section": "catalogue"
+        },
+        {
+          "kind": "path",
+          "selector": "#directions",
+          "href": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+          "text": "Find us on Google Maps ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "#mobile",
+          "href": "tel:+447966751699",
+          "text": "07966 751699 ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:+442893341979",
+          "text": "028 9334 1979 ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "#atlas-contact",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+          "text": "Or enquire through Antiques Atlas ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Thinking of selling?",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "#selling-title",
+          "text": "Gold, silver & antiques.",
+          "section": "selling"
+        },
+        {
+          "kind": "fact",
+          "selector": "#catalogue-title",
+          "text": "A little history. A place in your home.",
+          "section": "catalogue"
+        },
+        {
+          "kind": "fact",
+          "selector": "#visit-title",
+          "text": "Step inside Bridgend Antiques.",
+          "section": "visit"
+        },
+        {
+          "kind": "fact",
+          "selector": "#address",
+          "text": "50 Church Road, Ballynure Ballyclare, Co Antrim Northern Ireland, BT39 9UF",
+          "section": "visit"
+        }
+      ],
+      "width": 1440,
+      "height": 3180
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "identity",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 20.5,
+                "width": 174.796875,
+                "height": 42.984375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Bridgend Antiques BALLYNURE · NORTHERN IRELAND",
+              "actualHref": "#hero",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 20.5,
+              "width": 174.796875,
+              "height": 42.984375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Bridgend Antiques BALLYNURE · NORTHERN IRELAND",
+            "actualHref": "#hero",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "selling",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-intro",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 312.03125,
+                "width": 285,
+                "height": 51.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Talk to Hector about your antiques, gold and silver.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hero-intro",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 312.03125,
+              "width": 285,
+              "height": 51.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Talk to Hector about your antiques, gold and silver.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "silver",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#selling-title",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 383.71875,
+                "width": 342,
+                "height": 100.9375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Gold, silver & antiques.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#selling-title",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 383.71875,
+              "width": 342,
+              "height": 100.9375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Gold, silver & antiques.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "mobile",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-call",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 387.21875,
+                "width": 143.359375,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call Hector ↗",
+              "actualHref": "tel:+447966751699",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hero-call",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 387.21875,
+              "width": 143.359375,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Call Hector ↗",
+            "actualHref": "tel:+447966751699",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "mobile-bottom",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#mobile",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 411.515625,
+                "width": 342,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07966 751699 ↗",
+              "actualHref": "tel:+447966751699",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#mobile",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 411.515625,
+              "width": 342,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07966 751699 ↗",
+            "actualHref": "tel:+447966751699",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "landline",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 487.90625,
+                "width": 342,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "028 9334 1979 ↗",
+              "actualHref": "tel:+442893341979",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 487.90625,
+              "width": 342,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "028 9334 1979 ↗",
+            "actualHref": "tel:+442893341979",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "email",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 585.296875,
+                "width": 342,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 585.296875,
+              "width": 342,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "address",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 399.84375,
+                "width": 342,
+                "height": 69.28125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "50 Church Road, Ballynure Ballyclare, Co Antrim Northern Ireland, BT39 9UF",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 399.84375,
+              "width": 342,
+              "height": 69.28125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "50 Church Road, Ballynure Ballyclare, Co Antrim Northern Ireland, BT39 9UF",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "directions",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#directions",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 412.125,
+                "width": 172.75,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Find us on Google Maps ↗",
+              "actualHref": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#directions",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 412.125,
+              "width": 172.75,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Find us on Google Maps ↗",
+            "actualHref": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-quote",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 396.078125,
+                "width": 342,
+                "height": 74.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“Paid us on the spot without any quibble.”",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-quote",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 396.078125,
+              "width": 342,
+              "height": 74.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“Paid us on the spot without any quibble.”",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review-source",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-source",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 411.953125,
+                "width": 150.96875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read the review on Yell ↗",
+              "actualHref": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-source",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 411.953125,
+              "width": 150.96875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read the review on Yell ↗",
+            "actualHref": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "catalogue",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#catalogue-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 406.21875,
+                "width": 204.03125,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Browse the catalogue ↗",
+              "actualHref": "https://www.antiques-atlas.com/bridgendantiques/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#catalogue-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 406.21875,
+              "width": 204.03125,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Browse the catalogue ↗",
+            "actualHref": "https://www.antiques-atlas.com/bridgendantiques/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "contact-form",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#atlas-contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 647.296875,
+                "width": 196.5,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Or enquire through Antiques Atlas ↗",
+              "actualHref": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#atlas-contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 647.296875,
+              "width": 196.5,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Or enquire through Antiques Atlas ↗",
+            "actualHref": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "showroom",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#showroom-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 384.75,
+                "width": 342,
+                "height": 97.703125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/showroom-public.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#showroom-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 384.75,
+              "width": 342,
+              "height": 97.703125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/showroom-public.jpg"
+            ]
+          }
+        },
+        {
+          "id": "concept-1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-art",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 304.21875,
+                "width": 390,
+                "height": 260
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/antique-still-life.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-art",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 304.21875,
+              "width": 390,
+              "height": 260
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/antique-still-life.png"
+            ]
+          }
+        },
+        {
+          "id": "concept-2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#silver-art",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 319.71875,
+                "width": 342,
+                "height": 228
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 52%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/silver-study.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#silver-art",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 319.71875,
+              "width": 342,
+              "height": 228
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 52%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/silver-study.png"
+            ]
+          }
+        },
+        {
+          "id": "concept-3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#objects-art",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 304.21875,
+                "width": 390,
+                "height": 260
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/objects-study.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#objects-art",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 304.21875,
+              "width": 390,
+              "height": 260
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/objects-study.png"
+            ]
+          }
+        },
+        {
+          "id": "hours",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#visit-note",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 412.375,
+                "width": 340,
+                "height": 43.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Please telephone before travelling. We’ll be glad to hear from you.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#visit-note",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 412.375,
+              "width": 340,
+              "height": 43.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Please telephone before travelling. We’ll be glad to hear from you.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#hero-art",
+          "url": "http://demo.local/assets/antique-still-life.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 304.21875,
+              "width": 390,
+              "height": 260
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#silver-art",
+          "url": "http://demo.local/assets/silver-study.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 319.71875,
+              "width": 342,
+              "height": 228
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 52%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#objects-art",
+          "url": "http://demo.local/assets/objects-study.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 304.21875,
+              "width": 390,
+              "height": 260
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#showroom-photo",
+          "url": "http://demo.local/assets/showroom-public.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 384.75,
+              "width": 342,
+              "height": 97.703125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 700,
+          "height": 200
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": "Bridgend Antiques BALLYNURE · NORTHERN IRELAND"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#selling",
+          "text": "Selling"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#visit",
+          "text": "Visit us"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/",
+          "text": "Browse antiques ↗"
+        },
+        {
+          "selector": "#hero-call",
+          "href": "tel:+447966751699",
+          "text": "Call Hector ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#selling",
+          "text": "Explore what we buy ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#visit",
+          "text": "50 Church Road, Ballynure ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#visit",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#review-source",
+          "href": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+          "text": "Read the review on Yell ↗"
+        },
+        {
+          "selector": "#catalogue-link",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/",
+          "text": "Browse the catalogue ↗"
+        },
+        {
+          "selector": "#directions",
+          "href": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+          "text": "Find us on Google Maps ↗"
+        },
+        {
+          "selector": "#mobile",
+          "href": "tel:+447966751699",
+          "text": "07966 751699 ↗"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:+442893341979",
+          "text": "028 9334 1979 ↗"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#atlas-contact",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+          "text": "Or enquire through Antiques Atlas ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": "Bridgend Antiques"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-art",
+          "urls": [
+            "http://demo.local/assets/antique-still-life.png"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#silver-art",
+          "urls": [
+            "http://demo.local/assets/silver-study.png"
+          ],
+          "section": "selling",
+          "focus": "50% 52%"
+        },
+        {
+          "kind": "image",
+          "selector": "#objects-art",
+          "urls": [
+            "http://demo.local/assets/objects-study.png"
+          ],
+          "section": "catalogue",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#showroom-photo",
+          "urls": [
+            "http://demo.local/assets/showroom-public.jpg"
+          ],
+          "section": "visit",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/",
+          "text": "Browse antiques ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-call",
+          "href": "tel:+447966751699",
+          "text": "Call Hector ↗",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-source",
+          "href": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+          "text": "Read the review on Yell ↗",
+          "section": "proof"
+        },
+        {
+          "kind": "path",
+          "selector": "#catalogue-link",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/",
+          "text": "Browse the catalogue ↗",
+          "section": "catalogue"
+        },
+        {
+          "kind": "path",
+          "selector": "#directions",
+          "href": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+          "text": "Find us on Google Maps ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "#mobile",
+          "href": "tel:+447966751699",
+          "text": "07966 751699 ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:+442893341979",
+          "text": "028 9334 1979 ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "#atlas-contact",
+          "href": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+          "text": "Or enquire through Antiques Atlas ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Thinking of selling?",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "#selling-title",
+          "text": "Gold, silver & antiques.",
+          "section": "selling"
+        },
+        {
+          "kind": "fact",
+          "selector": "#catalogue-title",
+          "text": "A little history. A place in your home.",
+          "section": "catalogue"
+        },
+        {
+          "kind": "fact",
+          "selector": "#visit-title",
+          "text": "Step inside Bridgend Antiques.",
+          "section": "visit"
+        },
+        {
+          "kind": "fact",
+          "selector": "#address",
+          "text": "50 Church Road, Ballynure Ballyclare, Co Antrim Northern Ireland, BT39 9UF",
+          "section": "visit"
+        }
+      ],
+      "width": 390,
+      "height": 3564
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

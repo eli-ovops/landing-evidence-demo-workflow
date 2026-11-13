@@ -1,0 +1,254 @@
+{
+  "contractSha256": "96ed60ef485ad2943687d276927c3eae6a8da5301cb92ac8a7b2943457ca07c6",
+  "activeVersion": "demo_20260902/v6/index.html",
+  "manifest": [
+    {
+      "path": "assets/chimney-concept.png",
+      "sha256": "3272930a835d1e19c063795519fcb5b95890ae3bc81ebc3b08a927ad99437eae",
+      "bytes": 2423712
+    },
+    {
+      "path": "assets/craft-concept.png",
+      "sha256": "73349dccf1c4c4390265b4890f751165b1ab4aff783831ff29ac05b204de0813",
+      "bytes": 2558701
+    },
+    {
+      "path": "assets/customer-about.png",
+      "sha256": "bfcf2586507ae6d050550647dab41b0816459203add560d1c2bde1c2b9069ecd",
+      "bytes": 669234
+    },
+    {
+      "path": "assets/customer-contact.png",
+      "sha256": "8ce97b6815c876eb8711a3f2bdee9783f5c6eaa6f257ca8de80f6cb4632e30b0",
+      "bytes": 101514
+    },
+    {
+      "path": "assets/customer-logo.png",
+      "sha256": "8934da858b826cdd114182a42642d338bd7824fed1fe34e9cb459fdd3292c565",
+      "bytes": 165650
+    },
+    {
+      "path": "assets/customer-projects-grid.png",
+      "sha256": "60ac8a34d6fda54315aa3b540d6339591be0b1d5b2d4924c8e6df743bf460582",
+      "bytes": 2033515
+    },
+    {
+      "path": "assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg",
+      "sha256": "d90e9a923a5f9f4eb74d82138d7eee660bae65850c3feb0a59ac7aa19604b192",
+      "bytes": 559461
+    },
+    {
+      "path": "assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg",
+      "sha256": "bf34a21856b1c68918e5fbf757ed0e32119fe94213f148f812f74e5f2dab3752",
+      "bytes": 519968
+    },
+    {
+      "path": "assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg",
+      "sha256": "65596ba7661b7c62767f9e90175dd890ce28c1a349e2c8c8c94a75c21bd59186",
+      "bytes": 473153
+    },
+    {
+      "path": "assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg",
+      "sha256": "3f842fb39a95d16f723250476648aa2e43812dd829d181f87b7ce8346be252e4",
+      "bytes": 763626
+    },
+    {
+      "path": "assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg",
+      "sha256": "689bf46e085bab6fce36bdf3a07fb7c73766ef92ff6f8887b25cd18ee326db3d",
+      "bytes": 388557
+    },
+    {
+      "path": "assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg",
+      "sha256": "9b23fc31e1fd716254b7ffb32186e5a9cd2dc09bca2c6d9fd28f4a71e6d40505",
+      "bytes": 454352
+    },
+    {
+      "path": "assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg",
+      "sha256": "8ccdfba774ba0ecba9c7b9d10a1f14d35a869833c69bebad76828548a949e162",
+      "bytes": 415927
+    },
+    {
+      "path": "assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg",
+      "sha256": "f94f3dacd26233e9e8ed735eb59e27da956313e1adc21c22d23fd9f2191c56e9",
+      "bytes": 492849
+    },
+    {
+      "path": "assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg",
+      "sha256": "d3eb19373fd5629f8b9f93ee9e48473c6d0d147be0b815cf7dfcabeef4147c1c",
+      "bytes": 432423
+    },
+    {
+      "path": "assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg",
+      "sha256": "49b8df8895c397352f96848e3ec29229811a2950cf914954c7fd1b0cab0a90ed",
+      "bytes": 553829
+    },
+    {
+      "path": "assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg",
+      "sha256": "7d9ec537b43ad07c082d4e36564f6ca657c531dfc6f73e6e855fe19f8512e989",
+      "bytes": 581196
+    },
+    {
+      "path": "assets/official/IMG_0315.jpeg",
+      "sha256": "08031b2a2fc23b56bebdd0156864c7bed762f7f78af8da83f35a2ecc8290b626",
+      "bytes": 1174125
+    },
+    {
+      "path": "assets/official/IMG_0316.jpeg",
+      "sha256": "9fa407c5b7b96e0d6ee8fea844cb0bfaf461e4f39b7229adf90f16dc1006ffc1",
+      "bytes": 1281606
+    },
+    {
+      "path": "assets/official/IMG_0317.jpeg",
+      "sha256": "579896e2175135552163d22d002729c74e0c618bf651f66fd35a40f72926e7fb",
+      "bytes": 1166592
+    },
+    {
+      "path": "assets/official/IMG_0798.jpeg",
+      "sha256": "c642bf5a23335291c4b9fa112c29e36027e3b8d66e35fecd81e5090b093a0404",
+      "bytes": 1417618
+    },
+    {
+      "path": "assets/official/IMG_0823.jpeg",
+      "sha256": "c0ee63dfc19dd4091e6d31baf2651ff565d4980fc28d695059c526e8d8e7fa02",
+      "bytes": 1645582
+    },
+    {
+      "path": "assets/official/IMG_0868.jpeg",
+      "sha256": "2c6ec6f0be2daf9298aeb4b16a2fc687858383c00904bc3103aa84df64981edc",
+      "bytes": 1451962
+    },
+    {
+      "path": "assets/official/IMG_0870.jpeg",
+      "sha256": "c1d12f08b88396dcb602c7b58f541ce9c56e498ff7c768e1672e55bc62ecf413",
+      "bytes": 1384008
+    },
+    {
+      "path": "assets/official/IMG_1061.jpeg",
+      "sha256": "62d39eb1f2b39496ea7832579f3e5e378b929f9acbf92b5bc9f6e75d726e1d2b",
+      "bytes": 1240631
+    },
+    {
+      "path": "assets/official/IMG_1070.jpeg",
+      "sha256": "191e6d62718df5eace01894b442a3039e6968472b06fae450abb67748e961a2a",
+      "bytes": 1212754
+    },
+    {
+      "path": "assets/official/IMG_2766.jpeg",
+      "sha256": "b2fdd1b9df4e29fc8a1c7d31d6aa24c7e121e02181f1d937dcd28b9daff8fa83",
+      "bytes": 159720
+    },
+    {
+      "path": "assets/official/IMG_2769.jpeg",
+      "sha256": "d179c71d77ebe8702b5ce10892e7aaf5b691ec3051de4c60732b827ea1d7c23c",
+      "bytes": 170019
+    },
+    {
+      "path": "assets/official/IMG_2770.jpeg",
+      "sha256": "77dfb1ad2dc60edd90292b899f652ff8695b3b237b9b177b93f5a7837b0e2620",
+      "bytes": 174284
+    },
+    {
+      "path": "assets/official/IMG_2773.jpeg",
+      "sha256": "3fb0dcd240c9f351b227ed714cbd2dc268a7e2cecf97158c3af1043dd3583c91",
+      "bytes": 234969
+    },
+    {
+      "path": "assets/official/IMG_2870.jpeg",
+      "sha256": "2e68f5d4acb0ddecd6128aa67093e82f5c211466fdb1f181cfde6f8addcb1915",
+      "bytes": 73685
+    },
+    {
+      "path": "assets/official/IMG_3003.jpeg",
+      "sha256": "8dc0b3a18680e078c3eadd37db6c0d65d40506aa5af8c0c8020e8f66fb7c60e6",
+      "bytes": 528873
+    },
+    {
+      "path": "assets/official/IMG_3143.jpeg",
+      "sha256": "a9ab3b8579fc196b2e878b800f94979d018740862e46ba33a7de0c81a8b648c0",
+      "bytes": 183762
+    },
+    {
+      "path": "assets/official/IMG_3146.jpeg",
+      "sha256": "4c803a26daba7f69e1c0dba9a4419948f12694fce95ee78832b42d0f9ac9e931",
+      "bytes": 174342
+    },
+    {
+      "path": "assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg",
+      "sha256": "99a3a48b9fdd8a11b0fcbc644f315e6a9658ed5f0d66ee99d6fa3dc780c4d971",
+      "bytes": 513466
+    },
+    {
+      "path": "assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg",
+      "sha256": "c3e708037d37e757456faedee3c0258909b912a7596b81a4132e013378c7f101",
+      "bytes": 399321
+    },
+    {
+      "path": "assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg",
+      "sha256": "2ad2d7e6be975bc8860f8638f09a6b2dab9da0e1eb9651627fef7aa541f07d5f",
+      "bytes": 670799
+    },
+    {
+      "path": "assets/official-hero.jpeg",
+      "sha256": "2e68f5d4acb0ddecd6128aa67093e82f5c211466fdb1f181cfde6f8addcb1915",
+      "bytes": 73685
+    },
+    {
+      "path": "assets/stonework-concept.png",
+      "sha256": "39764d0d0db08eef8295c943880cb1982416a3c46a237db35daf5692323d8dbf",
+      "bytes": 3346426
+    },
+    {
+      "path": "index.html",
+      "sha256": "83a7328c8d013752a633f6f2bfdab9677f7892672894771132fe2adf4d58aa2d",
+      "bytes": 9211
+    },
+    {
+      "path": "logo-fix.css",
+      "sha256": "aa76c151b2d9943d7216d40b39a0ccc5b4053ebe87de668f4b9afb2fbc0b4497",
+      "bytes": 257
+    },
+    {
+      "path": "mobile-polish.css",
+      "sha256": "e4821b71630119d2d15e109dfaca844a07b05590819ef88413f16841a045d0f9",
+      "bytes": 224
+    },
+    {
+      "path": "output/playwright/lilux-v6-email-preview-desktop-1440x900.png",
+      "sha256": "ad01a6e192c292db17afc7e7fca095914971e9357668d6f93bc724519588f2c9",
+      "bytes": 1798024
+    },
+    {
+      "path": "style.css",
+      "sha256": "3a356cc775af2c52f7a79f83b4f960db2d376883b5911d340cf6c831776d3940",
+      "bytes": 12017
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "sha256": "95556d89a0a23b614c6b74d2a2050a276bf3fd56037e057651a02209ba32f3b1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "7ed4cf58cb7af8e6cee86305726ff65d9a2ca40d778711dd819806fd2c132a4b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "sha256": "e39f357f8e51ed188bf82a2cc8c127ad2cf8316c21f75fb36cedfc5b97679755"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

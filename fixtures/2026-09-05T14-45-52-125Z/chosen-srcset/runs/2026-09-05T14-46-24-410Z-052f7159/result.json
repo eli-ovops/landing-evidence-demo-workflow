@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:46:26.404Z",
+  "owner": "fixture-owner",
+  "client": "chosen-srcset",
+  "activeVersion": "active",
+  "inputHash": "f7659a0f0781d0a455488e474a17fd93d96860db5adc7dccc0852b8de535eb28",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "#real",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "#real",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "71c5574dac80cb7d6d0b043e78909609d20038e8d3cf2f086271e00f908af085"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "2eb5cf6b36a19bff0700271516a966c861b1063dcc28612898d4ae2ebd6acb3b"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "8cd997da5d2e4b41eee8b5832c8a48b3c7575c7eb85cc57c9625de4853d12402"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "a56f193733be1882860a657625994a782e74286bf5ac09c6d472f179b94cba9d"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "2f11d3a97a58fa156b2924e489ee071db852967643dd36396d2834f19d85bc12"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "a51869ab8de7662dd394ffbfe04e3c0ebec87e3ef01683b61ed4a9d7b4f79e74"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "142c052092bdf194e506c5d2c653766ea23ee115b17808395ef9071f6ebeed5c"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

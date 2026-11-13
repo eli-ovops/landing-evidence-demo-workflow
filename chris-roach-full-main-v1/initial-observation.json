@@ -1,0 +1,1297 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "#hero-photo",
+          "url": "http://demo.local/assets/photo-1.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 731.203125,
+              "y": 128,
+              "width": 628.796875,
+              "height": 471.59375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#wallpaper-photo",
+          "url": "http://demo.local/assets/photo-2.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 162.09375,
+              "width": 450,
+              "height": 600
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#interior-photo",
+          "url": "http://demo.local/assets/photo-10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 577.25,
+              "y": 215.09375,
+              "width": 370.375,
+              "height": 493.828125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#kitchen-photo",
+          "url": "http://demo.local/assets/photo-4.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 989.625,
+              "y": 215.09375,
+              "width": 370.359375,
+              "height": 493.8125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#care-photo",
+          "url": "http://demo.local/assets/photo-3.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 216.8125,
+              "width": 653.46875,
+              "height": 490.09375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#van",
+          "url": "http://demo.local/assets/photo-0.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 418.640625,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 184,
+          "height": 200
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Selected work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#care",
+          "text": "Working with Chris"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#contact",
+          "text": "Let's talk about your home ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-1.jpg",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#wallpaper",
+          "text": "Wallpapering ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#interiors",
+          "text": "Interior decorating ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#kitchens",
+          "text": "Hand-painted kitchens ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your wallpapering ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your room ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your kitchen ↗"
+        },
+        {
+          "selector": "#more-work-link",
+          "href": "more-work.html",
+          "text": "Explore more of Chris's work ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+          "text": "business profile"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+          "text": "Read all reviews and trader replies ↗"
+        },
+        {
+          "selector": "#write-review",
+          "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+          "text": "Leave a review on Which? ↗"
+        },
+        {
+          "selector": "#sort-newest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+          "text": "Newest"
+        },
+        {
+          "selector": "#sort-oldest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+          "text": "Oldest"
+        },
+        {
+          "selector": "#sort-highest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+          "text": "Highest rated"
+        },
+        {
+          "selector": "#sort-lowest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+          "text": "Lowest rated"
+        },
+        {
+          "selector": "#review-verification",
+          "href": "https://trustedtraders.which.co.uk/faqs/",
+          "text": "How reviews are checked"
+        },
+        {
+          "selector": "#conduct",
+          "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+          "text": "Which? Code of Conduct"
+        },
+        {
+          "selector": "#review-terms",
+          "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+          "text": "Which? terms"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#hamuch-quote",
+          "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+          "text": "Request a quote through HaMuch ↗"
+        },
+        {
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗"
+        },
+        {
+          "selector": "#original-map",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+          "text": "View the Which? location map ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-photo",
+          "urls": [
+            "http://demo.local/assets/photo-1.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#wallpaper-photo",
+          "urls": [
+            "http://demo.local/assets/photo-2.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-photo",
+          "urls": [
+            "http://demo.local/assets/photo-10.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-photo",
+          "urls": [
+            "http://demo.local/assets/photo-4.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#care-photo",
+          "urls": [
+            "http://demo.local/assets/photo-3.jpg"
+          ],
+          "section": "care",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#van",
+          "urls": [
+            "http://demo.local/assets/photo-0.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-1.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-1.jpg",
+          "text": "",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-2.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/assets/photo-10.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/assets/photo-4.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#more-work-link",
+          "path": "/more-work.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#more-work-link",
+          "href": "more-work.html",
+          "text": "Explore more of Chris's work ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-3.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+          "text": "business profile",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+          "text": "Read all reviews and trader replies ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#write-review",
+          "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+          "text": "Leave a review on Which? ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-newest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+          "text": "Newest",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-oldest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+          "text": "Oldest",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-highest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+          "text": "Highest rated",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-lowest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+          "text": "Lowest rated",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-verification",
+          "href": "https://trustedtraders.which.co.uk/faqs/",
+          "text": "How reviews are checked",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#conduct",
+          "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+          "text": "Which? Code of Conduct",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-terms",
+          "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+          "text": "Which? terms",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hamuch-quote",
+          "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+          "text": "Request a quote through HaMuch ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#original-map",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+          "text": "View the Which? location map ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "A home with colour. A finish with care.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Paint, paper & a fresh perspective.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Wallpapering",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Interior decorating",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Hand-painted kitchens",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The care behind the finish.",
+          "section": "care"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From customers' homes.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A bedroom refreshed.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Care for a high-ceiling room.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What would you like to refresh?",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A useful starting point",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Ruislip based. Locally focused.",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 4228
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "#hero-photo",
+          "url": "http://demo.local/assets/photo-1.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.859375,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#wallpaper-photo",
+          "url": "http://demo.local/assets/photo-2.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 226.453125,
+              "width": 311.5,
+              "height": 415.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#interior-photo",
+          "url": "http://demo.local/assets/photo-10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 333.28125,
+              "width": 151.796875,
+              "height": 202.390625
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#kitchen-photo",
+          "url": "http://demo.local/assets/photo-4.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 332.578125,
+              "width": 151.796875,
+              "height": 202.390625
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#care-photo",
+          "url": "http://demo.local/assets/photo-3.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.40625,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#van",
+          "url": "http://demo.local/assets/photo-0.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 471.375,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 184,
+          "height": 200
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Selected work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#care",
+          "text": "Working with Chris"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#contact",
+          "text": "Let's talk about your home ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-1.jpg",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#wallpaper",
+          "text": "Wallpapering ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#interiors",
+          "text": "Interior decorating ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#kitchens",
+          "text": "Hand-painted kitchens ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your wallpapering ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your room ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your kitchen ↗"
+        },
+        {
+          "selector": "#more-work-link",
+          "href": "more-work.html",
+          "text": "Explore more of Chris's work ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+          "text": "business profile"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+          "text": "Read all reviews and trader replies ↗"
+        },
+        {
+          "selector": "#write-review",
+          "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+          "text": "Leave a review on Which? ↗"
+        },
+        {
+          "selector": "#sort-newest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+          "text": "Newest"
+        },
+        {
+          "selector": "#sort-oldest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+          "text": "Oldest"
+        },
+        {
+          "selector": "#sort-highest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+          "text": "Highest rated"
+        },
+        {
+          "selector": "#sort-lowest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+          "text": "Lowest rated"
+        },
+        {
+          "selector": "#review-verification",
+          "href": "https://trustedtraders.which.co.uk/faqs/",
+          "text": "How reviews are checked"
+        },
+        {
+          "selector": "#conduct",
+          "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+          "text": "Which? Code of Conduct"
+        },
+        {
+          "selector": "#review-terms",
+          "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+          "text": "Which? terms"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#hamuch-quote",
+          "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+          "text": "Request a quote through HaMuch ↗"
+        },
+        {
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗"
+        },
+        {
+          "selector": "#original-map",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+          "text": "View the Which? location map ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-photo",
+          "urls": [
+            "http://demo.local/assets/photo-1.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#wallpaper-photo",
+          "urls": [
+            "http://demo.local/assets/photo-2.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-photo",
+          "urls": [
+            "http://demo.local/assets/photo-10.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-photo",
+          "urls": [
+            "http://demo.local/assets/photo-4.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#care-photo",
+          "urls": [
+            "http://demo.local/assets/photo-3.jpg"
+          ],
+          "section": "care",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#van",
+          "urls": [
+            "http://demo.local/assets/photo-0.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-1.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-1.jpg",
+          "text": "",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-2.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/assets/photo-10.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/assets/photo-4.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#more-work-link",
+          "path": "/more-work.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#more-work-link",
+          "href": "more-work.html",
+          "text": "Explore more of Chris's work ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-3.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+          "text": "business profile",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+          "text": "Read all reviews and trader replies ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#write-review",
+          "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+          "text": "Leave a review on Which? ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-newest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+          "text": "Newest",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-oldest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+          "text": "Oldest",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-highest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+          "text": "Highest rated",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-lowest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+          "text": "Lowest rated",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-verification",
+          "href": "https://trustedtraders.which.co.uk/faqs/",
+          "text": "How reviews are checked",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#conduct",
+          "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+          "text": "Which? Code of Conduct",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-terms",
+          "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+          "text": "Which? terms",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hamuch-quote",
+          "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+          "text": "Request a quote through HaMuch ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#original-map",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+          "text": "View the Which? location map ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "A home with colour. A finish with care.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Paint, paper & a fresh perspective.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Wallpapering",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Interior decorating",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Hand-painted kitchens",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The care behind the finish.",
+          "section": "care"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From customers' homes.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A bedroom refreshed.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Care for a high-ceiling room.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What would you like to refresh?",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A useful starting point",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Ruislip based. Locally focused.",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 5334
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

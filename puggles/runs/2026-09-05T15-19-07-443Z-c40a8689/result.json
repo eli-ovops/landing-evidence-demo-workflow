@@ -1,0 +1,405 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:19:13.897Z",
+  "owner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "client": "Puggles Bath & Groom",
+  "activeVersion": "demo_20260902/index.html",
+  "inputHash": "9c0c71d60fe03adc52a16f561e8854db2516a19d1288c7364495ecfc98700b61",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "desktop",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I2",
+      "detail": "Expected {\"selector\":\".feature-bath img\",\"assetId\":\"A2\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I3",
+      "detail": "Expected {\"selector\":\".care-visual img\",\"assetId\":\"A3\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I9",
+      "detail": "Expected {\"selector\":\"#hero-title\",\"text\":\"Professional dog grooming in Reading.\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I10",
+      "detail": "Expected {\"selector\":\".review-chip\",\"text\":\"381+ Reviews\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I14",
+      "detail": "Expected {\"selector\":\".footer-links a[href*='facebook.com/pugglesdoggrooming']\",\"text\":\"Facebook\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": ".photo-hero .primary-button",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "desktop",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "mobile",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I2",
+      "detail": "Expected {\"selector\":\".feature-bath img\",\"assetId\":\"A2\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I3",
+      "detail": "Expected {\"selector\":\".care-visual img\",\"assetId\":\"A3\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I10",
+      "detail": "Expected {\"selector\":\".review-chip\",\"text\":\"381+ Reviews\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I14",
+      "detail": "Expected {\"selector\":\".footer-links a[href*='facebook.com/pugglesdoggrooming']\",\"text\":\"Facebook\"}",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": ".photo-hero .primary-button",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "mobile",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "REMOTE_RESOURCE_LIMITATION",
+      "target": "desktop",
+      "detail": "document GET https://www.google.com/maps?q=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA&output=embed; destination behavior not verified",
+      "level": "LIMITATION",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "REMOTE_RESOURCE_LIMITATION",
+      "target": "mobile",
+      "detail": "document GET https://www.google.com/maps?q=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA&output=embed; destination behavior not verified",
+      "level": "LIMITATION",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "findingSummary": {
+    "contract": [
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I2",
+        "detail": "Expected {\"selector\":\".feature-bath img\",\"assetId\":\"A2\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I3",
+        "detail": "Expected {\"selector\":\".care-visual img\",\"assetId\":\"A3\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I9",
+        "detail": "Expected {\"selector\":\"#hero-title\",\"text\":\"Professional dog grooming in Reading.\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I10",
+        "detail": "Expected {\"selector\":\".review-chip\",\"text\":\"381+ Reviews\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I14",
+        "detail": "Expected {\"selector\":\".footer-links a[href*='facebook.com/pugglesdoggrooming']\",\"text\":\"Facebook\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I2",
+        "detail": "Expected {\"selector\":\".feature-bath img\",\"assetId\":\"A2\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I3",
+        "detail": "Expected {\"selector\":\".care-visual img\",\"assetId\":\"A3\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I10",
+        "detail": "Expected {\"selector\":\".review-chip\",\"text\":\"381+ Reviews\"}",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I14",
+        "detail": "Expected {\"selector\":\".footer-links a[href*='facebook.com/pugglesdoggrooming']\",\"text\":\"Facebook\"}",
+        "level": "UNKNOWN"
+      }
+    ],
+    "page": [
+      {
+        "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+        "target": ".photo-hero .primary-button",
+        "detail": "Core CTA not within first screen",
+        "level": "FAIL"
+      },
+      {
+        "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+        "target": ".photo-hero .primary-button",
+        "detail": "Core CTA not within first screen",
+        "level": "FAIL"
+      }
+    ],
+    "external": [
+      {
+        "code": "BACKGROUND_PAINT_REVIEW",
+        "target": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+        "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "EMBED_UNVERIFIED",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > iframe:nth-of-type(1)",
+        "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "BACKGROUND_PAINT_REVIEW",
+        "target": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+        "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "EMBED_UNVERIFIED",
+        "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > iframe:nth-of-type(1)",
+        "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "REMOTE_RESOURCE_LIMITATION",
+        "target": "desktop",
+        "detail": "document GET https://www.google.com/maps?q=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA&output=embed; destination behavior not verified",
+        "level": "LIMITATION"
+      },
+      {
+        "code": "REMOTE_RESOURCE_LIMITATION",
+        "target": "mobile",
+        "detail": "document GET https://www.google.com/maps?q=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA&output=embed; destination behavior not verified",
+        "level": "LIMITATION"
+      }
+    ],
+    "reconciliationByTarget": {
+      "I2": {
+        "codes": [
+          "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "I3": {
+        "codes": [
+          "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "I9": {
+        "codes": [
+          "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "I10": {
+        "codes": [
+          "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "I14": {
+        "codes": [
+          "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      }
+    }
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "c417e6741400b2dd80e2fbc288da92d4041fec22999ade9eab52bb91864a488d"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "c8ddd75c9496d380b7e69858d37fa9fc74893b9efb0a29a375cb39957bfcc8a7"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "0e953571bf0da55c9f0a416e479c2523ca4bffc58534916cfe4bf51aa571a514"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "79980975e85854a6f6fcc3b161df45522b64dfff028b28892710acc7c9441d22"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "619bac30b0b16275c772d4ca8265b24c2caea72b971a65e84a863e47d04c9de2"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "ec60d84f330777db377a61bf8fa0dbb8d26d1bab70e011222d63633096de3a28"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "f028d1b8c715f7dd60f93dee77bf639df66064a457a649b86fe70af3afde9a13"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "d8fa513918055b4593b9295f419e35be9512e8f41d7a4f08c1027077999cbabb"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "d1c67f09b4dbbdabc58fc5c8b41edc517cd4a8cdc2ac838a53791f434304c4ef"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "c6f7935437648915f441165ef024ad49dfe01ee7d5a57851dd832976d131345f"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "b0e5ac44550b02f9e395110b0b839507f6580429f0b3d9e474f02d6d55bddd3f"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "a440b39db4fcf1af515aa86d6f57fce0840b271c5630967fcf9599f415c0204c"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "86f98400ef8c747da65ef0ef12966322601ac1d2346570b826e15ccbb3907e55"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "0de96a4e1c28ef843b53eefa1bd9edf83406f5c14da2e861e651b0b8cc7a07fd"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "2573769200147654e3f362a9ad40a8135a165af6395061ef62bf3081cf5520aa"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "b7656df1bf30b737f3794b841fa695ccb750e7231c2bb997d5d91199cebbaa91"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "8454ffceae55bf1ea0e9faa867946c4b493e4fb4a92a521c09038c3b3857620e"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "176f6ecbec1974985416f5ca92c37ce611702c9d5116d8d15e1ebbe25869bbd1"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

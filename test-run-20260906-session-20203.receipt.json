@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "capturedFrom": "exec_command/write_stdin direct tool results",
+  "command": "node --test --test-concurrency=1 tools/demo-workflow/test.mjs",
+  "workdir": "/Volumes/EXTERNAL/海外落地页",
+  "sessionId": 20203,
+  "chunks": [
+    {"chunkId": "354341", "wallTimeSeconds": 30.001860333, "exitCode": null},
+    {"chunkId": "5b5590", "wallTimeSeconds": 30.004133625, "exitCode": null},
+    {"chunkId": "fbe839", "wallTimeSeconds": 24.029343084, "exitCode": 0}
+  ],
+  "stdoutPath": "test-run-20260906-session-20203.tap",
+  "stderr": "",
+  "result": {"exitCode": 0, "tests": 12, "pass": 12, "fail": 0, "durationMs": 95418.317208}
+}

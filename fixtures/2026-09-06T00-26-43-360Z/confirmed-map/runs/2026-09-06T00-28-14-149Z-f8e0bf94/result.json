@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T00:28:15.985Z",
+  "owner": "fixture-owner",
+  "client": "confirmed-map",
+  "activeVersion": "active",
+  "inputHash": "4cf126e000a6fc337d4dace455e282f297e94611e11dfa0821f522f8d0f29f51",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-map",
+      "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-social",
+      "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HORIZONTAL_OVERFLOW",
+      "target": "document",
+      "detail": "624 > required viewport 390",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-logo",
+        "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-logo",
+        "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-fact",
+        "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-map",
+        "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-social",
+        "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "HORIZONTAL_OVERFLOW",
+        "target": "document",
+        "detail": "624 > required viewport 390",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "d589a64325df5788a1e57bbd7eed1bea513b472a0714dc5ad093a1a3af1b78d3"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "ada0a6b232785aa53f4e4455a4358a398232c2e8a501d36ba14ce72a29f729c7"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "3a16c6b67872d7d3e0a661ab5f78da1808de277400f9cf9bb47e0a989dafbb02"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "74e9fdd19e78da6b8780f19f494bf7d2be82eeb8bde5b2c9f028364d8bf31276"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "b2c19fb6d1072ecaa9e365629156bc5d8a25ff18617cd7eae907ee87359f9181"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "0df8e45cb8a0826dcc6efd80cf73058c1efada26dfdeb5da2c0827c6f8190b01"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "6856131ec7050d27d12271c2707c0b43b0ff6afe7d1b4bdf3fb07e167058abc0"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "cec452ce7ef1af230341f673534367b603ff4836af78794ebd6c74224647c71c"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

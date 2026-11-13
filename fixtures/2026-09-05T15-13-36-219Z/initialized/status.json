@@ -1,0 +1,7 @@
+{
+  "phase": "进行中",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "scheduler": false,
+  "nextAction": "Owner reconcile source candidates/grade/facts/hero against materials, implement then run; do not ask user to fill contract"
+}

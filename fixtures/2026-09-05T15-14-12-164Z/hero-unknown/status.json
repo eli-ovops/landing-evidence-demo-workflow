@@ -1,0 +1,9 @@
+{
+  "phase": "进行中",
+  "activeVersion": "active",
+  "owner": "fixture-owner",
+  "inputHash": "60dc86b5fcc88a803fd4905053234f65d6654331db4d55fbe88c1fd06822e4f8",
+  "scheduler": false,
+  "nextAction": "Current attempt browser checks",
+  "attempt": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-14-12-164Z/hero-unknown/runs/2026-09-05T15-15-36-725Z-d9cab123"
+}

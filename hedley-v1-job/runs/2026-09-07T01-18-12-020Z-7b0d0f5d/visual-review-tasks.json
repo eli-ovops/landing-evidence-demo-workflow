@@ -1,0 +1,117 @@
+{
+  "inputHash": "f141ab916484ff46d458a390a0d37bf10cda0d05dbbf1fa5104a5af3d45c2f3f",
+  "assets": [
+    {
+      "assetId": "G01",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/originals/hero.png",
+      "originalSha256": "ebb1f2a9a823033aced5f3d76a9b49be488f55c8d526dbce8811710392c89e38",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/hero.jpg",
+      "sha256": "bc852e85cfd9baf2881ec1aa357ed2c40e7039e6b09bf3ebe82cd605c6076d33",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "role": "Outdoor landscaping recognition and hero atmosphere",
+      "selectors": [
+        "#hero .hero-image"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "G02",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/originals/patio.png",
+      "originalSha256": "2e678acb944c9a361c9cb13e206adf0f1d48aa089d95c5ab658e459f276481da",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/patio.jpg",
+      "sha256": "f8c451d395b2a4dee6d1b1eb4beed70a7537a0f6e3667bae63678296a564eb7a",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "role": "Patio and path stone material selection",
+      "selectors": [
+        ".service-patio img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "G03",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/originals/drive.png",
+      "originalSha256": "2db21e3092536b91b7bd1a375077cc90afff0bcd803467fee6595ef3003733e4",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/drive.jpg",
+      "sha256": "18f7d77a35dc9093cb3ca3cbccd41778c2af1d4a5aa7c7d3ebfcc1050576d3c1",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "role": "Resin drive and path material differentiation",
+      "selectors": [
+        ".service-drive img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "G04",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/originals/boundary.png",
+      "originalSha256": "cfdcb78d52a943e0d4327544918bf46f96f97d54306da2e014945d9ca0772ea9",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/boundary.jpg",
+      "sha256": "793a04abcb4298b679501b4ea5ded11af711cfe989d899927e904854706e52fd",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "role": "Wall and fencing boundary service recognition",
+      "selectors": [
+        ".service-boundary img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "G05",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/originals/closing.png",
+      "originalSha256": "da13d51537907756f0aad39c8767ed362c48cbf1737118fe5efab8b6bfbb500b",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/closing.jpg",
+      "sha256": "55e9b6482213cec975aeb39932131193de846e5d2af8c0a2c1e0212a33530fb9",
+      "focus": "Complete readable material detail; no person or logo; compare exact original and rendered crop",
+      "role": "Garden detail visual reward and local enquiry closing",
+      "selectors": [
+        "#contact img",
+        "#contact img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "R01",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/council-garden.jpg",
+      "originalSha256": "22daba4c6f3fb712a366629e07e0575398bb46339682874347121bba81cc547a",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/demo/assets/council-garden.jpg",
+      "sha256": "22daba4c6f3fb712a366629e07e0575398bb46339682874347121bba81cc547a",
+      "focus": "Full uncropped image including terrace, steps and existing sign; no reconstruction",
+      "role": "Patio service real photographic context from trader listing",
+      "selectors": [
+        ".service-patio img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

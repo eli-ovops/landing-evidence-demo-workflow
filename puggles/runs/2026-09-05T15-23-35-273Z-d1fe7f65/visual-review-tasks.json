@@ -1,0 +1,150 @@
+{
+  "inputHash": "bd3d7b6d4e5dbb67d723b7ed670d7872d7a4570e66646bfb8acfb1af906415e6",
+  "assets": [
+    {
+      "assetId": "A1",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/puggles-logo.png",
+      "originalSha256": "2dd648d233d3f8239fa994166252f081a38679052ec16d4e9f199322fb088d93",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/puggles-logo.png",
+      "sha256": "2dd648d233d3f8239fa994166252f081a38679052ec16d4e9f199322fb088d93",
+      "focus": "full mark",
+      "role": "brand",
+      "selectors": [
+        ".brand-logo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A2",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-dog-bath.jpeg",
+      "originalSha256": "a12b20eb6b52d3cf497d1f7376850423ef0b23110eeae7ed2ef4546889e53e6e",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-dog-bath.jpeg",
+      "sha256": "a12b20eb6b52d3cf497d1f7376850423ef0b23110eeae7ed2ef4546889e53e6e",
+      "focus": "dog and bath",
+      "role": "service atmosphere",
+      "selectors": [
+        ".feature-bath img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A3",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-towel-dog.jpg",
+      "originalSha256": "207cbf31e45caa201bbbfffcbd98fe9726d40e78b5db7294ca99815d1df35533",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-towel-dog.jpg",
+      "sha256": "207cbf31e45caa201bbbfffcbd98fe9726d40e78b5db7294ca99815d1df35533",
+      "focus": "towel dog",
+      "role": "care atmosphere",
+      "selectors": [
+        ".care-visual img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A4",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-bathtub-dog.jpeg",
+      "originalSha256": "3dbc75489b44a371e58015b3fc5b5f6be3d07f95c34699f664755c6e4b910d43",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-bathtub-dog.jpeg",
+      "sha256": "3dbc75489b44a371e58015b3fc5b5f6be3d07f95c34699f664755c6e4b910d43",
+      "focus": "dog bath edge",
+      "role": "closing atmosphere",
+      "selectors": [
+        ".call-image img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A5",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-group-dogs.jpeg",
+      "originalSha256": "2a941c51ae4ec5649a1b38dcdb8902cbdf6f5b08f7b3a90283f390da71f9c05c",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-group-dogs.jpeg",
+      "sha256": "2a941c51ae4ec5649a1b38dcdb8902cbdf6f5b08f7b3a90283f390da71f9c05c",
+      "focus": "dog faces centre 47%",
+      "role": "hero atmosphere",
+      "selectors": [
+        ".photo-hero"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A6",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-frankie.webp",
+      "originalSha256": "c0a3dea63b7217975941ff2cbeea6ebc559afd49d4e0df7ccbf338e096d0038c",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-frankie.webp",
+      "sha256": "c0a3dea63b7217975941ff2cbeea6ebc559afd49d4e0df7ccbf338e096d0038c",
+      "focus": "native thumbnail",
+      "role": "board",
+      "selectors": [
+        ".board-card--frankie img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A7",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-aggie.webp",
+      "originalSha256": "fc3baaf7998125630660ffbc51e0b5fab751e30aac9f371030f58280f6b40ae1",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-aggie.webp",
+      "sha256": "fc3baaf7998125630660ffbc51e0b5fab751e30aac9f371030f58280f6b40ae1",
+      "focus": "native thumbnail",
+      "role": "board",
+      "selectors": [
+        ".board-card--aggie img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A8",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-clifford.webp",
+      "originalSha256": "6e7126785d792e74291a2c0c255cda939c8326049b89e14f03e2e1573b60b957",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/assets/official-clifford.webp",
+      "sha256": "6e7126785d792e74291a2c0c255cda939c8326049b89e14f03e2e1573b60b957",
+      "focus": "native thumbnail",
+      "role": "board",
+      "selectors": [
+        ".board-card--clifford img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

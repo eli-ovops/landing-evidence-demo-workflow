@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:49:58.623Z",
+  "owner": "fixture-owner",
+  "client": "bad-background",
+  "activeVersion": "active",
+  "inputHash": "d281bc16dfd0663bf393b79cbb17a342040fbd64efd07902de0fa8d10fce561c",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "224f4d5b459d28866b315b8c8256bd66b428497e1d0a894b4efce160e0007acc"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "74168e2ad2ea107e11cbc03b4f44ee304ac8086715b1eb394fd982f04cbdeea6"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "43338ee18d04b2b3fb99a074e427d9dc5ac05289eb15e3ae723f87b5cd5e2753"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "7a01f882459bba1be8eea2c37705561a4f50525f00175430c37eaf404a4aa297"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "be3d21426a7d0d85e15f0d232fc173e373dc5769d82fbad7a5803daa0f0165b1"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

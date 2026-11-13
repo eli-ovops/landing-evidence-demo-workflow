@@ -1,0 +1,4060 @@
+{
+  "schemaVersion": 1,
+  "client": "Framed Focus",
+  "owner": "01a07f53-70e7-7fb2-bb6b-5c8df904ccf6",
+  "activeVersion": "local-v1",
+  "currentEvidence": "User authorized full replacement remediation; full-replacement/PRE_CODE_ADDENDUM.md, live Yell DOM and review. Historical limited-slice PASS superseded.",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "sha256": "7201ff1d7036ac2a56359338add886db293d4102f6224ad9e6b14d3d85c9b485"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "sha256": "4fd306921b3af2c37121eaeb4e08a35a74874014d5290d9c568e160e7cc27f6b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "sha256": "9fc4e4fd6fe5e14de16f942b4664502f37aa65966bca645222ec4cf7aa08396c"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "B",
+      "url": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Yell",
+      "attribution": "Verified business listing; customer reviews explicitly attributed to Yell, not business authored"
+    },
+    {
+      "id": "S2",
+      "grade": "A",
+      "url": "https://www.facebook.com/Billericayframedfocus/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Facebook",
+      "attribution": "Official business page linked from matching Yell identity"
+    },
+    {
+      "id": "S3",
+      "grade": "C",
+      "url": "https://essex-focus.co.uk/item/framed-focus/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Essex Focus",
+      "attribution": "Third-party business directory; only specific excluded legacy info"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A-facebook-6",
+      "path": "assets/facebook-6.jpg",
+      "originalPath": "assets/facebook-6.jpg",
+      "sha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847",
+      "originalSha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847",
+      "sourceId": "S2",
+      "role": "objects",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "authenticity": "REAL",
+      "rights": "User permitted local independent concept use of official public assets; no transfer or customer rights asserted",
+      "permissionEvidence": "Current project instructions A assets for local concept; explicit user demo authorization"
+    },
+    {
+      "id": "A-logo",
+      "path": "assets/logo.jpg",
+      "originalPath": "assets/logo.jpg",
+      "sha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6",
+      "originalSha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6",
+      "sourceId": "S2",
+      "role": "header",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "authenticity": "REAL",
+      "rights": "User permitted local independent concept use of official public assets; no transfer or customer rights asserted",
+      "permissionEvidence": "Current project instructions A assets for local concept; explicit user demo authorization"
+    },
+    {
+      "id": "A-yell-01",
+      "path": "assets/yell-01.jpg",
+      "originalPath": "assets/yell-01.jpg",
+      "sha256": "7b67e81836fd4ade41af3f58c17a678d29f1492d91125e9119b8d6e937b61b73",
+      "originalSha256": "7b67e81836fd4ade41af3f58c17a678d29f1492d91125e9119b8d6e937b61b73",
+      "sourceId": "S1",
+      "role": "artwork",
+      "focus": "Center; CSS clips baked white padding only, preserving entire photographed scene and complete frame",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; local independent Concept only. Copyright and final transfer UNKNOWN.",
+      "permissionEvidence": "Current user B permission; image-redesign/PRE_CODE_DECISION.md attribution chain and independent reviewer PASS"
+    },
+    {
+      "id": "A-yell-48",
+      "path": "assets/yell-48.jpg",
+      "originalPath": "assets/yell-48.jpg",
+      "sha256": "1ffc2320980840f97121921c5c7a3ed9c4f53eac1faccb3fa0ed53ec473bd991",
+      "originalSha256": "1ffc2320980840f97121921c5c7a3ed9c4f53eac1faccb3fa0ed53ec473bd991",
+      "sourceId": "S1",
+      "role": "hero",
+      "focus": "Center; CSS clips baked white padding only, preserving entire photographed scene and complete frame",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; local independent Concept only. Copyright and final transfer UNKNOWN.",
+      "permissionEvidence": "Current user B permission; image-redesign/PRE_CODE_DECISION.md attribution chain and independent reviewer PASS"
+    },
+    {
+      "id": "A-yell-50",
+      "path": "assets/yell-50.jpg",
+      "originalPath": "assets/yell-50.jpg",
+      "sha256": "4cb9d311c24bf6dea4ea341f43783b488fb644a71210199a7e4ab78c45a68a30",
+      "originalSha256": "4cb9d311c24bf6dea4ea341f43783b488fb644a71210199a7e4ab78c45a68a30",
+      "sourceId": "S1",
+      "role": "closing",
+      "focus": "Center; CSS clips baked white padding only, preserving entire photographed scene and complete frame",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; local independent Concept only. Copyright and final transfer UNKNOWN.",
+      "permissionEvidence": "Current user B permission; image-redesign/PRE_CODE_DECISION.md attribution chain and independent reviewer PASS"
+    },
+    {
+      "id": "A-yell-56",
+      "path": "assets/yell-56.jpg",
+      "originalPath": "assets/yell-56.jpg",
+      "sha256": "8ea7f386ea3e4ecbcda8d923276c551453798aa21b1ca78c33fc024cf579509e",
+      "originalSha256": "8ea7f386ea3e4ecbcda8d923276c551453798aa21b1ca78c33fc024cf579509e",
+      "sourceId": "S1",
+      "role": "shirts",
+      "focus": "Center; CSS clips baked white padding only, preserving entire photographed scene and complete frame",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; local independent Concept only. Copyright and final transfer UNKNOWN.",
+      "permissionEvidence": "Current user B permission; image-redesign/PRE_CODE_DECISION.md attribution chain and independent reviewer PASS"
+    }
+  ],
+  "items": [
+    {
+      "id": "facebook-15",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Superseded displayed photo in authorized image-led revision; original preserved and official gallery path retained; clearer complete-frame/workshop source selected",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-16",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Second angle of same hero artwork, not repeat visual",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-17",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Printed person portraits at lower frame; cleaner shirt8 used",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-18",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Private birthday dedication and identifiable people",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-19",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Private interior with same shirt; not evidence of customer showroom",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-0",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Blurred cover rendition, no usable detail",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-1",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Cover collage duplicates selected work",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-6",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "objects",
+      "selector": "#objects .facebook-6",
+      "reason": "Real display box; label as example, no assumed contents/material guarantee",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A-facebook-6"
+    },
+    {
+      "id": "facebook-7",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Duplicate of17 and other shirt type, not needed",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-8",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Superseded displayed photo in authorized image-led revision; original preserved and official gallery path retained; clearer complete-frame/workshop source selected",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-9",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Duplicate of hero artwork",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-10",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Duplicate of hero artwork",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-11",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Superseded displayed photo in authorized image-led revision; original preserved and official gallery path retained; clearer complete-frame/workshop source selected",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-12",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Personal photographs and private commemorative information",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-13",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Superseded displayed photo in authorized image-led revision; original preserved and official gallery path retained; clearer complete-frame/workshop source selected",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "facebook-14",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Private birthday dedication and identifiable people",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "logo",
+      "category": "image",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "header",
+      "selector": "#header .logo",
+      "reason": "Official business mark unchanged",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A-logo"
+    },
+    {
+      "id": "identity",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "hero",
+      "selector": "#hero",
+      "reason": "Bespoke framing in Billericay",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Billericay"
+    },
+    {
+      "id": "art-services",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "artwork",
+      "selector": "#artwork",
+      "reason": "Art prints photos posters canvas and mount enquiries",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Art, prints"
+    },
+    {
+      "id": "sport-services",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "shirts",
+      "selector": "#shirts",
+      "reason": "Shirts and medals",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "medals"
+    },
+    {
+      "id": "box-services",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "objects",
+      "selector": "#objects",
+      "reason": "Box framing / three dimensional memorabilia",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "box framing"
+    },
+    {
+      "id": "phone",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "contact",
+      "selector": "#phone",
+      "reason": "07881 275088",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "07881 275088"
+    },
+    {
+      "id": "email",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "contact",
+      "selector": "#email",
+      "reason": "[REDACTED_EMAIL]",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "[REDACTED_EMAIL]"
+    },
+    {
+      "id": "address",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "#address",
+      "reason": "1 Beverley Rise Billericay CM11 2HU",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "1 Beverley Rise"
+    },
+    {
+      "id": "facebook",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "closing",
+      "selector": "#facebook",
+      "reason": "Official gallery",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Explore more work on Facebook"
+    },
+    {
+      "id": "reviews",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "proof",
+      "selector": "#reviews",
+      "reason": "Customer accounts of artwork and sentimental shirt reframing",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Read their experiences on Yell"
+    },
+    {
+      "id": "hours",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "TIME-SENSITIVE VERIFY/REPHRASE",
+      "section": "contact",
+      "selector": "#visit-advice",
+      "reason": "Directory Mon-Sat10-17 not assumed current",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Please get in touch before visiting."
+    },
+    {
+      "id": "old-email",
+      "category": "fact",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Malformed old hotmail address excluded",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "map",
+      "category": "fact",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Directory GPS1,1 invalid; address-based map link instead",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "qualifications",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "No verified credentials/material specifications",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "team",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "No confirmed team portrait",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "delivery",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "One review reports delivery not a blanket policy",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "instagram",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Handle not verified; official FB retained",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "process-tip",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "prepare",
+      "selector": "#prepare",
+      "reason": "Prepare photo and sizes appropriate to object; editorial suggestion not existing business promise",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Width and height"
+    },
+    {
+      "id": "other-services",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "artwork",
+      "selector": "#related",
+      "reason": "Certificate embroidery and mount cutting related enquiries",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "canvas stretching"
+    },
+    {
+      "id": "FR-artwork-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#artwork-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Artwork framing"
+    },
+    {
+      "id": "FR-watercolour-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#watercolour-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Watercolour framing"
+    },
+    {
+      "id": "FR-limited-edition-print-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#limited-edition-print-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Limited edition print framing"
+    },
+    {
+      "id": "FR-poster-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#poster-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Poster framing"
+    },
+    {
+      "id": "FR-photo-frames",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#photo-frames",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Photo frames"
+    },
+    {
+      "id": "FR-sports-memorabilia-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#sports-memorabilia-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Sports memorabilia framing"
+    },
+    {
+      "id": "FR-medal-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#medal-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Medal framing"
+    },
+    {
+      "id": "FR-box-frames",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#box-frames",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Box frames"
+    },
+    {
+      "id": "FR-certificate-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#certificate-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Certificate framing"
+    },
+    {
+      "id": "FR-embroidery-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#embroidery-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Embroidery framing"
+    },
+    {
+      "id": "FR-bespoke-framing",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#bespoke-framing",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Bespoke framing"
+    },
+    {
+      "id": "FR-canvas-stretching",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#canvas-stretching",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Canvas stretching"
+    },
+    {
+      "id": "FR-mount-cutting",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#mount-cutting",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Mount cutting"
+    },
+    {
+      "id": "FR-about",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#about",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Framing in Billericay since 2000."
+    },
+    {
+      "id": "FR-opening-hours",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#opening-hours",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Monday\u2013Saturday"
+    },
+    {
+      "id": "FR-payment-methods",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#payment-methods",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "bank transfer"
+    },
+    {
+      "id": "FR-yell-enquiry",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#yell-enquiry",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Send an enquiry on Yell"
+    },
+    {
+      "id": "FR-write-review",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#write-review",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Share your experience on Yell"
+    },
+    {
+      "id": "FR-facebook-reviews",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#facebook-reviews",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Facebook recommendations"
+    },
+    {
+      "id": "FR-all-photos",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#all-photos",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Browse the Facebook photo gallery"
+    },
+    {
+      "id": "FR-yell-gallery",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#yell-gallery",
+      "reason": "Current source content/action carried; external submission receipt remains separately BLOCKED",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "More framing examples on Yell"
+    },
+    {
+      "id": "FR-artwork-examples",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#artwork-examples",
+      "reason": "Expanded official Facebook post; WhatsApp contact explicitly offered; actual messaging not tested",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "graffiti art"
+    },
+    {
+      "id": "FR-sport-examples",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#sport-examples",
+      "reason": "Expanded official Facebook post; WhatsApp contact explicitly offered; actual messaging not tested",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "signed golf flags"
+    },
+    {
+      "id": "FR-object-examples",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#object-examples",
+      "reason": "Expanded official Facebook post; WhatsApp contact explicitly offered; actual messaging not tested",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "vintage wooden printing blocks"
+    },
+    {
+      "id": "FR-case-stories",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#case-stories",
+      "reason": "Expanded official Facebook post; WhatsApp contact explicitly offered; actual messaging not tested",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "See these projects"
+    },
+    {
+      "id": "FR-whatsapp",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#whatsapp",
+      "reason": "Expanded official Facebook post; WhatsApp contact explicitly offered; actual messaging not tested",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Chat on WhatsApp"
+    },
+    {
+      "id": "FR-facebook-message",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "full-replacement",
+      "selector": "#facebook-message",
+      "reason": "Expanded official Facebook post; WhatsApp contact explicitly offered; actual messaging not tested",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Contact Paul on Facebook"
+    },
+    {
+      "id": "yell-00",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-01",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "DIRECT USE",
+      "section": "artwork",
+      "selector": "#artwork .yell-01",
+      "reason": "Complete outer frame and wide mount, no private identity",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A-yell-01"
+    },
+    {
+      "id": "yell-02",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-03",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-04",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-05",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-06",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-07",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-08",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-09",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Interior-led image less useful for making-service recognition",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-10",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-11",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-12",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Interior-led image less useful for making-service recognition",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-13",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Different interior; specific photography attribution weaker than workshop-matched50",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-14",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-15",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-16",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-17",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-18",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-19",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-20",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-21",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-22",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-23",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-24",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Interior-led image less useful for making-service recognition",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-25",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-26",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Interior-led image less useful for making-service recognition",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-27",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Interior-led image less useful for making-service recognition",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-28",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-29",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-30",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-31",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-32",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-33",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-34",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-35",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-36",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-37",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-38",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-39",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-40",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-41",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-42",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-43",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Related composition or same object duplicated elsewhere",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-44",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-45",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Interior-led image less useful for making-service recognition",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-46",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-47",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Related composition or same object duplicated elsewhere",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-48",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "DIRECT USE",
+      "section": "hero",
+      "selector": "#hero .yell-48",
+      "reason": "Workstation with frame moulding samples; clearest craft recognition",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A-yell-48"
+    },
+    {
+      "id": "yell-49",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-50",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "DIRECT USE",
+      "section": "closing",
+      "selector": "#closing .yell-50",
+      "reason": "Complete ornate frame in same window/workbench/sample-wall environment as workshop48 and branded07",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A-yell-50"
+    },
+    {
+      "id": "yell-51",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-52",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-53",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Related composition or same object duplicated elsewhere",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-54",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Strong camera reflection reduces clean frame visibility",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-55",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "",
+      "reason": "Person, personal photograph, dedication or inscription warrants exclusion from this selection",
+      "factState": "SOURCE CLAIM",
+      "applicability": "NO",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "yell-56",
+      "category": "image",
+      "sourceId": "S1",
+      "disposition": "DIRECT USE",
+      "section": "shirts",
+      "selector": "#shirts .yell-56",
+      "reason": "Full signed shirt frame with workshop sample context",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A-yell-56"
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#hero-cta"
+  },
+  "sections": [
+    "#hero",
+    "#work",
+    "#service-directory",
+    "#prepare",
+    "#proof",
+    "#closing"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "UNKNOWN",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 2,
+      "text": "facebook-15,image,S2,DIRECT USE,hero,#hero .facebook-15,\"Full-resolution artwork framing, preserve artist signature; framing example not artwork authorship\""
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 3,
+      "text": "facebook-16,image,S2,EXCLUDE,none,,\"Second angle of same hero artwork, not repeat visual\""
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 4,
+      "text": "facebook-17,image,S2,EXCLUDE,none,,Printed person portraits at lower frame; cleaner shirt8 used"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 5,
+      "text": "facebook-18,image,S2,EXCLUDE,none,,Private birthday dedication and identifiable people"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 6,
+      "text": "facebook-19,image,S2,EXCLUDE,none,,Private interior with same shirt; not evidence of customer showroom"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 7,
+      "text": "facebook-0,image,S2,EXCLUDE,none,,\"Blurred cover rendition, no usable detail\""
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 8,
+      "text": "facebook-1,image,S2,EXCLUDE,none,,Cover collage duplicates selected work"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 9,
+      "text": "facebook-6,image,S2,DIRECT USE,objects,#objects .facebook-6,\"Real display box; label as example, no assumed contents/material guarantee\""
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 10,
+      "text": "facebook-7,image,S2,EXCLUDE,none,,\"Duplicate of17 and other shirt type, not needed\""
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 11,
+      "text": "facebook-8,image,S2,DIRECT USE,shirts,#shirts .facebook-8,Signed shirt framing; no sports affiliation claim; no private inscription visible"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 12,
+      "text": "facebook-9,image,S2,EXCLUDE,none,,Duplicate of hero artwork"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 13,
+      "text": "facebook-10,image,S2,EXCLUDE,none,,Duplicate of hero artwork"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 14,
+      "text": "facebook-11,image,S2,DIRECT USE,closing,#closing .facebook-11,\"Framed illustrated animal artwork; workshop context, no people\""
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 15,
+      "text": "facebook-12,image,S2,EXCLUDE,none,,Personal photographs and private commemorative information"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 16,
+      "text": "facebook-13,image,S2,DIRECT USE,artwork,#artwork .facebook-13,\"Framed film poster; underlying poster rights separate, local concept only\""
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 17,
+      "text": "facebook-14,image,S2,EXCLUDE,none,,Private birthday dedication and identifiable people"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 18,
+      "text": "logo,image,S2,DIRECT USE,header,#header .logo,Official business mark unchanged"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 19,
+      "text": "identity,fact,S1,FACT/PARAPHRASE USE,hero,#hero h1,Bespoke framing in Billericay"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 20,
+      "text": "art-services,fact,S1,FACT/PARAPHRASE USE,artwork,#artwork,Art prints photos posters canvas and mount enquiries"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 21,
+      "text": "sport-services,fact,S1,FACT/PARAPHRASE USE,shirts,#shirts,Shirts and medals"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 22,
+      "text": "box-services,fact,S1,FACT/PARAPHRASE USE,objects,#objects,Box framing / three dimensional memorabilia"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 23,
+      "text": "phone,fact,S2,DIRECT USE,contact,#phone,07881 275088"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 24,
+      "text": "email,fact,S2,DIRECT USE,contact,#email,[REDACTED_EMAIL]"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 25,
+      "text": "address,fact,S1,LOCATION/VISIT USE,contact,#address,1 Beverley Rise Billericay CM11 2HU"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 26,
+      "text": "facebook,fact,S2,DIRECT USE,closing,#facebook,Official gallery"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 27,
+      "text": "reviews,fact,S1,FACT/PARAPHRASE USE,proof,#reviews,Customer accounts of artwork and sentimental shirt reframing"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 28,
+      "text": "hours,fact,S1,TIME-SENSITIVE VERIFY/REPHRASE,contact,#visit-advice,Directory Mon-Sat10-17 not assumed current"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 29,
+      "text": "old-email,fact,S3,EXCLUDE,none,,Malformed old hotmail address excluded"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 30,
+      "text": "map,fact,S3,EXCLUDE,none,,\"Directory GPS1,1 invalid; address-based map link instead\""
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 31,
+      "text": "qualifications,fact,S1,EXCLUDE,none,,No verified credentials/material specifications"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 32,
+      "text": "team,fact,S2,EXCLUDE,none,,No confirmed team portrait"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 33,
+      "text": "delivery,fact,S1,EXCLUDE,none,,One review reports delivery not a blanket policy"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 34,
+      "text": "instagram,fact,S2,EXCLUDE,none,,Handle not verified; official FB retained"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 35,
+      "text": "process-tip,fact,S1,FACT/PARAPHRASE USE,prepare,#prepare,Prepare photo and sizes appropriate to object; editorial suggestion not existing business promise"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 36,
+      "text": "other-services,fact,S1,FACT/PARAPHRASE USE,artwork,#related,Certificate embroidery and mount cutting related enquiries"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 2,
+      "excerpt": "facebook-15,image,S2,EXCLUDE,none,,Superseded displayed photo in authorized image-led revision; original preserved and official gallery path retained; clearer complete-frame/workshop source selected",
+      "excerptSha256": "dc99352c85892eba0c00e218c63ff897dd5279e5cc26af5aa776c6c94d3432b7",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-15"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE2",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 3,
+      "excerpt": "facebook-16,image,S2,EXCLUDE,none,,\"Second angle of same hero artwork, not repeat visual\"",
+      "excerptSha256": "7b54111494a931d29d7c06616e9d2beea95d20d6aad2a1cd9a2fced8ded28d73",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-16"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE3",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 4,
+      "excerpt": "facebook-17,image,S2,EXCLUDE,none,,Printed person portraits at lower frame; cleaner shirt8 used",
+      "excerptSha256": "86a1e4b6d9c54dc0b29b0d9951abce65762f43e3dfb5e5f6b682b255a4e9ed2a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-17"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE4",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 5,
+      "excerpt": "facebook-18,image,S2,EXCLUDE,none,,Private birthday dedication and identifiable people",
+      "excerptSha256": "c9cea4b4abdd432deedff14fad876cfa019265712247efa1c3a90b2554500b83",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-18"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE5",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 6,
+      "excerpt": "facebook-19,image,S2,EXCLUDE,none,,Private interior with same shirt; not evidence of customer showroom",
+      "excerptSha256": "3c818949319d0cf23148bd5666991a0dd60de206205529eec88eb0d6fe2bf0cd",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-19"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE6",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 7,
+      "excerpt": "facebook-0,image,S2,EXCLUDE,none,,\"Blurred cover rendition, no usable detail\"",
+      "excerptSha256": "9bdf9fb9af7883729aa6a01d075eb10d0f7f24240a8fb7e42a6934ba848342ee",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-0"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE7",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 8,
+      "excerpt": "facebook-1,image,S2,EXCLUDE,none,,Cover collage duplicates selected work",
+      "excerptSha256": "76332c73f32b54f3e264597aa185b26881b852fccb7ce4b039540f67da2e0a94",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-1"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE8",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 9,
+      "excerpt": "facebook-6,image,S2,DIRECT USE,objects,#objects .facebook-6,\"Real display box; label as example, no assumed contents/material guarantee\"",
+      "excerptSha256": "8b1b2187aa3638806bad8878f27787718072cae3cea90991367268956900a5b8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-6"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE9",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 10,
+      "excerpt": "facebook-7,image,S2,EXCLUDE,none,,\"Duplicate of17 and other shirt type, not needed\"",
+      "excerptSha256": "8edaf40306ca13f1d9787eef7cc6a781b6fdb2c935539cf64c65e9231a38e084",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-7"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 11,
+      "excerpt": "facebook-8,image,S2,EXCLUDE,none,,Superseded displayed photo in authorized image-led revision; original preserved and official gallery path retained; clearer complete-frame/workshop source selected",
+      "excerptSha256": "12ae46789d50166c5852f9ac6b58c30bcf07114aec3a432c236028435320b765",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-8"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 12,
+      "excerpt": "facebook-9,image,S2,EXCLUDE,none,,Duplicate of hero artwork",
+      "excerptSha256": "1b6aecc2f6304ec5e486f07fee99ba251ff8355580f26261c17af976da4582d6",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-9"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 13,
+      "excerpt": "facebook-10,image,S2,EXCLUDE,none,,Duplicate of hero artwork",
+      "excerptSha256": "7978764a870987511ca3dfbc103f2b88547b2a6ed3a9ba426478ce2fce200c2e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-10"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 14,
+      "excerpt": "facebook-11,image,S2,EXCLUDE,none,,Superseded displayed photo in authorized image-led revision; original preserved and official gallery path retained; clearer complete-frame/workshop source selected",
+      "excerptSha256": "25fef038942e18dda8bbe9bf61cd4c930ed59ed61020fae4695d0cbe6901c782",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-11"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE14",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 15,
+      "excerpt": "facebook-12,image,S2,EXCLUDE,none,,Personal photographs and private commemorative information",
+      "excerptSha256": "9e23256346b3bb71ff1428537b122239d08643176f59e917f8130330117a94ed",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-12"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE15",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 16,
+      "excerpt": "facebook-13,image,S2,EXCLUDE,none,,Superseded displayed photo in authorized image-led revision; original preserved and official gallery path retained; clearer complete-frame/workshop source selected",
+      "excerptSha256": "accf277ea3599d05759968d513d826ef8ca03ea19599a0c5814a62bda0f7e885",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-13"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE16",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 17,
+      "excerpt": "facebook-14,image,S2,EXCLUDE,none,,Private birthday dedication and identifiable people",
+      "excerptSha256": "754403e1f2bdb689650cf2a9dd81ca42234d831b8d260aa1644d04361e2e14bc",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook-14"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE17",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 18,
+      "excerpt": "logo,image,S2,DIRECT USE,header,#header .logo,Official business mark unchanged",
+      "excerptSha256": "92722bb6b9ff74f23cb8af438a69832c98340a50fc2e2e194a483f9cf088bfd6",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "logo"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE18",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 19,
+      "excerpt": "identity,fact,S1,FACT/PARAPHRASE USE,hero,#hero h1,Bespoke framing in Billericay",
+      "excerptSha256": "76b6d57ba630b9b6adae432f151f8efddeec6d451fcf4045305c8dd5d3452868",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "identity"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE19",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 20,
+      "excerpt": "art-services,fact,S1,FACT/PARAPHRASE USE,artwork,#artwork,Art prints photos posters canvas and mount enquiries",
+      "excerptSha256": "b63fb3069ab666b1bb8f1854abe038a4480ae1bd68dd723a62b7999f57fefcc1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "art-services"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE20",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 21,
+      "excerpt": "sport-services,fact,S1,FACT/PARAPHRASE USE,shirts,#shirts,Shirts and medals",
+      "excerptSha256": "6e1ba66ece9469855e2726479c8a44f7ae77db95ae4de6ad86c7027691622f65",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "sport-services"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE21",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 22,
+      "excerpt": "box-services,fact,S1,FACT/PARAPHRASE USE,objects,#objects,Box framing / three dimensional memorabilia",
+      "excerptSha256": "9182fcdc6a807ea4140e6ad944f15c6893ae5b070660db901f0ce15c425bda1e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "box-services"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE22",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 23,
+      "excerpt": "phone,fact,S2,DIRECT USE,contact,#phone,07881 275088",
+      "excerptSha256": "227df7fd81b35a77864de74941e69e327b70783a393f22d4c35496de92bbc732",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "phone"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE23",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 24,
+      "excerpt": "email,fact,S2,DIRECT USE,contact,#email,[REDACTED_EMAIL]",
+      "excerptSha256": "8869fdda2ce33ce2d5327bcc46c08bb901544eb3f8e74b56986f71aafba2796d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "email"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE24",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 25,
+      "excerpt": "address,fact,S1,LOCATION/VISIT USE,contact,#address,1 Beverley Rise Billericay CM11 2HU",
+      "excerptSha256": "56881f077d486ef6f633ff1cf263fd56c75d6520d8e09a2d04460c9493b1a74a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "address"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE25",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 26,
+      "excerpt": "facebook,fact,S2,DIRECT USE,closing,#facebook,Official gallery",
+      "excerptSha256": "1ae3e3b4ec1b92e59e4494286c1ac97ff7f454a00887189b4d8bc7ccecd815f7",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "facebook"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE26",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 27,
+      "excerpt": "reviews,fact,S1,FACT/PARAPHRASE USE,proof,#reviews,Customer accounts of artwork and sentimental shirt reframing",
+      "excerptSha256": "9ba3c77f154e315cc9e59d9387288509c377f28ebc76f98db0c22a746e8f8d80",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "reviews"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE27",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 28,
+      "excerpt": "hours,fact,S1,TIME-SENSITIVE VERIFY/REPHRASE,contact,#visit-advice,Directory Mon-Sat10-17 not assumed current",
+      "excerptSha256": "bd5720363d0a719e7bc2300304f76e74fa2e1065df9ca571721e8f2ff3aedeb1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "hours"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE28",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 29,
+      "excerpt": "old-email,fact,S3,EXCLUDE,none,,Malformed old hotmail address excluded",
+      "excerptSha256": "618665f6a8baca26c84ab92a06b7a7fbc6c70cdf0e3ce7eda3c1d2f04d85c381",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "old-email"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE29",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 30,
+      "excerpt": "map,fact,S3,EXCLUDE,none,,\"Directory GPS1,1 invalid; address-based map link instead\"",
+      "excerptSha256": "9e9a1d3a171a5d027077e492cbd289a184fc11c6e05bfe946ca62caee106b82a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "map"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE30",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 31,
+      "excerpt": "qualifications,fact,S1,EXCLUDE,none,,No verified credentials/material specifications",
+      "excerptSha256": "2b23d1e2c55367014390f3fbb96e728f6a1bba83d7ecadb361703d5182a0fa1c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "qualifications"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE31",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 32,
+      "excerpt": "team,fact,S2,EXCLUDE,none,,No confirmed team portrait",
+      "excerptSha256": "03ae087c5b4f418c0ec3b8ad3729451d45f6099786f8bea96c6385ca494bee66",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "team"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE32",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 33,
+      "excerpt": "delivery,fact,S1,EXCLUDE,none,,One review reports delivery not a blanket policy",
+      "excerptSha256": "a7bdbbdd4e9076b878c2edb292925f072ee08ea2b32a3acbab4498c5593a9302",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "delivery"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE33",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 34,
+      "excerpt": "instagram,fact,S2,EXCLUDE,none,,Handle not verified; official FB retained",
+      "excerptSha256": "2e06e734d3f84915d5834fb455036feec6687bf72d774d20c880530ec7e462f8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "instagram"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE34",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 35,
+      "excerpt": "process-tip,fact,S1,FACT/PARAPHRASE USE,prepare,#prepare,Prepare photo and sizes appropriate to object; editorial suggestion not existing business promise",
+      "excerptSha256": "6b18375ef66ab990264bbd093f7dd4d82d0cfea481ece6da7035d37e70ff6bb8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "process-tip"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "BASE35",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+      "line": 36,
+      "excerpt": "other-services,fact,S1,FACT/PARAPHRASE USE,artwork,#related,Certificate embroidery and mount cutting related enquiries",
+      "excerptSha256": "3d640442570856d2758fc72524e587f8423afc094239a9f2ce9ca208e5511d78",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "other-services"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner reconciled the source-only research row to exact current content or explicit exclusion"
+    },
+    {
+      "id": "FRBASE2",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 2,
+      "excerpt": "FR-artwork-framing,S1,Artwork framing,#artwork-framing",
+      "excerptSha256": "3e2ea8f270e479ece28b746aafa2928c97c44b18d12db27a2c8456ed8976566f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-artwork-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE3",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 3,
+      "excerpt": "FR-watercolour-framing,S1,Watercolour framing,#watercolour-framing",
+      "excerptSha256": "1050bc2336b4e4ea9933ca6b56c689b0e18784c3a2302d7a3086369f725a4b67",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-watercolour-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE4",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 4,
+      "excerpt": "FR-limited-edition-print-framing,S1,Limited edition print framing,#limited-edition-print-framing",
+      "excerptSha256": "dcc8fc68202bd46373d54208b25b15e25c29df4ae4a3d97caa1456471c990504",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-limited-edition-print-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE5",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 5,
+      "excerpt": "FR-poster-framing,S1,Poster framing,#poster-framing",
+      "excerptSha256": "b79085fd576d29c9fefeb1ee41c68661d52e32c4f1c149802166b768d3a80682",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-poster-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE6",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 6,
+      "excerpt": "FR-photo-frames,S1,Photo frames,#photo-frames",
+      "excerptSha256": "a310ef59f26708e786793e8e40d891efa9bd5df83558907566e684536b5db06d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-photo-frames"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE7",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 7,
+      "excerpt": "FR-sports-memorabilia-framing,S1,Sports memorabilia framing,#sports-memorabilia-framing",
+      "excerptSha256": "ce23247208dd5aba9083256357a6b52ece5463140cdb747abe019f9b197307f0",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-sports-memorabilia-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE8",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 8,
+      "excerpt": "FR-medal-framing,S1,Medal framing,#medal-framing",
+      "excerptSha256": "6e96b21308969f29f419c2baf72bb671c4661f41779a690479f75935db5c5a78",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-medal-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE9",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 9,
+      "excerpt": "FR-box-frames,S1,Box frames,#box-frames",
+      "excerptSha256": "142a2569cd61739450d818a50851a0a1887c3191ae67d2dc3a64297f1d95ee02",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-box-frames"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 10,
+      "excerpt": "FR-certificate-framing,S1,Certificate framing,#certificate-framing",
+      "excerptSha256": "cc87afbd156f5b087aa93d541ffaedd8d6504849e8e2173b5c3eb7cbff5b1270",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-certificate-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 11,
+      "excerpt": "FR-embroidery-framing,S1,Embroidery framing,#embroidery-framing",
+      "excerptSha256": "0237bb3ad9ba60a41e0673d7ebc4467eff62d1db8dc070e301afefdedc243b21",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-embroidery-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 12,
+      "excerpt": "FR-bespoke-framing,S1,Bespoke framing,#bespoke-framing",
+      "excerptSha256": "1928069ecb8b0e016c338fd481776aa5d6a215258b87d7b6fe52c7f38fe6e0c1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-bespoke-framing"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 13,
+      "excerpt": "FR-canvas-stretching,S1,Canvas stretching,#canvas-stretching",
+      "excerptSha256": "8a3ee7a951313fb17d7f119854183d3f7c497722b42848edf1dbc158a92955fe",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-canvas-stretching"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE14",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 14,
+      "excerpt": "FR-mount-cutting,S1,Mount cutting,#mount-cutting",
+      "excerptSha256": "e87856b532e6631c5a7593650c8cbd69332d6ad4b8a7cfa72b49f2d9e929f424",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-mount-cutting"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE15",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 15,
+      "excerpt": "FR-about,S1,Framing in Billericay since 2000.,#about",
+      "excerptSha256": "fc6ecc6fa3a985f98afd3065d331bd22269e7c23cf94e92ed5dee227a729122e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-about"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE16",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 16,
+      "excerpt": "FR-opening-hours,S1,Monday\u2013Saturday,#opening-hours",
+      "excerptSha256": "2d7de1e8660e4e5c57e55608ac9cb777978e9e2917fa240f10b357524996c276",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-opening-hours"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE17",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 17,
+      "excerpt": "FR-payment-methods,S1,bank transfer,#payment-methods",
+      "excerptSha256": "31a2279bab569f232618660c755f53d3943388d1e970502d0a3007ffd638cebf",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-payment-methods"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE18",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 18,
+      "excerpt": "FR-yell-enquiry,S1,Send an enquiry on Yell,#yell-enquiry",
+      "excerptSha256": "472c3d6137e99ee6c478caf7836b9ba7900d855dfdcfcbbdda8f270f95549cc8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-yell-enquiry"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE19",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 19,
+      "excerpt": "FR-write-review,S1,Share your experience on Yell,#write-review",
+      "excerptSha256": "cdac8ad7c9a60661a08c673f2278fe36d36b0a31542c2e80ad54745fc7aca04e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-write-review"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE20",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 20,
+      "excerpt": "FR-facebook-reviews,S2,Facebook recommendations,#facebook-reviews",
+      "excerptSha256": "bbdfec6d[REDACTED_PHONE]c02d1da7e1ee50274742513b1fd043f28c44ad4f41ecb",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-facebook-reviews"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE21",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 21,
+      "excerpt": "FR-all-photos,S2,Browse the Facebook photo gallery,#all-photos",
+      "excerptSha256": "b2992de10744235b3d92c160c607d705408fbcbb010d27bc5b9bfe52519442b6",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-all-photos"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE22",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 22,
+      "excerpt": "FR-yell-gallery,S1,More framing examples on Yell,#yell-gallery",
+      "excerptSha256": "eee2f5789bb9e635cb02f407987e2ab5743618b5dafa7925979772175835554b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-yell-gallery"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Current public baseline mapped without asserting external workflow outcome"
+    },
+    {
+      "id": "FRBASE23",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 23,
+      "excerpt": "FR-artwork-examples,S2,graffiti art,#artwork-examples",
+      "excerptSha256": "a63636e36dd5b5c3cf4d05aecd936e951d6224fdb60f16603249b8939764ed0a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-artwork-examples"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Current expanded official post mapped"
+    },
+    {
+      "id": "FRBASE24",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 24,
+      "excerpt": "FR-sport-examples,S2,signed golf flags,#sport-examples",
+      "excerptSha256": "3cafdc2254f6b3afa677eb82861206197a9d558d7948c87ac3b859fa2311254c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-sport-examples"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Current expanded official post mapped"
+    },
+    {
+      "id": "FRBASE25",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 25,
+      "excerpt": "FR-object-examples,S2,vintage wooden printing blocks,#object-examples",
+      "excerptSha256": "6879129615e3f1780fa02629f090717055c73bc2f4707342d66340237d3f9f5e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-object-examples"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Current expanded official post mapped"
+    },
+    {
+      "id": "FRBASE26",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 26,
+      "excerpt": "FR-case-stories,S2,See these projects,#case-stories",
+      "excerptSha256": "42788c06f0d3f01b8838f5fe279242f5c35f4bbe9f6f62c265da199af594de61",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-case-stories"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Current expanded official post mapped"
+    },
+    {
+      "id": "FRBASE27",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 27,
+      "excerpt": "FR-whatsapp,S2,Chat on WhatsApp,#whatsapp",
+      "excerptSha256": "c7c4456ba45ec32f514932be0b7ce217b1ad411d74ec3760a76ab1e5c7d552cb",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-whatsapp"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Current expanded official post mapped"
+    },
+    {
+      "id": "FRBASE28",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+      "line": 28,
+      "excerpt": "FR-facebook-message,S2,Contact Paul on Facebook,#facebook-message",
+      "excerptSha256": "8095a9d30336fcb4adf433318ec6cdcfe8bb0eb4197b19c948b7d9e64dae238a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "FR-facebook-message"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Current expanded official post mapped"
+    },
+    {
+      "id": "IMGBASE2",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 2,
+      "excerpt": "yell-00,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/e9f83080-fcdd-4d3e-b7e9-5058af983c67_image_jpeg.jpg\",13024ef389a9da4c1d97e1948dc491c6da8b90b29bf79805a75e02c0478fb18a,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "b33d3b545c83d23bb0d0ab67c864ba9cc1db2e9d06b443505202209cf602c398",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-00"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE3",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 3,
+      "excerpt": "yell-01,image,S1,DIRECT USE,artwork,#artwork .yell-01,\"Complete outer frame and wide mount, no private identity\",\"https://c.yell.com/t_galleryFit,f_auto/4d9d433a-0970-48f7-8a95-543f39e42cde_image_jpeg.jpg\",7b67e81836fd4ade41af3f58c17a678d29f1492d91125e9119b8d6e937b61b73,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "b16821851a5f617217f94b5c6e6c80ed93b12d20e9fa6edb155f2d89c8dd0b56",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-01"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE4",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 4,
+      "excerpt": "yell-02,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/b91ca84f-9631-4fa1-a568-11158e1cbe5f_image_jpeg.jpg\",ff58d546e46b689f7d9c1f9eb95fa213185b63b1be7bbcdd2ab6efbecf08d2d9,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "34f74280ab5aec3be2364129a18eea5c18f03e0dc3f7c141042547542addc7f0",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-02"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE5",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 5,
+      "excerpt": "yell-03,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/313e635c-fb6f-4426-953d-8dcb5104797e_image_jpeg.jpg\",27cd6016a530f531c194f022f6a00c3d897f9f493d967b1787709f0085111e8c,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "163c6286392cbed75ee28318ae8237839dae73870d6b1ce293e2a7ae0dd5c3fa",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-03"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE6",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 6,
+      "excerpt": "yell-04,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/dc8fc619-bbaa-49f3-818d-0eaf4db9a1e6_image_jpeg.jpg\",baaab2adc256b232f51983312aa30f7a0ad3e5a0f2c3c661f2c0718d347c790b,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "a2408fc8419c470babc66a0f973a79b193a3ad64626150140bd16b69b8055e2b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-04"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE7",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 7,
+      "excerpt": "yell-05,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/1cfdc19c-8cec-4c9b-93a9-675b70e80e75_image_jpeg.jpg\",fa218e6f9cdb179ff76ad59554107db7e511734dc7ac886ea69b9b201d6448df,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "e6b5eeeea87bc2d0e84d18cb4211c112ff41110f250b4308f70022e268ff577b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-05"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE8",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 8,
+      "excerpt": "yell-06,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/445b3dcb-a1d7-49a3-8a07-6bfcbcd55bce_image_jpeg.jpg\",5b6b40e0bd9782cd2ba85072d44694f325eec3f2d966ab562d255b9d67d44ac1,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "4d79525f78b0bf0020c36e4ba47b67beaabb81cc8ef10ce15cbeee6ed6368475",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-06"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE9",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 9,
+      "excerpt": "yell-07,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/9c84d049-253e-49d6-9e5a-66ea2fdec039_image_jpeg.jpg\",3f53bf6d4b937e9c29388cac97753f76d380fb63a98b2e8fd41c77f966635ae1,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "5017ccb61d7b3cd95ce06a8ab44d1d1b1cef10433dd7868d509a8680a15af84f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-07"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 10,
+      "excerpt": "yell-08,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/90bcbb7e-9464-43db-bff1-b8ad8d824828_image_jpeg.jpg\",dd560a2b780f45ba950c3a1c0b99e9ba3b9b588a9dd8898f7241a168084bde21,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "778137ddd27e95f5382594d822557b6603964a9d6ba7e3616f410a82d4240eec",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-08"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 11,
+      "excerpt": "yell-09,image,S1,EXCLUDE,none,,Interior-led image less useful for making-service recognition,\"https://c.yell.com/t_galleryFit,f_auto/e08c4652-a773-451a-8d9c-04a901e75217_image_jpeg.jpg\",f0ebb0a5f6930777e61538c6d8f6c00a6e3ce3018e7b9fda8f2f7af8ff22b906,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "c75958d1b5297bb3ee9b313e8244c4a515301d5a2a475f79544eb5daf810a443",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-09"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 12,
+      "excerpt": "yell-10,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/f863e574-68b5-4803-b03c-e6856cb35b85_image_jpeg.jpg\",ba40c2adff89abe717c71679d5e19e4c2cd07e371138aad436f15d2b78bb343b,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "53be485bef9a2b889d2914925da8c5d58c0ab8381e12bbd8b553f161edc9a32b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-10"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 13,
+      "excerpt": "yell-11,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/d6bfe6e8-3ea4-4869-89f5-3bfe235fc628_image_jpeg.jpg\",24a59ff8f208da928c4e475a666ac35e5c185084ecb551b34aa835ef01e7e9be,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "b62db936b1eaf987e0e06fc5b3b214e234f3bb37643a351888316048d804f6ac",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-11"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE14",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 14,
+      "excerpt": "yell-12,image,S1,EXCLUDE,none,,Interior-led image less useful for making-service recognition,\"https://c.yell.com/t_galleryFit,f_auto/93f68337-542d-4a61-ae3e-f314274d9030_image_jpeg.jpg\",5c3a66dd058ee3dad034a79c2b3b8ad809f9c3061a5654d64236d0723584e71b,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "ef262339a73744ed27b3bf1bd354a7c2be6d48e14093ad001fadc9070d6e8913",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-12"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE15",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 15,
+      "excerpt": "yell-13,image,S1,EXCLUDE,none,,Different interior; specific photography attribution weaker than workshop-matched50,\"https://c.yell.com/t_galleryFit,f_auto/9e03af0b-c32b-46ae-84e3-33baed65a735_image_jpeg.jpg\",df9adf55f22e4d89c8b190933c3ebe4c0a1af3e92d6c342bd168cda34570c27c,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "24005cc49b78c623c6c2870f15a49169adf30dddd606297043ba09738703c2e0",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-13"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE16",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 16,
+      "excerpt": "yell-14,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/77db10a3-e8ee-477b-bff6-8e209df2ef44_image_jpeg.jpg\",24683819f25610ee74439dde032d88d2fcaee72b4eaa489a7b185cf0a9432997,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "639f8435913bfa9ed2acd47e00da8485c77fac674d4c9d5be32948540cd01443",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-14"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE17",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 17,
+      "excerpt": "yell-15,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/d8f8cef2-e5fb-4ab4-b37f-b536b834b4d4_image_jpeg.jpg\",1b82325c9282ac6c40f46af562e5f7ac4f63faecc0a09f94ccee1b171f202a8b,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "24bb6a80ba[REDACTED_PHONE]bab6618db26767bd972b1c0c6b9dc8148cc4a05f9e5",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-15"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE18",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 18,
+      "excerpt": "yell-16,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/1d8c044a-775a-42b6-9790-6fa8a19198d2_image_jpeg.jpg\",5058429ad2f66d8078d77feabd46c591715af6b1a532fd0bf87bf515e6234176,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "f5d25830e2ab408db8daba6b234fbfe08a59f25149cfba66dd9591ef9605cc05",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-16"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE19",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 19,
+      "excerpt": "yell-17,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/ec4a8f87-17f5-47b0-8609-cf89be8847de_image_jpeg.jpg\",13d81180fc502d73fd2a93ed4c002a468f9d6630a1c6725247d24705e1185b7e,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "049131e56c87f334b3308d4a0f556a30f5ceb77799f0cabec94957334170e2e1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-17"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE20",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 20,
+      "excerpt": "yell-18,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/3bb895e7-a873-4bbb-aa43-b4f435bbdc47_image_jpeg.jpg\",86ae9c00c23a97faf25370e9d9eed589ee0319a0fa8fdaab88a45d7ff09f852a,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "7bef8230173aca9c0d553f27c027fa47be2ca0a4c30ea759c75aaa9f03938d1c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-18"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE21",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 21,
+      "excerpt": "yell-19,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/8baf02ef-fbe5-4fc8-b91b-06772024c9bf_image_jpeg.jpg\",43bb91262f77f72b05dcbd049cfb5eb91b9b65d01b22b981093ed4f474286f05,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "15590cd3fe9d79f0755db336736804ca46545fa01fb8cd1c5802107d83837bde",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-19"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE22",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 22,
+      "excerpt": "yell-20,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/c429f7e4-7663-4bd8-bfa1-3ae5b253c78c_image_jpeg.jpg\",257830d3f6c5390505a2c5121e4641c4ee9c3a86a328c8b97146c78bdfd863b2,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "353e16d06819c37a8aac4ed8de36ac4b51a2712be9853cacc3e5a218735e4744",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-20"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE23",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 23,
+      "excerpt": "yell-21,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/c0e88bd7-cfc7-49a4-b1eb-6181c2c5e347_image_jpeg.jpg\",8d82174fd8dbf51f8d47b57640a54deabba862a74dd5eb30c4f14ea7874636b1,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "d28fa5bb58d789ac5b24018a830328874cb6876b67eb69304b94a7dcfab54817",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-21"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE24",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 24,
+      "excerpt": "yell-22,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/a1228ccc-8f62-4a57-8d26-b217b41cd6fc_image_jpeg.jpg\",752809cbba2fd5f65dc086eb9ad6719d0b02f627ba545a0a0368f0b630baa9fc,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "4d39cf593aca5e388bfaf3ae0a38dd05ebcd51e88c599d2bb8e494a4ec66f12f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-22"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE25",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 25,
+      "excerpt": "yell-23,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/ab8637b3-761f-4e9b-a266-8af0fa15a702_image_jpeg.jpg\",23244d5b9cb3f0c259f6544edfe6e0228f72a8421beb33fb577606e065589e4e,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "1b1c226731372b6adda2fcda9bf06529201738aa4a641656341fbab5a60e9732",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-23"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE26",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 26,
+      "excerpt": "yell-24,image,S1,EXCLUDE,none,,Interior-led image less useful for making-service recognition,\"https://c.yell.com/t_galleryFit,f_auto/475d6ef1-5ad4-4620-8b3b-56a04f42ab0e_image_jpeg.jpg\",905eef567ed88350df9ff618dae6539f2ce8e435bf9dba04c4a4630a82306ee6,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "c1929e125a8ceb4de2318213893610657ea02fcf025a0e3fe5ede2bda4a7a024",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-24"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE27",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 27,
+      "excerpt": "yell-25,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/97d9a374-80dc-4730-b8db-6f6c0842552a_image_jpeg.jpg\",bb08295f854ef93a91bc861d3c84d971a94f5ca37abc6199a48cc46e14dde43e,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "1cc5043e63b081b9f573dec78314b4e346ebf7e8610f9be2d3763ce01f6a08d1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-25"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE28",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 28,
+      "excerpt": "yell-26,image,S1,EXCLUDE,none,,Interior-led image less useful for making-service recognition,\"https://c.yell.com/t_galleryFit,f_auto/ccc860b4-fec1-437b-8f9e-cbcac84a0525_image_jpeg.jpg\",a706539e54204f8729fd850d973944895c2627df01bafb60e9c8f3fcd3f8eab0,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "52940046943583b81cbf3f08f185653ad21c43c26e7941057ca7e558eaf5b66c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-26"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE29",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 29,
+      "excerpt": "yell-27,image,S1,EXCLUDE,none,,Interior-led image less useful for making-service recognition,\"https://c.yell.com/t_galleryFit,f_auto/51280e03-e16e-4db8-b52c-f0615bb44fb7_image_jpeg.jpg\",efba2951a84aa89081beae2366107d9758d3256d89104008a864fd58c1185e27,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "ea1f44e140ac4db891dd20214f369a69f242b2c7bb7a87881e26c55cad2577fd",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-27"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE30",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 30,
+      "excerpt": "yell-28,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/f3311cfc-2fc8-48a8-956a-54f31496a883_image_jpeg.jpg\",2647d9cea0c001c5c5b4d9cabcb674439b46dc78102d220f1dcf8f7ae8ffb2b5,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "91d334be84aad2edfb967dfdd4f1b4ef1c1cf07cb23c267241ae5bf31832f64e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-28"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE31",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 31,
+      "excerpt": "yell-29,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/cd4bf889-5af1-4211-8ae0-41ec2fd99655_image_jpeg.jpg\",984563994d3c37c7b506862636abd1ec8e09d77e4771e5fa857863edb1eab4a5,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "33683406c5045958305c118cf2e4c61ebb12b699ec63f82c824aef61fb2a6c44",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-29"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE32",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 32,
+      "excerpt": "yell-30,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/af311288-c998-42f1-8946-79b8bf9cea5c_image_jpeg.jpg\",010314b5e8f1b2be568502468eb7ca977a75733800615273414d79f6b4733137,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "5274459984756af025d4083f528f6f0ce25463da72b8e40dd8f35c147c03033b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-30"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE33",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 33,
+      "excerpt": "yell-31,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/951e24f3-2c80-4efb-8d05-65c190745e5a_image_jpeg.jpg\",c4ab623d7cc0dbec38bbd3c6269b9ac200f6a6c7ac07f94836cbc40a89cc9a49,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "bdbf25708a1c35c0a01c4baee096e1782d55c292004eccb8da3f0d3acffb062b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-31"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE34",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 34,
+      "excerpt": "yell-32,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/b72959fd-8053-43e2-9990-2a5b960021ea_image_jpeg.jpg\",8f5e26d7c70938476161c5d099723446249bcb0c2cc5e16973651ea10a30f761,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "fb355af8501cc6e0c545feb1836324c6cd76b3e874609bf48aa8de3055878ed1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-32"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE35",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 35,
+      "excerpt": "yell-33,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/945b433b-7c9c-4618-be45-011859448758_image_jpeg.jpg\",85ffae6972de56352baf6f7bedce53e6c3ae50c60e6a615c96176aa2232fc5a2,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "820dd99b11f1e6ae927e6641d4743990385fdf4ca01b4cbdc6bd0096cade0f04",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-33"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE36",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 36,
+      "excerpt": "yell-34,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/dec7d7d4-2328-40b7-bc2a-8691fcbcea60_image_jpeg.jpg\",ee0c0710c61524284301606f7a595ca1c4c4b04f9cc4af27675f12caf7dc4a58,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "d52d839990b7e32491fcbe99047806367975d9879cb12f335813461b999d8d79",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-34"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE37",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 37,
+      "excerpt": "yell-35,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/be9dff5c-3754-4284-a969-cf8eadd92b7c_image_jpeg.jpg\",3953edfc6e7b5ef4982a2dc44fb25514290453788fd8d57ff4eb2aca6f85303e,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "5fba6ddf679ed738a6fcf76c3cd21b2d905f16b0bf518d18bc95241e61b709ba",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-35"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE38",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 38,
+      "excerpt": "yell-36,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/52aa94c8-714b-44f9-af76-a297b1b45812_image_jpeg.jpg\",d2b1887c82d3124fa47aab3d94097163970ea0087ecf81b9957a6d8ddb2ece9c,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "5ec9252a4057497c95cf97083101996a4048a7b8c6541f17ece61dfe701fd61e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-36"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE39",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 39,
+      "excerpt": "yell-37,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/843728d3-f02d-4f69-9fb1-c6f5dc74d427_image_jpeg.jpg\",757dd81b883102cd7fa2d8bdffea14f45fed108478e95b92c75c43f4d8ece2b9,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "78015be8ebe9f842a5714a072d62662e234929abf2dd1f1036b478b86718ad33",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-37"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE40",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 40,
+      "excerpt": "yell-38,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/d8d5f5b7-24af-4171-a230-841bf04cfd24_image_jpeg.jpg\",d7a482123b8ff7db02395843e55296054ac5bcc658087f9c6cbf96eb5e149e33,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "687293d3185d6ea6de6497ead6e866882323c42e2b260db5bfdbb46835d7ca0b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-38"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE41",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 41,
+      "excerpt": "yell-39,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/082af447-4305-4661-baa0-3716c2cb9fe9_image_jpeg.jpg\",8dbcd7d4aef789ae467ca6d09dbe02b89fce1b4dcdde5d19af1b8dfafea6f988,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "e1c4a72502d046ca96c18d208805e2a4748ababdc8e68812362df1660aee8230",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-39"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE42",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 42,
+      "excerpt": "yell-40,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/3fd1bfa4-2db8-406b-b68a-6adfaf717e63_image_jpeg.jpg\",3707d6dc57d1e83af0d1413efeb44fb7f17008fc045433de93d21ae23906815e,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "a822d6910bb59de60a19557ee64b48b2e23e0bc813b5be542c9772972553f3b0",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-40"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE43",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 43,
+      "excerpt": "yell-41,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/be30e68c-07f6-4c94-af01-2bb89d76e0f1_image_jpeg.jpg\",7f61e2c0cd88c090f08d44264eaab033963f1216d06f64ae312a3addf3635394,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "28456fb64c0a508549b8e82926d77bf8e687a779ec36cd4a113a6082fe714ccc",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-41"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE44",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 44,
+      "excerpt": "yell-42,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/1e069d0b-3a26-4ff6-b997-90c936a007e2_image_jpeg.jpg\",33b337f04026d7c03a323182d9bad916e6586d48e5d521a6d1b5cccb1ed3d805,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "0d10bfb38f274f40bf4881744d5f141c4bc5a9e4380a632acbc4df7fb61e433b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-42"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE45",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 45,
+      "excerpt": "yell-43,image,S1,EXCLUDE,none,,Related composition or same object duplicated elsewhere,\"https://c.yell.com/t_galleryFit,f_auto/f488898d-ddb0-4a7b-a179-fce965f4c28d_image_jpeg.jpg\",68f535ef20947d6a8b79883bc54b0f47382337d35765d395783ed1c6f7f68ed0,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "93fe52c60a1daf094e17b28339034189284dfcdc14325461d45c0218b6ff8de2",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-43"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE46",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 46,
+      "excerpt": "yell-44,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/38edfa5d-7f7f-49a4-9ef0-7c2a8916399b_image_jpeg.jpg\",9366c35a6531b20f29f8f91a9dcb208c8722fc7b7a25c3db66e505a2a018221b,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "ec3e9c642560d0da0a2b3c6777e9216f00fbb716d2e5a8072b691ebf48c6180e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-44"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE47",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 47,
+      "excerpt": "yell-45,image,S1,EXCLUDE,none,,Interior-led image less useful for making-service recognition,\"https://c.yell.com/t_galleryFit,f_auto/a9e96dca-d01e-44e5-9ecc-e7b39210dff9_image_jpeg.jpg\",7005113abb7c7d9c65df68f7ba2727e704393fcdc4520b0972eb267adf3be2a8,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "e4b326e20190fe5f8a77449d93bac535e2ce1315d7db928b0dd749d78e1964e1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-45"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE48",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 48,
+      "excerpt": "yell-46,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/276db2c8-d3d4-45c0-91f3-58e44db5faa2_image_jpeg.jpg\",5779c11bad1e156f00a0de97e2db4307ac635999d373e157685e50b002d6c8f8,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "750c82818db09f38f7ba4fec93b16f44ebbdfd8a6d4169da1c878a6abe1d82d4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-46"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE49",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 49,
+      "excerpt": "yell-47,image,S1,EXCLUDE,none,,Related composition or same object duplicated elsewhere,\"https://c.yell.com/t_galleryFit,f_auto/8987f7d6-1d16-431a-8781-3858a177ca8c_image_jpeg.jpg\",dda9fab1e9b0243b79268b3b3628dda56b90eaf84d7effd226fb4833aa3319e4,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "475608877f956b4d267b1f10cc1d6d38ce006ad69147f687e4498d0971caa227",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-47"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE50",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 50,
+      "excerpt": "yell-48,image,S1,DIRECT USE,hero,#hero .yell-48,Workstation with frame moulding samples; clearest craft recognition,\"https://c.yell.com/t_galleryFit,f_auto/6f2879b8-6b72-4ff5-9774-2c093d38130e_image_jpeg.jpg\",1ffc2320980840f97121921c5c7a3ed9c4f53eac1faccb3fa0ed53ec473bd991,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "02e94c0a13766337e30b5034e9077e0a1f43857eb7acada1d3a51c11e14bf79a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-48"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE51",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 51,
+      "excerpt": "yell-49,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/9483cba3-a9ad-4e2a-b8e6-43894353f035_image_jpeg.jpg\",97bcf596b3cf8539f101bc3be44884597a66949f5ab22866a99d8e081aff4a74,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "72b3e5caef8a8123f576b15255b0e64814e77dd19a33fba4bf4db84aa9319e4d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-49"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE52",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 52,
+      "excerpt": "yell-50,image,S1,DIRECT USE,closing,#closing .yell-50,Complete ornate frame in same window/workbench/sample-wall environment as workshop48 and branded07,\"https://c.yell.com/t_galleryFit,f_auto/56807a0b-e6f3-48c5-a938-9d3e21457264_image_jpeg.jpg\",4cb9d311c24bf6dea4ea341f43783b488fb644a71210199a7e4ab78c45a68a30,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "a2620f88784cfc85816581baf14a359224bf85572821ae91494320ac9c67a774",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-50"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE53",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 53,
+      "excerpt": "yell-51,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/a86fc332-0f97-4214-8077-ed66347c817e_image_jpeg.jpg\",a24d4c7076c0f4d27740360c796d1a7589561c3597c66c376531ce3c06be2b95,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "b08bcb85735397ffca580c93afe5e44f2791ce098fe9d48a239a4061c90e3b92",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-51"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE54",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 54,
+      "excerpt": "yell-52,image,S1,EXCLUDE,none,,\"Alternative framing example; selected set shows workshop, full art frame and full shirt frame more directly\",\"https://c.yell.com/t_galleryFit,f_auto/192f34b6-4354-4013-b19c-1d364f6258fa_image_jpeg.jpg\",a9f3bf30e2f0a90980c5377b66a169452041f4eee62da99e629588f0456a624f,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "3f89fead32031e087dccb7d046c346f7c122b944da2758b5caa2ac45b2c2e7e6",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-52"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE55",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 55,
+      "excerpt": "yell-53,image,S1,EXCLUDE,none,,Related composition or same object duplicated elsewhere,\"https://c.yell.com/t_galleryFit,f_auto/9b52af2b-2290-4129-be1d-ee2fc347d79b_image_jpeg.jpg\",d236bf31eef50bec58bb80e0519d194a6b23522748ce4a9202375d11ecd13572,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "1f19fa54f019936c9f447aadc5e115f0940dd6896df009506383799cc44d7993",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-53"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE56",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 56,
+      "excerpt": "yell-54,image,S1,EXCLUDE,none,,Strong camera reflection reduces clean frame visibility,\"https://c.yell.com/t_galleryFit,f_auto/0ada597f-e125-4df6-af81-09ee985e47b7_image_jpeg.jpg\",aac10f1b7548c1c68dff12ecbfcc97538af9e3bb242b37f17933b6d269372242,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "4492d5c3b2640d73e02e0fe1892f826f56884a475d5e87702f2fdf4148360999",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-54"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE57",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 57,
+      "excerpt": "yell-55,image,S1,EXCLUDE,none,,\"Person, personal photograph, dedication or inscription warrants exclusion from this selection\",\"https://c.yell.com/t_galleryFit,f_auto/f5fe4b0a-12b6-4947-a380-804b7093e128_image_jpeg.jpg\",b723cfd633c8cc5599b3be1f7d706ec617e7d41145b141beae9aad0a57f25f0a,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "3caec573da81ea6a6782879633f47e3b7f4684056de09adfa50e3340654587fa",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-55"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    },
+    {
+      "id": "IMGBASE58",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv",
+      "line": 58,
+      "excerpt": "yell-56,image,S1,DIRECT USE,shirts,#shirts .yell-56,Full signed shirt frame with workshop sample context,\"https://c.yell.com/t_galleryFit,f_auto/353e1048-0af7-4dd9-b88f-8f2e92d38aa4_image_jpeg.jpg\",8ea7f386ea3e4ecbcda8d923276c551453798aa21b1ca78c33fc024cf579509e,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED",
+      "excerptSha256": "bbc753ef56368d8594e0ac9db3183d6d7e3f8e1526e075dd73e2f3af211df755",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "yell-56"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Owner inspected contact sheet and selected images; exact final image mapping or explicit exclusion"
+    }
+  ],
+  "coverageNote": "Image-led revision: workshop48 hero and complete frame01/56/50 cases; all existing full-replacement content/contact paths preserved; external full replacement remains BLOCKED."
+}

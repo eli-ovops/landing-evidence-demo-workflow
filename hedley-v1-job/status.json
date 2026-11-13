@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "01a0793a-35b0-74a3-8fc3-38cb7f837ac3",
+  "activeVersion": "v1",
+  "inputHash": "0e2f21c610e28ce2feb9916c375d417c77e7d1f6c81c2b8ef9edc5c6975a85e6",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/hedley-v1-job/runs/2026-09-07T01-28-31-567Z-7c8d167c/result.json",
+  "resultSha256": "2cca20296da2b9a586eacd2fea6411a83ba65aacab8d204eba66203735d5e0e2",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

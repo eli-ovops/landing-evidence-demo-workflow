@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:50:27.706Z",
+  "owner": "fixture-owner",
+  "client": "fake-form",
+  "activeVersion": "active",
+  "inputHash": "b3b0beb3f35f40dae45b398dc4199fb64a7bcc982f5eef2740795a704b09069c",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "FORM_OR_DATA_ENTRY",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1)",
+      "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "FORM_OR_DATA_ENTRY",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(1)",
+      "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "FORM_OR_DATA_ENTRY",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1)",
+      "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "FORM_OR_DATA_ENTRY",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > form:nth-of-type(1) > input:nth-of-type(1)",
+      "detail": "Static boundary: replace data collection / fake submission with registered real external path",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "a4ac3bc3093951f759ba4d90ed247051aaa688df4462e7c92cd2ad1d0859baf9"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "344fc8b70711e3c68e2843d3d63ac44941d5423bdb49a8d0d943cc638d5debdd"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "297cf8bd584da38dfadd7ccd8d85e40fc94fec2cfc0d44ed155990f3387b4a37"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "43da57e71c4c5b3caed4dbd892e845aeac99a064eadcc2290ef441547c55770d"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "538d70f9f665b3aa592d5804420481e33d2952da5d22518fe7b6c1f34653edcf"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

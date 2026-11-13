@@ -1,0 +1,116 @@
+{
+  "inputHash": "92f2af03bbb86622b9b9cd2dcca92c66bfa4c9ca3f86ec25f63507a0e5fd67df",
+  "assets": [
+    {
+      "assetId": "A1",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/washy-washy-official-logo-20260902.jpg",
+      "originalSha256": "43ba353d2755cb9b3bdd8eb24147d77f6da1e45304df2c69af278073c23a0350",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/washy-washy-official-logo-20260902.jpg",
+      "sha256": "43ba353d2755cb9b3bdd8eb24147d77f6da1e45304df2c69af278073c23a0350",
+      "focus": "full logo",
+      "role": "brand",
+      "selectors": [
+        ".brand img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A2",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-04.jpg",
+      "originalSha256": "47e49f5d8cdc9e11eb6b8da27f8b82a1a1dcdac7b357410698363d0172044036",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-04.jpg",
+      "sha256": "47e49f5d8cdc9e11eb6b8da27f8b82a1a1dcdac7b357410698363d0172044036",
+      "focus": "Buster trailer",
+      "role": "hero",
+      "selectors": [
+        ".hero-photo img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A3",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-01.jpg",
+      "originalSha256": "0f47f98bfae7507d1b0083dc987b40c15e64c2d2ff9b708fcf1ab816ae8c7dbf",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-01.jpg",
+      "sha256": "0f47f98bfae7507d1b0083dc987b40c15e64c2d2ff9b708fcf1ab816ae8c7dbf",
+      "focus": "Cutie Happy",
+      "role": "gallery",
+      "selectors": [
+        "#dogs figure:nth-of-type(1) img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A4",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-02.jpg",
+      "originalSha256": "4610181c8473d67d114d802dd89052e6a65ddf489f2619393e6a4ea1b275848d",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-02.jpg",
+      "sha256": "4610181c8473d67d114d802dd89052e6a65ddf489f2619393e6a4ea1b275848d",
+      "focus": "Tilly",
+      "role": "gallery",
+      "selectors": [
+        "#dogs figure:nth-of-type(2) img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A5",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-05.webp",
+      "originalSha256": "f6a593ea0bc092a552eb66c320f96ea7741081da09c53445029a3577966fc0ce",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-05.webp",
+      "sha256": "f6a593ea0bc092a552eb66c320f96ea7741081da09c53445029a3577966fc0ce",
+      "focus": "Koda",
+      "role": "gallery",
+      "selectors": [
+        "#dogs figure:nth-of-type(3) img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A6",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-03.jpg",
+      "originalSha256": "958a62747fc70afdd9b55ffedb2685e03528b45b5c00f7c6332c8b70ac708031",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/assets/official-dog-03.jpg",
+      "sha256": "958a62747fc70afdd9b55ffedb2685e03528b45b5c00f7c6332c8b70ac708031",
+      "focus": "Rico trailer",
+      "role": "proof",
+      "selectors": [
+        ".proof-photo img"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

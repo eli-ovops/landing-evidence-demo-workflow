@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:15:36.722Z",
+  "owner": "fixture-owner",
+  "client": "network",
+  "activeVersion": "active",
+  "inputHash": "a6554cb04237edbe8024c711f4b4ed0a2528b957ede38100300c48693a3a2c81",
+  "mechanical": "UNKNOWN",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BROWSER_CHECK_BLOCKED",
+      "target": "desktop",
+      "detail": "page.evaluate: Execution context was destroyed, most likely because of a navigation.",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "BROWSER_CHECK_BLOCKED",
+      "target": "mobile",
+      "detail": "page.evaluate: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --disable-background-networking --force-webrtc-ip-handling-policy=disable_non_proxied_udp --user-data-dir=/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/playwright_chromiumdev_profile-GbQ7UL --remote-debugging-pipe --no-startup-window\n<launched> pid=77813\n[pid=77813][err] Trying to load the allocator multiple times. This is *not* supported.\n[pid=77813][err] [77818:664009:0905/231536.365640:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.365844:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.366008:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.366034:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.366104:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.366125:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.366183:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.366207:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.366280:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.366303:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77813:664007:0905/231536.527950:ERROR:base/process/process_mac.cc:53] task_policy_set TASK_CATEGORY_POLICY: (os/kern) invalid argument (4)\n[pid=77813][err] [77813:664007:0905/231536.527968:ERROR:base/process/process_mac.cc:98] task_policy_set TASK_SUPPRESSION_POLICY: (os/kern) invalid argument (4)\n[pid=77813][err] [77818:664009:0905/231536.591846:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.591903:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.592008:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.592034:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.592111:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.592160:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.592236:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.595385:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.595650:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.595684:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813] <gracefully close start>\n[pid=77813] <forcefully close>\n[pid=77813] <kill>\n[pid=77813] <will force kill>",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "document GET https://example.invalid/navigate; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [
+      {
+        "code": "BROWSER_CHECK_BLOCKED",
+        "target": "desktop",
+        "detail": "page.evaluate: Execution context was destroyed, most likely because of a navigation.",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "BROWSER_CHECK_BLOCKED",
+        "target": "mobile",
+        "detail": "page.evaluate: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --disable-background-networking --force-webrtc-ip-handling-policy=disable_non_proxied_udp --user-data-dir=/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/playwright_chromiumdev_profile-GbQ7UL --remote-debugging-pipe --no-startup-window\n<launched> pid=77813\n[pid=77813][err] Trying to load the allocator multiple times. This is *not* supported.\n[pid=77813][err] [77818:664009:0905/231536.365640:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.365844:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.366008:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.366034:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.366104:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.366125:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.366183:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.366207:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.366280:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.366303:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77813:664007:0905/231536.527950:ERROR:base/process/process_mac.cc:53] task_policy_set TASK_CATEGORY_POLICY: (os/kern) invalid argument (4)\n[pid=77813][err] [77813:664007:0905/231536.527968:ERROR:base/process/process_mac.cc:98] task_policy_set TASK_SUPPRESSION_POLICY: (os/kern) invalid argument (4)\n[pid=77813][err] [77818:664009:0905/231536.591846:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.591903:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.592008:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.592034:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.592111:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.592160:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.592236:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.595385:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664009:0905/231536.595650:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813][err] [77818:664078:0905/231536.595684:ERROR:ui/display/mac/cv_display_link_mac.mm:195] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[pid=77813] <gracefully close start>\n[pid=77813] <forcefully close>\n[pid=77813] <kill>\n[pid=77813] <will force kill>",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "desktop",
+        "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "desktop",
+        "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "desktop",
+        "detail": "document GET https://example.invalid/navigate; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "mobile",
+        "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "mobile",
+        "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+        "level": "UNKNOWN"
+      }
+    ],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "1147c252835f005af2458d553b5c5f82aee4f12e3830d401a4da2862e659e1fc"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "7adb5532c61421d906994f1dc0e95055e723ae72ebd36af6d5dfe8f9b33a73e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "6afd80ca0aec57d8bd7d56fe0c69e196177af3f0f3fdc16e2aa4095bc1893240"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "255d6a9aa7d22680a43fc838ed110b077bbb44cf2600dda389996f60d325a614"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

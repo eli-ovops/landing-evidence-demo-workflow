@@ -1,0 +1,116 @@
+{
+  "inputHash": "ac4a951f790596c8f9fbaca94961f96f17ddd717489c5dc579f9b3e864e7ef87",
+  "assets": [
+    {
+      "assetId": "A0",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-0.jpg",
+      "originalSha256": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-0.jpg",
+      "sha256": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "role": "closing van",
+      "selectors": [
+        "#van"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A1",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-1.jpg",
+      "originalSha256": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-1.jpg",
+      "sha256": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "role": "hero wallpaper room",
+      "selectors": [
+        "#hero-photo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A2",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-2.jpg",
+      "originalSha256": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-2.jpg",
+      "sha256": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "role": "wallpaper service",
+      "selectors": [
+        "#wallpaper-photo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A3",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-3.jpg",
+      "originalSha256": "a9f2c781a510db0ea52eec9a171226b4b81a3bb920c21551fd69d1b5a0f1d4cd",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-3.jpg",
+      "sha256": "a9f2c781a510db0ea52eec9a171226b4b81a3bb920c21551fd69d1b5a0f1d4cd",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "role": "care laser alignment and protected furniture",
+      "selectors": [
+        "#care-photo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A4",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-4.jpg",
+      "originalSha256": "036a834251db5360904d997eded1f4bd71fe527e4ab5b6eef1987ece9987b770",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-4.jpg",
+      "sha256": "036a834251db5360904d997eded1f4bd71fe527e4ab5b6eef1987ece9987b770",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "role": "hand-painted kitchen work",
+      "selectors": [
+        "#kitchen-photo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A10",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-10.jpg",
+      "originalSha256": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-10.jpg",
+      "sha256": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "role": "interior room",
+      "selectors": [
+        "#interior-photo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

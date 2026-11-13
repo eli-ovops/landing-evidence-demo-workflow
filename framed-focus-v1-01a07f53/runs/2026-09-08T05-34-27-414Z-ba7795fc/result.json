@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-08T05:34:35.175Z",
+  "owner": "01a07f53-70e7-7fb2-bb6b-5c8df904ccf6",
+  "client": "Framed Focus",
+  "activeVersion": "local-v1",
+  "inputHash": "bbdec7b1833d27efc115b53b9c3dc9dabea79c30c5c9438190c91240a18725c5",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "DUPLICATE_OR_EMPTY_ID",
+      "target": "facebook-15",
+      "detail": "ID 必须全局唯一",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "DUPLICATE_OR_EMPTY_ID",
+      "target": "facebook-6",
+      "detail": "ID 必须全局唯一",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "DUPLICATE_OR_EMPTY_ID",
+      "target": "facebook-8",
+      "detail": "ID 必须全局唯一",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "DUPLICATE_OR_EMPTY_ID",
+      "target": "facebook-11",
+      "detail": "ID 必须全局唯一",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "DUPLICATE_OR_EMPTY_ID",
+      "target": "facebook-13",
+      "detail": "ID 必须全局唯一",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "DUPLICATE_OR_EMPTY_ID",
+      "target": "logo",
+      "detail": "ID 必须全局唯一",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "facebook-15",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "facebook-6",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "facebook-8",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "facebook-11",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "facebook-13",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "logo",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "DUPLICATE_OR_EMPTY_ID",
+        "target": "facebook-15",
+        "detail": "ID 必须全局唯一",
+        "level": "FAIL"
+      },
+      {
+        "code": "DUPLICATE_OR_EMPTY_ID",
+        "target": "facebook-6",
+        "detail": "ID 必须全局唯一",
+        "level": "FAIL"
+      },
+      {
+        "code": "DUPLICATE_OR_EMPTY_ID",
+        "target": "facebook-8",
+        "detail": "ID 必须全局唯一",
+        "level": "FAIL"
+      },
+      {
+        "code": "DUPLICATE_OR_EMPTY_ID",
+        "target": "facebook-11",
+        "detail": "ID 必须全局唯一",
+        "level": "FAIL"
+      },
+      {
+        "code": "DUPLICATE_OR_EMPTY_ID",
+        "target": "facebook-13",
+        "detail": "ID 必须全局唯一",
+        "level": "FAIL"
+      },
+      {
+        "code": "DUPLICATE_OR_EMPTY_ID",
+        "target": "logo",
+        "detail": "ID 必须全局唯一",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "facebook-15",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "facebook-6",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "facebook-8",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "facebook-11",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "facebook-13",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "logo",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "90bb67e6c7c5f43f163062b90b5b5574dcac8f2dba66694945c6d9fcd4851032"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "fd81e69ac1eceb2b859404e6532d2d6c158de22a8381b86c9a7928a73d643a0d"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "c3e4338f8fb7241d777ed05b4df77f58509196d8c4200db2963ae3941a216972"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "9db8c467ae012537e876ce0606232ab9997b3fb07b04c572265b8cfd6b045828"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "232fabfc326d43c031f7013def7e3b3ea7dce030ae5baa3772d9b3c0f7a586a3"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "357ac686c12386dfa935f4fb1ec0db1f89c71b3b7eaae2ebd087bae2ceed92bd"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "50cfad7aabba53ca1f8216f5cd25fc71a3e531272390f8e1b7eefde4b8d361c7"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "21fdeeb75916bf6d9bda42d0c27e544370a00e86d96c0254c63830afa94d886e"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "730d5d206011caa9b20766eb186ebe4446c963856a908be57ad982e2e1db70b0"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "9c570ae571ac03e64aed647f750583cddeddab374af62bff9582fb8361d40260"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "fc66748a742bb6e8128a9015ccf64473d28289ae100876f10b7bfa4a5a1586d3"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "9d66464cf7732261857bbe1ffccb8d265054f4ab9e22435f06eb998e72714feb"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "250b5836de962a08ae406121b3b089887d921e86f991384fbd5dd32a1098cd73"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "e239e13e163625fbaadf92f84691df1e432527a79fa11c71e3bb61c35411c53c"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "0de055d23af1b228e319b54c6dd842eeb54f92bce61469e47f1cbc635a26334a"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "a6296d8746a425c[REDACTED_PHONE]ec852a18aa899d6f6659aae3a07c15034f3e0a"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "832946215581c023fdb4221bb6c8a953d60d027cf12cb6d337d7e84ce16314ed"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "0aab9db1317333c1304ccdab8ad9181b1c97e504c9be671ef75b8c8b1c6771db"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

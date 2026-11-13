@@ -1,0 +1,51 @@
+{
+  "contractSha256": "71f555610000fd93b96b46b9cadbf8ba4864bf127a999c027f39d00d0cda26bc",
+  "activeVersion": "active",
+  "manifest": [
+    {
+      "path": "app.js",
+      "sha256": "f48e52b53965a78a95e730102266504a5c267f12314f289fa469ed49f7a076d9",
+      "bytes": 35
+    },
+    {
+      "path": "index.html",
+      "sha256": "c01c7c4a98e7d42bfe12b4d8697574439028a5ed647be829f538307c48ae7238",
+      "bytes": 695
+    },
+    {
+      "path": "logo.svg",
+      "sha256": "19cc18d8896628809f5d200a132311e3971a462f0cffac3d44c7e8c5d5fd7a65",
+      "bytes": 167
+    },
+    {
+      "path": "real.svg",
+      "sha256": "076d2b184f650b044c7f82021e15fbb0357885dddec561a4e386d39f4930ef2a",
+      "bytes": 167
+    },
+    {
+      "path": "style.css",
+      "sha256": "d449bcbcafd2a57bbec05d40a7a379411ce873f153b8fa99a85f4acf03310b4b",
+      "bytes": 326
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-20-05-762Z/pseudo/site/source.md",
+      "sha256": "d0f41af9c791c98a96c172cc975753266be9391d079bd3184dfbe49379a00d82"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "1280ff3c02921df319cb6d96cbd34adbef5be30fae2ba8587175c021c88c64ca"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "91c096a142dfc3a14379915d45bc1eb643955f48512ff572e58c34adb3a23c1d"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "19108950b4ef863a7d782ac693c23ddfe0e44778cba706ccc0d499d6d8c143d8"
+    }
+  ]
+}

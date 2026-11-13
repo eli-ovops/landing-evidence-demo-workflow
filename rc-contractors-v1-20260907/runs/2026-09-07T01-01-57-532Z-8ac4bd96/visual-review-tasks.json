@@ -1,0 +1,82 @@
+{
+  "inputHash": "0df9323d9ae618a1d521a6d0c61197eb2c3113014fade4c93247ca74b4611a3f",
+  "assets": [
+    {
+      "assetId": "V-hero",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo/assets/originals/hero.png",
+      "originalSha256": "e77b7d70f29dc64728a627f02dc536996d0f6a844b9c2e38533b8656e801f599",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo/assets/hero.webp",
+      "sha256": "f370e3f890683794fd15c80085b4a6228471392cedff2a6fcd0f5525c1047a0f",
+      "focus": "50% 50%; entire miniature/model remains visible",
+      "role": "Instant masonry/exterior work recognition",
+      "selectors": [
+        "#hero-image"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "V-masonry",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo/assets/originals/masonry.png",
+      "originalSha256": "2c03fae07cff26a0849040803d48a910b314d0ca66a06fc21c2a3f2f8e01f187",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo/assets/masonry.webp",
+      "sha256": "48496da893f550a4f44119f6bbe363c2297bec686f709827604668b5bf827407",
+      "focus": "50% 50%; entire miniature/model remains visible",
+      "role": "Identify masonry service category",
+      "selectors": [
+        "#masonry-image"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "V-paving",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo/assets/originals/paving.png",
+      "originalSha256": "ba35bd0a3e7f071c42b8627966747f353b66a81c82bdb408a54a0ebe21e042fa",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo/assets/paving.webp",
+      "sha256": "4adb0b65e2cb3cb38a68356a9d08452aea1ef9c21a5248fb951e29f006756d56",
+      "focus": "50% 50%; entire miniature/model remains visible",
+      "role": "Identify paving service category",
+      "selectors": [
+        "#paving-image"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "V-repair",
+      "source": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo/assets/originals/repair.png",
+      "originalSha256": "f4bee191351abd6a673a000f42a8d4e2d92346eb5a86331e035707acf7209261",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo/assets/repair.webp",
+      "sha256": "fd328ebe688d6dbc7def2e84ffde40c377851008bed7b2d23dc8cab1b46d85b1",
+      "focus": "50% 50%; entire miniature/model remains visible",
+      "role": "Supporting repair scope in lower page",
+      "selectors": [
+        "#repair-image"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

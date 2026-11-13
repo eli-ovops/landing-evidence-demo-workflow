@@ -1,0 +1,11 @@
+{
+  "owner": "01a07f53-6016-7802-986e-80e23e1259ab",
+  "client": "JR Renovations",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+    "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/ASSET_LEDGER.json"
+  ],
+  "createdAt": "2026-09-08T05:12:38.751Z",
+  "scheduler": false
+}

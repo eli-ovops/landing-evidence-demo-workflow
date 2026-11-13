@@ -1,0 +1,2359 @@
+{
+  "defects": [
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I2",
+      "detail": "Expected {\"selector\":\".feature-bath img\",\"assetId\":\"A2\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I3",
+      "detail": "Expected {\"selector\":\".care-visual img\",\"assetId\":\"A3\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I9",
+      "detail": "Expected {\"selector\":\"#hero-title\",\"text\":\"Professional dog grooming in Reading.\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I10",
+      "detail": "Expected {\"selector\":\".review-chip\",\"text\":\"381+ Reviews\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I14",
+      "detail": "Expected {\"selector\":\".footer-links a[href*='facebook.com/pugglesdoggrooming']\",\"text\":\"Facebook\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": ".photo-hero .primary-button",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I2",
+      "detail": "Expected {\"selector\":\".feature-bath img\",\"assetId\":\"A2\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I3",
+      "detail": "Expected {\"selector\":\".care-visual img\",\"assetId\":\"A3\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I10",
+      "detail": "Expected {\"selector\":\".review-chip\",\"text\":\"381+ Reviews\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I14",
+      "detail": "Expected {\"selector\":\".footer-links a[href*='facebook.com/pugglesdoggrooming']\",\"text\":\"Facebook\"}",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": ".photo-hero .primary-button",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "REMOTE_RESOURCE_LIMITATION",
+      "target": "desktop",
+      "detail": "document GET https://www.google.com/maps?q=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA&output=embed; destination behavior not verified",
+      "level": "LIMITATION",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "REMOTE_RESOURCE_LIMITATION",
+      "target": "mobile",
+      "detail": "document GET https://www.google.com/maps?q=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA&output=embed; destination behavior not verified",
+      "level": "LIMITATION",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "views": {
+    "desktop": {
+      "issues": [
+        {
+          "code": "BACKGROUND_PAINT_REVIEW",
+          "target": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+          "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+          "level": "UNKNOWN"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I2",
+          "detail": "Expected {\"selector\":\".feature-bath img\",\"assetId\":\"A2\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I3",
+          "detail": "Expected {\"selector\":\".care-visual img\",\"assetId\":\"A3\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I9",
+          "detail": "Expected {\"selector\":\"#hero-title\",\"text\":\"Professional dog grooming in Reading.\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I10",
+          "detail": "Expected {\"selector\":\".review-chip\",\"text\":\"381+ Reviews\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I14",
+          "detail": "Expected {\"selector\":\".footer-links a[href*='facebook.com/pugglesdoggrooming']\",\"text\":\"Facebook\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+          "target": ".photo-hero .primary-button",
+          "detail": "Core CTA not within first screen",
+          "level": "FAIL"
+        },
+        {
+          "code": "EMBED_UNVERIFIED",
+          "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > iframe:nth-of-type(1)",
+          "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+          "level": "UNKNOWN",
+          "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+        }
+      ],
+      "mapping": [
+        {
+          "id": "I1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 82,
+                "y": 66,
+                "width": 178,
+                "height": 69.421875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 82,
+              "y": 66,
+              "width": 178,
+              "height": 69.421875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I2",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": ".feature-bath img",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 116.1875,
+                "y": 226.84375,
+                "width": 459.9375,
+                "height": 447
+              },
+              "samples": 0,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I3",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": ".care-visual img",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 0,
+                "y": 63.28125,
+                "width": 720,
+                "height": 773.296875
+              },
+              "samples": 0,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".call-image img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 115.1875,
+                "y": 184.8125,
+                "width": 635.046875,
+                "height": 530
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".call-image img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 184.8125,
+              "width": 635.046875,
+              "height": 530
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".photo-hero",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 10,
+                "y": 125.421875,
+                "width": 1420,
+                "height": 650
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".photo-hero",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 10,
+              "y": 125.421875,
+              "width": 1420,
+              "height": 650
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".board-card--frankie img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 152,
+                "y": 404.421875,
+                "width": 92,
+                "height": 92
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".board-card--frankie img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 152,
+              "y": 404.421875,
+              "width": 92,
+              "height": 92
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".board-card--aggie img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 528.25,
+                "y": 404.421875,
+                "width": 92,
+                "height": 92
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".board-card--aggie img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 528.25,
+              "y": 404.421875,
+              "width": 92,
+              "height": 92
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".board-card--clifford img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 904.515625,
+                "y": 404.421875,
+                "width": 92,
+                "height": 92
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".board-card--clifford img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 904.515625,
+              "y": 404.421875,
+              "width": 92,
+              "height": 92
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I9",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": "#hero-title",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 125.1875,
+                "y": 298.953125,
+                "width": 720,
+                "height": 237.140625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I10",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": ".review-chip",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1109.53125,
+                "y": 14.296875,
+                "width": 94.359375,
+                "height": 19.390625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".photo-hero .primary-button",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 125.1875,
+                "y": 425.875,
+                "width": 172.84375,
+                "height": 47.390625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".photo-hero .primary-button",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 125.1875,
+              "y": 425.875,
+              "width": 172.84375,
+              "height": 47.390625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#find-us address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 762.171875,
+                "y": 395.53125,
+                "width": 567.03125,
+                "height": 108.171875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#find-us address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 762.171875,
+              "y": 395.53125,
+              "width": 567.03125,
+              "height": 108.171875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".email-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 822.234375,
+                "y": 561.4375,
+                "width": 235.125,
+                "height": 18.84375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".email-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 822.234375,
+              "y": 561.4375,
+              "width": 235.125,
+              "height": 18.84375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I14",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": ".footer-links a[href*='facebook.com/pugglesdoggrooming']",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 873.140625,
+                "y": 824.71875,
+                "width": 63.078125,
+                "height": 20.5
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/puggles-logo.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 82,
+              "y": 66,
+              "width": 178,
+              "height": 69.421875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1151,
+          "height": 449
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-group-dogs.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 10,
+              "y": 125.421875,
+              "width": 1420,
+              "height": 650
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1435
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-bath.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 116.1875,
+              "y": 226.84375,
+              "width": 459.9375,
+              "height": 447
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1656
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-towel-dog.jpg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 0,
+              "y": 63.28125,
+              "width": 720,
+              "height": 773.296875
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1707
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-frankie.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 152,
+              "y": 404.421875,
+              "width": 92,
+              "height": 92
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 220,
+          "height": 220
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-aggie.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 528.25,
+              "y": 404.421875,
+              "width": 92,
+              "height": 92
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 220,
+          "height": 220
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(3) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-clifford.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 904.515625,
+              "y": 404.421875,
+              "width": 92,
+              "height": 92
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 220,
+          "height": 220
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-bathtub-dog.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 184.8125,
+              "width": 635.046875,
+              "height": 530
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 839
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/puggles-logo.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 801.8125,
+              "width": 170,
+              "height": 66.3125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1151,
+          "height": 449
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#reviews",
+          "text": "381+ REVIEWS"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:07830249472",
+          "text": "CALL 07830 249472"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "SERVICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#price-guide",
+          "text": "PRICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#board",
+          "text": "THE BOARD"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "#find-us",
+          "text": "FIND US"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "CALL PUGGLES ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#price-guide",
+          "text": "SEE PRICE GUIDE ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "TALK IT THROUGH →"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.pugglesbathandgroom.co.uk/before-afters/",
+          "text": "SEE PUGGLES’ BEFORE & AFTERS ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "SPEAK WITH PUGGLES →"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "29 OCT 2025 Why Do I Need to Brush My Dog? ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "28 OCT 2024 20 ways coconut oil can help your pets ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "28 OCT 2024 Why grooming is important? ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://www.google.com/maps/search/?api=1&query=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA",
+          "text": "OPEN IN GOOGLE MAPS ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "07830 249472 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.facebook.com/pugglesdoggrooming",
+          "text": "FACEBOOK"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.pugglesbathandgroom.co.uk/terms-conditions-grooming/",
+          "text": "GROOMING TERMS"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.pugglesbathandgroom.co.uk/privacy-policy/",
+          "text": "PRIVACY"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "https://www.pugglesbathandgroom.co.uk/cookie-policy-uk/",
+          "text": "COOKIE POLICY"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "tel:07830249472",
+          "text": "CALL PUGGLES"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/puggles-logo.png"
+          ],
+          "section": "top",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-group-dogs.jpeg"
+          ],
+          "section": "photo-hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-bath.jpeg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-towel-dog.jpg"
+          ],
+          "section": "care",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-frankie.webp"
+          ],
+          "section": "board",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-aggie.webp"
+          ],
+          "section": "board",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(3) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-clifford.webp"
+          ],
+          "section": "board",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-bathtub-dog.jpeg"
+          ],
+          "section": "visit",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/puggles-logo.png"
+          ],
+          "section": "body",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:07830249472",
+          "text": "CALL 07830 249472",
+          "section": "top"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "CALL PUGGLES ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "TALK IT THROUGH →",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.pugglesbathandgroom.co.uk/before-afters/",
+          "text": "SEE PUGGLES’ BEFORE & AFTERS ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "SPEAK WITH PUGGLES →",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "29 OCT 2025 Why Do I Need to Brush My Dog? ↗",
+          "section": "notes"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "28 OCT 2024 20 ways coconut oil can help your pets ↗",
+          "section": "notes"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "28 OCT 2024 Why grooming is important? ↗",
+          "section": "notes"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://www.google.com/maps/search/?api=1&query=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA",
+          "text": "OPEN IN GOOGLE MAPS ↗",
+          "section": "find-us"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "07830 249472 ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.facebook.com/pugglesdoggrooming",
+          "text": "FACEBOOK",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.pugglesbathandgroom.co.uk/terms-conditions-grooming/",
+          "text": "GROOMING TERMS",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.pugglesbathandgroom.co.uk/privacy-policy/",
+          "text": "PRIVACY",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "https://www.pugglesbathandgroom.co.uk/cookie-policy-uk/",
+          "text": "COOKIE POLICY",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "tel:07830249472",
+          "text": "CALL PUGGLES",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Professional dog grooming inReading.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "The Puggles grooming menu.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Bath & Go",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Bath & Trim",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Bath, Groom & Pamper",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#full-groom-title",
+          "text": "Not just a tidy-up.",
+          "section": "full-groom"
+        },
+        {
+          "kind": "fact",
+          "selector": "#price-title",
+          "text": "Find your dog’s starting point.",
+          "section": "price-guide"
+        },
+        {
+          "kind": "fact",
+          "selector": "#care-title",
+          "text": "A good groom starts with paying attention.",
+          "section": "care"
+        },
+        {
+          "kind": "fact",
+          "selector": "#board-title",
+          "text": "A little more personality, please.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Frankie",
+          "section": "board"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Aggie",
+          "section": "board"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Clifford",
+          "section": "board"
+        },
+        {
+          "kind": "fact",
+          "selector": "#reviews-title",
+          "text": "381+ Reviews",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "#areas-title",
+          "text": "Around Reading, for the dogs nearby.",
+          "section": "areas"
+        },
+        {
+          "kind": "fact",
+          "selector": "#notes-title",
+          "text": "Useful reads for dog people.",
+          "section": "notes"
+        },
+        {
+          "kind": "fact",
+          "selector": "#find-us-title",
+          "text": "A local salon, easy to find.",
+          "section": "find-us"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(2) > address:nth-of-type(1)",
+          "text": "3 Mays Hill Cottages Beech Hill, Reading Berkshire, RG7 1JA",
+          "section": "find-us"
+        },
+        {
+          "kind": "fact",
+          "selector": "#visit-title",
+          "text": "Start with a call.",
+          "section": "visit"
+        }
+      ],
+      "width": 1440,
+      "height": 7585
+    },
+    "mobile": {
+      "issues": [
+        {
+          "code": "BACKGROUND_PAINT_REVIEW",
+          "target": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+          "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+          "level": "UNKNOWN"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I2",
+          "detail": "Expected {\"selector\":\".feature-bath img\",\"assetId\":\"A2\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I3",
+          "detail": "Expected {\"selector\":\".care-visual img\",\"assetId\":\"A3\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I10",
+          "detail": "Expected {\"selector\":\".review-chip\",\"text\":\"381+ Reviews\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+          "target": "I14",
+          "detail": "Expected {\"selector\":\".footer-links a[href*='facebook.com/pugglesdoggrooming']\",\"text\":\"Facebook\"}",
+          "level": "UNKNOWN",
+          "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+        },
+        {
+          "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+          "target": ".photo-hero .primary-button",
+          "detail": "Core CTA not within first screen",
+          "level": "FAIL"
+        },
+        {
+          "code": "EMBED_UNVERIFIED",
+          "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(1) > iframe:nth-of-type(1)",
+          "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+          "level": "UNKNOWN",
+          "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+        }
+      ],
+      "mapping": [
+        {
+          "id": "I1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 21,
+                "y": 79,
+                "width": 145,
+                "height": 56.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 21,
+              "y": 79,
+              "width": 145,
+              "height": 56.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I2",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": ".feature-bath img",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 32.1875,
+                "y": 238.046875,
+                "width": 325.625,
+                "height": 368
+              },
+              "samples": 0,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I3",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": ".care-visual img",
+              "visible": false,
+              "reason": "occluded/clipped",
+              "rect": {
+                "x": 0,
+                "y": 292.125,
+                "width": 390,
+                "height": 260.046875
+              },
+              "samples": 0,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".call-image img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 31.1875,
+                "y": 368.734375,
+                "width": 327.625,
+                "height": 107.359375
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".call-image img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 31.1875,
+              "y": 368.734375,
+              "width": 327.625,
+              "height": 107.359375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".photo-hero",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 111.703125,
+                "width": 390,
+                "height": 620
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".photo-hero",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 111.703125,
+              "width": 390,
+              "height": 620
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".board-card--frankie img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 39,
+                "y": 383.6875,
+                "width": 76,
+                "height": 76
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".board-card--frankie img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 39,
+              "y": 383.6875,
+              "width": 76,
+              "height": 76
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".board-card--aggie img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 39,
+                "y": 383.65625,
+                "width": 76,
+                "height": 76
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".board-card--aggie img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 39,
+              "y": 383.65625,
+              "width": 76,
+              "height": 76
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".board-card--clifford img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 39,
+                "y": 383.859375,
+                "width": 76,
+                "height": 76
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".board-card--clifford img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 39,
+              "y": 383.859375,
+              "width": 76,
+              "height": 76
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I9",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-title",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 362.109375,
+                "width": 342,
+                "height": 115.40625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#hero-title",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 362.109375,
+              "width": 342,
+              "height": 115.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I10",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": ".review-chip",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 34.5,
+                "width": 78.625,
+                "height": 16.5
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        },
+        {
+          "id": "I11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".photo-hero .primary-button",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 397.90625,
+                "width": 172.84375,
+                "height": 47.390625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".photo-hero .primary-button",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 397.90625,
+              "width": 172.84375,
+              "height": 47.390625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#find-us address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 372.03125,
+                "width": 342,
+                "height": 99.640625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#find-us address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 372.03125,
+              "width": 342,
+              "height": 99.640625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".email-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 56.1875,
+                "y": 478.46875,
+                "width": 235.125,
+                "height": 18.84375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": ".email-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 56.1875,
+              "y": 478.46875,
+              "width": 235.125,
+              "height": 18.84375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I14",
+          "pass": false,
+          "attempts": [
+            {
+              "selector": ".footer-links a[href*='facebook.com/pugglesdoggrooming']",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 759.171875,
+                "width": 63.078125,
+                "height": 20.5
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": null
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/puggles-logo.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 21,
+              "y": 79,
+              "width": 145,
+              "height": 56.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1151,
+          "height": 449
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-group-dogs.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 111.703125,
+              "width": 390,
+              "height": 620
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1435
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-bath.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 32.1875,
+              "y": 238.046875,
+              "width": 325.625,
+              "height": 368
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1656
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-towel-dog.jpg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 0,
+              "y": 292.125,
+              "width": 390,
+              "height": 260.046875
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1707
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-frankie.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 39,
+              "y": 383.6875,
+              "width": 76,
+              "height": 76
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 220,
+          "height": 220
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-aggie.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 39,
+              "y": 383.65625,
+              "width": 76,
+              "height": 76
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 220,
+          "height": 220
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(3) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-clifford.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 39,
+              "y": 383.859375,
+              "width": 76,
+              "height": 76
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 220,
+          "height": 220
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-bathtub-dog.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 31.1875,
+              "y": 368.734375,
+              "width": 327.625,
+              "height": 107.359375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 839
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/puggles-logo.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 632.3125,
+              "width": 145,
+              "height": 56.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1151,
+          "height": 449
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#reviews",
+          "text": "381+ REVIEWS"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:07830249472",
+          "text": "CALL 07830 249472"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "SERVICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#price-guide",
+          "text": "PRICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#board",
+          "text": "THE BOARD"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "#find-us",
+          "text": "FIND US"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "CALL PUGGLES ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#price-guide",
+          "text": "SEE PRICE GUIDE ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "TALK IT THROUGH →"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.pugglesbathandgroom.co.uk/before-afters/",
+          "text": "SEE PUGGLES’ BEFORE & AFTERS ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "SPEAK WITH PUGGLES →"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "29 OCT 2025 Why Do I Need to Brush My Dog? ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "28 OCT 2024 20 ways coconut oil can help your pets ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "28 OCT 2024 Why grooming is important? ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://www.google.com/maps/search/?api=1&query=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA",
+          "text": "OPEN IN GOOGLE MAPS ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "07830 249472 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.facebook.com/pugglesdoggrooming",
+          "text": "FACEBOOK"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.pugglesbathandgroom.co.uk/terms-conditions-grooming/",
+          "text": "GROOMING TERMS"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.pugglesbathandgroom.co.uk/privacy-policy/",
+          "text": "PRIVACY"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "https://www.pugglesbathandgroom.co.uk/cookie-policy-uk/",
+          "text": "COOKIE POLICY"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "tel:07830249472",
+          "text": "CALL PUGGLES"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/puggles-logo.png"
+          ],
+          "section": "top",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-group-dogs.jpeg"
+          ],
+          "section": "photo-hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-bath.jpeg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-towel-dog.jpg"
+          ],
+          "section": "care",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-frankie.webp"
+          ],
+          "section": "board",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-aggie.webp"
+          ],
+          "section": "board",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(3) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-clifford.webp"
+          ],
+          "section": "board",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-bathtub-dog.jpeg"
+          ],
+          "section": "visit",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/puggles-logo.png"
+          ],
+          "section": "body",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:07830249472",
+          "text": "CALL 07830 249472",
+          "section": "top"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "CALL PUGGLES ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "TALK IT THROUGH →",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.pugglesbathandgroom.co.uk/before-afters/",
+          "text": "SEE PUGGLES’ BEFORE & AFTERS ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "SPEAK WITH PUGGLES →",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "29 OCT 2025 Why Do I Need to Brush My Dog? ↗",
+          "section": "notes"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "28 OCT 2024 20 ways coconut oil can help your pets ↗",
+          "section": "notes"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.pugglesbathandgroom.co.uk/news/",
+          "text": "28 OCT 2024 Why grooming is important? ↗",
+          "section": "notes"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://www.google.com/maps/search/?api=1&query=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA",
+          "text": "OPEN IN GOOGLE MAPS ↗",
+          "section": "find-us"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:07830249472",
+          "text": "07830 249472 ↗",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(10) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]",
+          "section": "visit"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.facebook.com/pugglesdoggrooming",
+          "text": "FACEBOOK",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.pugglesbathandgroom.co.uk/terms-conditions-grooming/",
+          "text": "GROOMING TERMS",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.pugglesbathandgroom.co.uk/privacy-policy/",
+          "text": "PRIVACY",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "https://www.pugglesbathandgroom.co.uk/cookie-policy-uk/",
+          "text": "COOKIE POLICY",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "tel:07830249472",
+          "text": "CALL PUGGLES",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Professional dog grooming in Reading.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "The Puggles grooming menu.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Bath & Go",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Bath & Trim",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Bath, Groom & Pamper",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#full-groom-title",
+          "text": "Not just a tidy-up.",
+          "section": "full-groom"
+        },
+        {
+          "kind": "fact",
+          "selector": "#price-title",
+          "text": "Find your dog’s starting point.",
+          "section": "price-guide"
+        },
+        {
+          "kind": "fact",
+          "selector": "#care-title",
+          "text": "A good groom starts with paying attention.",
+          "section": "care"
+        },
+        {
+          "kind": "fact",
+          "selector": "#board-title",
+          "text": "A little more personality, please.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Frankie",
+          "section": "board"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Aggie",
+          "section": "board"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Clifford",
+          "section": "board"
+        },
+        {
+          "kind": "fact",
+          "selector": "#reviews-title",
+          "text": "381+ Reviews",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "#areas-title",
+          "text": "Around Reading, for the dogs nearby.",
+          "section": "areas"
+        },
+        {
+          "kind": "fact",
+          "selector": "#notes-title",
+          "text": "Useful reads for dog people.",
+          "section": "notes"
+        },
+        {
+          "kind": "fact",
+          "selector": "#find-us-title",
+          "text": "A local salon, easy to find.",
+          "section": "find-us"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(9) > div:nth-of-type(2) > address:nth-of-type(1)",
+          "text": "3 Mays Hill Cottages Beech Hill, Reading Berkshire, RG7 1JA",
+          "section": "find-us"
+        },
+        {
+          "kind": "fact",
+          "selector": "#visit-title",
+          "text": "Start with a call.",
+          "section": "visit"
+        }
+      ],
+      "width": 390,
+      "height": 9242
+    }
+  },
+  "blocked": [
+    {
+      "viewport": "desktop",
+      "url": "https://www.google.com/maps?q=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA&output=embed",
+      "type": "document",
+      "method": "GET",
+      "limitation": true
+    },
+    {
+      "viewport": "mobile",
+      "url": "https://www.google.com/maps?q=3%20Mays%20Hill%20Cottages%2C%20Beech%20Hill%2C%20Reading%2C%20Berkshire%2C%20RG7%201JA&output=embed",
+      "type": "document",
+      "method": "GET",
+      "limitation": true
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

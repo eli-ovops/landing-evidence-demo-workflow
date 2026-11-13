@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T00:27:33.315Z",
+  "owner": "fixture-owner",
+  "client": "opaque-sibling-overlay",
+  "activeVersion": "active",
+  "inputHash": "dff77acce2e991939b6d6b5f0007ff2d54fca6182bc5de102ebe87c9077a4a85",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-fact",
+        "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-fact",
+        "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "b8dd40a01ca4619d1c5e65d3998dfe1a91b38ab8e7cf673992c78d960d3a0d6b"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "c96c6b1a3082532d2ea3c2b1c96bc2943f9464a1affbea6f7f1b6114de4c1170"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "d5d41a6257d3bf60015bfc2d6e65aa5b49a8f15d362df3aa737e6a60c2278c70"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "35012350fb2ac2a9f34a63e5570367912eed9b8a93e29bcf7d404adabcc65d21"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "94c433014e85722fdbf9e6e4ae20fcbb1c795a2358228ac8216b92fa1e7a2076"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "87d8c5bd9b90c96a86cd0146f3fca8b52b155b1e0d83c7cb336d7fecc23ae019"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "963657275d3d830a61887cf7f3f9b7633db75636ac5050cbf57d3e957ec80aeb"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "cefcfd9464db8ea7ed4707f5cbd4826d493da274492252ea6d65b01193cbfb4b"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

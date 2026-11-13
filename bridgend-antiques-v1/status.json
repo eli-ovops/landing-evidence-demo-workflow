@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "/root",
+  "activeVersion": "v1",
+  "inputHash": "bcc9cebcdc35fe3f1c28ba724d1a79a20e5aaed1d24b1e8a75a17612f223e0e4",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/bridgend-antiques-v1/runs/2026-09-08T05-32-29-855Z-d8b251ad/result.json",
+  "resultSha256": "08c2921ab4008dfc8c0d71fbf4941d2e97ebf97f3f7d44486f7be662759cc12a",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

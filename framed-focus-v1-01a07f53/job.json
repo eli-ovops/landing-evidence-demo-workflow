@@ -1,0 +1,12 @@
+{
+  "owner": "01a07f53-70e7-7fb2-bb6b-5c8df904ccf6",
+  "client": "Framed Focus",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/ACTIVATION_MATRIX.csv",
+    "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/full-replacement/SOURCE_MAPPING.csv",
+    "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/image-redesign/ASSET_ACTIVATION.csv"
+  ],
+  "createdAt": "2026-09-08T05:28:31.917Z",
+  "scheduler": false
+}

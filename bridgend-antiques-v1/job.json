@@ -1,0 +1,10 @@
+{
+  "owner": "/root",
+  "client": "Bridgend Antiques",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/demo",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/docs/activation-source.csv"
+  ],
+  "createdAt": "2026-09-08T05:11:11.633Z",
+  "scheduler": false
+}

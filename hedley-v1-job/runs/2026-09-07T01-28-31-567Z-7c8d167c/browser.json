@@ -1,0 +1,2017 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 72,
+                "y": 21,
+                "width": 188.84375,
+                "height": 45.984375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Hedley LANDSCAPE GARDENER & BUILDER",
+              "actualHref": "#hero",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 72,
+              "y": 21,
+              "width": 188.84375,
+              "height": 45.984375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Hedley LANDSCAPE GARDENER & BUILDER",
+            "actualHref": "#hero",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact .location",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 767.1875,
+                "y": 454.796875,
+                "width": 557.609375,
+                "height": 15
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "BASED IN BOYTHORPE, CHESTERFIELD",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact .location",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 767.1875,
+              "y": 454.796875,
+              "width": 557.609375,
+              "height": 15
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "BASED IN BOYTHORPE, CHESTERFIELD",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact .email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 767.1875,
+                "y": 631.078125,
+                "width": 557.609375,
+                "height": 37
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact .email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 767.1875,
+              "y": 631.078125,
+              "width": 557.609375,
+              "height": 37
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact .mobile",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 788.1875,
+                "y": 454.296875,
+                "width": 515.609375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07891 873820 ↗",
+              "actualHref": "tel:+447891873820",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact .mobile",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 788.1875,
+              "y": 454.296875,
+              "width": 515.609375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07891 873820 ↗",
+            "actualHref": "tel:+447891873820",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04b",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact .landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 767.1875,
+                "y": 546.6875,
+                "width": 557.609375,
+                "height": 37
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "01246 230493 ↗",
+              "actualHref": "tel:+441246230493",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact .landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 767.1875,
+              "y": 546.6875,
+              "width": 557.609375,
+              "height": 37
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "01246 230493 ↗",
+            "actualHref": "tel:+441246230493",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -148,
+                "width": 1440,
+                "height": 1219.140625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "FROM THE PATIO TO THE GARDEN GATE A place for everyday living. Patios to spend time on. Driveways to come home to. Walls and fencing to bring it all together. 01 / PAVING Patios & paths Make room for life outside. Patio, path and block paving work for the spaces around your home. PATIO PAVING · GARDEN PATHS · BLOCK PAVING Talk about your patio ↗ 02 / ARRIVAL Driveways A considered approach to your home. Driveway work, including resin drives and paths. DRIVEWAYS · RESIN SURFACING Discuss your driveway ↗ 03 / BOUNDARIES Walls & fencing Give your garden a clear edge. Dry stone walls and fencing for the boundaries around it. DRY STONE WALLS · FENCING Plan your boundaries ↗ Keeping the garden in shape. Hedge and lawn cutting, and tree work. Ask about garden upkeep ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -148,
+              "width": 1440,
+              "height": 1219.140625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "FROM THE PATIO TO THE GARDEN GATE A place for everyday living. Patios to spend time on. Driveways to come home to. Walls and fencing to bring it all together. 01 / PAVING Patios & paths Make room for life outside. Patio, path and block paving work for the spaces around your home. PATIO PAVING · GARDEN PATHS · BLOCK PAVING Talk about your patio ↗ 02 / ARRIVAL Driveways A considered approach to your home. Driveway work, including resin drives and paths. DRIVEWAYS · RESIN SURFACING Discuss your driveway ↗ 03 / BOUNDARIES Walls & fencing Give your garden a clear edge. Dry stone walls and fencing for the boundaries around it. DRY STONE WALLS · FENCING Plan your boundaries ↗ Keeping the garden in shape. Hedge and lawn cutting, and tree work. Ask about garden upkeep ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews .review-patio",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 115.1875,
+                "y": 267.828125,
+                "width": 570.25,
+                "height": 387.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "PATIO REPLACEMENT Care beyond the paving. “All debris was removed and the area kept clean daily.” The patio customer also highlighted clear updates as the work progressed. 13 August 2026",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews .review-patio",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 267.828125,
+              "width": 570.25,
+              "height": 387.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "PATIO REPLACEMENT Care beyond the paving. “All debris was removed and the area kept clean daily.” The patio customer also highlighted clear updates as the work progressed. 13 August 2026",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews .review-drive",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 806.390625,
+                "y": 371.828125,
+                "width": 518.421875,
+                "height": 181.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "DRIVEWAY Attention to the finish. The reviewer was pleased with the new drive’s appearance and the care taken over the details. 6 July 2026",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews .review-drive",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 806.390625,
+              "y": 371.828125,
+              "width": 518.421875,
+              "height": 181.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "DRIVEWAY Attention to the finish. The reviewer was pleased with the new drive’s appearance and the care taken over the details. 6 July 2026",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F07b",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews .review-garden",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 806.390625,
+                "y": 371.015625,
+                "width": 518.421875,
+                "height": 181.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "GARDEN TRANSFORMATION Ideas listened to. The customer valued an adaptable approach, with their ideas incorporated into the garden work. 17 June 2026",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews .review-garden",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 806.390625,
+              "y": 371.015625,
+              "width": 518.421875,
+              "height": 181.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "GARDEN TRANSFORMATION Ideas listened to. The customer valued an adaptable approach, with their ideas incorporated into the garden work. 17 June 2026",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews .source-note",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1174.078125,
+                "y": 433.453125,
+                "width": 150.734375,
+                "height": 56.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read reviews on Derbyshire Trusted Trader ↗",
+              "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews .source-note",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1174.078125,
+              "y": 433.453125,
+              "width": 150.734375,
+              "height": 56.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read reviews on Derbyshire Trusted Trader ↗",
+            "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "A01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".service-patio img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 115.1875,
+                "y": 305.6875,
+                "width": 660,
+                "height": 312
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "46% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/council-garden.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".service-patio img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 305.6875,
+              "width": 660,
+              "height": 312
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "46% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/council-garden.jpg"
+            ]
+          }
+        },
+        {
+          "id": "A03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 115.1875,
+                "y": 157.03125,
+                "width": 531.046875,
+                "height": 610
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/closing.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#contact img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 157.03125,
+              "width": 531.046875,
+              "height": 610
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/closing.jpg"
+            ]
+          }
+        },
+        {
+          "id": "visual-G01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero .hero-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 88,
+                "width": 1392,
+                "height": 710
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 60%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/hero.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero .hero-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 88,
+              "width": 1392,
+              "height": 710
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 60%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/hero.jpg"
+            ]
+          }
+        },
+        {
+          "id": "visual-G03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".service-drive img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 115.1875,
+                "y": 294.6875,
+                "width": 268.21875,
+                "height": 335.265625
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/drive.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".service-drive img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 294.6875,
+              "width": 268.21875,
+              "height": 335.265625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/drive.jpg"
+            ]
+          }
+        },
+        {
+          "id": "visual-G04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".service-boundary img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 750.234375,
+                "y": 294.6875,
+                "width": 268.21875,
+                "height": 335.265625
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/boundary.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".service-boundary img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 750.234375,
+              "y": 294.6875,
+              "width": 268.21875,
+              "height": 335.265625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/boundary.jpg"
+            ]
+          }
+        },
+        {
+          "id": "visual-G05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 115.1875,
+                "y": 157.03125,
+                "width": 531.046875,
+                "height": 610
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/closing.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#contact img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 157.03125,
+              "width": 531.046875,
+              "height": 610
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/closing.jpg"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/hero.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 88,
+              "width": 1392,
+              "height": 710
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 60%"
+          },
+          "decoded": true,
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/council-garden.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 305.6875,
+              "width": 660,
+              "height": 312
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "46% 50%"
+          },
+          "decoded": true,
+          "width": 660,
+          "height": 312
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/drive.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 294.6875,
+              "width": 268.21875,
+              "height": 335.265625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/boundary.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 750.234375,
+              "y": 294.6875,
+              "width": 268.21875,
+              "height": 335.265625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/closing.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 115.1875,
+              "y": 157.03125,
+              "width": 531.046875,
+              "height": 610
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1086,
+          "height": 1448
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": "Hedley LANDSCAPE GARDENER & BUILDER"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#reviews",
+          "text": "Reviews"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Explore the services ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Talk about your patio ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your driveway ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Plan your boundaries ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Ask about garden upkeep ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+          "text": "Read reviews on Derbyshire Trusted Trader ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447891873820",
+          "text": "07891 873820 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:+441246230493",
+          "text": "01246 230493 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+          "text": "View local directory details ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/hero.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 60%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/council-garden.jpg"
+          ],
+          "section": "services",
+          "focus": "46% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/drive.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/boundary.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/closing.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+          "text": "Read reviews on Derbyshire Trusted Trader ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447891873820",
+          "text": "07891 873820 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:+441246230493",
+          "text": "01246 230493 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+          "text": "View local directory details ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "More life. Outdoors.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "A place for everyday living.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Patios & paths",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Driveways",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Walls & fencing",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#reviews-title",
+          "text": "The details people remember.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Care beyond the paving.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Attention to the finish.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Ideas listened to.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "#contact-title",
+          "text": "What have you got in mind?",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 3674
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 20.609375,
+                "width": 133.75,
+                "height": 38.78125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Hedley LANDSCAPE GARDENER & BUILDER",
+              "actualHref": "#hero",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 20.609375,
+              "width": 133.75,
+              "height": 38.78125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Hedley LANDSCAPE GARDENER & BUILDER",
+            "actualHref": "#hero",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact .location",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 427.578125,
+                "width": 340,
+                "height": 12
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "BASED IN BOYTHORPE, CHESTERFIELD",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact .location",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 427.578125,
+              "width": 340,
+              "height": 12
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "BASED IN BOYTHORPE, CHESTERFIELD",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact .email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 586.65625,
+                "width": 340,
+                "height": 37
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact .email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 586.65625,
+              "width": 340,
+              "height": 37
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact .mobile",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 43,
+                "y": 411.875,
+                "width": 304,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07891 873820 ↗",
+              "actualHref": "tel:+447891873820",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact .mobile",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 43,
+              "y": 411.875,
+              "width": 304,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07891 873820 ↗",
+            "actualHref": "tel:+447891873820",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04b",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact .landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 502.265625,
+                "width": 340,
+                "height": 37
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "01246 230493 ↗",
+              "actualHref": "tel:+441246230493",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact .landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 502.265625,
+              "width": 340,
+              "height": 37
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "01246 230493 ↗",
+            "actualHref": "tel:+441246230493",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -529,
+                "width": 390,
+                "height": 1925.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "FROM THE PATIO TO THE GARDEN GATE A place for everyday living. Patios to spend time on. Driveways to come home to.Walls and fencing to bring it all together. 01 / PAVING Patios & paths Make room for life outside. Patio, path and block paving work for the spaces around your home. PATIO PAVING · GARDEN PATHS · BLOCK PAVING Talk about your patio ↗ 02 / ARRIVAL Driveways A considered approach to your home. Driveway work, including resin drives and paths. DRIVEWAYS · RESIN SURFACING Discuss your driveway ↗ 03 / BOUNDARIES Walls & fencing Give your garden a clear edge. Dry stone walls and fencing for the boundaries around it. DRY STONE WALLS · FENCING Plan your boundaries ↗ Keeping the garden in shape. Hedge and lawn cutting, and tree work. Ask about garden upkeep ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -529,
+              "width": 390,
+              "height": 1925.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "FROM THE PATIO TO THE GARDEN GATE A place for everyday living. Patios to spend time on. Driveways to come home to.Walls and fencing to bring it all together. 01 / PAVING Patios & paths Make room for life outside. Patio, path and block paving work for the spaces around your home. PATIO PAVING · GARDEN PATHS · BLOCK PAVING Talk about your patio ↗ 02 / ARRIVAL Driveways A considered approach to your home. Driveway work, including resin drives and paths. DRIVEWAYS · RESIN SURFACING Discuss your driveway ↗ 03 / BOUNDARIES Walls & fencing Give your garden a clear edge. Dry stone walls and fencing for the boundaries around it. DRY STONE WALLS · FENCING Plan your boundaries ↗ Keeping the garden in shape. Hedge and lawn cutting, and tree work. Ask about garden upkeep ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews .review-patio",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 273.9375,
+                "width": 340,
+                "height": 319.453125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "PATIO REPLACEMENT Care beyond the paving. “All debris was removed and the area kept clean daily.” The patio customer also highlighted clear updates as the work progressed. 13 August 2026",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews .review-patio",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 273.9375,
+              "width": 340,
+              "height": 319.453125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "PATIO REPLACEMENT Care beyond the paving. “All debris was removed and the area kept clean daily.” The patio customer also highlighted clear updates as the work progressed. 13 August 2026",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews .review-drive",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 344.390625,
+                "width": 340,
+                "height": 179.09375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "DRIVEWAY Attention to the finish. The reviewer was pleased with the new drive’s appearance and the care taken over the details. 6 July 2026",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews .review-drive",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 344.390625,
+              "width": 340,
+              "height": 179.09375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "DRIVEWAY Attention to the finish. The reviewer was pleased with the new drive’s appearance and the care taken over the details. 6 July 2026",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F07b",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews .review-garden",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 344.484375,
+                "width": 340,
+                "height": 179.09375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "GARDEN TRANSFORMATION Ideas listened to. The customer valued an adaptable approach, with their ideas incorporated into the garden work. 17 June 2026",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews .review-garden",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 344.484375,
+              "width": 340,
+              "height": 179.09375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "GARDEN TRANSFORMATION Ideas listened to. The customer valued an adaptable approach, with their ideas incorporated into the garden work. 17 June 2026",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews .source-note",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 405.5625,
+                "width": 150.734375,
+                "height": 56.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read reviews on Derbyshire Trusted Trader ↗",
+              "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews .source-note",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 405.5625,
+              "width": 150.734375,
+              "height": 56.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read reviews on Derbyshire Trusted Trader ↗",
+            "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "A01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".service-patio img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 353.40625,
+                "width": 340,
+                "height": 160.71875
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "45% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/council-garden.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".service-patio img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 353.40625,
+              "width": 340,
+              "height": 160.71875
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "45% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/council-garden.jpg"
+            ]
+          }
+        },
+        {
+          "id": "A03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 303.578125,
+                "width": 340,
+                "height": 260
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 58%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/closing.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#contact img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 303.578125,
+              "width": 340,
+              "height": 260
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/closing.jpg"
+            ]
+          }
+        },
+        {
+          "id": "visual-G01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero .hero-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 12,
+                "y": 80,
+                "width": 366,
+                "height": 620
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "60% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/hero.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero .hero-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 12,
+              "y": 80,
+              "width": 366,
+              "height": 620
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "60% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/hero.jpg"
+            ]
+          }
+        },
+        {
+          "id": "visual-G03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".service-drive img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 331.4375,
+                "width": 340,
+                "height": 206.046875
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/drive.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".service-drive img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 331.4375,
+              "width": 340,
+              "height": 206.046875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/drive.jpg"
+            ]
+          }
+        },
+        {
+          "id": "visual-G04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".service-boundary img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 330.796875,
+                "width": 340,
+                "height": 206.046875
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/boundary.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".service-boundary img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 330.796875,
+              "width": 340,
+              "height": 206.046875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/boundary.jpg"
+            ]
+          }
+        },
+        {
+          "id": "visual-G05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 25,
+                "y": 303.578125,
+                "width": 340,
+                "height": 260
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 58%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/closing.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#contact img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 303.578125,
+              "width": 340,
+              "height": 260
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/closing.jpg"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/hero.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 12,
+              "y": 80,
+              "width": 366,
+              "height": 620
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "60% 50%"
+          },
+          "decoded": true,
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/council-garden.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 353.40625,
+              "width": 340,
+              "height": 160.71875
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "45% 50%"
+          },
+          "decoded": true,
+          "width": 660,
+          "height": 312
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/drive.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 331.4375,
+              "width": 340,
+              "height": 206.046875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/boundary.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 330.796875,
+              "width": 340,
+              "height": 206.046875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/closing.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 25,
+              "y": 303.578125,
+              "width": 340,
+              "height": 260
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%"
+          },
+          "decoded": true,
+          "width": 1086,
+          "height": 1448
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": "Hedley LANDSCAPE GARDENER & BUILDER"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#reviews",
+          "text": "Reviews"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Explore the services ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Talk about your patio ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your driveway ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Plan your boundaries ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Ask about garden upkeep ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+          "text": "Read reviews on Derbyshire Trusted Trader ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447891873820",
+          "text": "07891 873820 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:+441246230493",
+          "text": "01246 230493 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+          "text": "View local directory details ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/hero.jpg"
+          ],
+          "section": "hero",
+          "focus": "60% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/council-garden.jpg"
+          ],
+          "section": "services",
+          "focus": "45% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/drive.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/boundary.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/closing.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 58%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+          "text": "Read reviews on Derbyshire Trusted Trader ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447891873820",
+          "text": "07891 873820 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "tel:+441246230493",
+          "text": "01246 230493 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=35659",
+          "text": "View local directory details ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "More life. Outdoors.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "A place for everyday living.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Patios & paths",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Driveways",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Walls & fencing",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#reviews-title",
+          "text": "The details people remember.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Care beyond the paving.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Attention to the finish.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Ideas listened to.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "#contact-title",
+          "text": "What have you got in mind?",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 4864
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

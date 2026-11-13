@@ -1,0 +1,2901 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "IA01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-bath",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 850,
+                "y": 104,
+                "width": 450,
+                "height": 600
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-01.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-bath",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 850,
+              "y": 104,
+              "width": 450,
+              "height": 600
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-01.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchen-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 140,
+                "y": 164.3125,
+                "width": 447.15625,
+                "height": 596.203125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-03.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#kitchen-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 164.3125,
+              "width": 447.15625,
+              "height": 596.203125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-03.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interior-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1011.265625,
+                "y": 205.3125,
+                "width": 288.734375,
+                "height": 512.53125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-06.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#interior-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1011.265625,
+              "y": 205.3125,
+              "width": 288.734375,
+              "height": 512.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-06.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#closing-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 140,
+                "y": 316.359375,
+                "width": 548,
+                "height": 411
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-10.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#closing-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 316.359375,
+              "width": 548,
+              "height": 411
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-10.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#detail-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 192,
+                "y": 211.53125,
+                "width": 244,
+                "height": 501.359375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-12.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#detail-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 192,
+              "y": 211.53125,
+              "width": 244,
+              "height": 501.359375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-12.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 140,
+                "y": 12.859375,
+                "width": 59,
+                "height": 54.265625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 12.859375,
+              "width": 59,
+              "height": 54.265625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#before-after",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 140,
+                "y": 249.015625,
+                "width": 638,
+                "height": 425
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-15.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#before-after",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 249.015625,
+              "width": 638,
+              "height": 425
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-15.jpg"
+            ]
+          }
+        },
+        {
+          "id": "F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#about",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 92,
+                "y": 403,
+                "width": 1256,
+                "height": 117
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "JR Renovations is led by Roman Chojnacki. Based in Charlton, with experience in home renovations since 2001. Explore our work ↓",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#about",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 92,
+              "y": 403,
+              "width": 1256,
+              "height": 117
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "JR Renovations is led by Roman Chojnacki. Based in Charlton, with experience in home renovations since 2001. Explore our work ↓",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 92,
+                "y": -31,
+                "width": 1256,
+                "height": 985.53125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A room brought together. Right down to the details. Kitchen fitting, bathroom fitting and interior refurbishment, with the practical work that brings each room together. Kitchen fitting Cabinetry, tiling & finishing Kitchens Fitting, plumbing, carpentry and tiling for a kitchen refurbishment. Bathrooms Bathroom fitting, plumbing and tiling, from room preparation to the final finish. Interiors Plastering, decorating and carpentry as part of a wider home renovation. Other work we undertake Interior refurbishment Floors, walls & finishing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 92,
+              "y": -31,
+              "width": 1256,
+              "height": 985.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A room brought together. Right down to the details. Kitchen fitting, bathroom fitting and interior refurbishment, with the practical work that brings each room together. Kitchen fitting Cabinetry, tiling & finishing Kitchens Fitting, plumbing, carpentry and tiling for a kitchen refurbishment. Bathrooms Bathroom fitting, plumbing and tiling, from room preparation to the final finish. Interiors Plastering, decorating and carpentry as part of a wider home renovation. Other work we undertake Interior refurbishment Floors, walls & finishing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#project-fit",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 92,
+                "y": 156.53125,
+                "width": 1256,
+                "height": 611.359375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "LOOKING AT THE WHOLE PROJECT More than the finishing touches. Our focus is complete renovations. Plumbing, carpentry, plastering, tiling and decorating can all be part of the work. If your plans cover a kitchen, bathroom or several connected rooms, tell Roman what you have in mind. Have a smaller job in mind?",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#project-fit",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 92,
+              "y": 156.53125,
+              "width": 1256,
+              "height": 611.359375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "LOOKING AT THE WHOLE PROJECT More than the finishing touches. Our focus is complete renovations. Plumbing, carpentry, plastering, tiling and decorating can all be part of the work. If your plans cover a kitchen, bathroom or several connected rooms, tell Roman what you have in mind. Have a smaller job in mind?",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 838,
+                "y": 438.34375,
+                "width": 187.203125,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View the original gallery ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/gallery.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 838,
+              "y": 438.34375,
+              "width": 187.203125,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View the original gallery ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/gallery.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 140,
+                "y": 437.640625,
+                "width": 193.265625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read reviews on Which? ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 437.640625,
+              "width": 193.265625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read reviews on Which? ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 92,
+                "y": 288.703125,
+                "width": 1256,
+                "height": 345.65625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read it from the homeowners. Read reviews on Which? ↗ A kitchen, utility room and downstairs loo refurbishment, with a detailed quotation and changes discussed along the way. Summary of a homeowner review on Which? Trusted Traders. 27 August 2026 More testimonials on the original website ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 92,
+              "y": 288.703125,
+              "width": 1256,
+              "height": 345.65625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read it from the homeowners. Read reviews on Which? ↗ A kitchen, utility room and downstairs loo refurbishment, with a detailed quotation and changes discussed along the way. Summary of a homeowner review on Which? Trusted Traders. 27 August 2026 More testimonials on the original website ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 92,
+                "y": 216.359375,
+                "width": 1256,
+                "height": 591
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Let’s talk about your home. Tell Roman which rooms you’re planning to renovate and where your property is. [REDACTED_EMAIL] ↗ Mobile 07704 668583 Landline 0208 3052969 Charlton, London SE7 7NN Working across London and the South East",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 92,
+              "y": 216.359375,
+              "width": 1256,
+              "height": 591
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Let’s talk about your home. Tell Roman which rooms you’re planning to renovate and where your property is. [REDACTED_EMAIL] ↗ Mobile 07704 668583 Landline 0208 3052969 Charlton, London SE7 7NN Working across London and the South East",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 752,
+                "y": 524.4375,
+                "width": 548,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 752,
+              "y": 524.4375,
+              "width": 548,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F09",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#original-contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 667.21875,
+                "y": 832.359375,
+                "width": 175.609375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Business details & complaints ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/contact.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#original-contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 667.21875,
+              "y": 832.359375,
+              "width": 175.609375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Business details & complaints ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/contact.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 140,
+                "y": 12.859375,
+                "width": 59,
+                "height": 54.265625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 12.859375,
+              "width": 59,
+              "height": 54.265625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "C1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 752,
+                "y": 598.4375,
+                "width": 108.703125,
+                "height": 65.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Mobile 07704 668583",
+              "actualHref": "tel:+447704668583",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 752,
+              "y": 598.4375,
+              "width": 108.703125,
+              "height": 65.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Mobile 07704 668583",
+            "actualHref": "tel:+447704668583",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 894.703125,
+                "y": 598.4375,
+                "width": 108.703125,
+                "height": 65.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Landline 0208 3052969",
+              "actualHref": "tel:+442083052969",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 894.703125,
+              "y": 598.4375,
+              "width": 108.703125,
+              "height": 65.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Landline 0208 3052969",
+            "actualHref": "tel:+442083052969",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 752,
+                "y": 524.4375,
+                "width": 548,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 752,
+              "y": 524.4375,
+              "width": 548,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 140,
+                "y": 437.640625,
+                "width": 193.265625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read reviews on Which? ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 437.640625,
+              "width": 193.265625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read reviews on Which? ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 838,
+                "y": 438.34375,
+                "width": 187.203125,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View the original gallery ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/gallery.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 838,
+              "y": 438.34375,
+              "width": 187.203125,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View the original gallery ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/gallery.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#original-contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 667.21875,
+                "y": 832.359375,
+                "width": 175.609375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Business details & complaints ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/contact.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#original-contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 667.21875,
+              "y": 832.359375,
+              "width": 175.609375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Business details & complaints ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/contact.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#original-site",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 540.890625,
+                "y": 832.359375,
+                "width": 101.328125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Original website ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#original-site",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 540.890625,
+              "y": 832.359375,
+              "width": 101.328125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Original website ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#testimonial-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 760,
+                "y": 440.359375,
+                "width": 250.640625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "More testimonials on the original website ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/testimonial.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#testimonial-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 760,
+              "y": 440.359375,
+              "width": 250.640625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "More testimonials on the original website ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/testimonial.html",
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#brand-logo",
+          "url": "http://demo.local/assets/asset-14.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 12.859375,
+              "width": 59,
+              "height": 54.265625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 75,
+          "height": 69
+        },
+        {
+          "selector": "#hero-bath",
+          "url": "http://demo.local/assets/asset-01.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 850,
+              "y": 104,
+              "width": 450,
+              "height": 600
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#kitchen-work",
+          "url": "http://demo.local/assets/asset-03.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 164.3125,
+              "width": 447.15625,
+              "height": 596.203125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#interior-work",
+          "url": "http://demo.local/assets/asset-06.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1011.265625,
+              "y": 205.3125,
+              "width": 288.734375,
+              "height": 512.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 338,
+          "height": 600
+        },
+        {
+          "selector": "#detail-work",
+          "url": "http://demo.local/assets/asset-12.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 192,
+              "y": 211.53125,
+              "width": 244,
+              "height": 501.359375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 292,
+          "height": 600
+        },
+        {
+          "selector": "#before-after",
+          "url": "http://demo.local/assets/asset-15.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 249.015625,
+              "width": 638,
+              "height": 425
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 638,
+          "height": 425
+        },
+        {
+          "selector": "#closing-work",
+          "url": "http://demo.local/assets/asset-10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 140,
+              "y": 316.359375,
+              "width": 548,
+              "height": 411
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#work",
+          "text": "Our work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#reviews",
+          "text": "Reviews"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#contact",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#contact",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Explore our work ↓"
+        },
+        {
+          "selector": "#gallery-link",
+          "href": "http://www.jr-renovations.co.uk/gallery.html",
+          "text": "View the original gallery ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+          "text": "Read reviews on Which? ↗"
+        },
+        {
+          "selector": "#testimonial-link",
+          "href": "http://www.jr-renovations.co.uk/testimonial.html",
+          "text": "More testimonials on the original website ↗"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:+447704668583",
+          "text": "Mobile 07704 668583"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:+442083052969",
+          "text": "Landline 0208 3052969"
+        },
+        {
+          "selector": "#original-site",
+          "href": "http://www.jr-renovations.co.uk/",
+          "text": "Original website ↗"
+        },
+        {
+          "selector": "#original-contact",
+          "href": "http://www.jr-renovations.co.uk/contact.html",
+          "text": "Business details & complaints ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#brand-logo",
+          "urls": [
+            "http://demo.local/assets/asset-14.jpg"
+          ],
+          "section": "top",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#hero-bath",
+          "urls": [
+            "http://demo.local/assets/asset-01.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-work",
+          "urls": [
+            "http://demo.local/assets/asset-03.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-work",
+          "urls": [
+            "http://demo.local/assets/asset-06.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#detail-work",
+          "urls": [
+            "http://demo.local/assets/asset-12.jpg"
+          ],
+          "section": "project-fit",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#before-after",
+          "urls": [
+            "http://demo.local/assets/asset-15.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#closing-work",
+          "urls": [
+            "http://demo.local/assets/asset-10.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#gallery-link",
+          "href": "http://www.jr-renovations.co.uk/gallery.html",
+          "text": "View the original gallery ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+          "text": "Read reviews on Which? ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "#testimonial-link",
+          "href": "http://www.jr-renovations.co.uk/testimonial.html",
+          "text": "More testimonials on the original website ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:+447704668583",
+          "text": "Mobile 07704 668583",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:+442083052969",
+          "text": "Landline 0208 3052969",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#original-site",
+          "href": "http://www.jr-renovations.co.uk/",
+          "text": "Original website ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#original-contact",
+          "href": "http://www.jr-renovations.co.uk/contact.html",
+          "text": "Business details & complaints ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Kitchens & bathrooms.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "A room brought together. Right down to the details.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Kitchens",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Bathrooms",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Interiors",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "More than the finishing touches.",
+          "section": "project-fit"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From preparation to the finished room.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "The work behind the finish.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Read it from the homeowners.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Let’s talk about your home.",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 4358
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "IA01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-bath",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 205.53125,
+                "width": 342,
+                "height": 456
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-01.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-bath",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 205.53125,
+              "width": 342,
+              "height": 456
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-01.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchen-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 206.296875,
+                "width": 342,
+                "height": 456
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-03.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#kitchen-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 206.296875,
+              "width": 342,
+              "height": 456
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-03.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interior-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 85,
+                "y": 238.5,
+                "width": 220,
+                "height": 390.53125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-06.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#interior-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 85,
+              "y": 238.5,
+              "width": 220,
+              "height": 390.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-06.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#closing-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 306.03125,
+                "width": 342,
+                "height": 256.5
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-10.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#closing-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 306.03125,
+              "width": 342,
+              "height": 256.5
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-10.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#detail-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 239.1875,
+                "width": 190,
+                "height": 390.40625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-12.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#detail-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 239.1875,
+              "width": 190,
+              "height": 390.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-12.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 14.703125,
+                "width": 55,
+                "height": 50.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 14.703125,
+              "width": 55,
+              "height": 50.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#before-after",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 319.6875,
+                "width": 342,
+                "height": 227.8125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-15.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#before-after",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 319.6875,
+              "width": 342,
+              "height": 227.8125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-15.jpg"
+            ]
+          }
+        },
+        {
+          "id": "F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#about",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 347.53125,
+                "width": 390,
+                "height": 173.171875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "JR Renovations is led by Roman Chojnacki. Based in Charlton, with experience in home renovations since 2001. Explore our work ↓",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#about",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 347.53125,
+              "width": 390,
+              "height": 173.171875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "JR Renovations is led by Roman Chojnacki. Based in Charlton, with experience in home renovations since 2001. Explore our work ↓",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -418.296875,
+                "width": 390,
+                "height": 1705.015625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A room brought together. Right down to the details. Kitchen fitting, bathroom fitting and interior refurbishment, with the practical work that brings each room together. Kitchen fitting Cabinetry, tiling & finishing Kitchens Fitting, plumbing, carpentry and tiling for a kitchen refurbishment. Bathrooms Bathroom fitting, plumbing and tiling, from room preparation to the final finish. Interiors Plastering, decorating and carpentry as part of a wider home renovation. Other work we undertake Interior refurbishment Floors, walls & finishing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -418.296875,
+              "width": 390,
+              "height": 1705.015625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A room brought together. Right down to the details. Kitchen fitting, bathroom fitting and interior refurbishment, with the practical work that brings each room together. Kitchen fitting Cabinetry, tiling & finishing Kitchens Fitting, plumbing, carpentry and tiling for a kitchen refurbishment. Bathrooms Bathroom fitting, plumbing and tiling, from room preparation to the final finish. Interiors Plastering, decorating and carpentry as part of a wider home renovation. Other work we undertake Interior refurbishment Floors, walls & finishing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#project-fit",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -3.28125,
+                "width": 390,
+                "height": 873.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "LOOKING AT THE WHOLE PROJECT More than the finishing touches. Our focus is complete renovations. Plumbing, carpentry, plastering, tiling and decorating can all be part of the work. If your plans cover a kitchen, bathroom or several connected rooms, tell Roman what you have in mind. Have a smaller job in mind?",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#project-fit",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -3.28125,
+              "width": 390,
+              "height": 873.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "LOOKING AT THE WHOLE PROJECT More than the finishing touches. Our focus is complete renovations. Plumbing, carpentry, plastering, tiling and decorating can all be part of the work. If your plans cover a kitchen, bathroom or several connected rooms, tell Roman what you have in mind. Have a smaller job in mind?",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 409.96875,
+                "width": 187.203125,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View the original gallery ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/gallery.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 409.96875,
+              "width": 187.203125,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View the original gallery ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/gallery.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 409.875,
+                "width": 193.265625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read reviews on Which? ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 409.875,
+              "width": 193.265625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read reviews on Which? ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 190.96875,
+                "width": 390,
+                "height": 485.0625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read it from the homeowners. Read reviews on Which? ↗ A kitchen, utility room and downstairs loo refurbishment, with a detailed quotation and changes discussed along the way. Summary of a homeowner review on Which? Trusted Traders. 27 August 2026 More testimonials on the original website ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 190.96875,
+              "width": 390,
+              "height": 485.0625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read it from the homeowners. Read reviews on Which? ↗ A kitchen, utility room and downstairs loo refurbishment, with a detailed quotation and changes discussed along the way. Summary of a homeowner review on Which? Trusted Traders. 27 August 2026 More testimonials on the original website ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 53.03125,
+                "width": 390,
+                "height": 762.75
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Let’s talk about your home. Tell Roman which rooms you’re planning to renovate and where your property is. [REDACTED_EMAIL] ↗ Mobile 07704 668583 Landline 0208 3052969 Charlton, London SE7 7NN Working across London and the South East",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 53.03125,
+              "width": 390,
+              "height": 762.75
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Let’s talk about your home. Tell Roman which rooms you’re planning to renovate and where your property is. [REDACTED_EMAIL] ↗ Mobile 07704 668583 Landline 0208 3052969 Charlton, London SE7 7NN Working across London and the South East",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 405.625,
+                "width": 342,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 405.625,
+              "width": 342,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F09",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#original-contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 741.171875,
+                "width": 342,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Business details & complaints ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/contact.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#original-contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 741.171875,
+              "width": 342,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Business details & complaints ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/contact.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 14.703125,
+                "width": 55,
+                "height": 50.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 14.703125,
+              "width": 55,
+              "height": 50.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "C1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 474.625,
+                "width": 102.3125,
+                "height": 63.78125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Mobile 07704 668583",
+              "actualHref": "tel:+447704668583",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 474.625,
+              "width": 102.3125,
+              "height": 63.78125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Mobile 07704 668583",
+            "actualHref": "tel:+447704668583",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 154.3125,
+                "y": 474.625,
+                "width": 102.3125,
+                "height": 63.78125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Landline 0208 3052969",
+              "actualHref": "tel:+442083052969",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 154.3125,
+              "y": 474.625,
+              "width": 102.3125,
+              "height": 63.78125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Landline 0208 3052969",
+            "actualHref": "tel:+442083052969",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 405.625,
+                "width": 342,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 405.625,
+              "width": 342,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 409.875,
+                "width": 193.265625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read reviews on Which? ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 409.875,
+              "width": 193.265625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read reviews on Which? ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 409.96875,
+                "width": 187.203125,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View the original gallery ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/gallery.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 409.96875,
+              "width": 187.203125,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View the original gallery ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/gallery.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#original-contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 741.171875,
+                "width": 342,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Business details & complaints ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/contact.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#original-contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 741.171875,
+              "width": 342,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Business details & complaints ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/contact.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#original-site",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 697.171875,
+                "width": 342,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Original website ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#original-site",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 697.171875,
+              "width": 342,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Original website ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#testimonial-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 412.03125,
+                "width": 231.375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "More testimonials on the original website ↗",
+              "actualHref": "http://www.jr-renovations.co.uk/testimonial.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#testimonial-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 412.03125,
+              "width": 231.375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "More testimonials on the original website ↗",
+            "actualHref": "http://www.jr-renovations.co.uk/testimonial.html",
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#brand-logo",
+          "url": "http://demo.local/assets/asset-14.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 14.703125,
+              "width": 55,
+              "height": 50.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 75,
+          "height": 69
+        },
+        {
+          "selector": "#hero-bath",
+          "url": "http://demo.local/assets/asset-01.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 205.53125,
+              "width": 342,
+              "height": 456
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#kitchen-work",
+          "url": "http://demo.local/assets/asset-03.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 206.296875,
+              "width": 342,
+              "height": 456
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#interior-work",
+          "url": "http://demo.local/assets/asset-06.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 85,
+              "y": 238.5,
+              "width": 220,
+              "height": 390.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 338,
+          "height": 600
+        },
+        {
+          "selector": "#detail-work",
+          "url": "http://demo.local/assets/asset-12.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 239.1875,
+              "width": 190,
+              "height": 390.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 292,
+          "height": 600
+        },
+        {
+          "selector": "#before-after",
+          "url": "http://demo.local/assets/asset-15.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 319.6875,
+              "width": 342,
+              "height": 227.8125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 638,
+          "height": 425
+        },
+        {
+          "selector": "#closing-work",
+          "url": "http://demo.local/assets/asset-10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 306.03125,
+              "width": 342,
+              "height": 256.5
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#work",
+          "text": "Our work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#reviews",
+          "text": "Reviews"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#contact",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#contact",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Explore our work ↓"
+        },
+        {
+          "selector": "#gallery-link",
+          "href": "http://www.jr-renovations.co.uk/gallery.html",
+          "text": "View the original gallery ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+          "text": "Read reviews on Which? ↗"
+        },
+        {
+          "selector": "#testimonial-link",
+          "href": "http://www.jr-renovations.co.uk/testimonial.html",
+          "text": "More testimonials on the original website ↗"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:+447704668583",
+          "text": "Mobile 07704 668583"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:+442083052969",
+          "text": "Landline 0208 3052969"
+        },
+        {
+          "selector": "#original-site",
+          "href": "http://www.jr-renovations.co.uk/",
+          "text": "Original website ↗"
+        },
+        {
+          "selector": "#original-contact",
+          "href": "http://www.jr-renovations.co.uk/contact.html",
+          "text": "Business details & complaints ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#brand-logo",
+          "urls": [
+            "http://demo.local/assets/asset-14.jpg"
+          ],
+          "section": "top",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#hero-bath",
+          "urls": [
+            "http://demo.local/assets/asset-01.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-work",
+          "urls": [
+            "http://demo.local/assets/asset-03.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-work",
+          "urls": [
+            "http://demo.local/assets/asset-06.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#detail-work",
+          "urls": [
+            "http://demo.local/assets/asset-12.jpg"
+          ],
+          "section": "project-fit",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#before-after",
+          "urls": [
+            "http://demo.local/assets/asset-15.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#closing-work",
+          "urls": [
+            "http://demo.local/assets/asset-10.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#gallery-link",
+          "href": "http://www.jr-renovations.co.uk/gallery.html",
+          "text": "View the original gallery ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+          "text": "Read reviews on Which? ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "#testimonial-link",
+          "href": "http://www.jr-renovations.co.uk/testimonial.html",
+          "text": "More testimonials on the original website ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:+447704668583",
+          "text": "Mobile 07704 668583",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:+442083052969",
+          "text": "Landline 0208 3052969",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#original-site",
+          "href": "http://www.jr-renovations.co.uk/",
+          "text": "Original website ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#original-contact",
+          "href": "http://www.jr-renovations.co.uk/contact.html",
+          "text": "Business details & complaints ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Kitchens & bathrooms.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "A room brought together. Right down to the details.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Kitchens",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Bathrooms",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Interiors",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "More than the finishing touches.",
+          "section": "project-fit"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From preparation to the finished room.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "The work behindthe finish.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Read it from the homeowners.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Let’s talk about your home.",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 5970
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

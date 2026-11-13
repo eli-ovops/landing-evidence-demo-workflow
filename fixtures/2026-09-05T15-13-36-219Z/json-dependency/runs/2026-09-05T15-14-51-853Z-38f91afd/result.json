@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:14:53.734Z",
+  "owner": "fixture-owner",
+  "client": "json-dependency",
+  "activeVersion": "active",
+  "inputHash": "6a0bf6018c2b4f9afc5f96a9cfc7006abfee552a0ffc5a2cdf2086c163e434f9",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/data.json",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/data.json",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+        "target": "/data.json",
+        "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+        "level": "FAIL"
+      },
+      {
+        "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+        "target": "/data.json",
+        "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "20d8c4910189154e31f6b4010abf1dc56133bf8445457cbf78c38d08244c7947"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "6de47ebbcd56e319240b7f5fe89e762e1e1be611761019e0ed325c00d452210b"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "41587d7a82217d33b23da1d7ea773af32ed6ff6a34742ee76d3af2b1b88e288c"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "78d490e8b81835b95ab52d5b6ae59d29017c68a3d48c0cc1c1dbf13ed9ce7a34"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "ccf758b81e33091b26c5ed4e474d0779d18f1bd07b9868024eb419bbb95e1ee8"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "8b371080d724c2e0acd8e7dce4c79488a99b05931a2a25599967d4ad9719f41a"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

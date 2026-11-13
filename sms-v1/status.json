@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "01a0793a-2eb8-7a22-a908-0aec95a59591",
+  "activeVersion": "v1",
+  "inputHash": "22208ee98a3808bc8ad7f6abe1c2139401e8ef2e41275850bf95c512d0579b3e",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/sms-v1/runs/2026-09-07T01-29-36-236Z-2e363fc8/result.json",
+  "resultSha256": "477e9eb8c9d35efdb4874e1da40492cddc7f8bb9eb7fde85435ce5a7a464c19c",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

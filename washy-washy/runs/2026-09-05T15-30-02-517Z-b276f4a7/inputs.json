@@ -1,0 +1,84 @@
+{
+  "contractSha256": "70a94041c2234a8ab74607e5fbdb27436080c72a4c41c4f5efb2a3515bf63a29",
+  "activeVersion": "demo_20260902/index.html",
+  "manifest": [
+    {
+      "path": "HERO_OPTIONS_20260903.html",
+      "sha256": "49a06c5bd1530ed080b70f292a58e4f3bf46f3acc9564e60242b9bb962d57b6b",
+      "bytes": 8228
+    },
+    {
+      "path": "assets/official-dog-01.jpg",
+      "sha256": "0f47f98bfae7507d1b0083dc987b40c15e64c2d2ff9b708fcf1ab816ae8c7dbf",
+      "bytes": 77446
+    },
+    {
+      "path": "assets/official-dog-02.jpg",
+      "sha256": "4610181c8473d67d114d802dd89052e6a65ddf489f2619393e6a4ea1b275848d",
+      "bytes": 39900
+    },
+    {
+      "path": "assets/official-dog-03.jpg",
+      "sha256": "958a62747fc70afdd9b55ffedb2685e03528b45b5c00f7c6332c8b70ac708031",
+      "bytes": 231912
+    },
+    {
+      "path": "assets/official-dog-04.jpg",
+      "sha256": "47e49f5d8cdc9e11eb6b8da27f8b82a1a1dcdac7b357410698363d0172044036",
+      "bytes": 114214
+    },
+    {
+      "path": "assets/official-dog-05.webp",
+      "sha256": "f6a593ea0bc092a552eb66c320f96ea7741081da09c53445029a3577966fc0ce",
+      "bytes": 77844
+    },
+    {
+      "path": "assets/washy-washy-concept-care-20260902.png",
+      "sha256": "939243b93a5d949e2d1027e1ba2b5cc6f8fcc5fd25ce04f52c763d959d9b68b1",
+      "bytes": 1984251
+    },
+    {
+      "path": "assets/washy-washy-concept-hero-20260902.png",
+      "sha256": "0277d9fc5df3a228bbe12882f953fcb8fd9836efd3f02e87a04e0ad27cd03d1d",
+      "bytes": 2088552
+    },
+    {
+      "path": "assets/washy-washy-official-logo-20260902.jpg",
+      "sha256": "43ba353d2755cb9b3bdd8eb24147d77f6da1e45304df2c69af278073c23a0350",
+      "bytes": 34882
+    },
+    {
+      "path": "index.html",
+      "sha256": "cdc9f5a6684b463fc2fef9ad2a1020f1be3deb29d680618bad01e63b8369df73",
+      "bytes": 20288
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv",
+      "sha256": "13d9c1311286961b23de125ef761cd4ec92b1cf10a4ebf830cf97f17a9d36a3b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "ba99bbfc25acb0f130c418aaa7a4586a033e602c0a50119a74279c4122db34c5"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md",
+      "sha256": "f3f1a4c39329f3cdcef31d666962f3aee0bb355e91576bc2890e6e9cb558e453"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "3e7b010075cf75dac98ee6b69989fc076833fe8e9ecf98938d5ff3818fc8b59f"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

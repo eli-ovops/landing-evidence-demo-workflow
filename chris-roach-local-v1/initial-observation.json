@@ -1,0 +1,66 @@
+{
+  "defects": [
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/index.html",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/index.html",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HORIZONTAL_OVERFLOW",
+      "target": "document",
+      "detail": "980 > required viewport 390",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [],
+      "images": [],
+      "links": [],
+      "discovered": [],
+      "width": 1440,
+      "height": 900
+    },
+    "mobile": {
+      "issues": [
+        {
+          "code": "HORIZONTAL_OVERFLOW",
+          "target": "document",
+          "detail": "980 > required viewport 390",
+          "level": "FAIL"
+        }
+      ],
+      "mapping": [],
+      "images": [],
+      "links": [],
+      "discovered": [],
+      "width": 980,
+      "height": 2121
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "contractSha256": "42097cd35c750a60a6771ed3bafca65695397bede21b6dc3cb37c8c2ced35ca2",
+  "activeVersion": "active",
+  "manifest": [
+    {
+      "path": "app.js",
+      "sha256": "f48e52b53965a78a95e730102266504a5c267f12314f289fa469ed49f7a076d9",
+      "bytes": 35
+    },
+    {
+      "path": "broken.svg",
+      "sha256": "5464533c9647b67eb320c40ccc5959537c09102ae75388f6a7675b433e745c9d",
+      "bytes": 12
+    },
+    {
+      "path": "index.html",
+      "sha256": "a0e64e43f95b4742676e5a0e76126f2103736e1518b395c9b3220dce8fdc4545",
+      "bytes": 674
+    },
+    {
+      "path": "logo.svg",
+      "sha256": "19cc18d8896628809f5d200a132311e3971a462f0cffac3d44c7e8c5d5fd7a65",
+      "bytes": 167
+    },
+    {
+      "path": "real.svg",
+      "sha256": "076d2b184f650b044c7f82021e15fbb0357885dddec561a4e386d39f4930ef2a",
+      "bytes": 167
+    },
+    {
+      "path": "style.css",
+      "sha256": "b209183637af0733b5256dbf2b88b8efc467dfeaa8a071ff621c17b52530fd43",
+      "bytes": 282
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T14-49-20-197Z/missing-real/site/source.md",
+      "sha256": "d0f41af9c791c98a96c172cc975753266be9391d079bd3184dfbe49379a00d82"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "181fe4b586b89ae361f10313e769d48836f6a13ebde3f57563f662682f5e9a9a"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "cfaee1c8a375877e00c04159da48f47a2f815406375d651a3b15fcfb73cb50da"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "938c08b55d10ce6a16f2bd69b7cd5c1ab5575ccf260c5323c7f811fde2122aa4"
+    }
+  ]
+}

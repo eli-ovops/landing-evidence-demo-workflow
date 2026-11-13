@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-07T00:58:33.048Z",
+  "owner": "01a0793a-28ac-7e60-a889-1e1e21e491c3",
+  "client": "R C Contractors",
+  "activeVersion": "v1",
+  "inputHash": "18c4b4695ad4b389ce000a196bf53bc965eeaef013cadcdebb8bad3bfd3dd57b",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "195cc958dca214123804cc9fc7f5005b6b2a637d7c466c8613c40fa1c413b3c6"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "ac6e50f7c76b718a74b278b194a30c0d6010cca00352ae9881a1fac0c8eb837f"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "9410adef01d1861afac3fab3339d45c17ba356aa573c886a3c18a3850c9dad1d"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "e92d4e2b59300982db767eea2e0a9251541b055ccd326a541e4023a3bb2f1788"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "82362067998e9c3f5fba11b445b51675774180a30f7f889c44e2cec48e631614"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "d2fc18de4e979927046c41ea1db075c374accec94165d9076f8cd4fb4f1da3a0"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "f1315d8fcdc206886c263cbf0e0a5bd88a69065ef500f0f920ece292313787d4"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "7a5a7ff17ef768c17b36ba5823cf11d48c779ffe4a8f3aa490d66c0b18ab63e5"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "e343ea5173ffaffcfe69486ed6885f1c9ad730cb7b02f6c9a50ad120ee325948"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "3606c170c9d88e779928815c4797755452cfbef7d862d437868f269edfa36355"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "8add2e35a3bca96bd04951ee8255b3bf19e338d253891a50dff74d18b7512e26"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "541a0162d82f12a37e8e5f43c3bcd5540ee29bd6e940e2cae83a9ac70525c4a0"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "ef6be566022cd988893578e509eb4fba6bf0c8aa500b2f21cef06cc0cded7585"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "14e0df318936312a247a84b6820f8ea9cd01c0f8034106f0b0a81f0aabbd296e"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "b808ab5e01e0a89498258e0860f20f3a746f04113b492f49f1073e116684de70"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "40173a9b1b8cde0653520d56f64f0ca554ff37e6d5b095cd5196cc3a9eff13d0"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "b159fc467a1e6d8fd7e458dee886161f93099e378a6940e6ab8b791a77fee35b"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "ccc0b2d5a38d9d682f69065d0e46e899636476b5facc1b153c8c1c50f4c9303a"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

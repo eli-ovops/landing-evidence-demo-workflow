@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-07T00:52:35.479Z",
+  "owner": "01a0793a-2eb8-7a22-a908-0aec95a59591",
+  "client": "S M S Handyman Services",
+  "activeVersion": "v1",
+  "inputHash": "1c587ec5bafe7b8b8e4b2b8fd0c1c6c56e8d7d6389c9ba00fdd1894ba4f48d62",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "IMG_hero",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "IMG_indoor",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "IMG_outdoor",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "ASSET_PATH_ESCAPE",
+      "target": "IMG_handrail",
+      "detail": "originalPath invalid",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "IMG_hero",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "IMG_indoor",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "IMG_outdoor",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      },
+      {
+        "code": "ASSET_PATH_ESCAPE",
+        "target": "IMG_handrail",
+        "detail": "originalPath invalid",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "03e8f9e5bd05f869bbcb1f83fcce60d35d0776d275dd00e8b963c66da19f5e73"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "858deb848ee70936573b4bc3c8d9130d5f9fd08dac36d92a07155deba4d8d5b8"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "4b2263a4288927bf0fd9aa8cdd2cd86ade90191a9e4e52476c10ac32f87539e0"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "644821dd75041e7aec0ccf889366b2019165c6a0a01b36ad4fa7f88e509893a7"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "55393c05ff5a13ad1f1990b7b58926a533a4593b6e9cf285813a16f565983b67"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "f606bc9dc88fb1f3e4840d4ef159734e403e7205611ae5426230df61506fd4f2"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "a9423aa2d2c7e98c6b2064190c2acc68b181120651ce9bdd2920b8d19870a073"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "fc6e1334ed8e1545a703ce7454f8f5b92dbb561dcb69618983249bab0303711b"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "ab1f7ac109d3e269b799fe041a78e10fbb202d677ce1a93c296284b0acea3b05"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "122a73daeb20072f4edbb3899e72e3a6e832ad48631d6bb1c631e9ae93566d44"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "bf45916fc22ddb6b634a4f5b651cef74a6b54f2df2559609696c66b8605ae061"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "55eba3eb8dc3548f8f1c685dfa92c5d2631ca471c3618d6effbadfa0eb2c629d"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "65372313ff3c0172d5969da6e8afe822adf0b5f29afd2929633d8175b3dcab65"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "8bb39824372ce6850cef69f05ac3f870d8cf5ae2fba1f2b0dd821e8210614ab2"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "9d7ce0b6af967432cf5f964f16d978ef088968702cea358d4779270d49281c3b"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "4cf0c4fc87df8ce65c42134fb49cdc7c8c802bf3d7cee2ebbe106b11ed3bf70f"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "18751710fa99bf3029728bfd1dda27819794591e6d2679271cfbf0f141fcd15a"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "4eacdbe46f62fe13263cdb1b9cd92468fbd05f3a2ddcc632a1b8b497aa95fc17"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

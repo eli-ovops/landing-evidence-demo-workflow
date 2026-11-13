@@ -1,0 +1,578 @@
+{
+  "defects": [
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "views": {
+    "desktop": {
+      "issues": [
+        {
+          "code": "MAPPING_MISSING",
+          "target": "I-logo",
+          "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+          "level": "FAIL"
+        }
+      ],
+      "mapping": [
+        {
+          "id": "I-logo",
+          "pass": false,
+          "attempts": [],
+          "match": null
+        },
+        {
+          "id": "I-real",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#real",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 249.8125,
+                "width": 600,
+                "height": 400
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#real",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 249.8125,
+              "width": 600,
+              "height": 400
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I-fact",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#fact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 439.8125,
+                "width": 1392,
+                "height": 21
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#fact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 439.8125,
+              "width": 1392,
+              "height": 21
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I-map",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#map",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 762,
+                "width": 135.0625,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#map",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 762,
+              "width": 135.0625,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I-social",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#social",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 159.0625,
+                "y": 762,
+                "width": 130.0625,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#social",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 159.0625,
+              "y": 762,
+              "width": 130.0625,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I-cta",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#cta",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 103.875,
+                "width": 133.078125,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#cta",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 103.875,
+              "width": 133.078125,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#real",
+          "url": "http://demo.local/real.svg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 249.8125,
+              "width": 600,
+              "height": 400
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "links": [
+        {
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon"
+        },
+        {
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions"
+        },
+        {
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#real",
+          "urls": [
+            "http://demo.local/real.svg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions",
+          "section": "location"
+        },
+        {
+          "kind": "path",
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work",
+          "section": "location"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Grooming in Example Town",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Dog grooming",
+          "section": "services"
+        }
+      ],
+      "width": 1440,
+      "height": 1322
+    },
+    "mobile": {
+      "issues": [
+        {
+          "code": "MAPPING_MISSING",
+          "target": "I-logo",
+          "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+          "level": "FAIL"
+        }
+      ],
+      "mapping": [
+        {
+          "id": "I-logo",
+          "pass": false,
+          "attempts": [],
+          "match": null
+        },
+        {
+          "id": "I-real",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#real",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 307.8125,
+                "width": 342,
+                "height": 228
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#real",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 307.8125,
+              "width": 342,
+              "height": 228
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I-fact",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#fact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 411.8125,
+                "width": 342,
+                "height": 21
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#fact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 411.8125,
+              "width": 342,
+              "height": 21
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I-map",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#map",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 706,
+                "width": 135.0625,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#map",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 706,
+              "width": 135.0625,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I-social",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#social",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 159.0625,
+                "y": 706,
+                "width": 130.0625,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#social",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 159.0625,
+              "y": 706,
+              "width": 130.0625,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        },
+        {
+          "id": "I-cta",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#cta",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 24,
+                "y": 140.875,
+                "width": 133.078125,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%"
+            }
+          ],
+          "match": {
+            "selector": "#cta",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 140.875,
+              "width": 133.078125,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#real",
+          "url": "http://demo.local/real.svg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 307.8125,
+              "width": 342,
+              "height": 228
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "links": [
+        {
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon"
+        },
+        {
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions"
+        },
+        {
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#real",
+          "urls": [
+            "http://demo.local/real.svg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions",
+          "section": "location"
+        },
+        {
+          "kind": "path",
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work",
+          "section": "location"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Grooming in Example Town",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Dog grooming",
+          "section": "services"
+        }
+      ],
+      "width": 390,
+      "height": 1322
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

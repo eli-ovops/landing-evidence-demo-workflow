@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:57:58.073Z",
+  "owner": "fixture-owner",
+  "client": "broken-image",
+  "activeVersion": "active",
+  "inputHash": "222c3d70c0c7c8e026c88ee2a969fd0a6474bc664c44c81c62c18988eaabebc9",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/missing.svg",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/missing.svg",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "#real",
+      "detail": "http://demo.local/missing.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/missing.svg",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/missing.svg",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "#real",
+      "detail": "http://demo.local/missing.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "e8e0e705fda760ff8d30370085071573f6fd9c758e10eb6491904649543bf008"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "ee27af3743af934afe886f30bdbbd8a88494818860e839e4836838950a8a833a"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "2eb5cf6b36a19bff0700271516a966c861b1063dcc28612898d4ae2ebd6acb3b"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "8cd997da5d2e4b41eee8b5832c8a48b3c7575c7eb85cc57c9625de4853d12402"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "addee773ec039ed7fed1fa21d3cd6848a87c92c0fe20aff31a1b4204d8d7e7dc"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "2f11d3a97a58fa156b2924e489ee071db852967643dd36396d2834f19d85bc12"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "a51869ab8de7662dd394ffbfe04e3c0ebec87e3ef01683b61ed4a9d7b4f79e74"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "b6dce29c680cffc0993bbd99d47bb47d4e528455af28bbd90f0d7628068e9e2d"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

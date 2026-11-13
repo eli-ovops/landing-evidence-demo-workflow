@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "inputHash": "83ea43ce73cb65200e69be222b5503710456a7f5f19e3e4080124ddbc052e03d",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-40-28-413Z/occluded/runs/2026-09-06T00-41-15-827Z-6ae504bd/result.json",
+  "resultSha256": "1d2a31e2d0bae76ef3d2306de7c741265496f1cb2cfe50eba0f5c4d63e8e201c",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

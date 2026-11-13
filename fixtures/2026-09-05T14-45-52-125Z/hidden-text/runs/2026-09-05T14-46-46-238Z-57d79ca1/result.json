@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:46:48.772Z",
+  "owner": "fixture-owner",
+  "client": "hidden-text",
+  "activeVersion": "active",
+  "inputHash": "ee17ab440aefe23b20694019d5286aa303de24cf01ea306b2845e0f24ac66510",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "952cbe16e456e42fcfd23e3ca85d9dfb5b4b6980f8d5a4c8280b9b9119d83ebb"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "b936ec8cfc0c325cbe65e1a85f06cdadb9ee222e6f7d28560116689e083de89a"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "4e86472720adcd75242c526ce7f8fd448ddcf186fd9dc85224447eff8d0c92e5"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "a8461760f0e7fdc8ca102c958620f0a02b9a519cf5d07b51abc0bac7747103db"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "b8c9be053c8b812508d71a53a85c309cb2661fc61cf0284226f0aa3ba04b9683"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c578f7a747b06e6f8005c5648859d8c1721ac9e4374398698f0af5cb0ea94baf"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "c483378105d02dca4400f79beeb84280fd2c2d5d7afeade1a449a118ae353c45"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

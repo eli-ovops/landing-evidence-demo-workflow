@@ -1,0 +1,23 @@
+{
+  "phase": "进行中",
+  "owner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "activeVersion": "demo_20260902/index.html",
+  "inputHash": "92f2af03bbb86622b9b9cd2dcca92c66bfa4c9ca3f86ec25f63507a0e5fd67df",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/washy-washy/runs/2026-09-06T13-49-10-547Z-d715c891/result.json",
+  "resultSha256": "224ed8450f91b8630cdf09173f09331303723c72cefceb943cbaf469086d0884",
+  "mechanical": "FAIL",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": ".hero-facts a",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

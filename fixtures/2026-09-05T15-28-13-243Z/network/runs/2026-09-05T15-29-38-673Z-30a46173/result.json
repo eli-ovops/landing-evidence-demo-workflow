@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:29:39.810Z",
+  "owner": "fixture-owner",
+  "client": "network",
+  "activeVersion": "active",
+  "inputHash": "0d945f0194a711324558ac6e76d06cf8703b4cac028db8b2d1656b51ddaa2658",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-logo",
+      "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-map",
+      "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-social",
+      "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPING_MISSING",
+      "target": "I-cta",
+      "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_MISSING",
+      "target": "#hero",
+      "detail": "missing",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "viewport": "desktop",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "#cta",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "#cta",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "BROWSER_CHECK_BLOCKED",
+      "target": "mobile",
+      "detail": "page.evaluate: Execution context was destroyed, most likely because of a navigation.",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "document GET https://example.invalid/navigate; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "document GET https://example.invalid/navigate; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "findingSummary": {
+    "contract": [
+      {
+        "code": "HERO_MISSING",
+        "target": "#hero",
+        "detail": "missing",
+        "level": "UNKNOWN"
+      }
+    ],
+    "page": [
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-logo",
+        "detail": "Expected {\"selector\":\"#logo\",\"assetId\":\"A-logo\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-fact",
+        "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-map",
+        "detail": "Expected {\"selector\":\"#map\",\"text\":\"Get directions\",\"href\":\"https://example.invalid/map\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-social",
+        "detail": "Expected {\"selector\":\"#social\",\"text\":\"See our work\",\"href\":\"https://example.invalid/social\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPING_MISSING",
+        "target": "I-cta",
+        "detail": "Expected {\"selector\":\"#cta\",\"text\":\"Call the salon\",\"href\":\"tel:+441234567890\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+        "target": "#cta",
+        "detail": "Core CTA not within first screen",
+        "level": "FAIL"
+      },
+      {
+        "code": "HERO_CTA_NOT_VISIBLE",
+        "target": "#cta",
+        "detail": "CTA hidden/clipped/occluded",
+        "level": "FAIL"
+      }
+    ],
+    "external": [
+      {
+        "code": "BROWSER_CHECK_BLOCKED",
+        "target": "mobile",
+        "detail": "page.evaluate: Execution context was destroyed, most likely because of a navigation.",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "desktop",
+        "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "desktop",
+        "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "desktop",
+        "detail": "document GET https://example.invalid/navigate; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "mobile",
+        "detail": "fetch POST https://example.invalid/write; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "mobile",
+        "detail": "ping POST https://example.invalid/beacon; destination behavior not verified",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "NETWORK_BLOCKED",
+        "target": "mobile",
+        "detail": "document GET https://example.invalid/navigate; destination behavior not verified",
+        "level": "UNKNOWN"
+      }
+    ],
+    "reconciliationByTarget": {
+      "#hero": {
+        "codes": [
+          "HERO_MISSING"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      }
+    }
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "c81c1faf205b1c528683ec5a6c700d3728c919d2da0fbd25062a58d5f885140a"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "7adb5532c61421d906994f1dc0e95055e723ae72ebd36af6d5dfe8f9b33a73e7"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "445916a1b98e4d17a9324e4288a793a51dfb24b6c3fc50345729cd7433c38a8f"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "445916a1b98e4d17a9324e4288a793a51dfb24b6c3fc50345729cd7433c38a8f"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "9ccedbabdb8ee22d01d33b0c1402741c40c07215a9265c816877e7839e001219"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "1e3000047502adfb536dc5fbd249c8facc6ae7eb848ec1184d81aafe2ba33963"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

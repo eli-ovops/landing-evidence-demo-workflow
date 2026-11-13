@@ -1,0 +1,4387 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "identity",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 17,
+                "width": 156.5625,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Chris Roach LIMITED · PAINTING & DECORATING",
+              "actualHref": "#main",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 17,
+              "width": 156.5625,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Chris Roach LIMITED · PAINTING & DECORATING",
+            "actualHref": "#main",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "history",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#established",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1175.078125,
+                "y": 438.59375,
+                "width": 184.921875,
+                "height": 46.578125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Established 1986 Local experience. A personal service.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#established",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1175.078125,
+              "y": 438.59375,
+              "width": 184.921875,
+              "height": 46.578125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Established 1986 Local experience. A personal service.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "about",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#about-chris",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801.46875,
+                "y": 412.96875,
+                "width": 380,
+                "height": 99
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Chris is a time-served domestic decorator, with over 45 years of experience described on his Which? profile. Established in 1986, the business focuses on reliable, respectful work and customer satisfaction.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#about-chris",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801.46875,
+              "y": 412.96875,
+              "width": 380,
+              "height": 99
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Chris is a time-served domestic decorator, with over 45 years of experience described on his Which? profile. Established in 1986, the business focuses on reliable, respectful work and customer satisfaction.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "wallpaper",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#wallpaper",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 75.328125,
+                "width": 450,
+                "height": 773.765625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Wallpapering View detail ↗ A feature wall or a room full of pattern. Bring colour and character to your space. Discuss your wallpapering ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#wallpaper",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 75.328125,
+              "width": 450,
+              "height": 773.765625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Wallpapering View detail ↗ A feature wall or a room full of pattern. Bring colour and character to your space. Discuss your wallpapering ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "interiors",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interiors",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 577.25,
+                "y": 90.328125,
+                "width": 370.375,
+                "height": 743.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Interior decorating View detail ↗ Walls, ceilings and woodwork. Refresh one room or more of your home. Discuss your room ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#interiors",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 577.25,
+              "y": 90.328125,
+              "width": 370.375,
+              "height": 743.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Interior decorating View detail ↗ Walls, ceilings and woodwork. Refresh one room or more of your home. Discuss your room ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "kitchens",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchens",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 989.625,
+                "y": 114.328125,
+                "width": 370.359375,
+                "height": 695.578125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Hand-painted kitchens View detail ↗ Keep your existing kitchen. Give the cabinetry a fresh, hand-painted finish. Discuss your kitchen ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#kitchens",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 989.625,
+              "y": 114.328125,
+              "width": 370.359375,
+              "height": 695.578125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Hand-painted kitchens View detail ↗ Keep your existing kitchen. Give the cabinetry a fresh, hand-painted finish. Discuss your kitchen ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "preparation",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 85.53125,
+                "width": 1440,
+                "height": 753.671875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ On the job: alignment, pattern and protection. The care behind the finish. Chris is a time-served domestic decorator, with over 45 years of experience described on his Which? profile. Established in 1986, the business focuses on reliable, respectful work and customer satisfaction. Protect and prepare Surroundings protected and surfaces thoroughly prepared, using specialist preparation materials. A considered approach Water-based paints and a sanding system described on Chris's profile as 95% dust-free. A conversation, every day Daily updates, so you know what work is planned. Full public liability insurance is listed on the business profile. “Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#care",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 85.53125,
+              "width": 1440,
+              "height": 753.671875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ On the job: alignment, pattern and protection. The care behind the finish. Chris is a time-served domestic decorator, with over 45 years of experience described on his Which? profile. Established in 1986, the business focuses on reliable, respectful work and customer satisfaction. Protect and prepare Surroundings protected and surfaces thoroughly prepared, using specialist preparation materials. A considered approach Water-based paints and a sanding system described on Chris's profile as 95% dust-free. A conversation, every day Daily updates, so you know what work is planned. Full public liability insurance is listed on the business profile. “Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sanding",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#method",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801.46875,
+                "y": 439.84375,
+                "width": 558.515625,
+                "height": 44.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A considered approach Water-based paints and a sanding system described on Chris's profile as 95% dust-free.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#method",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801.46875,
+              "y": 439.84375,
+              "width": 558.515625,
+              "height": 44.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A considered approach Water-based paints and a sanding system described on Chris's profile as 95% dust-free.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "insurance",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#insurance",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801.46875,
+                "y": 451.71875,
+                "width": 558.515625,
+                "height": 20.390625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Full public liability insurance is listed on the business profile.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#insurance",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801.46875,
+              "y": 451.71875,
+              "width": 558.515625,
+              "height": 20.390625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Full public liability insurance is listed on the business profile.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "updates",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#updates",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801.46875,
+                "y": 439.28125,
+                "width": 558.515625,
+                "height": 44.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A conversation, every day Daily updates, so you know what work is planned.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#updates",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801.46875,
+              "y": 439.28125,
+              "width": 558.515625,
+              "height": 44.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A conversation, every day Daily updates, so you know what work is planned.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "rating",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#rating",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 439.875,
+                "width": 224.140625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#rating",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 439.875,
+              "width": 224.140625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review-bedroom",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-bedroom",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 393.078125,
+                "width": 600,
+                "height": 138.65625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-bedroom",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 393.078125,
+              "width": 600,
+              "height": 138.65625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review-sitting",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-sitting",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 760,
+                "y": 393.078125,
+                "width": 600,
+                "height": 138.65625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-sitting",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 760,
+              "y": 393.078125,
+              "width": 600,
+              "height": 138.65625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review-care",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care-review",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801.46875,
+                "y": 408.109375,
+                "width": 558.515625,
+                "height": 108.09375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#care-review",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801.46875,
+              "y": 408.109375,
+              "width": 558.515625,
+              "height": 108.09375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "areas",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#areas",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801,
+                "y": 522.640625,
+                "width": 400,
+                "height": 53.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Ruislip · Eastcote · Pinner · Northwood · Rickmansworth · The Chalfonts · Gerrards Cross · Chorleywood",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#areas",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 522.640625,
+              "width": 400,
+              "height": 53.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Ruislip · Eastcote · Pinner · Northwood · Rickmansworth · The Chalfonts · Gerrards Cross · Chorleywood",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "guide",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#enquiry-guide",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 606.4375,
+                "width": 370,
+                "height": 66.546875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A useful starting point Tell Chris what you'd like decorated and your area. If you email, you can include photos of the space.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#enquiry-guide",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 606.4375,
+              "width": 370,
+              "height": 66.546875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A useful starting point Tell Chris what you'd like decorated and your area. If you email, you can include photos of the space.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "image0",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#van",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801,
+                "y": 418.640625,
+                "width": 80,
+                "height": 87
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-0.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#van",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 418.640625,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-0.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 731.203125,
+                "y": 128,
+                "width": 628.796875,
+                "height": 471.59375
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-1.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 731.203125,
+              "y": 128,
+              "width": 628.796875,
+              "height": 471.59375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-1.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#wallpaper-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 162.09375,
+                "width": 450,
+                "height": 600
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-2.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#wallpaper-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 162.09375,
+              "width": 450,
+              "height": 600
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-2.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 216.8125,
+                "width": 653.46875,
+                "height": 490.09375
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-3.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#care-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 216.8125,
+              "width": 653.46875,
+              "height": 490.09375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-3.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchen-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 989.625,
+                "y": 215.09375,
+                "width": 370.359375,
+                "height": 493.8125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-4.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#kitchen-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 989.625,
+              "y": 215.09375,
+              "width": 370.359375,
+              "height": 493.8125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-4.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interior-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 577.25,
+                "y": 215.09375,
+                "width": 370.375,
+                "height": 493.828125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-10.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#interior-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 577.25,
+              "y": 215.09375,
+              "width": 370.375,
+              "height": 493.828125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-10.jpg"
+            ]
+          }
+        },
+        {
+          "id": "action-phone",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 435.4375,
+                "width": 250.390625,
+                "height": 53
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07889 397102",
+              "actualHref": "tel:07889397102",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 435.4375,
+              "width": 250.390625,
+              "height": 53
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07889 397102",
+            "actualHref": "tel:07889397102",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-landline",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 122.234375,
+                "y": 487.4375,
+                "width": 86.203125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "01895 638174",
+              "actualHref": "tel:01895638174",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 122.234375,
+              "y": 487.4375,
+              "width": 86.203125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "01895 638174",
+            "actualHref": "tel:01895638174",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-email",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 543.4375,
+                "width": 227.375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 543.4375,
+              "width": 227.375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-address",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 801,
+                "y": 589.828125,
+                "width": 214.71875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+              "actualHref": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 589.828125,
+              "width": 214.71875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+            "actualHref": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-original-map",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#original-map",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1015.71875,
+                "y": 589.625,
+                "width": 187.921875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View the Which? location map ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#original-map",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1015.71875,
+              "y": 589.625,
+              "width": 187.921875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View the Which? location map ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-review-link",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 439.734375,
+                "width": 227.890625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read all reviews and trader replies ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 439.734375,
+              "width": 227.890625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read all reviews and trader replies ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-write-review",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#write-review",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 436.734375,
+                "width": 238.40625,
+                "height": 50
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Leave a review on Which? ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#write-review",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 436.734375,
+              "width": 238.40625,
+              "height": 50
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Leave a review on Which? ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-review-verification",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-verification",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 212,
+                "y": 439.734375,
+                "width": 126.984375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "How reviews are checked",
+              "actualHref": "https://trustedtraders.which.co.uk/faqs/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-verification",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 212,
+              "y": 439.734375,
+              "width": 126.984375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "How reviews are checked",
+            "actualHref": "https://trustedtraders.which.co.uk/faqs/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-conduct",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#conduct",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 362.984375,
+                "y": 439.734375,
+                "width": 126.65625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Which? Code of Conduct",
+              "actualHref": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#conduct",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 362.984375,
+              "y": 439.734375,
+              "width": 126.65625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Which? Code of Conduct",
+            "actualHref": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-review-terms",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-terms",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 513.640625,
+                "y": 439.734375,
+                "width": 68.15625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Which? terms",
+              "actualHref": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-terms",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 513.640625,
+              "y": 439.734375,
+              "width": 68.15625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Which? terms",
+            "actualHref": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-hamuch-quote",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hamuch-quote",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 710.984375,
+                "width": 223.703125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Request a quote through HaMuch ↗",
+              "actualHref": "https://www.hamuch.com/1005434/chris-roach-limited",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hamuch-quote",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 710.984375,
+              "width": 223.703125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Request a quote through HaMuch ↗",
+            "actualHref": "https://www.hamuch.com/1005434/chris-roach-limited",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-more-work-link",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#more-work-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 440.09375,
+                "width": 194.671875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Explore more of Chris's work ↗",
+              "actualHref": "more-work.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#more-work-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 440.09375,
+              "width": 194.671875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Explore more of Chris's work ↗",
+            "actualHref": "more-work.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sort-newest",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sort-newest",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 212,
+                "y": 439.734375,
+                "width": 37.578125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Newest",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sort-newest",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 212,
+              "y": 439.734375,
+              "width": 37.578125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Newest",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sort-oldest",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sort-oldest",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 273.578125,
+                "y": 439.734375,
+                "width": 33.796875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Oldest",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sort-oldest",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 273.578125,
+              "y": 439.734375,
+              "width": 33.796875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Oldest",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sort-highest",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sort-highest",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 331.375,
+                "y": 439.734375,
+                "width": 67.8125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Highest rated",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sort-highest",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 331.375,
+              "y": 439.734375,
+              "width": 67.8125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Highest rated",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sort-lowest",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sort-lowest",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 423.1875,
+                "y": 439.734375,
+                "width": 64.140625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Lowest rated",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sort-lowest",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 423.1875,
+              "y": 439.734375,
+              "width": 64.140625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Lowest rated",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#hero-photo",
+          "url": "http://demo.local/assets/photo-1.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 731.203125,
+              "y": 128,
+              "width": 628.796875,
+              "height": 471.59375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#wallpaper-photo",
+          "url": "http://demo.local/assets/photo-2.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 162.09375,
+              "width": 450,
+              "height": 600
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#interior-photo",
+          "url": "http://demo.local/assets/photo-10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 577.25,
+              "y": 215.09375,
+              "width": 370.375,
+              "height": 493.828125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#kitchen-photo",
+          "url": "http://demo.local/assets/photo-4.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 989.625,
+              "y": 215.09375,
+              "width": 370.359375,
+              "height": 493.8125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#care-photo",
+          "url": "http://demo.local/assets/photo-3.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 216.8125,
+              "width": 653.46875,
+              "height": 490.09375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#van",
+          "url": "http://demo.local/assets/photo-0.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 801,
+              "y": 418.640625,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 184,
+          "height": 200
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Selected work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#care",
+          "text": "Working with Chris"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#contact",
+          "text": "Let's talk about your home ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-1.jpg",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#wallpaper",
+          "text": "Wallpapering ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#interiors",
+          "text": "Interior decorating ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#kitchens",
+          "text": "Hand-painted kitchens ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your wallpapering ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your room ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your kitchen ↗"
+        },
+        {
+          "selector": "#more-work-link",
+          "href": "more-work.html",
+          "text": "Explore more of Chris's work ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+          "text": "business profile"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+          "text": "Read all reviews and trader replies ↗"
+        },
+        {
+          "selector": "#write-review",
+          "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+          "text": "Leave a review on Which? ↗"
+        },
+        {
+          "selector": "#sort-newest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+          "text": "Newest"
+        },
+        {
+          "selector": "#sort-oldest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+          "text": "Oldest"
+        },
+        {
+          "selector": "#sort-highest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+          "text": "Highest rated"
+        },
+        {
+          "selector": "#sort-lowest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+          "text": "Lowest rated"
+        },
+        {
+          "selector": "#review-verification",
+          "href": "https://trustedtraders.which.co.uk/faqs/",
+          "text": "How reviews are checked"
+        },
+        {
+          "selector": "#conduct",
+          "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+          "text": "Which? Code of Conduct"
+        },
+        {
+          "selector": "#review-terms",
+          "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+          "text": "Which? terms"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#hamuch-quote",
+          "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+          "text": "Request a quote through HaMuch ↗"
+        },
+        {
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗"
+        },
+        {
+          "selector": "#original-map",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+          "text": "View the Which? location map ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-photo",
+          "urls": [
+            "http://demo.local/assets/photo-1.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#wallpaper-photo",
+          "urls": [
+            "http://demo.local/assets/photo-2.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-photo",
+          "urls": [
+            "http://demo.local/assets/photo-10.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-photo",
+          "urls": [
+            "http://demo.local/assets/photo-4.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#care-photo",
+          "urls": [
+            "http://demo.local/assets/photo-3.jpg"
+          ],
+          "section": "care",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#van",
+          "urls": [
+            "http://demo.local/assets/photo-0.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-1.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-1.jpg",
+          "text": "",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-2.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/assets/photo-10.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/assets/photo-4.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#more-work-link",
+          "path": "/more-work.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#more-work-link",
+          "href": "more-work.html",
+          "text": "Explore more of Chris's work ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-3.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+          "text": "business profile",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+          "text": "Read all reviews and trader replies ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#write-review",
+          "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+          "text": "Leave a review on Which? ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-newest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+          "text": "Newest",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-oldest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+          "text": "Oldest",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-highest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+          "text": "Highest rated",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-lowest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+          "text": "Lowest rated",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-verification",
+          "href": "https://trustedtraders.which.co.uk/faqs/",
+          "text": "How reviews are checked",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#conduct",
+          "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+          "text": "Which? Code of Conduct",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-terms",
+          "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+          "text": "Which? terms",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hamuch-quote",
+          "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+          "text": "Request a quote through HaMuch ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#original-map",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+          "text": "View the Which? location map ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "A home with colour. A finish with care.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Paint, paper & a fresh perspective.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Wallpapering",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Interior decorating",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Hand-painted kitchens",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The care behind the finish.",
+          "section": "care"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From customers' homes.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A bedroom refreshed.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Care for a high-ceiling room.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What would you like to refresh?",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A useful starting point",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Ruislip based. Locally focused.",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 4228
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "identity",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 17,
+                "width": 134.8125,
+                "height": 41
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Chris Roach LIMITED · PAINTING & DECORATING",
+              "actualHref": "#main",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 17,
+              "width": 134.8125,
+              "height": 41
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Chris Roach LIMITED · PAINTING & DECORATING",
+            "actualHref": "#main",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "history",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#established",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 317.375,
+                "y": 414.359375,
+                "width": 52.625,
+                "height": 40
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Established 1986",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#established",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 317.375,
+              "y": 414.359375,
+              "width": 52.625,
+              "height": 40
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Established 1986",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "about",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#about-chris",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 388.21875,
+                "width": 350,
+                "height": 92.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Chris is a time-served domestic decorator, with over 45 years of experience described on his Which? profile. Established in 1986, the business focuses on reliable, respectful work and customer satisfaction.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#about-chris",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 388.21875,
+              "width": 350,
+              "height": 92.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Chris is a time-served domestic decorator, with over 45 years of experience described on his Which? profile. Established in 1986, the business focuses on reliable, respectful work and customer satisfaction.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "wallpaper",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#wallpaper",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 141.546875,
+                "width": 350,
+                "height": 584.828125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Wallpapering View detail ↗ A feature wall or a room full of pattern. Bring colour and character to your space. Discuss your wallpapering ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#wallpaper",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 141.546875,
+              "width": 350,
+              "height": 584.828125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Wallpapering View detail ↗ A feature wall or a room full of pattern. Bring colour and character to your space. Discuss your wallpapering ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "interiors",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interiors",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 307.375,
+                "width": 350,
+                "height": 252.296875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Interior decorating View detail ↗ Walls, ceilings and woodwork. Refresh one room or more of your home. Discuss your room ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#interiors",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 307.375,
+              "width": 350,
+              "height": 252.296875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Interior decorating View detail ↗ Walls, ceilings and woodwork. Refresh one room or more of your home. Discuss your room ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "kitchens",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchens",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 307.671875,
+                "width": 350,
+                "height": 252.296875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Hand-painted kitchens View detail ↗ Keep your existing kitchen. Give the cabinetry a fresh, hand-painted finish. Discuss your kitchen ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#kitchens",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 307.671875,
+              "width": 350,
+              "height": 252.296875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Hand-painted kitchens View detail ↗ Keep your existing kitchen. Give the cabinetry a fresh, hand-painted finish. Discuss your kitchen ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "preparation",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -68.59375,
+                "width": 390,
+                "height": 1005.859375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View detail ↗ On the job: alignment, pattern and protection. The care behind the finish. Chris is a time-served domestic decorator, with over 45 years of experience described on his Which? profile. Established in 1986, the business focuses on reliable, respectful work and customer satisfaction. Protect and prepare Surroundings protected and surfaces thoroughly prepared, using specialist preparation materials. A considered approach Water-based paints and a sanding system described on Chris's profile as 95% dust-free. A conversation, every day Daily updates, so you know what work is planned. Full public liability insurance is listed on the business profile. “Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#care",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -68.59375,
+              "width": 390,
+              "height": 1005.859375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View detail ↗ On the job: alignment, pattern and protection. The care behind the finish. Chris is a time-served domestic decorator, with over 45 years of experience described on his Which? profile. Established in 1986, the business focuses on reliable, respectful work and customer satisfaction. Protect and prepare Surroundings protected and surfaces thoroughly prepared, using specialist preparation materials. A considered approach Water-based paints and a sanding system described on Chris's profile as 95% dust-free. A conversation, every day Daily updates, so you know what work is planned. Full public liability insurance is listed on the business profile. “Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sanding",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#method",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 401.46875,
+                "width": 350,
+                "height": 65.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A considered approach Water-based paints and a sanding system described on Chris's profile as 95% dust-free.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#method",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 401.46875,
+              "width": 350,
+              "height": 65.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A considered approach Water-based paints and a sanding system described on Chris's profile as 95% dust-free.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "insurance",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#insurance",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 423.78125,
+                "width": 350,
+                "height": 20.390625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Full public liability insurance is listed on the business profile.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#insurance",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 423.78125,
+              "width": 350,
+              "height": 20.390625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Full public liability insurance is listed on the business profile.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "updates",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#updates",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.34375,
+                "width": 350,
+                "height": 44.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A conversation, every day Daily updates, so you know what work is planned.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#updates",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.34375,
+              "width": 350,
+              "height": 44.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A conversation, every day Daily updates, so you know what work is planned.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "rating",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#rating",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 412.359375,
+                "width": 173.75,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#rating",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 412.359375,
+              "width": 173.75,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review-bedroom",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-bedroom",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 369.09375,
+                "width": 350,
+                "height": 130.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-bedroom",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 369.09375,
+              "width": 350,
+              "height": 130.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "13 August 2026 · Greater London A bedroom refreshed. Cracks and peeling ceiling paper needed attention. The customer praised the finished room and clear communication about arrival and departure.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review-sitting",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-sitting",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 368.65625,
+                "width": 350,
+                "height": 130.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-sitting",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 368.65625,
+              "width": 350,
+              "height": 130.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "21 July 2026 · Greater London Care for a high-ceiling room. A sitting room with plaster cracks. The customer highlighted methodical preparation, protection of furniture and flooring, and a result they were delighted with.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "review-care",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care-review",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 380.171875,
+                "width": 350,
+                "height": 108.09375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#care-review",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 380.171875,
+              "width": 350,
+              "height": 108.09375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“Careful and considerate at all times.” Customer in Greater London · 26 June 2026 Which? Trusted Traders ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "areas",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#areas",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 582.375,
+                "width": 350,
+                "height": 49.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Ruislip · Eastcote · Pinner · Northwood · Rickmansworth · The Chalfonts · Gerrards Cross · Chorleywood",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#areas",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 582.375,
+              "width": 350,
+              "height": 49.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Ruislip · Eastcote · Pinner · Northwood · Rickmansworth · The Chalfonts · Gerrards Cross · Chorleywood",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "guide",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#enquiry-guide",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 401.03125,
+                "width": 350,
+                "height": 66.546875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A useful starting point Tell Chris what you'd like decorated and your area. If you email, you can include photos of the space.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#enquiry-guide",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 401.03125,
+              "width": 350,
+              "height": 66.546875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A useful starting point Tell Chris what you'd like decorated and your area. If you email, you can include photos of the space.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "image0",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#van",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 471.375,
+                "width": 80,
+                "height": 87
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-0.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#van",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 471.375,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-0.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 302.859375,
+                "width": 350,
+                "height": 262.5
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-1.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.859375,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-1.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#wallpaper-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 226.453125,
+                "width": 311.5,
+                "height": 415.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-2.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#wallpaper-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 226.453125,
+              "width": 311.5,
+              "height": 415.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-2.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#care-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 302.40625,
+                "width": 350,
+                "height": 262.5
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-3.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#care-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.40625,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-3.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchen-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 332.578125,
+                "width": 151.796875,
+                "height": 202.390625
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-4.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#kitchen-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 332.578125,
+              "width": 151.796875,
+              "height": 202.390625
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-4.jpg"
+            ]
+          }
+        },
+        {
+          "id": "image10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interior-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 333.28125,
+                "width": 151.796875,
+                "height": 202.390625
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/photo-10.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#interior-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 333.28125,
+              "width": 151.796875,
+              "height": 202.390625
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/photo-10.jpg"
+            ]
+          }
+        },
+        {
+          "id": "action-phone",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 408.03125,
+                "width": 243.96875,
+                "height": 52
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07889 397102",
+              "actualHref": "tel:07889397102",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 408.03125,
+              "width": 243.96875,
+              "height": 52
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07889 397102",
+            "actualHref": "tel:07889397102",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-landline",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 62.234375,
+                "y": 412.03125,
+                "width": 86.203125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "01895 638174",
+              "actualHref": "tel:01895638174",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 62.234375,
+              "y": 412.03125,
+              "width": 86.203125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "01895 638174",
+            "actualHref": "tel:01895638174",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-email",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 412.03125,
+                "width": 212.75,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 412.03125,
+              "width": 212.75,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-address",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 645.75,
+                "width": 197.5,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+              "actualHref": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 645.75,
+              "width": 197.5,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+            "actualHref": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-original-map",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#original-map",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 692.75,
+                "width": 187.921875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View the Which? location map ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#original-map",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 692.75,
+              "width": 187.921875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View the Which? location map ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-review-link",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 412.21875,
+                "width": 210.96875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read all reviews and trader replies ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 412.21875,
+              "width": 210.96875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read all reviews and trader replies ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-write-review",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#write-review",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 409.21875,
+                "width": 238.40625,
+                "height": 50
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Leave a review on Which? ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#write-review",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 409.21875,
+              "width": 238.40625,
+              "height": 50
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Leave a review on Which? ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-review-verification",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-verification",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.609375,
+                "width": 126.984375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "How reviews are checked",
+              "actualHref": "https://trustedtraders.which.co.uk/faqs/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-verification",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.609375,
+              "width": 126.984375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "How reviews are checked",
+            "actualHref": "https://trustedtraders.which.co.uk/faqs/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-conduct",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#conduct",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 161.984375,
+                "y": 411.609375,
+                "width": 126.65625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Which? Code of Conduct",
+              "actualHref": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#conduct",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 161.984375,
+              "y": 411.609375,
+              "width": 126.65625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Which? Code of Conduct",
+            "actualHref": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-review-terms",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-terms",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.609375,
+                "width": 68.15625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Which? terms",
+              "actualHref": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-terms",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.609375,
+              "width": 68.15625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Which? terms",
+            "actualHref": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-hamuch-quote",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hamuch-quote",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.578125,
+                "width": 207.109375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Request a quote through HaMuch ↗",
+              "actualHref": "https://www.hamuch.com/1005434/chris-roach-limited",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hamuch-quote",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.578125,
+              "width": 207.109375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Request a quote through HaMuch ↗",
+            "actualHref": "https://www.hamuch.com/1005434/chris-roach-limited",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "action-more-work-link",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#more-work-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.96875,
+                "width": 194.671875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Explore more of Chris's work ↗",
+              "actualHref": "more-work.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#more-work-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.96875,
+              "width": 194.671875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Explore more of Chris's work ↗",
+            "actualHref": "more-work.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sort-newest",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sort-newest",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.609375,
+                "width": 37.578125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Newest",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sort-newest",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.609375,
+              "width": 37.578125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Newest",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sort-oldest",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sort-oldest",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 75.578125,
+                "y": 411.609375,
+                "width": 33.796875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Oldest",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sort-oldest",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 75.578125,
+              "y": 411.609375,
+              "width": 33.796875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Oldest",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sort-highest",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sort-highest",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 127.375,
+                "y": 411.609375,
+                "width": 67.8125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Highest rated",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sort-highest",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 127.375,
+              "y": 411.609375,
+              "width": 67.8125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Highest rated",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sort-lowest",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sort-lowest",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 213.1875,
+                "y": 411.609375,
+                "width": 64.140625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Lowest rated",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sort-lowest",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 213.1875,
+              "y": 411.609375,
+              "width": 64.140625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Lowest rated",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#hero-photo",
+          "url": "http://demo.local/assets/photo-1.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.859375,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#wallpaper-photo",
+          "url": "http://demo.local/assets/photo-2.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 226.453125,
+              "width": 311.5,
+              "height": 415.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#interior-photo",
+          "url": "http://demo.local/assets/photo-10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 333.28125,
+              "width": 151.796875,
+              "height": 202.390625
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#kitchen-photo",
+          "url": "http://demo.local/assets/photo-4.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 332.578125,
+              "width": 151.796875,
+              "height": 202.390625
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "selector": "#care-photo",
+          "url": "http://demo.local/assets/photo-3.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 302.40625,
+              "width": 350,
+              "height": 262.5
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "selector": "#van",
+          "url": "http://demo.local/assets/photo-0.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 471.375,
+              "width": 80,
+              "height": 87
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 184,
+          "height": 200
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Chris Roach LIMITED · PAINTING & DECORATING"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Selected work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#care",
+          "text": "Working with Chris"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#contact",
+          "text": "Let's talk about your home ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-1.jpg",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#wallpaper",
+          "text": "Wallpapering ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#interiors",
+          "text": "Interior decorating ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#kitchens",
+          "text": "Hand-painted kitchens ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your wallpapering ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your room ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your kitchen ↗"
+        },
+        {
+          "selector": "#more-work-link",
+          "href": "more-work.html",
+          "text": "Explore more of Chris's work ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+          "text": "business profile"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+          "text": "Read all reviews and trader replies ↗"
+        },
+        {
+          "selector": "#write-review",
+          "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+          "text": "Leave a review on Which? ↗"
+        },
+        {
+          "selector": "#sort-newest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+          "text": "Newest"
+        },
+        {
+          "selector": "#sort-oldest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+          "text": "Oldest"
+        },
+        {
+          "selector": "#sort-highest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+          "text": "Highest rated"
+        },
+        {
+          "selector": "#sort-lowest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+          "text": "Lowest rated"
+        },
+        {
+          "selector": "#review-verification",
+          "href": "https://trustedtraders.which.co.uk/faqs/",
+          "text": "How reviews are checked"
+        },
+        {
+          "selector": "#conduct",
+          "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+          "text": "Which? Code of Conduct"
+        },
+        {
+          "selector": "#review-terms",
+          "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+          "text": "Which? terms"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#hamuch-quote",
+          "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+          "text": "Request a quote through HaMuch ↗"
+        },
+        {
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗"
+        },
+        {
+          "selector": "#original-map",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+          "text": "View the Which? location map ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-photo",
+          "urls": [
+            "http://demo.local/assets/photo-1.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#wallpaper-photo",
+          "urls": [
+            "http://demo.local/assets/photo-2.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-photo",
+          "urls": [
+            "http://demo.local/assets/photo-10.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-photo",
+          "urls": [
+            "http://demo.local/assets/photo-4.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#care-photo",
+          "urls": [
+            "http://demo.local/assets/photo-3.jpg"
+          ],
+          "section": "care",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#van",
+          "urls": [
+            "http://demo.local/assets/photo-0.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-1.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-1.jpg",
+          "text": "",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "5.0 / 5 101 customer reviews Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-2.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-2.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/assets/photo-10.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "assets/photo-10.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/assets/photo-4.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "assets/photo-4.jpg",
+          "text": "View detail ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#more-work-link",
+          "path": "/more-work.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#more-work-link",
+          "href": "more-work.html",
+          "text": "Explore more of Chris's work ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/photo-3.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/photo-3.jpg",
+          "text": "View detail ↗",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+          "text": "business profile",
+          "section": "care"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > blockquote:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/#reviews",
+          "text": "Which? Trusted Traders ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_reviews_count",
+          "text": "Read all reviews and trader replies ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#write-review",
+          "href": "https://trustedtraders.which.co.uk/businesses/284c52601c980131398b1a1dbfa7604f/reviews/new/",
+          "text": "Leave a review on Which? ↗",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-newest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__desc#business_sort",
+          "text": "Newest",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-oldest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=when_posted__asc#business_sort",
+          "text": "Oldest",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-highest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__desc#business_sort",
+          "text": "Highest rated",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#sort-lowest",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/?reviews_count=all&reviews_sort=overall__asc#business_sort",
+          "text": "Lowest rated",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-verification",
+          "href": "https://trustedtraders.which.co.uk/faqs/",
+          "text": "How reviews are checked",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#conduct",
+          "href": "https://trustedtraders.which.co.uk/about/code-of-conduct/",
+          "text": "Which? Code of Conduct",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-terms",
+          "href": "https://trustedtraders.which.co.uk/about/terms-and-conditions/",
+          "text": "Which? terms",
+          "section": "testimonial"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:07889397102",
+          "text": "07889 397102",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:01895638174",
+          "text": "01895 638174",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hamuch-quote",
+          "href": "https://www.hamuch.com/1005434/chris-roach-limited",
+          "text": "Request a quote through HaMuch ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#address",
+          "href": "https://www.google.com/maps/search/?api=1&query=50%20The%20Ridgeway%2C%20Ruislip%20HA4%208QQ",
+          "text": "50 The Ridgeway, Ruislip, HA4 8QQ ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#original-map",
+          "href": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/map/",
+          "text": "View the Which? location map ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "A home with colour. A finish with care.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Paint, paper & a fresh perspective.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Wallpapering",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Interior decorating",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Hand-painted kitchens",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The care behind the finish.",
+          "section": "care"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From customers' homes.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A bedroom refreshed.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Care for a high-ceiling room.",
+          "section": "testimonial"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What would you like to refresh?",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A useful starting point",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Ruislip based. Locally focused.",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 5334
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

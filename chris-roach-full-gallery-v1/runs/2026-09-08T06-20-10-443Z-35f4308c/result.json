@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-08T06:20:15.082Z",
+  "owner": "01a07f53-672a-7770-afcc-243bc0a789db",
+  "client": "Chris Roach Limited",
+  "activeVersion": "full-local-gallery",
+  "inputHash": "eea621945d489a3e592082de741d8cd2efb14979b2c4c9e8783e9edc63133082",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "998d146e18c863626ac3f55ce31d536b99846e8b8ef724dbacb20f9177403b97"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "d53f77d76b1f677b21e564f1d79b5b2ff25817f38e83e6bdc2aaf0c53f42b366"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "8c6b1dd0920d48477ae4cb24f32f9a2e33448b804d92878c5197457520b24483"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "54fe3c8e6cbfa76b3445d6559f21d1fdbcef57df3f254a5dfc477d3b07e50662"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "4cad9fcf921efccd61eaf0868e32f2bbe6f8aa86de77996711b3b59b2c7765c3"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "c8d6ce7fa77a626b95697e3672b84bf41ea924315896646158955fe85d17164b"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "85bf5f3130951f930b12569908206c0ed2cbf45053786b5e5a04d2b783a5b367"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "481740d688081c1ae13687b9a26b1a688ab12cab59fb7ce755aed5821c39fe28"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "7547f818ff153c202aebf1874b20af77b787eb77be41f7cd67e5edac39fdb308"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "4439621ee0cecaa21075d63e5709dd0feb65d861e2080bf712335cf4f3cdfe7a"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "8cc78de612d2d756a9b0905e4fdedc86946cfbd0f9d8990c9329c6fbfc77fd77"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "b97c8987949f8679b4312bd8646c3d05a74af3a199c8d194bcbfd93f2b0183b2"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "94e791564be70131bc91c1c1f5a74881a8645aaa7d3b0927308be04122c83a82"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "774607019819c8ffb407e2838c1ea6e4c813dc548655948fec53c79228176a01"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

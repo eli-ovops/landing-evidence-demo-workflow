@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T00:29:46.072Z",
+  "owner": "fixture-owner",
+  "client": "hero",
+  "activeVersion": "active",
+  "inputHash": "4ae557ade7250994c75876f9872cf7e0f4402ddc6c8dede64b6b5e6910007fca",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "HERO_UNBOUNDED",
+      "target": "#hero",
+      "detail": "3000px; inspect constraints",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "HERO_UNBOUNDED",
+      "target": "#hero",
+      "detail": "3000px; inspect constraints",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "HERO_UNBOUNDED",
+        "target": "#hero",
+        "detail": "3000px; inspect constraints",
+        "level": "FAIL"
+      },
+      {
+        "code": "HERO_UNBOUNDED",
+        "target": "#hero",
+        "detail": "3000px; inspect constraints",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "4c568acc92ccc3b178f87f09f6cd36cac424f25409d77b2873b569b2d9179f6d"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "7d5721c572e320f7d81b2b575973ff3ade1e328053adbcea410f75bedbc876da"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "8a324ccf6860729b6dd1b5cba3a1f8b933a4d441c4bf93178491ee8f24f994bc"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "35012350fb2ac2a9f34a63e5570367912eed9b8a93e29bcf7d404adabcc65d21"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "ab6018d0ddb47a288d32c1972f51df43775f3c3ad6aa771de1d3532424455756"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "9e6c93e6a72dc1f9fc34ff4448115f5603b6e27fa4113315d34b82967d878a07"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "963657275d3d830a61887cf7f3f9b7633db75636ac5050cbf57d3e957ec80aeb"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "e73a70c698f1510d3612677c41c339e6e1f3e7ddbe0fb28f9933bf07dedbd5a0"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

@@ -1,0 +1,2313 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "R-F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 14.953125,
+                "width": 183.8125,
+                "height": 30.078125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "R C Contractors.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 14.953125,
+              "width": 183.8125,
+              "height": 30.078125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "R C Contractors.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#location",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 526.921875,
+                "width": 592,
+                "height": 20.140625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "R C CONTRACTORS · COAL ASTON",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#location",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 526.921875,
+              "width": 592,
+              "height": 20.140625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "R C CONTRACTORS · COAL ASTON",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-mobile",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#call-mobile",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 752,
+                "y": 506.3125,
+                "width": 592,
+                "height": 109.53125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call 07854 822061",
+              "actualHref": "tel:+447854822061",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#call-mobile",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 752,
+              "y": 506.3125,
+              "width": 592,
+              "height": 109.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Call 07854 822061",
+            "actualHref": "tel:+447854822061",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-landline",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#call-landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 752,
+                "y": 707.375,
+                "width": 592,
+                "height": 54
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Or call the landline 01246 397245 ↗",
+              "actualHref": "tel:+441246397245",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#call-landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 752,
+              "y": 707.375,
+              "width": 592,
+              "height": 54
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Or call the landline 01246 397245 ↗",
+            "actualHref": "tel:+441246397245",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-email",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 752,
+                "y": 615.84375,
+                "width": 592,
+                "height": 91.53125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Email [REDACTED_EMAIL]",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 752,
+              "y": 615.84375,
+              "width": 592,
+              "height": 91.53125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Email [REDACTED_EMAIL]",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#masonry",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 144.3125,
+                "width": 680.796875,
+                "height": 634.984375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#masonry",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 144.3125,
+              "width": 680.796875,
+              "height": 634.984375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F05-detail",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#masonry",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 144.3125,
+                "width": 680.796875,
+                "height": 634.984375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#masonry",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 144.3125,
+              "width": 680.796875,
+              "height": 634.984375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F05-repointing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#masonry",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 144.3125,
+                "width": 680.796875,
+                "height": 634.984375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#masonry",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 144.3125,
+              "width": 680.796875,
+              "height": 634.984375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#paving",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 840.796875,
+                "y": 163.3125,
+                "width": 503.203125,
+                "height": 596.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Patios & block paving A place to sit, a way to the door or a new use for the front garden. Explore paving for your outdoor space. Patios Block paving",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#paving",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 840.796875,
+              "y": 163.3125,
+              "width": 503.203125,
+              "height": 596.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Patios & block paving A place to sit, a way to the door or a new use for the front garden. Explore paving for your outdoor space. Patios Block paving",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 663.1875,
+                "y": 428.25,
+                "width": 450,
+                "height": 67.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 663.1875,
+              "y": 428.25,
+              "width": 450,
+              "height": 67.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07-fencing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 663.1875,
+                "y": 428.25,
+                "width": 450,
+                "height": 67.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 663.1875,
+              "y": 428.25,
+              "width": 450,
+              "height": 67.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07-groundworks",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 663.1875,
+                "y": 428.25,
+                "width": 450,
+                "height": 67.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 663.1875,
+              "y": 428.25,
+              "width": 450,
+              "height": 67.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07-drainage",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 663.1875,
+                "y": 428.25,
+                "width": 450,
+                "height": 67.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 663.1875,
+              "y": 428.25,
+              "width": 450,
+              "height": 67.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07-landscaping",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 663.1875,
+                "y": 428.25,
+                "width": 450,
+                "height": 67.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 663.1875,
+              "y": 428.25,
+              "width": 450,
+              "height": 67.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-june",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 385.75,
+                "width": 592,
+                "height": 153.421875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“The stonework is outstanding” A customer's feedback on a stone wall and slate frontage. Customer review · 18 June 2026 Derbyshire Trusted Trader",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-june",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 385.75,
+              "width": 592,
+              "height": 153.421875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“The stonework is outstanding” A customer's feedback on a stone wall and slate frontage. Customer review · 18 June 2026 Derbyshire Trusted Trader",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F09",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-april",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 752,
+                "y": 385.75,
+                "width": 592,
+                "height": 153.421875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“They kept me informed” Feedback on communication during a garage and driveway job. Customer review · 30 April 2026 Derbyshire Trusted Trader",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-april",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 752,
+              "y": 385.75,
+              "width": 592,
+              "height": 153.421875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“They kept me informed” Feedback on communication during a garage and driveway job. Customer review · 30 April 2026 Derbyshire Trusted Trader",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#listing-since",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 441.171875,
+                "width": 1248,
+                "height": 41.140625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Listed with Derbyshire Trusted Trader since 16 January 2013.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#listing-since",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 441.171875,
+              "width": 1248,
+              "height": 41.140625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Listed with Derbyshire Trusted Trader since 16 January 2013.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-proof-path",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1195.0625,
+                "y": 439.75,
+                "width": 148.9375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read the reviews ↗",
+              "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1195.0625,
+              "y": 439.75,
+              "width": 148.9375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read the reviews ↗",
+            "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-visual-hero",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 689.515625,
+                "y": 136,
+                "width": 654.484375,
+                "height": 436.3125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/hero.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 689.515625,
+              "y": 136,
+              "width": 654.484375,
+              "height": 436.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/hero.webp"
+            ]
+          }
+        },
+        {
+          "id": "R-visual-masonry",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#masonry-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 235.3125,
+                "width": 680.796875,
+                "height": 453.859375
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/masonry.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#masonry-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 235.3125,
+              "width": 680.796875,
+              "height": 453.859375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/masonry.webp"
+            ]
+          }
+        },
+        {
+          "id": "R-visual-paving",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#paving-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 840.796875,
+                "y": 294.3125,
+                "width": 503.203125,
+                "height": 335.46875
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/paving.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#paving-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 840.796875,
+              "y": 294.3125,
+              "width": 503.203125,
+              "height": 335.46875
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/paving.webp"
+            ]
+          }
+        },
+        {
+          "id": "R-visual-repair",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#repair-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 96,
+                "y": 294.296875,
+                "width": 503.1875,
+                "height": 335.453125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/repair.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#repair-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 294.296875,
+              "width": 503.1875,
+              "height": 335.453125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/repair.webp"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#hero-image",
+          "url": "http://demo.local/assets/hero.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 689.515625,
+              "y": 136,
+              "width": 654.484375,
+              "height": 436.3125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "selector": "#masonry-image",
+          "url": "http://demo.local/assets/masonry.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 235.3125,
+              "width": 680.796875,
+              "height": 453.859375
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 640
+        },
+        {
+          "selector": "#paving-image",
+          "url": "http://demo.local/assets/paving.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 840.796875,
+              "y": 294.3125,
+              "width": 503.203125,
+              "height": 335.46875
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 640
+        },
+        {
+          "selector": "#repair-image",
+          "url": "http://demo.local/assets/repair.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 96,
+              "y": 294.296875,
+              "width": 503.1875,
+              "height": 335.453125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 640
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "R C Contractors. BUILDING & PROPERTY REPAIRS"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#feedback",
+          "text": "Customer feedback"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "#hero-contact",
+          "href": "#contact",
+          "text": "Discuss your project"
+        },
+        {
+          "selector": "#reviews-link",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+          "text": "Read the reviews ↗"
+        },
+        {
+          "selector": "#call-mobile",
+          "href": "tel:+447854822061",
+          "text": "Call 07854 822061"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "Email [REDACTED_EMAIL]"
+        },
+        {
+          "selector": "#call-landline",
+          "href": "tel:+441246397245",
+          "text": "Or call the landline 01246 397245 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-image",
+          "urls": [
+            "http://demo.local/assets/hero.webp"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#masonry-image",
+          "urls": [
+            "http://demo.local/assets/masonry.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#paving-image",
+          "urls": [
+            "http://demo.local/assets/paving.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#repair-image",
+          "urls": [
+            "http://demo.local/assets/repair.webp"
+          ],
+          "section": "repairs",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#reviews-link",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+          "text": "Read the reviews ↗",
+          "section": "feedback"
+        },
+        {
+          "kind": "path",
+          "selector": "#call-mobile",
+          "href": "tel:+447854822061",
+          "text": "Call 07854 822061",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "Email [REDACTED_EMAIL]",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#call-landline",
+          "href": "tel:+441246397245",
+          "text": "Or call the landline 01246 397245 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Brick, stone & better spaces.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "Make more of the space outside.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Brickwork & stonework",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Patios & block paving",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#repairs-title",
+          "text": "More than masonry.",
+          "section": "repairs"
+        },
+        {
+          "kind": "fact",
+          "selector": "#feedback-title",
+          "text": "What customers say.",
+          "section": "feedback"
+        },
+        {
+          "kind": "fact",
+          "selector": "#contact-title",
+          "text": "Your next project starts with a conversation.",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 2838
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "R-F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 18.78125,
+                "width": 146.109375,
+                "height": 24.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "R C Contractors.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 18.78125,
+              "width": 146.109375,
+              "height": 24.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "R C Contractors.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#location",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 425.078125,
+                "width": 350,
+                "height": 17.046875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "R C CONTRACTORS · COAL ASTON",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#location",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 425.078125,
+              "width": 350,
+              "height": 17.046875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "R C CONTRACTORS · COAL ASTON",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-mobile",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#call-mobile",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 485.5625,
+                "width": 350,
+                "height": 99.9375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call 07854 822061",
+              "actualHref": "tel:+447854822061",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#call-mobile",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 485.5625,
+              "width": 350,
+              "height": 99.9375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Call 07854 822061",
+            "actualHref": "tel:+447854822061",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-landline",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#call-landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 666.828125,
+                "width": 350,
+                "height": 54
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Or call the landline 01246 397245 ↗",
+              "actualHref": "tel:+441246397245",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#call-landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 666.828125,
+              "width": 350,
+              "height": 54
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Or call the landline 01246 397245 ↗",
+            "actualHref": "tel:+441246397245",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-email",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 585.5,
+                "width": 350,
+                "height": 81.328125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Email [REDACTED_EMAIL]",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 585.5,
+              "width": 350,
+              "height": 81.328125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Email [REDACTED_EMAIL]",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#masonry",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 224.15625,
+                "width": 350,
+                "height": 419.0625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#masonry",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 224.15625,
+              "width": 350,
+              "height": 419.0625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F05-detail",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#masonry",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 224.15625,
+                "width": 350,
+                "height": 419.0625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#masonry",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 224.15625,
+              "width": 350,
+              "height": 419.0625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F05-repointing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#masonry",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 224.15625,
+                "width": 350,
+                "height": 419.0625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#masonry",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 224.15625,
+              "width": 350,
+              "height": 419.0625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Brickwork & stonework Walls, masonry and the details that bring them together. Building work in brick, block and stone, including repointing. Brickwork Blockwork Stonework Repointing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#paving",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 224.21875,
+                "width": 350,
+                "height": 419.0625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Patios & block paving A place to sit, a way to the door or a new use for the front garden. Explore paving for your outdoor space. Patios Block paving",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#paving",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 224.21875,
+              "width": 350,
+              "height": 419.0625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Patios & block paving A place to sit, a way to the door or a new use for the front garden. Explore paving for your outdoor space. Patios Block paving",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 401.609375,
+                "width": 350,
+                "height": 63.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 401.609375,
+              "width": 350,
+              "height": 63.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07-fencing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 401.609375,
+                "width": 350,
+                "height": 63.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 401.609375,
+              "width": 350,
+              "height": 63.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07-groundworks",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 401.609375,
+                "width": 350,
+                "height": 63.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 401.609375,
+              "width": 350,
+              "height": 63.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07-drainage",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 401.609375,
+                "width": 350,
+                "height": 63.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 401.609375,
+              "width": 350,
+              "height": 63.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F07-landscaping",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#supporting-services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 401.609375,
+                "width": 350,
+                "height": 63.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#supporting-services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 401.609375,
+              "width": 350,
+              "height": 63.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Roof repairs Fencing Landscaping Groundworks Drainage",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-june",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 348.484375,
+                "width": 350,
+                "height": 170.9375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“The stonework is outstanding” A customer's feedback on a stone wall and slate frontage. Customer review · 18 June 2026 Derbyshire Trusted Trader",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-june",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 348.484375,
+              "width": 350,
+              "height": 170.9375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“The stonework is outstanding” A customer's feedback on a stone wall and slate frontage. Customer review · 18 June 2026 Derbyshire Trusted Trader",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F09",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-april",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 352.421875,
+                "width": 350,
+                "height": 162.46875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "“They kept me informed” Feedback on communication during a garage and driveway job. Customer review · 30 April 2026 Derbyshire Trusted Trader",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-april",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 352.421875,
+              "width": 350,
+              "height": 162.46875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "“They kept me informed” Feedback on communication during a garage and driveway job. Customer review · 30 April 2026 Derbyshire Trusted Trader",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-F12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#listing-since",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 414.890625,
+                "width": 350,
+                "height": 38.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Listed with Derbyshire Trusted Trader since 16 January 2013.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#listing-since",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 414.890625,
+              "width": 350,
+              "height": 38.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Listed with Derbyshire Trusted Trader since 16 January 2013.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-proof-path",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 412.484375,
+                "width": 140.46875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read the reviews ↗",
+              "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 412.484375,
+              "width": 140.46875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read the reviews ↗",
+            "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R-visual-hero",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 317.828125,
+                "width": 350,
+                "height": 233.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/hero.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.828125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/hero.webp"
+            ]
+          }
+        },
+        {
+          "id": "R-visual-masonry",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#masonry-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 317.15625,
+                "width": 350,
+                "height": 233.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/masonry.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#masonry-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.15625,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/masonry.webp"
+            ]
+          }
+        },
+        {
+          "id": "R-visual-paving",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#paving-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 317.21875,
+                "width": 350,
+                "height": 233.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/paving.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#paving-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.21875,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/paving.webp"
+            ]
+          }
+        },
+        {
+          "id": "R-visual-repair",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#repair-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 317.28125,
+                "width": 350,
+                "height": 233.328125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/repair.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#repair-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.28125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/repair.webp"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#hero-image",
+          "url": "http://demo.local/assets/hero.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.828125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "selector": "#masonry-image",
+          "url": "http://demo.local/assets/masonry.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.15625,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 640
+        },
+        {
+          "selector": "#paving-image",
+          "url": "http://demo.local/assets/paving.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.21875,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 640
+        },
+        {
+          "selector": "#repair-image",
+          "url": "http://demo.local/assets/repair.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.28125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 640
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "R C Contractors. BUILDING & PROPERTY REPAIRS"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#feedback",
+          "text": "Customer feedback"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "#hero-contact",
+          "href": "#contact",
+          "text": "Discuss your project"
+        },
+        {
+          "selector": "#reviews-link",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+          "text": "Read the reviews ↗"
+        },
+        {
+          "selector": "#call-mobile",
+          "href": "tel:+447854822061",
+          "text": "Call 07854 822061"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "Email [REDACTED_EMAIL]"
+        },
+        {
+          "selector": "#call-landline",
+          "href": "tel:+441246397245",
+          "text": "Or call the landline 01246 397245 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#hero-image",
+          "urls": [
+            "http://demo.local/assets/hero.webp"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#masonry-image",
+          "urls": [
+            "http://demo.local/assets/masonry.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#paving-image",
+          "urls": [
+            "http://demo.local/assets/paving.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#repair-image",
+          "urls": [
+            "http://demo.local/assets/repair.webp"
+          ],
+          "section": "repairs",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#reviews-link",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399",
+          "text": "Read the reviews ↗",
+          "section": "feedback"
+        },
+        {
+          "kind": "path",
+          "selector": "#call-mobile",
+          "href": "tel:+447854822061",
+          "text": "Call 07854 822061",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "Email [REDACTED_EMAIL]",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#call-landline",
+          "href": "tel:+441246397245",
+          "text": "Or call the landline 01246 397245 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Brick, stone & better spaces.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "Make more of the space outside.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Brickwork & stonework",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Patios & block paving",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#repairs-title",
+          "text": "More than masonry.",
+          "section": "repairs"
+        },
+        {
+          "kind": "fact",
+          "selector": "#feedback-title",
+          "text": "What customers say.",
+          "section": "feedback"
+        },
+        {
+          "kind": "fact",
+          "selector": "#contact-title",
+          "text": "Your next project starts with a conversation.",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 3576
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

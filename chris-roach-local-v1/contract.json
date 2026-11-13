@@ -1,0 +1,1295 @@
+{
+  "schemaVersion": 1,
+  "client": "Chris Roach Limited",
+  "owner": "01a07f53-672a-7770-afcc-243bc0a789db",
+  "activeVersion": "local-demo-v1",
+  "currentEvidence": "2026-09-08 user local demo authorization; fresh Which source and source-only activation",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "14d1383870c0bd1bd346a8366c5449068de3b6024d396e26d009a6d1e7e94027"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "sha256": "dd042e3ff64167230076f55a9c84d5c256ff97c6c95d2f022cebd1afc80c68bb"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/source/assets.json",
+      "sha256": "862ff498d8e103e3f86389f59518648b995928e52f78edca0d44b4c19c78905f"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "B",
+      "url": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Which Trusted Traders",
+      "attribution": "Business-managed profile and My work gallery; reviews separately attributed to customers"
+    },
+    {
+      "id": "SA0",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/1095/profile_thumb_BBB5CAD0-969E-4AAE-8675-AF221B9CE618.jpeg",
+      "retrievedDate": "2026-09-08T05:03:28.509Z",
+      "platform": "Which business-managed My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA1",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/119568/gallery_large_IMG_6999.jpeg",
+      "retrievedDate": "2026-09-08T05:03:29.476Z",
+      "platform": "Which business-managed My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA2",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/119567/gallery_large_IMG_6997.jpeg",
+      "retrievedDate": "2026-09-08T05:03:29.811Z",
+      "platform": "Which business-managed My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA6",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95057/gallery_large_8143549B-EACE-44F9-99FD-4F0CDE8279B3.jpeg",
+      "retrievedDate": "2026-09-08T05:03:30.550Z",
+      "platform": "Which business-managed My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA7",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95060/gallery_large_E2A5DFBB-7C80-4349-990C-3DFCB6EC54B5.jpeg",
+      "retrievedDate": "2026-09-08T05:03:31.168Z",
+      "platform": "Which business-managed My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA10",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82696/gallery_large_82E19DD8-0413-44BA-9563-6CBC95447FD9.jpeg",
+      "retrievedDate": "2026-09-08T05:03:31.885Z",
+      "platform": "Which business-managed My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A0",
+      "path": "assets/photo-0.jpg",
+      "originalPath": "assets/photo-0.jpg",
+      "sha256": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+      "originalSha256": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+      "sourceId": "SA0",
+      "role": "closing van",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A1",
+      "path": "assets/photo-1.jpg",
+      "originalPath": "assets/photo-1.jpg",
+      "sha256": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+      "originalSha256": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+      "sourceId": "SA1",
+      "role": "hero wallpaper room",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A2",
+      "path": "assets/photo-2.jpg",
+      "originalPath": "assets/photo-2.jpg",
+      "sha256": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+      "originalSha256": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+      "sourceId": "SA2",
+      "role": "wallpaper service",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A6",
+      "path": "assets/photo-6.jpg",
+      "originalPath": "assets/photo-6.jpg",
+      "sha256": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+      "originalSha256": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+      "sourceId": "SA6",
+      "role": "care protected floor",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A7",
+      "path": "assets/photo-7.jpg",
+      "originalPath": "assets/photo-7.jpg",
+      "sha256": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+      "originalSha256": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+      "sourceId": "SA7",
+      "role": "hand-painted kitchen work",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A10",
+      "path": "assets/photo-10.jpg",
+      "originalPath": "assets/photo-10.jpg",
+      "sha256": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+      "originalSha256": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+      "sourceId": "SA10",
+      "role": "interior room",
+      "focus": "50% 50%; entire original frame or checked responsive fit",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    }
+  ],
+  "items": [
+    {
+      "id": "R01",
+      "category": "identity",
+      "baselineId": "B01",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": ".brand",
+      "text": "Chris Roach"
+    },
+    {
+      "id": "R02",
+      "category": "local service",
+      "baselineId": "B02",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#areas",
+      "text": "Ruislip"
+    },
+    {
+      "id": "R03",
+      "category": "service",
+      "baselineId": "B03",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#interiors",
+      "text": "Interior decorating"
+    },
+    {
+      "id": "R04",
+      "category": "service",
+      "baselineId": "B04",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#wallpaper",
+      "text": "Wallpapering"
+    },
+    {
+      "id": "R05",
+      "category": "service",
+      "baselineId": "B05",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#kitchens",
+      "text": "Hand-painted kitchens"
+    },
+    {
+      "id": "R06",
+      "category": "method",
+      "baselineId": "B06",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#care",
+      "text": "protection"
+    },
+    {
+      "id": "R07",
+      "category": "method",
+      "baselineId": "B07",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#method",
+      "text": "Dust-controlled sanding"
+    },
+    {
+      "id": "R08",
+      "category": "proof",
+      "baselineId": "B08",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "TIME-SENSITIVE VERIFY/REPHRASE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#rating",
+      "text": "101 reviews"
+    },
+    {
+      "id": "R09",
+      "category": "feedback",
+      "baselineId": "B09",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#testimonial",
+      "text": "skilled"
+    },
+    {
+      "id": "R10",
+      "category": "contact",
+      "baselineId": "B10",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#phone",
+      "text": "07889 397102"
+    },
+    {
+      "id": "R11",
+      "category": "contact",
+      "baselineId": "B11",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#landline",
+      "text": "01895 638174"
+    },
+    {
+      "id": "R12",
+      "category": "email",
+      "baselineId": "B12",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#email",
+      "text": "[REDACTED_EMAIL]"
+    },
+    {
+      "id": "R13",
+      "category": "location",
+      "baselineId": "B13",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#address",
+      "text": "50 The Ridgeway"
+    },
+    {
+      "id": "R14",
+      "category": "review action",
+      "baselineId": "B14",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#review-link",
+      "text": "Read the customer reviews"
+    },
+    {
+      "id": "R15",
+      "category": "brand asset",
+      "baselineId": "B15",
+      "factState": "OBSERVED FACT",
+      "sourceId": "SA0",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#van",
+      "assetId": "A0"
+    },
+    {
+      "id": "R16",
+      "category": "project",
+      "baselineId": "B16",
+      "factState": "OBSERVED FACT",
+      "sourceId": "SA1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#hero-photo",
+      "assetId": "A1"
+    },
+    {
+      "id": "R17",
+      "category": "project",
+      "baselineId": "B17",
+      "factState": "OBSERVED FACT",
+      "sourceId": "SA2",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#wallpaper-photo",
+      "assetId": "A2"
+    },
+    {
+      "id": "R18",
+      "category": "project",
+      "baselineId": "B18",
+      "factState": "OBSERVED FACT",
+      "sourceId": "SA10",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#interior-photo",
+      "assetId": "A10"
+    },
+    {
+      "id": "R19",
+      "category": "project",
+      "baselineId": "B19",
+      "factState": "OBSERVED FACT",
+      "sourceId": "SA7",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#kitchen-photo",
+      "assetId": "A7"
+    },
+    {
+      "id": "R20",
+      "category": "process image",
+      "baselineId": "B20",
+      "factState": "OBSERVED FACT",
+      "sourceId": "SA6",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#care-photo",
+      "assetId": "A6"
+    },
+    {
+      "id": "R21",
+      "category": "hours",
+      "baselineId": "B21",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "No opening/response-time or availability promise; mobile trades service not walk-in"
+    },
+    {
+      "id": "R22",
+      "category": "social",
+      "baselineId": "B22",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "No invented social icons or links"
+    },
+    {
+      "id": "R23",
+      "category": "logo",
+      "baselineId": "B23",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "Use business name as text identity, actual van at closing; Which host mark is not customer brand"
+    },
+    {
+      "id": "R24",
+      "category": "credentials",
+      "baselineId": "B24",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "No certificate independently read; select service/work/review proof for core slice; no precise experience/insurance guarantee"
+    },
+    {
+      "id": "R25",
+      "category": "commercial",
+      "baselineId": "B25",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "Third-party estimates and broad categorisation not customer-confirmed prices/services"
+    },
+    {
+      "id": "R26",
+      "category": "alternate photo",
+      "baselineId": "B26",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "Same service categories covered by selected distinct photo; avoid redundant scene/mural-art reproduction emphasis"
+    },
+    {
+      "id": "R27",
+      "category": "team",
+      "baselineId": "B27",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "No fake portraits/team size or fixed staffing promise"
+    },
+    {
+      "id": "R28",
+      "category": "external quote",
+      "baselineId": "B28",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "Consolidate into direct verified phone/email to avoid platform intermediary; no fake form"
+    },
+    {
+      "id": "R29",
+      "category": "gallery leftovers",
+      "baselineId": "B29",
+      "factState": "OBSERVED FACT",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "Core business slice uses selected independent images; no need for every angle or complete portfolio"
+    },
+    {
+      "id": "R30",
+      "category": "trader response",
+      "baselineId": "B30",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S1",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "customer-specific page",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#updates",
+      "text": "Daily updates"
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#hero-cta"
+  },
+  "sections": [
+    "#hero",
+    "#work",
+    "#care",
+    "#testimonial",
+    "#contact"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "User authorized local independent concept; client consent NOT VERIFIED",
+  "transferEligibility": "UNKNOWN; local concept only",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 7,
+      "text": "| R01 | identity | Chris Roach Limited; OBSERVED FACT | DIRECT USE | .brand |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 8,
+      "text": "| R02 | local service | Ruislip and surrounding areas; SOURCE CLAIM | LOCATION/VISIT USE | #areas |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 9,
+      "text": "| R03 | service | Interior decorating; SOURCE CLAIM | FACT/PARAPHRASE USE | #interiors |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 10,
+      "text": "| R04 | service | Wallpapering; SOURCE CLAIM | FACT/PARAPHRASE USE | #wallpaper |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 11,
+      "text": "| R05 | service | Hand painted kitchen refurbishment; SOURCE CLAIM | FACT/PARAPHRASE USE | #kitchens |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 12,
+      "text": "| R06 | method | Preparation and protection of surroundings; SOURCE CLAIM | FACT/PARAPHRASE USE | #care |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 13,
+      "text": "| R07 | method | Dust-controlled sanding / water based paints; SOURCE CLAIM | FACT/PARAPHRASE USE | #method |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 14,
+      "text": "| R08 | proof | 5.0 / 101 reviews on Which; OBSERVED FACT | TIME-SENSITIVE VERIFY/REPHRASE | #rating |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 15,
+      "text": "| R09 | feedback | Latest review says skilled friendly punctual; customer Greater London 13 August 2026 | FACT/PARAPHRASE USE | #testimonial |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 16,
+      "text": "| R10 | contact | 07889 397102; OBSERVED FACT | LOCATION/VISIT USE | #phone |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 17,
+      "text": "| R11 | contact | 01895 638174; OBSERVED FACT | LOCATION/VISIT USE | #landline |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 18,
+      "text": "| R12 | email | [REDACTED_EMAIL]; OBSERVED FACT | LOCATION/VISIT USE | #email |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 19,
+      "text": "| R13 | location | 50 The Ridgeway Ruislip HA4 8QQ; OBSERVED FACT | LOCATION/VISIT USE | #address with external Google Maps query |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 20,
+      "text": "| R14 | review action | Which profile #reviews; OBSERVED FACT | LOCATION/VISIT USE | #review-link |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 21,
+      "text": "| R15 | brand asset | Profile van blue lettering; B image A0; OBSERVED FACT | DIRECT USE | #van at natural small scale; no reconstructed logo |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 22,
+      "text": "| R16 | project | Book-pattern wallcovering; B image A1; OBSERVED FACT | DIRECT USE | #hero-photo |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 23,
+      "text": "| R17 | project | Botanical wallpaper and doorway; B image A2; OBSERVED FACT | DIRECT USE | #wallpaper-photo |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 24,
+      "text": "| R18 | project | Pale painted sitting room; B image A10; OBSERVED FACT | DIRECT USE | #interior-photo |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 25,
+      "text": "| R19 | project | Pale green kitchen view; B image A7; OBSERVED FACT | DIRECT USE | #kitchen-photo; caption describes image only, no before/after/install claim |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 26,
+      "text": "| R20 | process image | Kitchen view with protected floor; B image A6; OBSERVED FACT | DIRECT USE | #care-photo; factual protection visible, no fabricated process sequence |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 27,
+      "text": "| R21 | hours | No verified hours or booking availability | EXCLUDE | No opening/response-time or availability promise; mobile trades service not walk-in |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 28,
+      "text": "| R22 | social | No attributable official social account verified in same-day searches | EXCLUDE | No invented social icons or links |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 29,
+      "text": "| R23 | logo | No standalone customer logo file; lettering only on vehicle | EXCLUDE | Use business name as text identity, actual van at closing; Which host mark is not customer brand |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 30,
+      "text": "| R24 | credentials | Profile insurance/45 years/1986 source claims | EXCLUDE | No certificate independently read; select service/work/review proof for core slice; no precise experience/insurance guarantee |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 31,
+      "text": "| R25 | commercial | HaMuch generic rates/kitchen installation tags | EXCLUDE | Third-party estimates and broad categorisation not customer-confirmed prices/services |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 32,
+      "text": "| R26 | alternate photo | A3 patterned wall; A9 mural scene | EXCLUDE | Same service categories covered by selected distinct photo; avoid redundant scene/mural-art reproduction emphasis |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 33,
+      "text": "| R27 | team | Named colleague in reviews, no verified team portrait/structure | EXCLUDE | No fake portraits/team size or fixed staffing promise |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 34,
+      "text": "| R28 | external quote | HaMuch quote route | EXCLUDE | Consolidate into direct verified phone/email to avoid platform intermediary; no fake form |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 35,
+      "text": "| R29 | gallery leftovers | Additional room/kitchen angles not acquired | EXCLUDE | Core business slice uses selected independent images; no need for every angle or complete portfolio |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 36,
+      "text": "| R30 | trader response | Daily work updates and reassurance; SOURCE CLAIM | FACT/PARAPHRASE USE | #updates |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "line": 2,
+      "text": "A0,https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/1095/profile_thumb_BBB5CAD0-969E-4AAE-8675-AF221B9CE618.jpeg,Which business-managed My work/profile,2026-09-08T05:03:28.509Z,source/photo-0.jpg,f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361,B,\"Business profile My work gallery, distinct from customer reviews; van is profile identity image\",184x200,closing van,small original only,No identifiable people; avoid project address inference,Unmodified original; CSS fit only,none,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "line": 3,
+      "text": "A1,https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/119568/gallery_large_IMG_6999.jpeg,Which business-managed My work/profile,2026-09-08T05:03:29.476Z,source/photo-1.jpg,eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a,B,\"Business profile My work gallery, distinct from customer reviews; van is profile identity image\",800x600,hero wallcovering,good gallery resolution,No identifiable people; avoid project address inference,Unmodified original; CSS fit only,none,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "line": 4,
+      "text": "A2,https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/119567/gallery_large_IMG_6997.jpeg,Which business-managed My work/profile,2026-09-08T05:03:29.811Z,source/photo-2.jpg,486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36,B,\"Business profile My work gallery, distinct from customer reviews; van is profile identity image\",450x600,wallpaper service,portrait original,No identifiable people; avoid project address inference,Unmodified original; CSS fit only,none,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "line": 5,
+      "text": "A3,https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/114943/gallery_large_IMG_6303.jpeg,Which business-managed My work/profile,2026-09-08T05:03:30.184Z,source/photo-3.jpg,a9f2c781a510db0ea52eec9a171226b4b81a3bb920c21551fd69d1b5a0f1d4cd,B,\"Business profile My work gallery, distinct from customer reviews; van is profile identity image\",800x600,excluded redundant wallcovering,retained source only,No identifiable people; avoid project address inference,Unmodified original; CSS fit only,none,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "line": 6,
+      "text": "A6,https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95057/gallery_large_8143549B-EACE-44F9-99FD-4F0CDE8279B3.jpeg,Which business-managed My work/profile,2026-09-08T05:03:30.550Z,source/photo-6.jpg,107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064,B,\"Business profile My work gallery, distinct from customer reviews; van is profile identity image\",800x600,care protected floor,active work context,No identifiable people; avoid project address inference,Unmodified original; CSS fit only,none,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "line": 7,
+      "text": "A7,https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95060/gallery_large_E2A5DFBB-7C80-4349-990C-3DFCB6EC54B5.jpeg,Which business-managed My work/profile,2026-09-08T05:03:31.168Z,source/photo-7.jpg,557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c,B,\"Business profile My work gallery, distinct from customer reviews; van is profile identity image\",800x600,hand-painted kitchen,active work context; no installation claim,No identifiable people; avoid project address inference,Unmodified original; CSS fit only,none,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "line": 8,
+      "text": "A9,https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82698/gallery_large_ED20BD77-81AB-45A6-A0AE-95805B8C686C.jpeg,Which business-managed My work/profile,2026-09-08T05:03:31.520Z,source/photo-9.jpg,a3a8670fee32cacd84291e8a61277d70c3a4599b81c70208efbecef5c6a77b1a,B,\"Business profile My work gallery, distinct from customer reviews; van is profile identity image\",450x600,excluded mural,retained source only,No identifiable people; avoid project address inference,Unmodified original; CSS fit only,none,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "line": 9,
+      "text": "A10,https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82696/gallery_large_82E19DD8-0413-44BA-9563-6CBC95447FD9.jpeg,Which business-managed My work/profile,2026-09-08T05:03:31.885Z,source/photo-10.jpg,6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c,B,\"Business profile My work gallery, distinct from customer reviews; van is profile identity image\",450x600,interior decorating,portrait original,No identifiable people; avoid project address inference,Unmodified original; CSS fit only,none,BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "B01",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 7,
+      "excerpt": "| R01 | identity | Chris Roach Limited; OBSERVED FACT | DIRECT USE | .brand |",
+      "excerptSha256": "3e0a74f68d5a4cdfeeb53a3e5cd895762fe25898816d599c9ce36bf2eea25702",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R01"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B02",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 8,
+      "excerpt": "| R02 | local service | Ruislip and surrounding areas; SOURCE CLAIM | LOCATION/VISIT USE | #areas |",
+      "excerptSha256": "4a373bff5f5d38a05783f3f2b87b6815e996a213775bf00c389f9db3b7f32235",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R02"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B03",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 9,
+      "excerpt": "| R03 | service | Interior decorating; SOURCE CLAIM | FACT/PARAPHRASE USE | #interiors |",
+      "excerptSha256": "7b5fad1b6c3847a3d440024d3faaa9199b76537e351fe70dfd5d4dc05b6cbb47",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R03"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B04",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 10,
+      "excerpt": "| R04 | service | Wallpapering; SOURCE CLAIM | FACT/PARAPHRASE USE | #wallpaper |",
+      "excerptSha256": "20111053cc0198bfcab505fabdb19fdccab8f60ae5fd5e1a765c4c43cbe120f3",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R04"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B05",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 11,
+      "excerpt": "| R05 | service | Hand painted kitchen refurbishment; SOURCE CLAIM | FACT/PARAPHRASE USE | #kitchens |",
+      "excerptSha256": "8a8b565e3b20542762bd776ea0ef91ef3b8a7a36f5cbe568d76a8ac9bf0caf73",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R05"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B06",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 12,
+      "excerpt": "| R06 | method | Preparation and protection of surroundings; SOURCE CLAIM | FACT/PARAPHRASE USE | #care |",
+      "excerptSha256": "70cbf3626240eb08265961b18c31039da500b16ba20d58efbe98a0c89911b617",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R06"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B07",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 13,
+      "excerpt": "| R07 | method | Dust-controlled sanding / water based paints; SOURCE CLAIM | FACT/PARAPHRASE USE | #method |",
+      "excerptSha256": "796b4c499227ca5ac5df055677dbb1a048c267d314e370ca7449d2acb737a8a3",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R07"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B08",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 14,
+      "excerpt": "| R08 | proof | 5.0 / 101 reviews on Which; OBSERVED FACT | TIME-SENSITIVE VERIFY/REPHRASE | #rating |",
+      "excerptSha256": "fe1c0ad48ade8db036f861b35c79bcf48e02842dd85c998704eadba04532ebfd",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R08"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B09",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 15,
+      "excerpt": "| R09 | feedback | Latest review says skilled friendly punctual; customer Greater London 13 August 2026 | FACT/PARAPHRASE USE | #testimonial |",
+      "excerptSha256": "6297c7d121a1059e4044beb9d05cc7b927f93ecb33c3c74eed6470fcfb6f730f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R09"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 16,
+      "excerpt": "| R10 | contact | 07889 397102; OBSERVED FACT | LOCATION/VISIT USE | #phone |",
+      "excerptSha256": "09377e2a9be9ee30d2bd344d3714f416669770e080138a150c485ef2ff545fe4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R10"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 17,
+      "excerpt": "| R11 | contact | 01895 638174; OBSERVED FACT | LOCATION/VISIT USE | #landline |",
+      "excerptSha256": "09b175f1f871abe91ee31e10ea93882ee8b9d27a9e4e12b267e8b129fbf475fa",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R11"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 18,
+      "excerpt": "| R12 | email | [REDACTED_EMAIL]; OBSERVED FACT | LOCATION/VISIT USE | #email |",
+      "excerptSha256": "fcb81efd10c3d5ea56131949ab6131a8cbc26d0d5378803ec39297616100866e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R12"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 19,
+      "excerpt": "| R13 | location | 50 The Ridgeway Ruislip HA4 8QQ; OBSERVED FACT | LOCATION/VISIT USE | #address with external Google Maps query |",
+      "excerptSha256": "dd1bbdb22487b6f5e43926ea5ed0e3441d6499295619f1dc715f6cd0c5ba51b6",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R13"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B14",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 20,
+      "excerpt": "| R14 | review action | Which profile #reviews; OBSERVED FACT | LOCATION/VISIT USE | #review-link |",
+      "excerptSha256": "9538a02328bbf3cb398950d04383aae0add2c3ed830c278e53b60d8bcf52d85f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R14"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B15",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 21,
+      "excerpt": "| R15 | brand asset | Profile van blue lettering; B image A0; OBSERVED FACT | DIRECT USE | #van at natural small scale; no reconstructed logo |",
+      "excerptSha256": "6124905570444ca0bc085018ed5974e13da4526a7faf32f7be6e3383efe882a1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R15"
+      ],
+      "sourceIds": [
+        "SA0"
+      ]
+    },
+    {
+      "id": "B16",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 22,
+      "excerpt": "| R16 | project | Book-pattern wallcovering; B image A1; OBSERVED FACT | DIRECT USE | #hero-photo |",
+      "excerptSha256": "0be5e1e6ac4f2af1476a1d8fec885f30fdf721649c073900b53f03c9d3277456",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R16"
+      ],
+      "sourceIds": [
+        "SA1"
+      ]
+    },
+    {
+      "id": "B17",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 23,
+      "excerpt": "| R17 | project | Botanical wallpaper and doorway; B image A2; OBSERVED FACT | DIRECT USE | #wallpaper-photo |",
+      "excerptSha256": "4fbbd1ed416399920679db7b47f45c6979b5837ebaaed3d3aa6d669155e477fc",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R17"
+      ],
+      "sourceIds": [
+        "SA2"
+      ]
+    },
+    {
+      "id": "B18",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 24,
+      "excerpt": "| R18 | project | Pale painted sitting room; B image A10; OBSERVED FACT | DIRECT USE | #interior-photo |",
+      "excerptSha256": "c4b40e4977a9cce5e2e2d3bce2377d7a66fdf798cd5040da9992e2b4834f5244",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R18"
+      ],
+      "sourceIds": [
+        "SA10"
+      ]
+    },
+    {
+      "id": "B19",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 25,
+      "excerpt": "| R19 | project | Pale green kitchen view; B image A7; OBSERVED FACT | DIRECT USE | #kitchen-photo; caption describes image only, no before/after/install claim |",
+      "excerptSha256": "85c1fc17ed425f0d7504140e0c5740aeed2c1b1e40af4dd31285505f3f7afc74",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R19"
+      ],
+      "sourceIds": [
+        "SA7"
+      ]
+    },
+    {
+      "id": "B20",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 26,
+      "excerpt": "| R20 | process image | Kitchen view with protected floor; B image A6; OBSERVED FACT | DIRECT USE | #care-photo; factual protection visible, no fabricated process sequence |",
+      "excerptSha256": "11e87536eb3ae717685edc4710f82c2fbf5141f1267addb970c463abf5bc2b2d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R20"
+      ],
+      "sourceIds": [
+        "SA6"
+      ]
+    },
+    {
+      "id": "B21",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 27,
+      "excerpt": "| R21 | hours | No verified hours or booking availability | EXCLUDE | No opening/response-time or availability promise; mobile trades service not walk-in |",
+      "excerptSha256": "af20e5b4fd29f8f5827d3f180b9c4f70ff233758239525005c3fbcc917edf67e",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R21"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "No opening/response-time or availability promise; mobile trades service not walk-in"
+    },
+    {
+      "id": "B22",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 28,
+      "excerpt": "| R22 | social | No attributable official social account verified in same-day searches | EXCLUDE | No invented social icons or links |",
+      "excerptSha256": "8c9d4c1c052fb31f885ac7c83dbf7c3f51c753929d3f79404039ee7c0fa105ce",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R22"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "No invented social icons or links"
+    },
+    {
+      "id": "B23",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 29,
+      "excerpt": "| R23 | logo | No standalone customer logo file; lettering only on vehicle | EXCLUDE | Use business name as text identity, actual van at closing; Which host mark is not customer brand |",
+      "excerptSha256": "6f4c52c1213c7c1101867a87afc3531742fb5099f8ddefd25d9c34bb582eef87",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R23"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Use business name as text identity, actual van at closing; Which host mark is not customer brand"
+    },
+    {
+      "id": "B24",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 30,
+      "excerpt": "| R24 | credentials | Profile insurance/45 years/1986 source claims | EXCLUDE | No certificate independently read; select service/work/review proof for core slice; no precise experience/insurance guarantee |",
+      "excerptSha256": "0ec9cba77567cdb27aac28df5a194cd96b2fc2274948eb2a909d447ce7d9925f",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R24"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "No certificate independently read; select service/work/review proof for core slice; no precise experience/insurance guarantee"
+    },
+    {
+      "id": "B25",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 31,
+      "excerpt": "| R25 | commercial | HaMuch generic rates/kitchen installation tags | EXCLUDE | Third-party estimates and broad categorisation not customer-confirmed prices/services |",
+      "excerptSha256": "32d34f45158a9aaf7e2df8054f69294611a350df5d735f9855435023bcd25d22",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R25"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Third-party estimates and broad categorisation not customer-confirmed prices/services"
+    },
+    {
+      "id": "B26",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 32,
+      "excerpt": "| R26 | alternate photo | A3 patterned wall; A9 mural scene | EXCLUDE | Same service categories covered by selected distinct photo; avoid redundant scene/mural-art reproduction emphasis |",
+      "excerptSha256": "060de7bce41faad0513f7fa1e0788ddc52ea1869de04d0e9215042b21f26a341",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R26"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Same service categories covered by selected distinct photo; avoid redundant scene/mural-art reproduction emphasis"
+    },
+    {
+      "id": "B27",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 33,
+      "excerpt": "| R27 | team | Named colleague in reviews, no verified team portrait/structure | EXCLUDE | No fake portraits/team size or fixed staffing promise |",
+      "excerptSha256": "1a72f993656e7f7e0da4b1c9beadf3755ebcfe3ee9f866450a55447f19ad554a",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R27"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "No fake portraits/team size or fixed staffing promise"
+    },
+    {
+      "id": "B28",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 34,
+      "excerpt": "| R28 | external quote | HaMuch quote route | EXCLUDE | Consolidate into direct verified phone/email to avoid platform intermediary; no fake form |",
+      "excerptSha256": "9d243efac2276efa9bcb8d1aa29036083fba471d2db3ba0f1f8c2e00be477f20",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R28"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Consolidate into direct verified phone/email to avoid platform intermediary; no fake form"
+    },
+    {
+      "id": "B29",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 35,
+      "excerpt": "| R29 | gallery leftovers | Additional room/kitchen angles not acquired | EXCLUDE | Core business slice uses selected independent images; no need for every angle or complete portfolio |",
+      "excerptSha256": "0432e487924b99a348c61e56fee9d0d22023b118003b7227ee7a36b739b5373a",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "R29"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Core business slice uses selected independent images; no need for every angle or complete portfolio"
+    },
+    {
+      "id": "B30",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 36,
+      "excerpt": "| R30 | trader response | Daily work updates and reassurance; SOURCE CLAIM | FACT/PARAPHRASE USE | #updates |",
+      "excerptSha256": "8b65e0ac4b067a5832ced443b5250aebf31668671438cc97f296bcfefcb8f9fb",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R30"
+      ],
+      "sourceIds": [
+        "S1"
+      ]
+    }
+  ]
+}

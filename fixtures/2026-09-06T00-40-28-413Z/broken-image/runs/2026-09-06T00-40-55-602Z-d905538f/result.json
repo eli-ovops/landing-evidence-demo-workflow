@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T00:40:57.449Z",
+  "owner": "fixture-owner",
+  "client": "broken-image",
+  "activeVersion": "active",
+  "inputHash": "e5a180cd39185b9de4763921d17722a642a4a6c210b70560be08ea52bbc1c4c9",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/missing.svg",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/missing.svg",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "#real",
+      "detail": "http://demo.local/missing.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/missing.svg",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+      "target": "/missing.svg",
+      "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "#real",
+      "detail": "http://demo.local/missing.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-real",
+      "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+        "target": "/missing.svg",
+        "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+        "level": "FAIL"
+      },
+      {
+        "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+        "target": "/missing.svg",
+        "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+        "level": "FAIL"
+      },
+      {
+        "code": "BROKEN_IMAGE",
+        "target": "#real",
+        "detail": "http://demo.local/missing.svg",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+        "target": "/missing.svg",
+        "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+        "level": "FAIL"
+      },
+      {
+        "code": "LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED",
+        "target": "/missing.svg",
+        "detail": "Local dependency missing or outside supported static types/active root; do not broaden reads",
+        "level": "FAIL"
+      },
+      {
+        "code": "BROKEN_IMAGE",
+        "target": "#real",
+        "detail": "http://demo.local/missing.svg",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-real",
+        "detail": "Expected {\"selector\":\"#real\",\"assetId\":\"A-real\"}",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "8ea28df669c9ebc4a48cdb7e28af2ef8af110e881cedab87e6ed2ca7b334ebff"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "ee27af3743af934afe886f30bdbbd8a88494818860e839e4836838950a8a833a"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "2eb5cf6b36a19bff0700271516a966c861b1063dcc28612898d4ae2ebd6acb3b"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "8cd997da5d2e4b41eee8b5832c8a48b3c7575c7eb85cc57c9625de4853d12402"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "0f7bd093e97eeadd3f869f28598c3c5a1868e598cd46965cf21d52e1939e6c63"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "2f11d3a97a58fa156b2924e489ee071db852967643dd36396d2834f19d85bc12"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "a51869ab8de7662dd394ffbfe04e3c0ebec87e3ef01683b61ed4a9d7b4f79e74"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "4a39908e8412b81a18b7108165115889d2b70d1d454b25a49b2d0f8eb0ca78ff"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

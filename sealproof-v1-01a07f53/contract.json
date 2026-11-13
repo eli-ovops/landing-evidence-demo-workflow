@@ -1,0 +1,1261 @@
+{
+  "schemaVersion": 1,
+  "client": "SealProof",
+  "owner": "01a07f53-995b-7342-9792-55f6ccf6c181",
+  "activeVersion": "demo-v1",
+  "currentEvidence": "User explicitly authorized local Sealproof Demo 2026-09-08; source investigation retained; no deployment or outreach",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "b44508e20416906f541e708fd81b3cb894618be76c6ea54e2e3c8fe27fa37e76"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "sha256": "906696fced1e2b4ed1814f730db55ef17ef1ee6044e7a4278378d93de983d63d"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "A",
+      "url": "https://infosealproof.wixsite.com/sealproof",
+      "retrievedDate": "2026-09-08",
+      "platform": "Wix official",
+      "attribution": "Official business page registered in CUSTOMER_PUBLIC_INTELLIGENCE.md"
+    },
+    {
+      "id": "S2",
+      "grade": "A",
+      "url": "https://infosealproof.wixsite.com/sealproof/services",
+      "retrievedDate": "2026-09-08",
+      "platform": "Wix official",
+      "attribution": "Official business page registered in CUSTOMER_PUBLIC_INTELLIGENCE.md"
+    },
+    {
+      "id": "S3",
+      "grade": "A",
+      "url": "https://infosealproof.wixsite.com/sealproof/contact",
+      "retrievedDate": "2026-09-08",
+      "platform": "Wix official",
+      "attribution": "Official business page registered in CUSTOMER_PUBLIC_INTELLIGENCE.md"
+    },
+    {
+      "id": "S4",
+      "grade": "A",
+      "url": "https://infosealproof.wixsite.com/sealproof/about",
+      "retrievedDate": "2026-09-08",
+      "platform": "Wix official",
+      "attribution": "Official business page registered in CUSTOMER_PUBLIC_INTELLIGENCE.md"
+    },
+    {
+      "id": "S5",
+      "grade": "A",
+      "url": "https://infosealproof.wixsite.com/sealproof/testimonials",
+      "retrievedDate": "2026-09-08",
+      "platform": "Wix official",
+      "attribution": "Official business page registered in CUSTOMER_PUBLIC_INTELLIGENCE.md"
+    },
+    {
+      "id": "S6",
+      "grade": "C",
+      "url": "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Yell",
+      "attribution": "Public attributed business/customer text; concise source-linked paraphrase only"
+    },
+    {
+      "id": "S7",
+      "grade": "C",
+      "url": "https://firmania.co.uk/london/sealproof-property-maintenance-2301241",
+      "retrievedDate": "2026-09-08",
+      "platform": "Firmania",
+      "attribution": "Public attributed business/customer text; concise source-linked paraphrase only"
+    },
+    {
+      "id": "S8",
+      "grade": "C",
+      "url": "https://nextdoor.co.uk/pages/sealproof-property-maintenance/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Nextdoor",
+      "attribution": "Public attributed business/customer text; concise source-linked paraphrase only"
+    },
+    {
+      "id": "S9",
+      "grade": "C",
+      "url": "local-generation://01a07f53-995b-7342-9792-55f6ccf6c181",
+      "retrievedDate": "2026-09-08",
+      "platform": "Built-in image generation",
+      "attribution": "Original image created in this user-authorized local demo; creation paths and hashes ASSET_INVENTORY.csv"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A1",
+      "path": "assets/brand-complete.png",
+      "originalPath": "assets/brand-complete.png",
+      "sha256": "c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9",
+      "originalSha256": "c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9",
+      "role": "header #brand-image",
+      "focus": "Entire roof and name; contain",
+      "authenticity": "REAL",
+      "rights": "A local concept usage only; final transfer UNKNOWN",
+      "sourceId": "S1",
+      "permissionEvidence": "Current user local demo authorization plus official A-asset concept-use rule"
+    },
+    {
+      "id": "A2",
+      "path": "assets/shower-concept.png",
+      "originalPath": "assets/shower-concept.png",
+      "sha256": "3971a6e92d158dd07bbc8f6435003bed2ef2cf7b978cb9f68333cabbd425086c",
+      "originalSha256": "3971a6e92d158dd07bbc8f6435003bed2ef2cf7b978cb9f68333cabbd425086c",
+      "role": "hero #hero-image",
+      "focus": "Task object visible; full source aspect preferred",
+      "authenticity": "CONCEPT",
+      "rights": "Original generation for this authorized local concept; no client copyright claim",
+      "sourceId": "S9",
+      "permissionEvidence": "Original generation in this task; tool call and immutable generated file retained"
+    },
+    {
+      "id": "A3",
+      "path": "assets/tap-concept.png",
+      "originalPath": "assets/tap-concept.png",
+      "sha256": "a57e37ea2336b3c33480fb1a54e03a69ea13c8b8f4a6c4746ef0aecf5848688e",
+      "originalSha256": "a57e37ea2336b3c33480fb1a54e03a69ea13c8b8f4a6c4746ef0aecf5848688e",
+      "role": "services #tap-image",
+      "focus": "Task object visible; full source aspect preferred",
+      "authenticity": "CONCEPT",
+      "rights": "Original generation for this authorized local concept; no client copyright claim",
+      "sourceId": "S9",
+      "permissionEvidence": "Original generation in this task; tool call and immutable generated file retained"
+    },
+    {
+      "id": "A4",
+      "path": "assets/tools-concept.png",
+      "originalPath": "assets/tools-concept.png",
+      "sha256": "2910fd30a53010c30bc7bc9745733f76f13b64559e847590858257d7bc49c243",
+      "originalSha256": "2910fd30a53010c30bc7bc9745733f76f13b64559e847590858257d7bc49c243",
+      "role": "contact #tools-image",
+      "focus": "Task object visible; full source aspect preferred",
+      "authenticity": "CONCEPT",
+      "rights": "Original generation for this authorized local concept; no client copyright claim",
+      "sourceId": "S9",
+      "permissionEvidence": "Original generation in this task; tool call and immutable generated file retained"
+    },
+    {
+      "id": "AX1",
+      "path": "assets/brand-original.png",
+      "originalPath": "assets/brand-original.png",
+      "sha256": "37876e3d564d71b377741b4bb48384beea4d17ac9fa6502f3932f667d5e6db88",
+      "originalSha256": "37876e3d564d71b377741b4bb48384beea4d17ac9fa6502f3932f667d5e6db88",
+      "role": "none",
+      "focus": "Not displayed",
+      "authenticity": "REAL",
+      "rights": "A local concept usage only; final transfer UNKNOWN",
+      "sourceId": "S1",
+      "permissionEvidence": "Current user local demo authorization plus official A-asset concept-use rule"
+    },
+    {
+      "id": "AX2",
+      "path": "assets/brand-stable.png",
+      "originalPath": "assets/brand-stable.png",
+      "sha256": "e6c45e4e9b9786b461eaa9e40913fb61b37d93c8066f9cba6f483e63e07283fd",
+      "originalSha256": "e6c45e4e9b9786b461eaa9e40913fb61b37d93c8066f9cba6f483e63e07283fd",
+      "role": "none",
+      "focus": "Not displayed",
+      "authenticity": "REAL",
+      "rights": "A local concept usage only; final transfer UNKNOWN",
+      "sourceId": "S1",
+      "permissionEvidence": "Current user local demo authorization plus official A-asset concept-use rule"
+    }
+  ],
+  "items": [
+    {
+      "id": "IMGA2",
+      "category": "visual",
+      "sourceId": "S9",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "section": "hero",
+      "selector": "#hero-image",
+      "assetId": "A2",
+      "reason": "Invented shower seam category; not actual SealProof project",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IMGA3",
+      "category": "visual",
+      "sourceId": "S9",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "section": "services",
+      "selector": "#tap-image",
+      "assetId": "A3",
+      "reason": "Invented basin tap category; not actual SealProof project",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IMGA4",
+      "category": "visual",
+      "sourceId": "S9",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "section": "contact",
+      "selector": "#tools-image",
+      "assetId": "A4",
+      "reason": "Invented hand tool still life; not SealProof equipment",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IMGAX1",
+      "category": "visual",
+      "sourceId": "S1",
+      "factState": "OBSERVED FACT",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "excluded",
+      "selector": "",
+      "assetId": "AX1",
+      "reason": "Transient blank screenshot not logo. Retained evidence unused",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IMGAX2",
+      "category": "visual",
+      "sourceId": "S1",
+      "factState": "OBSERVED FACT",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "section": "excluded",
+      "selector": "",
+      "assetId": "AX2",
+      "reason": "Roof top cropped; complete capture A1 replaces this unsuitable crop",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R01",
+      "category": "R01 brand",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "reason": "Header; stable browser screenshot, original unchanged. Initial blank brand-original.png is rejected and unused",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#brand-image",
+      "section": "header",
+      "assetId": "A1"
+    },
+    {
+      "id": "R02",
+      "category": "R02 business",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "reason": "Hero local repairs; omit unsupported quantified experience",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#hero-intro",
+      "section": "hero",
+      "text": "South East London"
+    },
+    {
+      "id": "R03",
+      "category": "R03 seals",
+      "sourceId": "S6",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "reason": "#services seals + #reviews attributed account",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#service-seals summary",
+      "section": "services",
+      "text": "Shower sealing"
+    },
+    {
+      "id": "R04",
+      "category": "R04 plumbing",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "reason": "#services tap and valve repairs",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#service-plumbing summary",
+      "section": "services",
+      "text": "Tap & valve repairs"
+    },
+    {
+      "id": "R05",
+      "category": "R05 everyday",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "reason": "#services home maintenance short slice",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#service-home summary",
+      "section": "services",
+      "text": "Home maintenance"
+    },
+    {
+      "id": "R06",
+      "category": "R06 phone",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "reason": "#hero-call and #contact-phone tel:+447415601494",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#contact-phone",
+      "section": "contact",
+      "text": "07415 601494",
+      "href": "tel:+447415601494",
+      "promise": "Opens the clearly labeled business email or telephone handler; does not send or book automatically"
+    },
+    {
+      "id": "R07",
+      "category": "R07 email",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "reason": "#contact-email mailto:[REDACTED_EMAIL]",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#contact-email",
+      "section": "contact",
+      "text": "[REDACTED_EMAIL]",
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "Opens the clearly labeled business email or telephone handler; does not send or book automatically"
+    },
+    {
+      "id": "R08",
+      "category": "R08 region",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "reason": "Hero and #areas, area enquiry without coverage promise or fake map",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#areas",
+      "section": "contact",
+      "text": "London & Kent"
+    },
+    {
+      "id": "R09",
+      "category": "R09 address",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Conflicting residential street number, service business not verified walk-in venue. Use region only",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R10",
+      "category": "R10 review seal",
+      "sourceId": "S6",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "reason": "#review-seal, clearly paraphrased Yell review, public link",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#review-seal",
+      "section": "reviews",
+      "text": "AlisdareH"
+    },
+    {
+      "id": "R11",
+      "category": "R11 review bathroom",
+      "sourceId": "S6",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "reason": "#review-bathroom short attributed summary and link, no invented quote",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#review-bathroom",
+      "section": "reviews",
+      "text": "JamesB-854998"
+    },
+    {
+      "id": "R12",
+      "category": "R12 counts",
+      "sourceId": "S6",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Do not imply independently audited 5-star guarantee or fixed live count",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R13",
+      "category": "R13 default testimonials",
+      "sourceId": "S5",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Template fiction, never use as customer proof",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R14",
+      "category": "R14 Facebook",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Target identity/content not currently inspectable; direct tel/email and verified Yell retained. No wrong spelling or Wix social footer",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R15",
+      "category": "R15 other social",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Not useful proof or operative booking path for this slice",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R16",
+      "category": "R16 gallery and projects",
+      "sourceId": "S9",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "reason": "Hero shower detail; service tap detail; closing tool still life. No gallery or invented project captions",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#hero-image",
+      "section": "hero",
+      "assetId": "A2"
+    },
+    {
+      "id": "R17",
+      "category": "R17 team vehicle premises",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "No fake Scott/crew/van/storefront portrait; no stock skyline decoration",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R18",
+      "category": "R18 video",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Static-only slice; no invented workshop video",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R19",
+      "category": "R19 broad installations",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Honest core repair slice, not exhaustive replacement/migration; no unsupported electrical qualification claim",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R20",
+      "category": "R20 legal and credentials",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "No legal-entity suffix, insurer badge, emergency claim or partnership logo",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R21",
+      "category": "R21 hours and pricing",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "No availability guarantee, service prices, free-callout or booking slots",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "R22",
+      "category": "R22 enquiry preparation",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "reason": "#contact-prep suggests describe problem, postcode, relevant photo by email; clearly advice not declared business process",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#contact-prep",
+      "section": "contact",
+      "text": "Your postcode"
+    },
+    {
+      "id": "R23",
+      "category": "R23 original form",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "reason": "Replace with actual tel/email, explicit labels, no fake form or captured submissions",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#contact-email",
+      "section": "contact",
+      "text": "[REDACTED_EMAIL]",
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "Opens the clearly labeled business email or telephone handler; does not send or book automatically"
+    },
+    {
+      "id": "R24",
+      "category": "R24 legacy navigation",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "reason": "Local standalone anchors Repairs / Reviews / Contact; not deployed SEO route migration",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "selector": "#nav-links",
+      "section": "header",
+      "text": "Repairs"
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#hero-call"
+  },
+  "sections": [
+    "#hero",
+    "#services",
+    "#reviews",
+    "#contact"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "NOT VERIFIED; user authorized independent local concept, not client commission",
+  "transferEligibility": "UNKNOWN; no source transfer requested",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 9,
+      "text": "| R01 brand | S1 | SealProof roof graphic, red Seal, blue Proof, Property Maintenance, Do it right - Do it once; actual DOM-built brand | DIRECT USE | Header; stable browser screenshot, original unchanged. Initial blank brand-original.png is rejected and unused |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 10,
+      "text": "| R02 business | S1 S4 | Home improvements and maintenance; family run South East London source claim | FACT/PARAPHRASE USE | Hero local repairs; omit unsupported quantified experience |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 11,
+      "text": "| R03 seals | S6 | Shower leak and silicone renewal listed; AlisdareH 25 Aug2026 recounts walk-in shower silicone repair | FACT/PARAPHRASE USE | #services seals + #reviews attributed account |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 12,
+      "text": "| R04 plumbing | S1 S6 | Dripping taps, toilets and repairs; ValV-20 24Aug sink/taps, IllaS23Jul shower valve | FACT/PARAPHRASE USE | #services tap and valve repairs |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 13,
+      "text": "| R05 everyday | S1 S2 | Flat pack furniture, home repairs, carpentry and maintenance | FACT/PARAPHRASE USE | #services home maintenance short slice |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 14,
+      "text": "| R06 phone | S1 S7 S8 | 07415 601494 repeated full number; contact page tiny number lacks last digit | LOCATION/VISIT USE | #hero-call and #contact-phone tel:+447415601494 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 15,
+      "text": "| R07 email | S3 | [REDACTED_EMAIL] full visible and mailto official business contact | LOCATION/VISIT USE | #contact-email mailto:[REDACTED_EMAIL] |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 16,
+      "text": "| R08 region | S3 S4 S6 | London/Kent on official contact; South East London about; list includes Plumstead Woolwich Greenwich Bexleyheath | LOCATION/VISIT USE | Hero and #areas, area enquiry without coverage promise or fake map |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 17,
+      "text": "| R09 address | S3 S7 S8 | 27 vs217 Erindale; Plumstead shared | EXCLUDE | Conflicting residential street number, service business not verified walk-in venue. Use region only |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 18,
+      "text": "| R10 review seal | S6 | AlisdareH25Aug2026 shower seal renewal, careful/neat work; customer report not guaranteed outcome | FACT/PARAPHRASE USE | #review-seal, clearly paraphrased Yell review, public link |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 19,
+      "text": "| R11 review bathroom | S6 | JamesB-85499804Sep2026 bathroom work followed by plumbing vibration repair, used Scott twice | FACT/PARAPHRASE USE | #review-bathroom short attributed summary and link, no invented quote |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 20,
+      "text": "| R12 counts | S6 | Rating count varies public caches; recent reviews are independently usable | EXCLUDE | Do not imply independently audited 5-star guarantee or fixed live count |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 21,
+      "text": "| R13 default testimonials | S5 | Four default paragraph samples with John Smith Brooklyn attribution | EXCLUDE | Template fiction, never use as customer proof |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 22,
+      "text": "| R14 Facebook | S3 | Actual contact icon href http://www.facebook.com/sealproof, visible text seaproof typo; fetch throttled | EXCLUDE | Target identity/content not currently inspectable; direct tel/email and verified Yell retained. No wrong spelling or Wix social footer |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 23,
+      "text": "| R15 other social | S1 S8 | Wix Twitter/Facebook footer targets Wix; Nextdoor presence matched but no current content verified | EXCLUDE | Not useful proof or operative booking path for this slice |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 24,
+      "text": "| R16 gallery and projects | S6 | 58 gallery leads; ownership of observed worktop/radiator thumbnail UNKNOWN, two manufacturer logos not business projects | CONCEPT VISUAL REPLACEMENT | Hero shower detail; service tap detail; closing tool still life. No gallery or invented project captions |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 25,
+      "text": "| R17 team vehicle premises | S1 S6 | No source-attributed client/team/vehicle photo verified; London stock skyline not business-specific | EXCLUDE | No fake Scott/crew/van/storefront portrait; no stock skyline decoration |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 26,
+      "text": "| R18 video | S1 S2 S3 S6 | No usable official video verified from accessible surfaces | EXCLUDE | Static-only slice; no invented workshop video |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 27,
+      "text": "| R19 broad installations | S1 S2 | Kitchen/bathroom fitting, electrics, CCTV, decorating listed, but proof narrower | EXCLUDE | Honest core repair slice, not exhaustive replacement/migration; no unsupported electrical qualification claim |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 28,
+      "text": "| R20 legal and credentials | S1 S6 | HANDYMAN Ltd footer looks template; insurance waste 24h manufacturer claims not independently verified | EXCLUDE | No legal-entity suffix, insurer badge, emergency claim or partnership logo |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 29,
+      "text": "| R21 hours and pricing | S3 S6 | Official no current verified schedule or repair price | EXCLUDE | No availability guarantee, service prices, free-callout or booking slots |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 30,
+      "text": "| R22 enquiry preparation | S1 S3 | Official invitation to discuss requirements; photo/area details are editorial suggestions | FACT/PARAPHRASE USE | #contact-prep suggests describe problem, postcode, relevant photo by email; clearly advice not declared business process |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 31,
+      "text": "| R23 original form | S3 | Contact fields present; no submission attempted or backend tested | LOCATION/VISIT USE | Replace with actual tel/email, explicit labels, no fake form or captured submissions |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 32,
+      "text": "| R24 legacy navigation | S1 S2 S3 S4 S5 | Five routes, desktop works; mobile layout980 wide in390viewport | FACT/PARAPHRASE USE | Local standalone anchors Repairs / Reviews / Contact; not deployed SEO route migration |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 2,
+      "text": "A1,assets/brand-complete.png,https://infosealproof.wixsite.com/sealproof,2026-09-08,c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9,640,330,REAL,header #brand-image,DIRECT USE,A local concept usage only; final transfer UNKNOWN,Exact browser-captured official DOM brand; full capture evidence/brand-full-source.png; no edit,No human or personal data,No retouching; CSS sizing only"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 3,
+      "text": "A2,assets/shower-concept.png,imagegen task 01a07f53 generated exec-5072f975-9308-4d58-bf2d-f1b014500586.png,2026-09-08,3971a6e92d158dd07bbc8f6435003bed2ef2cf7b978cb9f68333cabbd425086c,1536,1024,CONCEPT,hero #hero-image,CONCEPT VISUAL REPLACEMENT,Original generation for this authorized local concept; no client copyright claim,Invented shower seam category; not actual SealProof project,No human or personal data,No retouching; CSS sizing only"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 4,
+      "text": "A3,assets/tap-concept.png,imagegen task 01a07f53 generated exec-98bbd571-3451-4b79-a884-e91023c96d14.png,2026-09-08,a57e37ea2336b3c33480fb1a54e03a69ea13c8b8f4a6c4746ef0aecf5848688e,1536,1024,CONCEPT,services #tap-image,CONCEPT VISUAL REPLACEMENT,Original generation for this authorized local concept; no client copyright claim,Invented basin tap category; not actual SealProof project,No human or personal data,No retouching; CSS sizing only"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 5,
+      "text": "A4,assets/tools-concept.png,imagegen task 01a07f53 generated exec-7f92e2e0-9d84-4f41-a64a-0bc2627baa56.png,2026-09-08,2910fd30a53010c30bc7bc9745733f76f13b64559e847590858257d7bc49c243,1536,1024,CONCEPT,contact #tools-image,CONCEPT VISUAL REPLACEMENT,Original generation for this authorized local concept; no client copyright claim,Invented hand tool still life; not SealProof equipment,No human or personal data,No retouching; CSS sizing only"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 6,
+      "text": "AX1,assets/brand-original.png,https://infosealproof.wixsite.com/sealproof,2026-09-08,37876e3d564d71b377741b4bb48384beea4d17ac9fa6502f3932f667d5e6db88,620,312,REAL,none,EXCLUDE,A local concept usage only; final transfer UNKNOWN,Transient blank screenshot not logo. Retained evidence unused,No human or personal data,No retouching; CSS sizing only"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 7,
+      "text": "AX2,assets/brand-stable.png,https://infosealproof.wixsite.com/sealproof,2026-09-08,e6c45e4e9b9786b461eaa9e40913fb61b37d93c8066f9cba6f483e63e07283fd,640,310,REAL,none,EXCLUDE,A local concept usage only; final transfer UNKNOWN,Roof top cropped; complete capture A1 replaces this unsuitable crop,No human or personal data,No retouching; CSS sizing only"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 9,
+      "excerpt": "| R01 brand | S1 | SealProof roof graphic, red Seal, blue Proof, Property Maintenance, Do it right - Do it once; actual DOM-built brand | DIRECT USE | Header; stable browser screenshot, original unchanged. Initial blank brand-original.png is rejected and unused |",
+      "excerptSha256": "473d630cb76b84a265fec0b81ccef1cc04c49b959411be3dfd772fb78040732d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R01"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE2",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 10,
+      "excerpt": "| R02 business | S1 S4 | Home improvements and maintenance; family run South East London source claim | FACT/PARAPHRASE USE | Hero local repairs; omit unsupported quantified experience |",
+      "excerptSha256": "0e04792b897d2da97ab6a98ce3e0d2d98bc6110421f44b827f7af45c0319ec86",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R02"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE3",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 11,
+      "excerpt": "| R03 seals | S6 | Shower leak and silicone renewal listed; AlisdareH 25 Aug2026 recounts walk-in shower silicone repair | FACT/PARAPHRASE USE | #services seals + #reviews attributed account |",
+      "excerptSha256": "856eaac4882f27db6ba732f0d9e75e490bad089a93f3b4ba5335bd07adb13104",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R03"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE4",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 12,
+      "excerpt": "| R04 plumbing | S1 S6 | Dripping taps, toilets and repairs; ValV-20 24Aug sink/taps, IllaS23Jul shower valve | FACT/PARAPHRASE USE | #services tap and valve repairs |",
+      "excerptSha256": "a96d369baa4e6f10a4e8cd24436036e62d76df00dc27cb9369b22070931d15f1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R04"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE5",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 13,
+      "excerpt": "| R05 everyday | S1 S2 | Flat pack furniture, home repairs, carpentry and maintenance | FACT/PARAPHRASE USE | #services home maintenance short slice |",
+      "excerptSha256": "f4c2e0e91546170b407932d04db150b7722e566ce769231319645646f1e65256",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R05"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE6",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 14,
+      "excerpt": "| R06 phone | S1 S7 S8 | 07415 601494 repeated full number; contact page tiny number lacks last digit | LOCATION/VISIT USE | #hero-call and #contact-phone tel:+447415601494 |",
+      "excerptSha256": "612ea9eff3a840e4d78576cda1551077516701ef9d81106b46f1087608e1a17e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R06"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE7",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 15,
+      "excerpt": "| R07 email | S3 | [REDACTED_EMAIL] full visible and mailto official business contact | LOCATION/VISIT USE | #contact-email mailto:[REDACTED_EMAIL] |",
+      "excerptSha256": "eba11a8e1178b907b7379f26ec32612beb9ab0b5d51c310732ff85f87197e93f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R07"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE8",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 16,
+      "excerpt": "| R08 region | S3 S4 S6 | London/Kent on official contact; South East London about; list includes Plumstead Woolwich Greenwich Bexleyheath | LOCATION/VISIT USE | Hero and #areas, area enquiry without coverage promise or fake map |",
+      "excerptSha256": "3939abec4ad4b986a2f4db64263893e5ea07c5ca4853cb0b079cf038a7e43db0",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R08"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE9",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 17,
+      "excerpt": "| R09 address | S3 S7 S8 | 27 vs217 Erindale; Plumstead shared | EXCLUDE | Conflicting residential street number, service business not verified walk-in venue. Use region only |",
+      "excerptSha256": "acd2d661f409738b5c12652e9e62e73e56f37c7eae98aa5b567c894ff2b3643e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R09"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE10",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 18,
+      "excerpt": "| R10 review seal | S6 | AlisdareH25Aug2026 shower seal renewal, careful/neat work; customer report not guaranteed outcome | FACT/PARAPHRASE USE | #review-seal, clearly paraphrased Yell review, public link |",
+      "excerptSha256": "2d964eb14331d18ea5f6955a9895503b30d46461233e19f30183052d025388a0",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R10"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE11",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 19,
+      "excerpt": "| R11 review bathroom | S6 | JamesB-85499804Sep2026 bathroom work followed by plumbing vibration repair, used Scott twice | FACT/PARAPHRASE USE | #review-bathroom short attributed summary and link, no invented quote |",
+      "excerptSha256": "9a63d5ee0ce1eed35b1e5a6f55e659238528351f3fb70a84b830d98ba23bfc54",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R11"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE12",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 20,
+      "excerpt": "| R12 counts | S6 | Rating count varies public caches; recent reviews are independently usable | EXCLUDE | Do not imply independently audited 5-star guarantee or fixed live count |",
+      "excerptSha256": "87946925ce34e6b6b2b1e3ec28b5f32ad4c22019262faa85a2844183b587075f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R12"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE13",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 21,
+      "excerpt": "| R13 default testimonials | S5 | Four default paragraph samples with John Smith Brooklyn attribution | EXCLUDE | Template fiction, never use as customer proof |",
+      "excerptSha256": "22b29fa063a215bcb1aa8df75c5b6c1850ddd54631008f6777563304b3571a26",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R13"
+      ],
+      "sourceIds": [
+        "S5"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE14",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 22,
+      "excerpt": "| R14 Facebook | S3 | Actual contact icon href http://www.facebook.com/sealproof, visible text seaproof typo; fetch throttled | EXCLUDE | Target identity/content not currently inspectable; direct tel/email and verified Yell retained. No wrong spelling or Wix social footer |",
+      "excerptSha256": "29aec02592d83cb97230a6191b9db648f56629951b9603e50f2bc783bdd18574",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R14"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE15",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 23,
+      "excerpt": "| R15 other social | S1 S8 | Wix Twitter/Facebook footer targets Wix; Nextdoor presence matched but no current content verified | EXCLUDE | Not useful proof or operative booking path for this slice |",
+      "excerptSha256": "a2182c2837885b28ecd84334947d801883505e3fd780729b42ba3fa3e74076f5",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R15"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE16",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 24,
+      "excerpt": "| R16 gallery and projects | S6 | 58 gallery leads; ownership of observed worktop/radiator thumbnail UNKNOWN, two manufacturer logos not business projects | CONCEPT VISUAL REPLACEMENT | Hero shower detail; service tap detail; closing tool still life. No gallery or invented project captions |",
+      "excerptSha256": "20ae2eb3f144988628ad1ec546aa4f5e2a5e632e1737863228f77b139b0173ac",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R16"
+      ],
+      "sourceIds": [
+        "S9"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE17",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 25,
+      "excerpt": "| R17 team vehicle premises | S1 S6 | No source-attributed client/team/vehicle photo verified; London stock skyline not business-specific | EXCLUDE | No fake Scott/crew/van/storefront portrait; no stock skyline decoration |",
+      "excerptSha256": "36d7ef4f49e406eedb905ff72b538fe8b60510b09e876913dd1097d40b91d23a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R17"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE18",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 26,
+      "excerpt": "| R18 video | S1 S2 S3 S6 | No usable official video verified from accessible surfaces | EXCLUDE | Static-only slice; no invented workshop video |",
+      "excerptSha256": "d2983a726c818173c5d22ff81c5c09b004384cbcc3711eb0406e375a255473e3",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R18"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE19",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 27,
+      "excerpt": "| R19 broad installations | S1 S2 | Kitchen/bathroom fitting, electrics, CCTV, decorating listed, but proof narrower | EXCLUDE | Honest core repair slice, not exhaustive replacement/migration; no unsupported electrical qualification claim |",
+      "excerptSha256": "6e35c21ec318f512638c69ebb5a345b42550b95cc96d2a914b1ad2ef3631664f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R19"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE20",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 28,
+      "excerpt": "| R20 legal and credentials | S1 S6 | HANDYMAN Ltd footer looks template; insurance waste 24h manufacturer claims not independently verified | EXCLUDE | No legal-entity suffix, insurer badge, emergency claim or partnership logo |",
+      "excerptSha256": "1f73bd99e743188d3a18eff415c533b3fa789d0581682ca90c8937dddc4ce83d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R20"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE21",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 29,
+      "excerpt": "| R21 hours and pricing | S3 S6 | Official no current verified schedule or repair price | EXCLUDE | No availability guarantee, service prices, free-callout or booking slots |",
+      "excerptSha256": "ce5a0354ff17ffa494b9c1c7b65147fafb77508bb136cab4b8f096f246990b79",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R21"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE22",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 30,
+      "excerpt": "| R22 enquiry preparation | S1 S3 | Official invitation to discuss requirements; photo/area details are editorial suggestions | FACT/PARAPHRASE USE | #contact-prep suggests describe problem, postcode, relevant photo by email; clearly advice not declared business process |",
+      "excerptSha256": "c95c63aea8540d12fbbff3e52bffa1e7057de5f20dfe7720d68a8c47e510642c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R22"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE23",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 31,
+      "excerpt": "| R23 original form | S3 | Contact fields present; no submission attempted or backend tested | LOCATION/VISIT USE | Replace with actual tel/email, explicit labels, no fake form or captured submissions |",
+      "excerptSha256": "953392de1a30881a1415336eab91b5bf7e6403da56bc459789dc1a562b67a5d1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R23"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE24",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 32,
+      "excerpt": "| R24 legacy navigation | S1 S2 S3 S4 S5 | Five routes, desktop works; mobile layout980 wide in390viewport | FACT/PARAPHRASE USE | Local standalone anchors Repairs / Reviews / Contact; not deployed SEO route migration |",
+      "excerptSha256": "fb03d0072bd5de03ed1e[REDACTED_PHONE]b950c4cc1a78edf600b54823bafada242",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R24"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE25",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 2,
+      "excerpt": "A1,assets/brand-complete.png,https://infosealproof.wixsite.com/sealproof,2026-09-08,c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9,640,330,REAL,header #brand-image,DIRECT USE,A local concept usage only; final transfer UNKNOWN,Exact browser-captured official DOM brand; full capture evidence/brand-full-source.png; no edit,No human or personal data,No retouching; CSS sizing only",
+      "excerptSha256": "10f20bac08347777007fe4dfa5ae13c93ec408d82135199e95b618519e46f581",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "R01"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE26",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 3,
+      "excerpt": "A2,assets/shower-concept.png,imagegen task 01a07f53 generated exec-5072f975-9308-4d58-bf2d-f1b014500586.png,2026-09-08,3971a6e92d158dd07bbc8f6435003bed2ef2cf7b978cb9f68333cabbd425086c,1536,1024,CONCEPT,hero #hero-image,CONCEPT VISUAL REPLACEMENT,Original generation for this authorized local concept; no client copyright claim,Invented shower seam category; not actual SealProof project,No human or personal data,No retouching; CSS sizing only",
+      "excerptSha256": "0f060a9cb12ffc43d5dc7893fb3e318c7f7156a452e5b5778168bfb20868a748",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "IMGA2"
+      ],
+      "sourceIds": [
+        "S9"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE27",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 4,
+      "excerpt": "A3,assets/tap-concept.png,imagegen task 01a07f53 generated exec-98bbd571-3451-4b79-a884-e91023c96d14.png,2026-09-08,a57e37ea2336b3c33480fb1a54e03a69ea13c8b8f4a6c4746ef0aecf5848688e,1536,1024,CONCEPT,services #tap-image,CONCEPT VISUAL REPLACEMENT,Original generation for this authorized local concept; no client copyright claim,Invented basin tap category; not actual SealProof project,No human or personal data,No retouching; CSS sizing only",
+      "excerptSha256": "7d006a94061ddc4600065f375fefed27377f2ea72e52d0b4f8cb1094d1192d34",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "IMGA3"
+      ],
+      "sourceIds": [
+        "S9"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE28",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 5,
+      "excerpt": "A4,assets/tools-concept.png,imagegen task 01a07f53 generated exec-7f92e2e0-9d84-4f41-a64a-0bc2627baa56.png,2026-09-08,2910fd30a53010c30bc7bc9745733f76f13b64559e847590858257d7bc49c243,1536,1024,CONCEPT,contact #tools-image,CONCEPT VISUAL REPLACEMENT,Original generation for this authorized local concept; no client copyright claim,Invented hand tool still life; not SealProof equipment,No human or personal data,No retouching; CSS sizing only",
+      "excerptSha256": "8c3b3f75a7792bc5a2e090fc807d0608cd2da5457ee531182372d9fee9a74e44",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "IMGA4"
+      ],
+      "sourceIds": [
+        "S9"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE29",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 6,
+      "excerpt": "AX1,assets/brand-original.png,https://infosealproof.wixsite.com/sealproof,2026-09-08,37876e3d564d71b377741b4bb48384beea4d17ac9fa6502f3932f667d5e6db88,620,312,REAL,none,EXCLUDE,A local concept usage only; final transfer UNKNOWN,Transient blank screenshot not logo. Retained evidence unused,No human or personal data,No retouching; CSS sizing only",
+      "excerptSha256": "fe67dc31493ddf8856d53aef6eb1fac5fe2ff6be64dc95b5a62c8340357148e4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "IMGAX1"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    },
+    {
+      "id": "BASE30",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/ASSET_INVENTORY.csv",
+      "line": 7,
+      "excerpt": "AX2,assets/brand-stable.png,https://infosealproof.wixsite.com/sealproof,2026-09-08,e6c45e4e9b9786b461eaa9e40913fb61b37d93c8066f9cba6f483e63e07283fd,640,310,REAL,none,EXCLUDE,A local concept usage only; final transfer UNKNOWN,Roof top cropped; complete capture A1 replaces this unsuitable crop,No human or personal data,No retouching; CSS sizing only",
+      "excerptSha256": "9daf631b69a96b019233469946a582282991b83d58a9b60bc9c63f7f7101c778",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "IMGAX2"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Specific source row is retained or specifically excluded by its corresponding activation item; concept replacements have their generated provenance registered."
+    }
+  ]
+}

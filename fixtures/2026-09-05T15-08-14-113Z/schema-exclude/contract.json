@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "client": "schema-exclude",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "currentEvidence": "isolated regression fixture",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/schema-exclude/site",
+  "entry": "index.html",
+  "coverageReview": "OWNER_RECONCILED",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/schema-exclude/site/source.md",
+      "sha256": "d0f41af9c791c98a96c172cc975753266be9391d079bd3184dfbe49379a00d82"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "A",
+      "url": "https://example.invalid/official",
+      "retrievedDate": "2026-09-05",
+      "platform": "isolated fixture",
+      "attribution": "fixture synthetic source; no actual merchant assertion"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A-logo",
+      "path": "logo.svg",
+      "originalPath": "logo.svg",
+      "sha256": "19cc18d8896628809f5d200a132311e3971a462f0cffac3d44c7e8c5d5fd7a65",
+      "originalSha256": "19cc18d8896628809f5d200a132311e3971a462f0cffac3d44c7e8c5d5fd7a65",
+      "sourceId": "S1",
+      "role": "brand",
+      "focus": "center subject",
+      "authenticity": "REAL",
+      "rights": "synthetic fixture only"
+    },
+    {
+      "id": "A-real",
+      "path": "real.svg",
+      "originalPath": "real.svg",
+      "sha256": "076d2b184f650b044c7f82021e15fbb0357885dddec561a4e386d39f4930ef2a",
+      "originalSha256": "076d2b184f650b044c7f82021e15fbb0357885dddec561a4e386d39f4930ef2a",
+      "sourceId": "S1",
+      "role": "service",
+      "focus": "center subject",
+      "authenticity": "REAL",
+      "rights": "synthetic fixture only"
+    }
+  ],
+  "items": [
+    {
+      "id": "I-logo",
+      "assetId": "A-logo",
+      "selector": "#logo",
+      "category": "fixture",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "factState": "OBSERVED FACT",
+      "section": "service",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "I-real",
+      "assetId": "A-real",
+      "selector": "#real",
+      "category": "fixture",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "factState": "OBSERVED FACT",
+      "section": "service",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "I-fact",
+      "text": "Care for your dog",
+      "selector": "#fact",
+      "category": "fixture",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "factState": "OBSERVED FACT",
+      "section": "service",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "I-map",
+      "href": "https://example.invalid/map",
+      "text": "Get directions",
+      "promise": "Get directions",
+      "selector": "#map",
+      "category": "fixture",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "factState": "OBSERVED FACT",
+      "section": "service",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "I-social",
+      "href": "https://example.invalid/social",
+      "text": "See our work",
+      "promise": "See our work",
+      "selector": "#social",
+      "category": "fixture",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "factState": "OBSERVED FACT",
+      "section": "service",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "I-cta",
+      "href": "tel:+441234567890",
+      "text": "Call the salon",
+      "promise": "Call the salon",
+      "selector": "#cta",
+      "category": "fixture",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "factState": "OBSERVED FACT",
+      "section": "service",
+      "disposition": "DIRECT USE",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-08-14-113Z/schema-exclude/site/source.md",
+      "line": 1,
+      "excerpt": "Official fixture: logo.svg, real.svg, grooming, map, social and telephone are required.",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I-logo",
+        "I-real",
+        "I-map",
+        "I-social",
+        "I-cta",
+        "I-fact"
+      ]
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#cta"
+  },
+  "sections": []
+}

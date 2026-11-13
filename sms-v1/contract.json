@@ -1,0 +1,806 @@
+{
+  "schemaVersion": 1,
+  "client": "S M S Handyman Services",
+  "owner": "01a0793a-2eb8-7a22-a908-0aec95a59591",
+  "activeVersion": "v1",
+  "currentEvidence": "User authorized 做个demo; independent pre-code PASS in client docs 2026-09-07",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "sha256": "32d0fce7ea5870f83df4365e85aca7fa5243603f17735bd5fe6348a8ac968f81"
+    }
+  ],
+  "sources": [
+    {
+      "id": "COUNCIL",
+      "grade": "C",
+      "url": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+      "retrievedDate": "2026-09-07",
+      "platform": "Derbyshire County Council public directory",
+      "attribution": "Business listing and attributed customer feedback; facts/paraphrases only, no media copied"
+    },
+    {
+      "id": "ORIGINAL",
+      "grade": "C",
+      "url": "builtin:imagegen/01a0793a-2eb8-7a22-a908-0aec95a59591",
+      "retrievedDate": "2026-09-07",
+      "platform": "OpenAI built-in imagegen",
+      "attribution": "Original service concept illustrations generated for user-authorized local demo; no customer work claim"
+    },
+    {
+      "id": "LINKEDIN",
+      "grade": "A",
+      "url": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+      "retrievedDate": "2026-09-07",
+      "platform": "LinkedIn professional profile index",
+      "attribution": "Stephen Shipp identifies S. M. S. Handyman Services and Chesterfield; consistent Tupton role/phone crosscheck, not a company account; anonymous view requires login"
+    }
+  ],
+  "assets": [
+    {
+      "id": "IMG_hero",
+      "path": "assets/hero.webp",
+      "originalPath": "assets/originals/IMG_hero.png",
+      "sha256": "bb0b97ee3535fd58a7f1aa58d07a17ec358391481045c7e9d607791e57dc3501",
+      "originalSha256": "83f92a75eec11d0a342a911d7e4992571e70b91f1022a35cd3829ede13e9e6ae",
+      "sourceId": "ORIGINAL",
+      "role": "hero service illustration",
+      "focus": "Centre subject; retain tool/bracket/hinge/rail",
+      "authenticity": "CONCEPT",
+      "rights": "Original generated illustration for local concept; transfer status separately reviewed",
+      "permissionEvidence": "User authorized local static demo on 2026-09-07; original generated non-identifiable service illustration"
+    },
+    {
+      "id": "IMG_indoor",
+      "path": "assets/indoor.webp",
+      "originalPath": "assets/originals/IMG_indoor.png",
+      "sha256": "92f8c9685910bc2ce54edb4ffb4351b2f3e5ffa2acace96455244c2c1772ec41",
+      "originalSha256": "346a1ee4199973a0b43b00367900ff3c37eb71975c918478e7e2901e7b90131f",
+      "sourceId": "ORIGINAL",
+      "role": "indoor service illustration",
+      "focus": "Centre subject; retain tool/bracket/hinge/rail",
+      "authenticity": "CONCEPT",
+      "rights": "Original generated illustration for local concept; transfer status separately reviewed",
+      "permissionEvidence": "User authorized local static demo on 2026-09-07; original generated non-identifiable service illustration"
+    },
+    {
+      "id": "IMG_outdoor",
+      "path": "assets/outdoor-wide.webp",
+      "originalPath": "assets/originals/outdoor-wide.png",
+      "sha256": "d56d041a537523b34d52d6279bcf7903da6b854dfb8f8a235bc3738d18d0ed66",
+      "originalSha256": "a2fe81bf89bd8ee9226ae40eaa2071d1512c18174ebcfaffb3b737c70c69baea",
+      "sourceId": "ORIGINAL",
+      "role": "Wide outdoor garden-building service illustration",
+      "focus": "Whole summerhouse roof and garden context, centred3:2",
+      "authenticity": "CONCEPT",
+      "rights": "Original generated illustration for local concept; transfer status separately reviewed",
+      "permissionEvidence": "User authorized local static demo on 2026-09-07; original generated non-identifiable service illustration"
+    },
+    {
+      "id": "IMG_handrail",
+      "path": "assets/handrail.webp",
+      "originalPath": "assets/originals/IMG_handrail.png",
+      "sha256": "cacc059a00164c4e14bfcabfe4a62dcf3cc0966cabcba545c8e159d4a51bd53c",
+      "originalSha256": "c34cd6e84df46c9a2edcd738eceb764ba95de85e5afbe473024c1b0c0c804f8b",
+      "sourceId": "ORIGINAL",
+      "role": "handrail service illustration",
+      "focus": "Centre subject; retain tool/bracket/hinge/rail",
+      "authenticity": "CONCEPT",
+      "rights": "Original generated illustration for local concept; transfer status separately reviewed",
+      "permissionEvidence": "User authorized local static demo on 2026-09-07; original generated non-identifiable service illustration"
+    }
+  ],
+  "items": [
+    {
+      "id": "F01",
+      "selector": "#location",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "#location",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "BASED IN GRASSMOOR, CHESTERFIELD"
+    },
+    {
+      "id": "F02",
+      "selector": ".phone-link",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": ".phone-link",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "tel:+447725999370",
+      "promise": "Open the published business contact or original source corresponding to the visible action"
+    },
+    {
+      "id": "EMAIL",
+      "selector": ".email-link",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": ".email-link",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "Open the published business contact or original source corresponding to the visible action"
+    },
+    {
+      "id": "F03",
+      "selector": "#services",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#services",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Sheds & summerhouses"
+    },
+    {
+      "id": "F04",
+      "selector": "#reviews",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#reviews",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "16 JULY 2026"
+    },
+    {
+      "id": "F05",
+      "selector": "#reviews",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#reviews",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "28 APRIL 2026"
+    },
+    {
+      "id": "F06",
+      "selector": "#indoor",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#indoor",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Kitchen tap replacements"
+    },
+    {
+      "id": "F08",
+      "selector": ".review-link",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": ".review-link",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+      "promise": "Open the published business contact or original source corresponding to the visible action"
+    },
+    {
+      "id": "MAP",
+      "selector": ".map-link",
+      "sourceId": "COUNCIL",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": ".map-link",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+      "promise": "Open the published business contact or original source corresponding to the visible action"
+    },
+    {
+      "id": "VIS_hero",
+      "selector": ".hero-photo",
+      "sourceId": "ORIGINAL",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "section": ".hero-photo",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "IMG_hero"
+    },
+    {
+      "id": "VIS_indoor",
+      "selector": "#indoor img",
+      "sourceId": "ORIGINAL",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "section": "#indoor img",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "IMG_indoor"
+    },
+    {
+      "id": "VIS_outdoor",
+      "selector": "#outdoor img",
+      "sourceId": "ORIGINAL",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "section": "#outdoor img",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "IMG_outdoor"
+    },
+    {
+      "id": "VIS_handrail",
+      "selector": ".contact-image img",
+      "sourceId": "ORIGINAL",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "section": ".contact-image img",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "IMG_handrail"
+    },
+    {
+      "id": "F07",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Secondary historic jobs excluded to keep core service slice focused",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "F09",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Insurance DBS and contracts lack independent verification",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "F10",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Historical capacity complaint informs internal strategy, not current claims",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "F11",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Yell source blocked403; unique claims not directly verified",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "F12",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Sponsor dates unknown and not direct service proof",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "F13",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Club identity crosscheck not a business service fact",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "A01",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Logo uploader provenance unverified; use plain text name",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "A02",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Third-party logo did not load and rights unverified",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "U01",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Hours radius shop status and current availability unverified",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "U03",
+      "sourceId": "COUNCIL",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Purchase intent and growth expectations remain unverified",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "F14",
+      "sourceId": "LINKEDIN",
+      "selector": "#linkedin-link",
+      "href": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+      "promise": "Open Stephen Shipp professional LinkedIn profile; platform may require login",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "#contact",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "F08_DETAIL",
+      "sourceId": "COUNCIL",
+      "selector": ".directory-facts",
+      "text": "20 customer reviews",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#reviews",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    }
+  ],
+  "hero": {
+    "selector": ".hero",
+    "ctaSelector": "#hero-cta"
+  },
+  "sections": [
+    ".hero",
+    "#services",
+    "#reviews",
+    "#contact",
+    ".footer"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "UNKNOWN",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 2,
+      "text": "F01,identity,商户名称与Grassmoor地址,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council,2026-09-07,OBSERVED FACT,HIGH,LOCATION/VISIT USE,Hero/location,只展示地区；街道登记点不等于到访门店,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 3,
+      "text": "F02,contact,07725999370；[REDACTED_EMAIL],https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council,2026-09-07,OBSERVED FACT,HIGH,DIRECT USE,CTA,未拨打/发送；送达及决策人UNKNOWN,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 4,
+      "text": "F03,service,decking、handyman、property repairs、sheds、summerhouses、plumber,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council,2026-09-07,SOURCE CLAIM,HIGH,FACT/PARAPHRASE USE,services,目录服务分类不等于专业资格,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 5,
+      "text": "F04,review,2026-07-16室内外handrails,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,FACT/PARAPHRASE USE,proof,H0近期证据；不保证响应速度,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 6,
+      "text": "F05,review,2026-04-28 summerhouse,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,FACT/PARAPHRASE USE,outdoor proof,非90天H0；不称新近项目,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 7,
+      "text": "F06,review,2025-12-14厨房龙头；2025-07-24搁板橱柜电视,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,FACT/PARAPHRASE USE,indoor proof,历史工作语义；无实拍图,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 8,
+      "text": "F07,review,2023-04-11 pergola；2024-03-06抽屉/门框；2025-05-02gutters,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,EXCLUDE,none,核心切片仅选代表工作；保留扩展线索不堆全量服务,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 9,
+      "text": "F08,trust,20 reviews；Joined 30/08/2019；rating alt 5/5,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council,2026-09-07,OBSERVED FACT,HIGH,TIME-SENSITIVE VERIFY/REPHRASE,trust,展示前再核；不得推导成立年份,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 10,
+      "text": "F09,qualification,保险、DBS、机构合同,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council profile,2026-09-07,SOURCE CLAIM,MEDIUM,EXCLUDE,none,资格/合同有效期未核；不做背书,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 11,
+      "text": "F10,negative,2025-04-14漏讯/排满回复；2025-06-06曾排满,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,EXCLUDE,internal strategy,历史容量反向证据，影响商业论证；不用于客户展示,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 12,
+      "text": "F11,identity,Yell同地址电话；basic plumbing/flat pack等清单,https://www.yell.com/biz/sms-handyman-services-chesterfield-chesterfield-9162929/,Yell search index,2026-09-07,INDEX ONLY,MEDIUM,EXCLUDE,none,浏览器403；Yell-only服务不当前确认,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 13,
+      "text": "F12,community,俱乐部列S M S Handyman sponsor,https://www.pitchero.com/clubs/tupton/d/sponsors.html,Tupton RUFC,2026-09-07,OBSERVED FACT,MEDIUM,EXCLUDE,none,非核心服务证明，赞助时间和金额UNKNOWN,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 14,
+      "text": "F13,identity,相同电话关联Steve Shipp,https://www.pitchero.com/clubs/tupton/contact,Tupton RUFC,2026-09-07,OBSERVED FACT / IDENTITY INFERENCE,HIGH,EXCLUDE,internal identity,只做身份交叉；不挪用俱乐部角色/个人肖像,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 15,
+      "text": "A01,logo,S.M.S.红黑灰工具字标,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council image,2026-09-07,OBSERVED VISUAL,HIGH,EXCLUDE,pending brand,上传主体未证；当前C，不直接用；后续核A/B或使用权,https://apps.derbyshire.gov.uk/applications/trusted-trader/images/profilepics/71418.jpg,NOT DOWNLOADED / NOT HASHED,350x118,C — upload provenance UNKNOWN; CUSTOMER AUTHORIZATION NOT VERIFIED,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 16,
+      "text": "A02,logo,Tupton sponsor image URL,https://www.pitchero.com/clubs/tupton/d/sponsors.html,Pitchero image,2026-09-07,URL OBSERVED / IMAGE NOT LOADED,MEDIUM,EXCLUDE,none,第三方俱乐部图；naturalWidth0、归属/版权不明,https://img-res.pitchero.com/?url=images.pitchero.com%2Fclub_sponsors%2F2081%2F1710504422_large.jpg&h=138&w=320&t=frame&bg=ffffff,NOT DOWNLOADED / NOT HASHED,\"Not loaded, naturalWidth 0\",\"C — third-party club image, no licence verified\",NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 17,
+      "text": "U01,hours/area,营业时间、服务半径、到店、接单日期,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,bounded public research,2026-09-07,UNKNOWN,LOW,EXCLUDE,none,不添加虚构覆盖区或24/7承诺,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 18,
+      "text": "U02,visual,真实项目、团队、车辆、工具过程照片,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,bounded public research,2026-09-07,NOT VERIFIED,LOW,CONCEPT VISUAL REPLACEMENT,future indoor/outdoor visual,仅未来获授权后可考虑概念替代；本轮未制作,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 19,
+      "text": "U03,intent,购买意愿、增长、当前触发、预算,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,bounded public research,2026-09-07,UNKNOWN,LOW,EXCLUDE,internal strategy,NO CLEAR TRIGGER FOUND；不编造收入或成交概率,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 2,
+      "excerpt": "F01,identity,商户名称与Grassmoor地址,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council,2026-09-07,OBSERVED FACT,HIGH,LOCATION/VISIT USE,Hero/location,只展示地区；街道登记点不等于到访门店,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "344f003b638f72b8575d8f9a2407a128f3fb67bfa2294b71870bfbecd0e940f2",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F01",
+        "MAP"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "One research record maps to its corresponding visible fact and related direct action"
+    },
+    {
+      "id": "BASE2",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 3,
+      "excerpt": "F02,contact,07725999370；[REDACTED_EMAIL],https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council,2026-09-07,OBSERVED FACT,HIGH,DIRECT USE,CTA,未拨打/发送；送达及决策人UNKNOWN,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "c25df5b07716cb2b6e92d360e50142aa4034afc19d3942865aea33d9bdda4cc3",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F02",
+        "EMAIL"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "One research record maps to its corresponding visible fact and related direct action"
+    },
+    {
+      "id": "BASE3",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 4,
+      "excerpt": "F03,service,decking、handyman、property repairs、sheds、summerhouses、plumber,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council,2026-09-07,SOURCE CLAIM,HIGH,FACT/PARAPHRASE USE,services,目录服务分类不等于专业资格,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "f92a7b6aa1e1daf6d35e1287ba8181d62ffcc55a3d02c3cc5a3720782d315780",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F03"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "One research record maps to its corresponding visible fact and related direct action"
+    },
+    {
+      "id": "BASE4",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 5,
+      "excerpt": "F04,review,2026-07-16室内外handrails,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,FACT/PARAPHRASE USE,proof,H0近期证据；不保证响应速度,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "76b4bb34ce119905bdec190b328f3b3b5f631ede359280ab0967a4903559db3f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F04"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "One research record maps to its corresponding visible fact and related direct action"
+    },
+    {
+      "id": "BASE5",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 6,
+      "excerpt": "F05,review,2026-04-28 summerhouse,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,FACT/PARAPHRASE USE,outdoor proof,非90天H0；不称新近项目,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "4170b500abbf363a665217b2d0152aee9f9feefbc94c63c916f33aac52569560",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F05"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "One research record maps to its corresponding visible fact and related direct action"
+    },
+    {
+      "id": "BASE6",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 7,
+      "excerpt": "F06,review,2025-12-14厨房龙头；2025-07-24搁板橱柜电视,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,FACT/PARAPHRASE USE,indoor proof,历史工作语义；无实拍图,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "5f5ceaa95cec860a673f3bbf5612dae81a4a6747871a939e9b724f511caca141",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F06"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "One research record maps to its corresponding visible fact and related direct action"
+    },
+    {
+      "id": "BASE7",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 8,
+      "excerpt": "F07,review,2023-04-11 pergola；2024-03-06抽屉/门框；2025-05-02gutters,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,EXCLUDE,none,核心切片仅选代表工作；保留扩展线索不堆全量服务,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "2b930bc9a891797b2ebc1dd0c857ef0b7b08ecc236eb13a4418faaa1b51a2c93",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F07"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Secondary historic jobs excluded to keep core service slice focused"
+    },
+    {
+      "id": "BASE8",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 9,
+      "excerpt": "F08,trust,20 reviews；Joined 30/08/2019；rating alt 5/5,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council,2026-09-07,OBSERVED FACT,HIGH,TIME-SENSITIVE VERIFY/REPHRASE,trust,展示前再核；不得推导成立年份,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "1c70107216ef3ce1d856a495f09f1eac8b522a8c2615c3ed9d359ba26168eed4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F08",
+        "F08_DETAIL"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "One research record maps to its corresponding visible fact and related direct action"
+    },
+    {
+      "id": "BASE9",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 10,
+      "excerpt": "F09,qualification,保险、DBS、机构合同,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council profile,2026-09-07,SOURCE CLAIM,MEDIUM,EXCLUDE,none,资格/合同有效期未核；不做背书,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "ba095c312151ca511ed77bab7a71d95ab2d4f2afd2f7f824207b3c8b5fcd4763",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F09"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Insurance DBS and contracts lack independent verification"
+    },
+    {
+      "id": "BASE10",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 11,
+      "excerpt": "F10,negative,2025-04-14漏讯/排满回复；2025-06-06曾排满,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council reviews,2026-09-07,SOURCE CLAIM,HIGH,EXCLUDE,internal strategy,历史容量反向证据，影响商业论证；不用于客户展示,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "5dcdb68a0c9a71d35ff89b5bc3f7c2a53e6317dcee630de38f4f11ddccac0ec5",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F10"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Historical capacity complaint informs internal strategy, not current claims"
+    },
+    {
+      "id": "BASE11",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 12,
+      "excerpt": "F11,identity,Yell同地址电话；basic plumbing/flat pack等清单,https://www.yell.com/biz/sms-handyman-services-chesterfield-chesterfield-9162929/,Yell search index,2026-09-07,INDEX ONLY,MEDIUM,EXCLUDE,none,浏览器403；Yell-only服务不当前确认,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "0948527ddc2e8d8fa84baa312a84f5ba79ed2ec98763be8658cb38aefae0a1cb",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F11"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Yell source blocked403; unique claims not directly verified"
+    },
+    {
+      "id": "BASE12",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 13,
+      "excerpt": "F12,community,俱乐部列S M S Handyman sponsor,https://www.pitchero.com/clubs/tupton/d/sponsors.html,Tupton RUFC,2026-09-07,OBSERVED FACT,MEDIUM,EXCLUDE,none,非核心服务证明，赞助时间和金额UNKNOWN,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "eb0333ffc8a3c16b970700438b35a3020bc447de2a2f238e8f2b371e1130a445",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F12"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Sponsor dates unknown and not direct service proof"
+    },
+    {
+      "id": "BASE13",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 14,
+      "excerpt": "F13,identity,相同电话关联Steve Shipp,https://www.pitchero.com/clubs/tupton/contact,Tupton RUFC,2026-09-07,OBSERVED FACT / IDENTITY INFERENCE,HIGH,EXCLUDE,internal identity,只做身份交叉；不挪用俱乐部角色/个人肖像,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "41acffaf68da2fbba61ca3f1f4909f707b35fbf99c0727485a79aaa401be6465",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "F13"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Club identity crosscheck not a business service fact"
+    },
+    {
+      "id": "BASE14",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 15,
+      "excerpt": "A01,logo,S.M.S.红黑灰工具字标,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,Council image,2026-09-07,OBSERVED VISUAL,HIGH,EXCLUDE,pending brand,上传主体未证；当前C，不直接用；后续核A/B或使用权,https://apps.derbyshire.gov.uk/applications/trusted-trader/images/profilepics/71418.jpg,NOT DOWNLOADED / NOT HASHED,350x118,C — upload provenance UNKNOWN; CUSTOMER AUTHORIZATION NOT VERIFIED,NONE",
+      "excerptSha256": "ccd34f52367ad024ba4ea02e2272bf79e89543ceff8b84c120eb6585977f1148",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "A01"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Logo uploader provenance unverified; use plain text name"
+    },
+    {
+      "id": "BASE15",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 16,
+      "excerpt": "A02,logo,Tupton sponsor image URL,https://www.pitchero.com/clubs/tupton/d/sponsors.html,Pitchero image,2026-09-07,URL OBSERVED / IMAGE NOT LOADED,MEDIUM,EXCLUDE,none,第三方俱乐部图；naturalWidth0、归属/版权不明,https://img-res.pitchero.com/?url=images.pitchero.com%2Fclub_sponsors%2F2081%2F1710504422_large.jpg&h=138&w=320&t=frame&bg=ffffff,NOT DOWNLOADED / NOT HASHED,\"Not loaded, naturalWidth 0\",\"C — third-party club image, no licence verified\",NONE",
+      "excerptSha256": "c41c2e4e71dfe4718e2aed6e088cc0be2cf3eab3fe595a6d2099c4923476dcb9",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "A02"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Third-party logo did not load and rights unverified"
+    },
+    {
+      "id": "BASE16",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 17,
+      "excerpt": "U01,hours/area,营业时间、服务半径、到店、接单日期,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,bounded public research,2026-09-07,UNKNOWN,LOW,EXCLUDE,none,不添加虚构覆盖区或24/7承诺,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "e83f1d72b38de293d9e5729a4cdeb1652b6fb067ee6f805086b15c3c5f44454e",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "U01"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Hours radius shop status and current availability unverified"
+    },
+    {
+      "id": "BASE17",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 18,
+      "excerpt": "U02,visual,真实项目、团队、车辆、工具过程照片,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,bounded public research,2026-09-07,NOT VERIFIED,LOW,CONCEPT VISUAL REPLACEMENT,future indoor/outdoor visual,仅未来获授权后可考虑概念替代；本轮未制作,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "32126501daae9578097160c9e0c70003bf4e883d80fb521133a29556f9dd9e7d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "VIS_hero",
+        "VIS_indoor",
+        "VIS_outdoor",
+        "VIS_handrail"
+      ],
+      "sourceIds": [
+        "ORIGINAL"
+      ],
+      "reason": "Unverified customer photos replaced by four distinct original service illustrations; no real project claim"
+    },
+    {
+      "id": "BASE18",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 19,
+      "excerpt": "U03,intent,购买意愿、增长、当前触发、预算,https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418,bounded public research,2026-09-07,UNKNOWN,LOW,EXCLUDE,internal strategy,NO CLEAR TRIGGER FOUND；不编造收入或成交概率,NOT DOWNLOADED,NOT DOWNLOADED / NOT HASHED,N/A,Facts only; no asset transfer permission,NONE",
+      "excerptSha256": "cc59fb69d82df26beb43fa046ee6f06a611a91437787f3a425cc15a40bfeb5ba",
+      "disposition": "EXCLUDE",
+      "itemIds": [
+        "U03"
+      ],
+      "sourceIds": [
+        "COUNCIL"
+      ],
+      "reason": "Purchase intent and growth expectations remain unverified"
+    },
+    {
+      "id": "BASE19",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv",
+      "line": 20,
+      "excerpt": "F14,professional social,Stephen Shipp / S. M. S. Handyman Services / Chesterfield,https://uk.linkedin.com/in/stephen-shipp-76154043,LinkedIn public profile index,2026-09-07,SOURCE CLAIM,HIGH,DIRECT USE,#linkedin-link,\"Professional profile, not company page; LinkedIn may require login; no personal posts or portrait copied\",NOT DOWNLOADED,N/A,N/A,Link only; no photo use,NONE",
+      "excerptSha256": "5c4f78ca0014dedb637b9bdac436ed876cbe59a1d814aef1b3e19daf400887c8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F14"
+      ],
+      "sourceIds": [
+        "LINKEDIN"
+      ],
+      "reason": "New professional social route corroborates business and owner identity"
+    }
+  ]
+}

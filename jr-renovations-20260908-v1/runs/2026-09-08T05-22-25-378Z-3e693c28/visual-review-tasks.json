@@ -1,0 +1,270 @@
+{
+  "inputHash": "b41e70b0e335cb76d38758e2ea180f778ac93c3ab440c158bb1751c9c4d8ffe4",
+  "assets": [
+    {
+      "assetId": "A01",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-01.jpg",
+      "originalSha256": "e9b5ffdb78482bb2546f2f32eb76c4eac11f89a1e1fe264e4214c2d96489b6e2",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-01.jpg",
+      "sha256": "e9b5ffdb78482bb2546f2f32eb76c4eac11f89a1e1fe264e4214c2d96489b6e2",
+      "focus": "Green tiled bathroom; full portrait, no fabricated details",
+      "role": "hero",
+      "selectors": [
+        "#hero-bath"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A02",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-02.jpg",
+      "originalSha256": "735c2731bb119658b787abeed97bed1f6105b1a3884cbccf9064bce30ebfe3ac",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-02.jpg",
+      "sha256": "735c2731bb119658b787abeed97bed1f6105b1a3884cbccf9064bce30ebfe3ac",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "role": "Excluded alternate work preserved for provenance",
+      "selectors": [
+        "none"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A03",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-03.jpg",
+      "originalSha256": "38986f696b435037cff42220bd8e01d2d950757c8279155aa16fafbeddeb3ba5",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-03.jpg",
+      "sha256": "38986f696b435037cff42220bd8e01d2d950757c8279155aa16fafbeddeb3ba5",
+      "focus": "Kitchen fitting: preserve cabinets and floor",
+      "role": "services",
+      "selectors": [
+        "#kitchen-work"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A04",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-04.jpg",
+      "originalSha256": "1e0586a8ffd74e087f19d6eb6287d8fd1d6ba62e1f10a41fbed35a708039e7eb",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-04.jpg",
+      "sha256": "1e0586a8ffd74e087f19d6eb6287d8fd1d6ba62e1f10a41fbed35a708039e7eb",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "role": "Excluded alternate work preserved for provenance",
+      "selectors": [
+        "none"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A05",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-05.jpg",
+      "originalSha256": "3a990d87c4360b772dfdcfb6e8d70f8abcdd332e22eb09cc8a6078c62ce943a7",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-05.jpg",
+      "sha256": "3a990d87c4360b772dfdcfb6e8d70f8abcdd332e22eb09cc8a6078c62ce943a7",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "role": "Excluded alternate work preserved for provenance",
+      "selectors": [
+        "none"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A06",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-06.jpg",
+      "originalSha256": "38fb506f1d6e3dd284cba01d8fb8d8599e75ea5a1c54f9fa59f1e3a34c5c0e54",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-06.jpg",
+      "sha256": "38fb506f1d6e3dd284cba01d8fb8d8599e75ea5a1c54f9fa59f1e3a34c5c0e54",
+      "focus": "Interior refurbishment: full fireplace and floor",
+      "role": "services",
+      "selectors": [
+        "#interior-work"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A07",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-07.jpg",
+      "originalSha256": "e8e75675d7382b495ca2f85f3e9603396999b45d95d645d053404bd80e88b55e",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-07.jpg",
+      "sha256": "e8e75675d7382b495ca2f85f3e9603396999b45d95d645d053404bd80e88b55e",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "role": "Excluded alternate work preserved for provenance",
+      "selectors": [
+        "none"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A08",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-08.jpg",
+      "originalSha256": "4c0952c644181207cab699253b550ed84c1d3b2e2c0ea042506cc81eb7692315",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-08.jpg",
+      "sha256": "4c0952c644181207cab699253b550ed84c1d3b2e2c0ea042506cc81eb7692315",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "role": "Excluded alternate work preserved for provenance",
+      "selectors": [
+        "none"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A09",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-09.jpg",
+      "originalSha256": "31332e4c3a4efbebf02ecd593c47c08467c38b77ee419d8a8f2d28cddb426539",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-09.jpg",
+      "sha256": "31332e4c3a4efbebf02ecd593c47c08467c38b77ee419d8a8f2d28cddb426539",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "role": "Excluded alternate work preserved for provenance",
+      "selectors": [
+        "none"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A10",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-10.jpg",
+      "originalSha256": "d81fcb8971c201a4cc72a2456525118e946b8d7a0363c5a37d3181b02f6af6cf",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-10.jpg",
+      "sha256": "d81fcb8971c201a4cc72a2456525118e946b8d7a0363c5a37d3181b02f6af6cf",
+      "focus": "Kitchen dining room: preserve doors/table",
+      "role": "closing",
+      "selectors": [
+        "#closing-work"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A11",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-11.jpg",
+      "originalSha256": "83dd2e6d749b4fc2c272d46f55be32f25654d1c1233129471d17fa6350087d53",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-11.jpg",
+      "sha256": "83dd2e6d749b4fc2c272d46f55be32f25654d1c1233129471d17fa6350087d53",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "role": "Excluded alternate work preserved for provenance",
+      "selectors": [
+        "none"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A12",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-12.jpg",
+      "originalSha256": "81370948e9df3bef563e022ad3de5f561cd3332760b82a5967401a8e005ed97c",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-12.jpg",
+      "sha256": "81370948e9df3bef563e022ad3de5f561cd3332760b82a5967401a8e005ed97c",
+      "focus": "Distinct geometric tiling detail; full tall image",
+      "role": "detail",
+      "selectors": [
+        "#detail-work"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A13",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-13.png",
+      "originalSha256": "9c802885fd29a241687b15c7195d4754a328811f61ab455d8e2e5e3bb734cadc",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-13.png",
+      "sha256": "9c802885fd29a241687b15c7195d4754a328811f61ab455d8e2e5e3bb734cadc",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "role": "Excluded alternate work preserved for provenance",
+      "selectors": [
+        "none"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A14",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-14.jpg",
+      "originalSha256": "cc26ae809c92eeeec2886726cd1e2f3a4221e85616bab9bdcef5add4ac17ea83",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-14.jpg",
+      "sha256": "cc26ae809c92eeeec2886726cd1e2f3a4221e85616bab9bdcef5add4ac17ea83",
+      "focus": "Unmodified official logo at natural size",
+      "role": "header",
+      "selectors": [
+        "#brand-logo",
+        "#brand-logo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A15",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-15.jpg",
+      "originalSha256": "bcc596cbc3e4fc41cb821d2c4abf9f1d1d7729b7b864b84aa326744b6d872578",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site/assets/asset-15.jpg",
+      "sha256": "bcc596cbc3e4fc41cb821d2c4abf9f1d1d7729b7b864b84aa326744b6d872578",
+      "focus": "Intact official before/after composite; never imply current review project",
+      "role": "process",
+      "selectors": [
+        "#before-after"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

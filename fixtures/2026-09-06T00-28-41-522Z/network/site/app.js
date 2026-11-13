@@ -1,0 +1,1 @@
+fetch("https://example.invalid/write",{method:"POST",body:"synthetic"}).catch(()=>{});navigator.sendBeacon("https://example.invalid/beacon","synthetic");setTimeout(()=>{location.href="https://example.invalid/navigate"},50);

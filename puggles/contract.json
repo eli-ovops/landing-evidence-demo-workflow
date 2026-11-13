@@ -1,0 +1,584 @@
+{
+  "schemaVersion": 1,
+  "client": "Puggles Bath & Groom",
+  "owner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "activeVersion": "demo_20260902/index.html",
+  "currentEvidence": "Current active index confirmed by package manifest; read-only replay.",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/docs/ASSET_INVENTORY.csv",
+      "sha256": "3e320036c4183dc1d22ba4a997cdc7ff26540c75feaf73d52180448f5f595399"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "ce20837811edbc1cdb0ff473a6c971daddeb66ec1511a153f18a5aeaa3f2fad6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/demo_20260902/docs/PRE_CODE_DECISION.md",
+      "sha256": "d36271b6229488083de046d7a3960699ab9f1b1357fa554d8b521045603526c2"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "A",
+      "url": "https://www.pugglesbathandgroom.co.uk/",
+      "retrievedDate": "2026-09-03",
+      "platform": "Official owned website",
+      "attribution": "Existing intelligence, activation and asset inventory; local concept only, not transfer-cleared."
+    }
+  ],
+  "assets": [
+    {
+      "id": "A1",
+      "path": "assets/puggles-logo.png",
+      "sha256": "2dd648d233d3f8239fa994166252f081a38679052ec16d4e9f199322fb088d93",
+      "originalPath": "assets/puggles-logo.png",
+      "originalSha256": "2dd648d233d3f8239fa994166252f081a38679052ec16d4e9f199322fb088d93",
+      "sourceId": "S1",
+      "role": "brand",
+      "focus": "full mark",
+      "authenticity": "REAL",
+      "rights": "official-public concept-only; reconfirm before transfer"
+    },
+    {
+      "id": "A2",
+      "path": "assets/official-dog-bath.jpeg",
+      "sha256": "a12b20eb6b52d3cf497d1f7376850423ef0b23110eeae7ed2ef4546889e53e6e",
+      "originalPath": "assets/official-dog-bath.jpeg",
+      "originalSha256": "a12b20eb6b52d3cf497d1f7376850423ef0b23110eeae7ed2ef4546889e53e6e",
+      "sourceId": "S1",
+      "role": "service atmosphere",
+      "focus": "dog and bath",
+      "authenticity": "CONCEPT",
+      "rights": "official-public atmosphere; not real-work proof or transfer-cleared"
+    },
+    {
+      "id": "A3",
+      "path": "assets/official-towel-dog.jpg",
+      "sha256": "207cbf31e45caa201bbbfffcbd98fe9726d40e78b5db7294ca99815d1df35533",
+      "originalPath": "assets/official-towel-dog.jpg",
+      "originalSha256": "207cbf31e45caa201bbbfffcbd98fe9726d40e78b5db7294ca99815d1df35533",
+      "sourceId": "S1",
+      "role": "care atmosphere",
+      "focus": "towel dog",
+      "authenticity": "CONCEPT",
+      "rights": "official-public AI-labelled visual; concept-only"
+    },
+    {
+      "id": "A4",
+      "path": "assets/official-bathtub-dog.jpeg",
+      "sha256": "3dbc75489b44a371e58015b3fc5b5f6be3d07f95c34699f664755c6e4b910d43",
+      "originalPath": "assets/official-bathtub-dog.jpeg",
+      "originalSha256": "3dbc75489b44a371e58015b3fc5b5f6be3d07f95c34699f664755c6e4b910d43",
+      "sourceId": "S1",
+      "role": "closing atmosphere",
+      "focus": "dog bath edge",
+      "authenticity": "CONCEPT",
+      "rights": "official-public atmosphere; not real-work proof or transfer-cleared"
+    },
+    {
+      "id": "A5",
+      "path": "assets/official-group-dogs.jpeg",
+      "sha256": "2a941c51ae4ec5649a1b38dcdb8902cbdf6f5b08f7b3a90283f390da71f9c05c",
+      "originalPath": "assets/official-group-dogs.jpeg",
+      "originalSha256": "2a941c51ae4ec5649a1b38dcdb8902cbdf6f5b08f7b3a90283f390da71f9c05c",
+      "sourceId": "S1",
+      "role": "hero atmosphere",
+      "focus": "dog faces centre 47%",
+      "authenticity": "CONCEPT",
+      "rights": "official-public AI-labelled atmosphere; not client dogs or real work"
+    },
+    {
+      "id": "A6",
+      "path": "assets/official-frankie.webp",
+      "sha256": "c0a3dea63b7217975941ff2cbeea6ebc559afd49d4e0df7ccbf338e096d0038c",
+      "originalPath": "assets/official-frankie.webp",
+      "originalSha256": "c0a3dea63b7217975941ff2cbeea6ebc559afd49d4e0df7ccbf338e096d0038c",
+      "sourceId": "S1",
+      "role": "board",
+      "focus": "native thumbnail",
+      "authenticity": "REAL",
+      "rights": "official-public pet portrait; local concept only"
+    },
+    {
+      "id": "A7",
+      "path": "assets/official-aggie.webp",
+      "sha256": "fc3baaf7998125630660ffbc51e0b5fab751e30aac9f371030f58280f6b40ae1",
+      "originalPath": "assets/official-aggie.webp",
+      "originalSha256": "fc3baaf7998125630660ffbc51e0b5fab751e30aac9f371030f58280f6b40ae1",
+      "sourceId": "S1",
+      "role": "board",
+      "focus": "native thumbnail",
+      "authenticity": "REAL",
+      "rights": "official-public pet portrait; local concept only"
+    },
+    {
+      "id": "A8",
+      "path": "assets/official-clifford.webp",
+      "sha256": "6e7126785d792e74291a2c0c255cda939c8326049b89e14f03e2e1573b60b957",
+      "originalPath": "assets/official-clifford.webp",
+      "originalSha256": "6e7126785d792e74291a2c0c255cda939c8326049b89e14f03e2e1573b60b957",
+      "sourceId": "S1",
+      "role": "board",
+      "focus": "native thumbnail",
+      "authenticity": "REAL",
+      "rights": "official-public person portrait; local concept only"
+    }
+  ],
+  "items": [
+    {
+      "id": "I1",
+      "sourceId": "S1",
+      "assetId": "A1",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "hero rail",
+      "selector": ".brand-logo",
+      "factState": "OBSERVED FACT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I2",
+      "sourceId": "S1",
+      "assetId": "A2",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "services",
+      "selector": ".feature-bath img",
+      "factState": "SOURCE CLAIM",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I3",
+      "sourceId": "S1",
+      "assetId": "A3",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "care",
+      "selector": ".care-visual img",
+      "factState": "SOURCE CLAIM",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I4",
+      "sourceId": "S1",
+      "assetId": "A4",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "visit",
+      "selector": ".call-image img",
+      "factState": "SOURCE CLAIM",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I5",
+      "sourceId": "S1",
+      "assetId": "A5",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "hero",
+      "selector": ".photo-hero",
+      "factState": "SOURCE CLAIM",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I6",
+      "sourceId": "S1",
+      "assetId": "A6",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "board",
+      "selector": ".board-card--frankie img",
+      "factState": "SOURCE CLAIM",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I7",
+      "sourceId": "S1",
+      "assetId": "A7",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "board",
+      "selector": ".board-card--aggie img",
+      "factState": "SOURCE CLAIM",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I8",
+      "sourceId": "S1",
+      "assetId": "A8",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "board",
+      "selector": ".board-card--clifford img",
+      "factState": "SOURCE CLAIM",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I9",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "hero",
+      "selector": "#hero-title",
+      "text": "Professional dog grooming in Reading.",
+      "factState": "OBSERVED FACT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I10",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "reviews",
+      "selector": ".review-chip",
+      "text": "381+ Reviews",
+      "factState": "SOURCE CLAIM",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I11",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "hero CTA",
+      "selector": ".photo-hero .primary-button",
+      "href": "tel:07830249472",
+      "promise": "Direct telephone route only; no form, tracking or booking",
+      "factState": "OBSERVED FACT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I12",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "find us",
+      "selector": "#find-us address",
+      "text": "3 Mays Hill Cottages Beech Hill, Reading Berkshire, RG7 1JA",
+      "factState": "OBSERVED FACT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I13",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "visit",
+      "selector": ".email-link",
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "Public business email route only; no tracking or submission",
+      "factState": "OBSERVED FACT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "I14",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "footer",
+      "selector": ".footer-links a[href*='facebook.com/pugglesdoggrooming']",
+      "text": "Facebook",
+      "factState": "OBSERVED FACT",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "mappingStatus": "OWNER_CONFIRMED"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "B1",
+      "file": "docs/ASSET_INVENTORY.csv",
+      "line": 2,
+      "excerpt": "A-001 logo",
+      "excerptSha256": "a",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I1"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B2",
+      "file": "docs/ASSET_INVENTORY.csv",
+      "line": 3,
+      "excerpt": "A-002 dog-bath",
+      "excerptSha256": "b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I2"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B3",
+      "file": "docs/ASSET_INVENTORY.csv",
+      "line": 4,
+      "excerpt": "A-003 towel dog",
+      "excerptSha256": "c",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I3"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B4",
+      "file": "docs/ASSET_INVENTORY.csv",
+      "line": 5,
+      "excerpt": "A-004 bathtub dog",
+      "excerptSha256": "d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I4"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B5",
+      "file": "docs/ASSET_INVENTORY.csv",
+      "line": 6,
+      "excerpt": "A-005 multi-dog hero",
+      "excerptSha256": "e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I5",
+        "I9",
+        "I11"
+      ],
+      "reason": "Existing activation matrix consolidates these source-linked items into one retained page treatment.",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B6",
+      "file": "docs/ASSET_INVENTORY.csv",
+      "line": 7,
+      "excerpt": "A-006 Frankie",
+      "excerptSha256": "f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I6"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B7",
+      "file": "docs/ASSET_INVENTORY.csv",
+      "line": 8,
+      "excerpt": "A-007 Aggie",
+      "excerptSha256": "g",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I7"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B8",
+      "file": "docs/ASSET_INVENTORY.csv",
+      "line": 9,
+      "excerpt": "A-008 Clifford",
+      "excerptSha256": "h",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I8"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B9",
+      "file": "docs/PRE_CODE_DECISION.md",
+      "line": 35,
+      "excerpt": "R06 services",
+      "excerptSha256": "i",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I2"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B10",
+      "file": "docs/PRE_CODE_DECISION.md",
+      "line": 36,
+      "excerpt": "R07 reviews",
+      "excerptSha256": "j",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I10"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B11",
+      "file": "docs/PRE_CODE_DECISION.md",
+      "line": 37,
+      "excerpt": "R08 phone and email",
+      "excerptSha256": "k",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I11",
+        "I13"
+      ],
+      "reason": "Existing activation matrix consolidates these source-linked items into one retained page treatment.",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B12",
+      "file": "docs/PRE_CODE_DECISION.md",
+      "line": 39,
+      "excerpt": "R10 Clifford",
+      "excerptSha256": "l",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I8"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B13",
+      "file": "docs/PRE_CODE_DECISION.md",
+      "line": 104,
+      "excerpt": "R20 Facebook",
+      "excerptSha256": "m",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I14"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    },
+    {
+      "id": "B14",
+      "file": "docs/PRE_CODE_DECISION.md",
+      "line": 102,
+      "excerpt": "R18 price guide",
+      "excerptSha256": "n",
+      "disposition": "SUPERSEDED",
+      "itemIds": [],
+      "reason": "Current replay has no unsupported price expectation in the core contact check."
+    },
+    {
+      "id": "B15",
+      "file": "docs/PRE_CODE_DECISION.md",
+      "line": 131,
+      "excerpt": "R25 address",
+      "excerptSha256": "o",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "I12"
+      ],
+      "reason": "",
+      "sourceIds": [
+        "S1"
+      ]
+    }
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "hero": {
+    "selector": ".photo-hero",
+    "ctaSelector": ".photo-hero .primary-button"
+  },
+  "sections": [
+    "#services",
+    "#care",
+    "#board",
+    "#find-us",
+    "#visit"
+  ],
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "UNKNOWN"
+}

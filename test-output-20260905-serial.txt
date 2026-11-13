@@ -1,0 +1,89 @@
+TAP version 13
+# Subtest: native validation rejects duplicate IDs, empty/excluded coverage, unsupported viewport and missing baseline
+ok 1 - native validation rejects duplicate IDs, empty/excluded coverage, unsupported viewport and missing baseline
+  ---
+  duration_ms: 10.582167
+  type: 'test'
+  ...
+# Subtest: scope guards reject ../ and output symlink; contract source cannot drift to another file
+ok 2 - scope guards reject ../ and output symlink; contract source cannot drift to another file
+  ---
+  duration_ms: 3.040625
+  type: 'test'
+  ...
+# Subtest: green real desktop/mobile, below-fold mapping; mutable inputs and evidence invalidate; repeated/partial resume
+ok 3 - green real desktop/mobile, below-fold mapping; mutable inputs and evidence invalidate; repeated/partial resume
+  ---
+  duration_ms: 5903.801125
+  type: 'test'
+  ...
+# Subtest: immutable snapshot renders old hashed bytes even if disk changes before browser launch
+ok 4 - immutable snapshot renders old hashed bytes even if disk changes before browser launch
+  ---
+  duration_ms: 1765.110166
+  type: 'test'
+  ...
+# fixture missing-logo: caught MAPPING_MISSING -> GREEN
+# fixture missing-real: caught MAPPING_MISSING -> GREEN
+# fixture missing-map: caught MAPPING_MISSING -> GREEN
+# fixture missing-social: caught MAPPING_MISSING -> GREEN
+# fixture missing-cta: caught MAPPING_MISSING -> GREEN
+# fixture broken-image: caught BROKEN_IMAGE -> GREEN
+# fixture chosen-srcset: caught BROKEN_IMAGE -> GREEN
+# fixture bad-background: caught BROKEN_IMAGE -> GREEN
+# fixture opacity: caught MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH -> GREEN
+# fixture zero-size: caught MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH -> GREEN
+# fixture occluded: caught MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH -> GREEN
+# fixture hidden-text: caught MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH -> GREEN
+# fixture mobile-only: caught HORIZONTAL_OVERFLOW -> GREEN
+# fixture hero: caught HERO_UNBOUNDED -> GREEN
+# fixture fake-form: caught FORM_OR_DATA_ENTRY -> GREEN
+# fixture internal: caught INTERNAL_OR_PLACEHOLDER_TEXT -> GREEN
+# fixture local-href: caught LOCAL_LINK_MISSING_OR_UNSUPPORTED -> GREEN
+# fixture json-dependency: caught LOCAL_RESOURCE_MISSING_OR_UNSUPPORTED -> GREEN
+# Subtest: red/green browser defect regressions return same-version repair, never auto redesign
+ok 5 - red/green browser defect regressions return same-version repair, never auto redesign
+  ---
+  duration_ms: 69730.918666
+  type: 'test'
+  ...
+# Subtest: pseudo-background hidden cannot cover image; visible background is UNKNOWN for paint review
+ok 6 - pseudo-background hidden cannot cover image; visible background is UNKNOWN for paint review
+  ---
+  duration_ms: 3781.995542
+  type: 'test'
+  ...
+# Subtest: automatic fetch/beacon/form/navigation remain blocked with explicit UNKNOWN report
+ok 7 - automatic fetch/beacon/form/navigation remain blocked with explicit UNKNOWN report
+  ---
+  duration_ms: 1260.717
+  type: 'test'
+  ...
+# Subtest: unknown hero is contract reconciliation only and never emits fake hero/CTA page defects
+ok 8 - unknown hero is contract reconciliation only and never emits fake hero/CTA page defects
+  ---
+  duration_ms: 1879.918583
+  type: 'test'
+  ...
+# Subtest: init excludes Markdown governance/header prose from baseline candidates
+ok 9 - init excludes Markdown governance/header prose from baseline candidates
+  ---
+  duration_ms: 1268.595792
+  type: 'test'
+  ...
+# Evidence suite: /Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-20-05-762Z
+# Subtest: init retains missing assets from source baseline, no DOM-derived natural green
+ok 10 - init retains missing assets from source baseline, no DOM-derived natural green
+  ---
+  duration_ms: 1195.30675
+  type: 'test'
+  ...
+1..10
+# tests 10
+# suites 0
+# pass 10
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 86843.217167

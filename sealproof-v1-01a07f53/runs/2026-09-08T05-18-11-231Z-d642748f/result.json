@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-08T05:18:17.081Z",
+  "owner": "01a07f53-995b-7342-9792-55f6ccf6c181",
+  "client": "SealProof",
+  "activeVersion": "demo-v1",
+  "inputHash": "4378f97a6dd6b4bffce512ccbc6ddc13426476bbca2b969b67a2ec803d10735d",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "1b6019d6fe7d14bc50c8927b611daa5e69566a51fc9d2f228e65a80c3a0dd227"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "9de1df8a4de72edacc6a[REDACTED_PHONE]ce03b616f74850ca929d78ade2ccba29e"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "55814649dee847fa7736d00ae68f9a065f145d45c46b73ccbcfbdeeeb860b36c"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "84ada2313f528da8b2c2f6f3341db1d88cdfea096c743f45a5cd839ac007fea1"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "f0a398f560f6f7fc5dde70d7bcecd067553c55e65d741d46a2ac1bbe870087dd"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "a3a25c66fa2bf261da6164cd64c7c6aa2c4ba3a674b9ae28c6ede43741eef89b"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "6fad2bc5bccd62b5ac44c4a50d24cc741fcf395315df43f1625e51aeb65d50e7"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "52ec13c7eb97d8c3b687cf984670c3fd4c6cd841b8815c0ea45b1dbc156c6b79"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "2a07d7bd56038d26ba5941bb78f9eeeaf639f475b60b172b2b6eabb0cdbae71c"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "954e6a4bc9350f08c9650b90d1bfafcd39f790c04c0a14d1d53fc5713c087b35"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "7357acd48c824a74a09e52618fb4cb66b3909920a12319c3329d63dc3e53d38e"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "2b33ed286b9bedaada887085ea4cb44e6e0416014d3991c439b57c925ad323ad"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "874b7364b9a35fe3798a1e92ea5feba2d6c7b750b74c165d710fb4070960efdd"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "ab46900ca5271725f624250664262556bd10f77d6542c5692a92afa46db46437"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "a8bcb0efd06c0e3c8e60b7b306e86f31a9281d93d79afb0ff2c966b31947bf32"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "e9f7f7a880e55f8550921007bfa98e7b3d9fff6d559de20d8416cca1e963474f"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

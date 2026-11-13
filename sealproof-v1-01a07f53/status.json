@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "01a07f53-995b-7342-9792-55f6ccf6c181",
+  "activeVersion": "demo-v1",
+  "inputHash": "4378f97a6dd6b4bffce512ccbc6ddc13426476bbca2b969b67a2ec803d10735d",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/sealproof-v1-01a07f53/runs/2026-09-08T05-18-11-231Z-d642748f/result.json",
+  "resultSha256": "69566d8b7df33b0354459cb1789a85ebc2c41a896ffa6a61a6a97c5ad818f5c6",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

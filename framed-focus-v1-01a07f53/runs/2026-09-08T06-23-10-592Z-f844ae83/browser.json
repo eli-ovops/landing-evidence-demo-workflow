@@ -1,0 +1,4965 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "facebook-15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero .facebook-15",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 691.46875,
+                "y": 122,
+                "width": 668.53125,
+                "height": 668.53125
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-15.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero .facebook-15",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 691.46875,
+              "y": 122,
+              "width": 668.53125,
+              "height": 668.53125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-15.jpg"
+            ]
+          }
+        },
+        {
+          "id": "facebook-6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#objects .facebook-6",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 968,
+                "y": 304.046875,
+                "width": 315,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-6.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#objects .facebook-6",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 968,
+              "y": 304.046875,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-6.jpg"
+            ]
+          }
+        },
+        {
+          "id": "facebook-8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#shirts .facebook-8",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 524,
+                "y": 304.046875,
+                "width": 315,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-8.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#shirts .facebook-8",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 304.046875,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-8.jpg"
+            ]
+          }
+        },
+        {
+          "id": "facebook-11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#closing .facebook-11",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 304.390625,
+                "width": 315,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-11.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#closing .facebook-11",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 304.390625,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-11.jpg"
+            ]
+          }
+        },
+        {
+          "id": "facebook-13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#artwork .facebook-13",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 304.046875,
+                "width": 315,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-13.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#artwork .facebook-13",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 304.046875,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-13.jpg"
+            ]
+          }
+        },
+        {
+          "id": "logo",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#header .logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 11.5,
+                "width": 56,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/logo.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#header .logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 11.5,
+              "width": 56,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/logo.jpg"
+            ]
+          }
+        },
+        {
+          "id": "identity",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 76,
+                "width": 1280,
+                "height": 771.578125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "BESPOKE PICTURE FRAMING Framing what matters. Art you love. Memories you keep. Made-to-measure framing in Billericay. Find your frame ↘ Artwork · Sports shirts · Objects View photo ↗ From the Framed Focus gallery Artwork & print framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hero",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 76,
+              "width": 1280,
+              "height": 771.578125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "BESPOKE PICTURE FRAMING Framing what matters. Art you love. Memories you keep. Made-to-measure framing in Billericay. Find your frame ↘ Artwork · Sports shirts · Objects View photo ↗ From the Framed Focus gallery Artwork & print framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "art-services",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#artwork",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 43.046875,
+                "width": 315,
+                "height": 865.859375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View photo ↗ Film poster framing Art, prints & photographs From a new print to a picture ready for a different frame. Examples include graffiti art with a lilac insert, a Belgian limited edition print and an original film poster. Have a photo and approximate width and height to hand. Mention any existing frame you want to change. Ask about your artwork ↗ Explore all framing services, including canvas stretching, mount cutting, certificates and embroidery.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#artwork",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 43.046875,
+              "width": 315,
+              "height": 865.859375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View photo ↗ Film poster framing Art, prints & photographs From a new print to a picture ready for a different frame. Examples include graffiti art with a lilac insert, a Belgian limited edition print and an original film poster. Have a photo and approximate width and height to hand. Mention any existing frame you want to change. Ask about your artwork ↗ Explore all framing services, including canvas stretching, mount cutting, certificates and embroidery.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sport-services",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#shirts",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 524,
+                "y": 78.046875,
+                "width": 315,
+                "height": 795.859375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View photo ↗ Signed shirt framing Shirts & medals Keep the memories of a match, a season or a personal milestone on show. Past work includes Arsenal, Spurs and Millwall shirts, a Di Canio reframe, signed golf flags and Formula 1 memorabilia. Say which side of the shirt you want to see, and whether there are medals or other items to include. Discuss your memorabilia ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#shirts",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 78.046875,
+              "width": 315,
+              "height": 795.859375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View photo ↗ Signed shirt framing Shirts & medals Keep the memories of a match, a season or a personal milestone on show. Past work includes Arsenal, Spurs and Millwall shirts, a Di Canio reframe, signed golf flags and Formula 1 memorabilia. Say which side of the shirt you want to see, and whether there are medals or other items to include. Discuss your memorabilia ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "box-services",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#objects",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 968,
+                "y": 113.046875,
+                "width": 315,
+                "height": 725.859375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View photo ↗ A display box on the workbench Objects & keepsakes Some things need more than a flat frame. Explore box framing and display ideas. Examples include vintage wooden printing blocks, Tower of London memorabilia and a Phil Collins × Swatch display case. Include the object's depth as well as its width and height, plus how you would like it to be seen. Talk through your object ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#objects",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 968,
+              "y": 113.046875,
+              "width": 315,
+              "height": 725.859375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View photo ↗ A display box on the workbench Objects & keepsakes Some things need more than a flat frame. Explore box framing and display ideas. Examples include vintage wooden printing blocks, Tower of London memorabilia and a Phil Collins × Swatch display case. Include the object's depth as well as its width and height, plus how you would like it to be seen. Talk through your object ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "phone",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 510.1875,
+                "y": 428.453125,
+                "width": 849.8125,
+                "height": 66.640625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07881 275088 ↗",
+              "actualHref": "tel:+447881275088",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 510.1875,
+              "y": 428.453125,
+              "width": 849.8125,
+              "height": 66.640625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07881 275088 ↗",
+            "actualHref": "tel:+447881275088",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "email",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 510.1875,
+                "y": 429.09375,
+                "width": 849.8125,
+                "height": 66.640625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 510.1875,
+              "y": 429.09375,
+              "width": 849.8125,
+              "height": 66.640625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "address",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 510.1875,
+                "y": 427.734375,
+                "width": 374.90625,
+                "height": 68.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "1 Beverley Rise Billericay, Essex CM11 2HU",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 510.1875,
+              "y": 427.734375,
+              "width": 374.90625,
+              "height": 68.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "1 Beverley Rise Billericay, Essex CM11 2HU",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "facebook",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#facebook",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 510.1875,
+                "y": 658.6875,
+                "width": 233.828125,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Explore more work on Facebook ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#facebook",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 510.1875,
+              "y": 658.6875,
+              "width": 233.828125,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Explore more work on Facebook ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "reviews",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 775,
+                "y": 438.390625,
+                "width": 220.625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read their experiences on Yell ↗",
+              "actualHref": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 775,
+              "y": 438.390625,
+              "width": 220.625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read their experiences on Yell ↗",
+            "actualHref": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "hours",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#visit-advice",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 910.09375,
+                "y": 452.734375,
+                "width": 449.90625,
+                "height": 18.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Please get in touch before visiting.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#visit-advice",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 910.09375,
+              "y": 452.734375,
+              "width": 449.90625,
+              "height": 18.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Please get in touch before visiting.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "process-tip",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#prepare",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 108.640625,
+                "width": 1440,
+                "height": 707
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Useful measurements Width of your piece Your piece Height For objects, add depth ↗ Measure the piece, not the space on the wall. Approximate dimensions are a useful starting point. Start with what you have. You don't need to have chosen a frame to get in touch. A few details help start the conversation. A clear photograph Show the whole piece, and any detail that matters to you. An idea of size Width and height for flat pieces. Add depth for objects. What you have in mind A new frame, a different look, or something to match an existing piece. Talk it through with Paul ↓",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#prepare",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 108.640625,
+              "width": 1440,
+              "height": 707
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Useful measurements Width of your piece Your piece Height For objects, add depth ↗ Measure the piece, not the space on the wall. Approximate dimensions are a useful starting point. Start with what you have. You don't need to have chosen a frame to get in touch. A few details help start the conversation. A clear photograph Show the whole piece, and any detail that matters to you. An idea of size Width and height for flat pieces. Add depth for objects. What you have in mind A new frame, a different look, or something to match an existing piece. Talk it through with Paul ↓",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "other-services",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#related",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 444.71875,
+                "width": 315,
+                "height": 34.09375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Explore all framing services, including canvas stretching, mount cutting, certificates and embroidery.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#related",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 444.71875,
+              "width": 315,
+              "height": 34.09375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Explore all framing services, including canvas stretching, mount cutting, certificates and embroidery.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-artwork-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#artwork-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 443.203125,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Artwork framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#artwork-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 443.203125,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Artwork framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-watercolour-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#watercolour-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 443.890625,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Watercolour framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#watercolour-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 443.890625,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Watercolour framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-limited-edition-print-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#limited-edition-print-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 443.578125,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Limited edition print framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#limited-edition-print-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 443.578125,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Limited edition print framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-poster-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#poster-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 443.265625,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Poster framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#poster-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 443.265625,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Poster framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-photo-frames",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#photo-frames",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 443.953125,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Photo frames",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#photo-frames",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 443.953125,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Photo frames",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-sports-memorabilia-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sports-memorabilia-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 524,
+                "y": 443.203125,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Sports memorabilia framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sports-memorabilia-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 443.203125,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Sports memorabilia framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-medal-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#medal-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 524,
+                "y": 443.890625,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Medal framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#medal-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 443.890625,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Medal framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-box-frames",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#box-frames",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 524,
+                "y": 443.578125,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Box frames",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#box-frames",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 443.578125,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Box frames",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-certificate-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#certificate-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 524,
+                "y": 443.265625,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Certificate framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#certificate-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 443.265625,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Certificate framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-embroidery-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#embroidery-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 524,
+                "y": 443.953125,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Embroidery framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#embroidery-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 443.953125,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Embroidery framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-bespoke-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#bespoke-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 968,
+                "y": 443.203125,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Bespoke framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#bespoke-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 968,
+              "y": 443.203125,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Bespoke framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-canvas-stretching",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#canvas-stretching",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 968,
+                "y": 443.890625,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Canvas stretching",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#canvas-stretching",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 968,
+              "y": 443.890625,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Canvas stretching",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-mount-cutting",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#mount-cutting",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 968,
+                "y": 443.578125,
+                "width": 392,
+                "height": 36.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Mount cutting",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#mount-cutting",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 968,
+              "y": 443.578125,
+              "width": 392,
+              "height": 36.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Mount cutting",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-about",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#about",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 334.4375,
+                "width": 315,
+                "height": 255.15625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Framing in Billericay since 2000. A bespoke service for art, photographs and memorabilia, with care for the details that make each piece personal. Browse the Facebook photo gallery ↗More framing examples on Yell ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#about",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 334.4375,
+              "width": 315,
+              "height": 255.15625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Framing in Billericay since 2000. A bespoke service for art, photographs and memorabilia, with care for the details that make each piece personal. Browse the Facebook photo gallery ↗More framing examples on Yell ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-opening-hours",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#opening-hours",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 510.1875,
+                "y": 412.328125,
+                "width": 849.8125,
+                "height": 236.359375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Listed opening hours Monday–Saturday 10:00–17:00 Sunday Closed Hours on Yell ↗ · Please call before making a special journey. Payment options listed: bank transfer, cash and credit cards. Please confirm arrangements with Paul.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#opening-hours",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 510.1875,
+              "y": 412.328125,
+              "width": 849.8125,
+              "height": 236.359375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Listed opening hours Monday–Saturday 10:00–17:00 Sunday Closed Hours on Yell ↗ · Please call before making a special journey. Payment options listed: bank transfer, cash and credit cards. Please confirm arrangements with Paul.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-payment-methods",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#payment-methods",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 510.1875,
+                "y": 600.09375,
+                "width": 849.8125,
+                "height": 18.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Payment options listed: bank transfer, cash and credit cards. Please confirm arrangements with Paul.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#payment-methods",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 510.1875,
+              "y": 600.09375,
+              "width": 849.8125,
+              "height": 18.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Payment options listed: bank transfer, cash and credit cards. Please confirm arrangements with Paul.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-yell-enquiry",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#yell-enquiry",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 510.1875,
+                "y": 434.015625,
+                "width": 277.9375,
+                "height": 55.25
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Send an enquiry on Yell ↗",
+              "actualHref": "https://www.yell.com/customerneeds/sendenquiry/sendtoone/100040998079000020",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#yell-enquiry",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 510.1875,
+              "y": 434.015625,
+              "width": 277.9375,
+              "height": 55.25
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Send an enquiry on Yell ↗",
+            "actualHref": "https://www.yell.com/customerneeds/sendenquiry/sendtoone/100040998079000020",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-write-review",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#write-review",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 775,
+                "y": 440.390625,
+                "width": 174.78125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Share your experience on Yell ↗",
+              "actualHref": "https://www.yell.com/reviews/places/addreview/id/framed-focus-billericay-2174145",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#write-review",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 775,
+              "y": 440.390625,
+              "width": 174.78125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Share your experience on Yell ↗",
+            "actualHref": "https://www.yell.com/reviews/places/addreview/id/framed-focus-billericay-2174145",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-facebook-reviews",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#facebook-reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 971.78125,
+                "y": 440.390625,
+                "width": 166.75,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Facebook recommendations ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/reviews",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#facebook-reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 971.78125,
+              "y": 440.390625,
+              "width": 166.75,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Facebook recommendations ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/reviews",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-all-photos",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#all-photos",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 437.59375,
+                "width": 218.046875,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Browse the Facebook photo gallery ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/photos",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#all-photos",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 437.59375,
+              "width": 218.046875,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Browse the Facebook photo gallery ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/photos",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-yell-gallery",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#yell-gallery",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 437.59375,
+                "width": 191.1875,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "More framing examples on Yell ↗",
+              "actualHref": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#yell-gallery",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 437.59375,
+              "width": 191.1875,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "More framing examples on Yell ↗",
+            "actualHref": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-artwork-examples",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#artwork-examples",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 443.0625,
+                "width": 315,
+                "height": 38.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Examples include graffiti art with a lilac insert, a Belgian limited edition print and an original film poster.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#artwork-examples",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 443.0625,
+              "width": 315,
+              "height": 38.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Examples include graffiti art with a lilac insert, a Belgian limited edition print and an original film poster.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-sport-examples",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sport-examples",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 524,
+                "y": 433.0625,
+                "width": 315,
+                "height": 57.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Past work includes Arsenal, Spurs and Millwall shirts, a Di Canio reframe, signed golf flags and Formula 1 memorabilia.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sport-examples",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 433.0625,
+              "width": 315,
+              "height": 57.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Past work includes Arsenal, Spurs and Millwall shirts, a Di Canio reframe, signed golf flags and Formula 1 memorabilia.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-object-examples",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#object-examples",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 968,
+                "y": 433.0625,
+                "width": 315,
+                "height": 57.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Examples include vintage wooden printing blocks, Tower of London memorabilia and a Phil Collins × Swatch display case.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#object-examples",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 968,
+              "y": 433.0625,
+              "width": 315,
+              "height": 57.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Examples include vintage wooden printing blocks, Tower of London memorabilia and a Phil Collins × Swatch display case.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-case-stories",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-stories",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 437.640625,
+                "width": 320.046875,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "See these projects and their stories on Facebook ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-stories",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 437.640625,
+              "width": 320.046875,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "See these projects and their stories on Facebook ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-whatsapp",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#whatsapp",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 510.1875,
+                "y": 438.453125,
+                "width": 132.890625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Chat on WhatsApp ↗",
+              "actualHref": "https://wa.me/447881275088",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#whatsapp",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 510.1875,
+              "y": 438.453125,
+              "width": 132.890625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Chat on WhatsApp ↗",
+            "actualHref": "https://wa.me/447881275088",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-facebook-message",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#facebook-message",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 667.078125,
+                "y": 438.453125,
+                "width": 179.859375,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Contact Paul on Facebook ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#facebook-message",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 667.078125,
+              "y": 438.453125,
+              "width": 179.859375,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Contact Paul on Facebook ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/",
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/logo.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 11.5,
+              "width": 56,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 480,
+          "height": 480
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-15.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 691.46875,
+              "y": 122,
+              "width": 668.53125,
+              "height": 668.53125
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-13.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 304.046875,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 315,
+          "height": 315
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-8.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 524,
+              "y": 304.046875,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 315,
+          "height": 315
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-6.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 968,
+              "y": 304.046875,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 315,
+          "height": 315
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-11.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 304.390625,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 315,
+          "height": 315
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Framed Focus Billericay, Essex"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "The work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#service-directory",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#work",
+          "text": "Find your frame ↘"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-15.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#artwork",
+          "text": "Artwork & prints ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#shirts",
+          "text": "Shirts & medals ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#objects",
+          "text": "Objects & keepsakes ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-13.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "#art-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Artwork%20framing%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20framing%20my%20artwork.%0APiece%20type%3A%0AApproximate%20width%20and%20height%3A%0AExisting%20frame%20or%20display%20preference%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Ask about your artwork ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "#service-directory",
+          "text": "all framing services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-8.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "#shirt-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Shirt%20or%20medal%20framing%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20framing%20a%20shirt%20or%20medal.%0AItem%3A%0ASide%20to%20display%3A%0AOther%20items%20to%20include%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Discuss your memorabilia ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-6.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "#object-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Object%20display%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20displaying%20an%20object.%0AObject%3A%0AApproximate%20width%2C%20height%20and%20depth%3A%0ADisplay%20preference%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Talk through your object ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#artwork",
+          "text": "Explore artwork framing ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#objects",
+          "text": "Explore object framing ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your framing needs ↗"
+        },
+        {
+          "selector": "#case-stories",
+          "href": "https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l",
+          "text": "See these projects and their stories on Facebook ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Talk it through with Paul ↓"
+        },
+        {
+          "selector": "#reviews",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "Read their experiences on Yell ↗"
+        },
+        {
+          "selector": "#write-review",
+          "href": "https://www.yell.com/reviews/places/addreview/id/framed-focus-billericay-2174145",
+          "text": "Share your experience on Yell ↗"
+        },
+        {
+          "selector": "#facebook-reviews",
+          "href": "https://www.facebook.com/Billericayframedfocus/reviews",
+          "text": "Facebook recommendations ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-11.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "#all-photos",
+          "href": "https://www.facebook.com/Billericayframedfocus/photos",
+          "text": "Browse the Facebook photo gallery ↗"
+        },
+        {
+          "selector": "#yell-gallery",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "More framing examples on Yell ↗"
+        },
+        {
+          "selector": "#yell-enquiry",
+          "href": "https://www.yell.com/customerneeds/sendenquiry/sendtoone/100040998079000020",
+          "text": "Send an enquiry on Yell ↗"
+        },
+        {
+          "selector": "#whatsapp",
+          "href": "https://wa.me/447881275088",
+          "text": "Chat on WhatsApp ↗"
+        },
+        {
+          "selector": "#facebook-message",
+          "href": "https://www.facebook.com/Billericayframedfocus/",
+          "text": "Contact Paul on Facebook ↗"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:+447881275088",
+          "text": "07881 275088 ↗"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#map",
+          "href": "https://www.google.com/maps/search/?api=1&query=1%20Beverley%20Rise%20Billericay%20CM11%202HU",
+          "text": "View the address on Maps ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(4) > p:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "Hours on Yell ↗"
+        },
+        {
+          "selector": "#facebook",
+          "href": "https://www.facebook.com/Billericayframedfocus/",
+          "text": "Explore more work on Facebook ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/logo.jpg"
+          ],
+          "section": "header",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-15.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-13.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-8.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-6.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-11.jpg"
+          ],
+          "section": "closing",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-15.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-15.jpg",
+          "text": "View photo ↗",
+          "section": "hero"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-13.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-13.jpg",
+          "text": "View photo ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#art-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Artwork%20framing%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20framing%20my%20artwork.%0APiece%20type%3A%0AApproximate%20width%20and%20height%3A%0AExisting%20frame%20or%20display%20preference%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Ask about your artwork ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-8.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-8.jpg",
+          "text": "View photo ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#shirt-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Shirt%20or%20medal%20framing%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20framing%20a%20shirt%20or%20medal.%0AItem%3A%0ASide%20to%20display%3A%0AOther%20items%20to%20include%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Discuss your memorabilia ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-6.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-6.jpg",
+          "text": "View photo ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#object-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Object%20display%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20displaying%20an%20object.%0AObject%3A%0AApproximate%20width%2C%20height%20and%20depth%3A%0ADisplay%20preference%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Talk through your object ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#case-stories",
+          "href": "https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l",
+          "text": "See these projects and their stories on Facebook ↗",
+          "section": "service-directory"
+        },
+        {
+          "kind": "path",
+          "selector": "#reviews",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "Read their experiences on Yell ↗",
+          "section": "proof"
+        },
+        {
+          "kind": "path",
+          "selector": "#write-review",
+          "href": "https://www.yell.com/reviews/places/addreview/id/framed-focus-billericay-2174145",
+          "text": "Share your experience on Yell ↗",
+          "section": "proof"
+        },
+        {
+          "kind": "path",
+          "selector": "#facebook-reviews",
+          "href": "https://www.facebook.com/Billericayframedfocus/reviews",
+          "text": "Facebook recommendations ↗",
+          "section": "proof"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-11.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-11.jpg",
+          "text": "View photo ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#all-photos",
+          "href": "https://www.facebook.com/Billericayframedfocus/photos",
+          "text": "Browse the Facebook photo gallery ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#yell-gallery",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "More framing examples on Yell ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#yell-enquiry",
+          "href": "https://www.yell.com/customerneeds/sendenquiry/sendtoone/100040998079000020",
+          "text": "Send an enquiry on Yell ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#whatsapp",
+          "href": "https://wa.me/447881275088",
+          "text": "Chat on WhatsApp ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#facebook-message",
+          "href": "https://www.facebook.com/Billericayframedfocus/",
+          "text": "Contact Paul on Facebook ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:+447881275088",
+          "text": "07881 275088 ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#map",
+          "href": "https://www.google.com/maps/search/?api=1&query=1%20Beverley%20Rise%20Billericay%20CM11%202HU",
+          "text": "View the address on Maps ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(4) > p:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "Hours on Yell ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#facebook",
+          "href": "https://www.facebook.com/Billericayframedfocus/",
+          "text": "Explore more work on Facebook ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Framing what matters.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "#work-title",
+          "text": "A frame for your kind of story.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Art, prints & photographs",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Shirts & medals",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Objects & keepsakes",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "More ways to frame your piece.",
+          "section": "service-directory"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Art & photography",
+          "section": "service-directory"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Objects & achievements",
+          "section": "service-directory"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Frames & finishing",
+          "section": "service-directory"
+        },
+        {
+          "kind": "fact",
+          "selector": "#prepare-title",
+          "text": "Start with what you have.",
+          "section": "prepare"
+        },
+        {
+          "kind": "fact",
+          "selector": "#proof-title",
+          "text": "The work. The word of customers.",
+          "section": "proof"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Framing in Billericay since 2000.",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What would you like to frame?",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "#address",
+          "text": "1 Beverley Rise Billericay, Essex CM11 2HU",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(4) > h3:nth-of-type(1)",
+          "text": "Listed opening hours",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "#viewer-title",
+          "text": "Framing photograph",
+          "section": "content"
+        }
+      ],
+      "width": 1440,
+      "height": 5143
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "facebook-15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero .facebook-15",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 260.75,
+                "width": 346,
+                "height": 346
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-15.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero .facebook-15",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 260.75,
+              "width": 346,
+              "height": 346
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-15.jpg"
+            ]
+          }
+        },
+        {
+          "id": "facebook-6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#objects .facebook-6",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 37.5,
+                "y": 276.953125,
+                "width": 315,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-6.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#objects .facebook-6",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 276.953125,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-6.jpg"
+            ]
+          }
+        },
+        {
+          "id": "facebook-8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#shirts .facebook-8",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 37.5,
+                "y": 276.71875,
+                "width": 315,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-8.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#shirts .facebook-8",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 276.71875,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-8.jpg"
+            ]
+          }
+        },
+        {
+          "id": "facebook-11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#closing .facebook-11",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 37.5,
+                "y": 276.15625,
+                "width": 315,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-11.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#closing .facebook-11",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 276.15625,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-11.jpg"
+            ]
+          }
+        },
+        {
+          "id": "facebook-13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#artwork .facebook-13",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 37.5,
+                "y": 276.140625,
+                "width": 315,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/facebook-13.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#artwork .facebook-13",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 276.140625,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/facebook-13.jpg"
+            ]
+          }
+        },
+        {
+          "id": "logo",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#header .logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 14.5,
+                "width": 46,
+                "height": 46
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/logo.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#header .logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 14.5,
+              "width": 46,
+              "height": 46
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/logo.jpg"
+            ]
+          }
+        },
+        {
+          "id": "identity",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 66,
+                "width": 346,
+                "height": 735.25
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "BESPOKE PICTURE FRAMING Framing what matters. Art you love. Memories you keep. Made-to-measure framing in Billericay. Find your frame ↘ View photo ↗ From the Framed Focus gallery Artwork & print framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hero",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 66,
+              "width": 346,
+              "height": 735.25
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "BESPOKE PICTURE FRAMING Framing what matters. Art you love. Memories you keep. Made-to-measure framing in Billericay. Find your frame ↘ View photo ↗ From the Framed Focus gallery Artwork & print framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "art-services",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#artwork",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 71.140625,
+                "width": 346,
+                "height": 754.578125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View photo ↗ Film poster framing Art, prints & photographs From a new print to a picture ready for a different frame. Examples include graffiti art with a lilac insert, a Belgian limited edition print and an original film poster. Have a photo and approximate width and height to hand. Mention any existing frame you want to change. Ask about your artwork ↗ Explore all framing services, including canvas stretching, mount cutting, certificates and embroidery.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#artwork",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 71.140625,
+              "width": 346,
+              "height": 754.578125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View photo ↗ Film poster framing Art, prints & photographs From a new print to a picture ready for a different frame. Examples include graffiti art with a lilac insert, a Belgian limited edition print and an original film poster. Have a photo and approximate width and height to hand. Mention any existing frame you want to change. Ask about your artwork ↗ Explore all framing services, including canvas stretching, mount cutting, certificates and embroidery.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "sport-services",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#shirts",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 117.71875,
+                "width": 346,
+                "height": 660.234375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View photo ↗ Signed shirt framing Shirts & medals Keep the memories of a match, a season or a personal milestone on show. Past work includes Arsenal, Spurs and Millwall shirts, a Di Canio reframe, signed golf flags and Formula 1 memorabilia. Say which side of the shirt you want to see, and whether there are medals or other items to include. Discuss your memorabilia ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#shirts",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 117.71875,
+              "width": 346,
+              "height": 660.234375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View photo ↗ Signed shirt framing Shirts & medals Keep the memories of a match, a season or a personal milestone on show. Past work includes Arsenal, Spurs and Millwall shirts, a Di Canio reframe, signed golf flags and Formula 1 memorabilia. Say which side of the shirt you want to see, and whether there are medals or other items to include. Discuss your memorabilia ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "box-services",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#objects",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 91.953125,
+                "width": 346,
+                "height": 712.578125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View photo ↗ A display box on the workbench Objects & keepsakes Some things need more than a flat frame. Explore box framing and display ideas. Examples include vintage wooden printing blocks, Tower of London memorabilia and a Phil Collins × Swatch display case. Include the object's depth as well as its width and height, plus how you would like it to be seen. Talk through your object ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#objects",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 91.953125,
+              "width": 346,
+              "height": 712.578125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View photo ↗ A display box on the workbench Objects & keepsakes Some things need more than a flat frame. Explore box framing and display ideas. Examples include vintage wooden printing blocks, Tower of London memorabilia and a Phil Collins × Swatch display case. Include the object's depth as well as its width and height, plus how you would like it to be seen. Talk through your object ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "phone",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 405.484375,
+                "width": 346,
+                "height": 57.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07881 275088 ↗",
+              "actualHref": "tel:+447881275088",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 405.484375,
+              "width": 346,
+              "height": 57.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07881 275088 ↗",
+            "actualHref": "tel:+447881275088",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "email",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 404.828125,
+                "width": 346,
+                "height": 57.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 404.828125,
+              "width": 346,
+              "height": 57.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "address",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#address",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 414.171875,
+                "width": 346,
+                "height": 40.28125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "1 Beverley Rise Billericay, Essex CM11 2HU",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#address",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 414.171875,
+              "width": 346,
+              "height": 40.28125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "1 Beverley Rise Billericay, Essex CM11 2HU",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "facebook",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#facebook",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 643.453125,
+                "width": 233.828125,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Explore more work on Facebook ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#facebook",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 643.453125,
+              "width": 233.828125,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Explore more work on Facebook ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "reviews",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 410.15625,
+                "width": 220.625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read their experiences on Yell ↗",
+              "actualHref": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 410.15625,
+              "width": 220.625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read their experiences on Yell ↗",
+            "actualHref": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "hours",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#visit-advice",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 423.453125,
+                "width": 346,
+                "height": 20.140625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Please get in touch before visiting.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#visit-advice",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 423.453125,
+              "width": 346,
+              "height": 20.140625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Please get in touch before visiting.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "process-tip",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#prepare",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -124.96875,
+                "width": 390,
+                "height": 1118.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Useful measurements Width of your piece Your piece Height For objects, add depth ↗ Measure the piece, not the space on the wall. Approximate dimensions are a useful starting point. Start with what you have. You don't need to have chosen a frame to get in touch. A few details help start the conversation. A clear photograph Show the whole piece, and any detail that matters to you. An idea of size Width and height for flat pieces. Add depth for objects. What you have in mind A new frame, a different look, or something to match an existing piece. Talk it through with Paul ↓",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#prepare",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -124.96875,
+              "width": 390,
+              "height": 1118.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Useful measurements Width of your piece Your piece Height For objects, add depth ↗ Measure the piece, not the space on the wall. Approximate dimensions are a useful starting point. Start with what you have. You don't need to have chosen a frame to get in touch. A few details help start the conversation. A clear photograph Show the whole piece, and any detail that matters to you. An idea of size Width and height for flat pieces. Add depth for objects. What you have in mind A new frame, a different look, or something to match an existing piece. Talk it through with Paul ↓",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "other-services",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#related",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 415.53125,
+                "width": 330,
+                "height": 37.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Explore all framing services, including canvas stretching, mount cutting, certificates and embroidery.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#related",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 415.53125,
+              "width": 330,
+              "height": 37.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Explore all framing services, including canvas stretching, mount cutting, certificates and embroidery.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-artwork-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#artwork-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 417.03125,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Artwork framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#artwork-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 417.03125,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Artwork framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-watercolour-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#watercolour-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.71875,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Watercolour framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#watercolour-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.71875,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Watercolour framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-limited-edition-print-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#limited-edition-print-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.40625,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Limited edition print framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#limited-edition-print-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.40625,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Limited edition print framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-poster-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#poster-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 417.09375,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Poster framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#poster-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 417.09375,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Poster framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-photo-frames",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#photo-frames",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.78125,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Photo frames",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#photo-frames",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.78125,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Photo frames",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-sports-memorabilia-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sports-memorabilia-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 417,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Sports memorabilia framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sports-memorabilia-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 417,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Sports memorabilia framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-medal-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#medal-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.6875,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Medal framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#medal-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.6875,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Medal framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-box-frames",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#box-frames",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.375,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Box frames",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#box-frames",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.375,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Box frames",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-certificate-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#certificate-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 417.0625,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Certificate framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#certificate-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 417.0625,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Certificate framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-embroidery-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#embroidery-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.75,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Embroidery framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#embroidery-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.75,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Embroidery framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-bespoke-framing",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#bespoke-framing",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.96875,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Bespoke framing",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#bespoke-framing",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.96875,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Bespoke framing",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-canvas-stretching",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#canvas-stretching",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.65625,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Canvas stretching",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#canvas-stretching",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.65625,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Canvas stretching",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-mount-cutting",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#mount-cutting",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 416.34375,
+                "width": 346,
+                "height": 34.6875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Mount cutting",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#mount-cutting",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 416.34375,
+              "width": 346,
+              "height": 34.6875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Mount cutting",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-about",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#about",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 37.5,
+                "y": 309.203125,
+                "width": 315,
+                "height": 250.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Framing in Billericay since 2000. A bespoke service for art, photographs and memorabilia, with care for the details that make each piece personal. Browse the Facebook photo gallery ↗More framing examples on Yell ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#about",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 309.203125,
+              "width": 315,
+              "height": 250.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Framing in Billericay since 2000. A bespoke service for art, photographs and memorabilia, with care for the details that make each piece personal. Browse the Facebook photo gallery ↗More framing examples on Yell ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-opening-hours",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#opening-hours",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 381.59375,
+                "width": 346,
+                "height": 251.859375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Listed opening hours Monday–Saturday 10:00–17:00 Sunday Closed Hours on Yell ↗ · Please call before making a special journey. Payment options listed: bank transfer, cash and credit cards. Please confirm arrangements with Paul.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#opening-hours",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 381.59375,
+              "width": 346,
+              "height": 251.859375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Listed opening hours Monday–Saturday 10:00–17:00 Sunday Closed Hours on Yell ↗ · Please call before making a special journey. Payment options listed: bank transfer, cash and credit cards. Please confirm arrangements with Paul.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-payment-methods",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#payment-methods",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 566.265625,
+                "width": 346,
+                "height": 37.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Payment options listed: bank transfer, cash and credit cards. Please confirm arrangements with Paul.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#payment-methods",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 566.265625,
+              "width": 346,
+              "height": 37.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Payment options listed: bank transfer, cash and credit cards. Please confirm arrangements with Paul.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-yell-enquiry",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#yell-enquiry",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 409.296875,
+                "width": 229.671875,
+                "height": 50
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Send an enquiry on Yell ↗",
+              "actualHref": "https://www.yell.com/customerneeds/sendenquiry/sendtoone/100040998079000020",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#yell-enquiry",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 409.296875,
+              "width": 229.671875,
+              "height": 50
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Send an enquiry on Yell ↗",
+            "actualHref": "https://www.yell.com/customerneeds/sendenquiry/sendtoone/100040998079000020",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-write-review",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#write-review",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 412.15625,
+                "width": 174.78125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Share your experience on Yell ↗",
+              "actualHref": "https://www.yell.com/reviews/places/addreview/id/framed-focus-billericay-2174145",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#write-review",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 412.15625,
+              "width": 174.78125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Share your experience on Yell ↗",
+            "actualHref": "https://www.yell.com/reviews/places/addreview/id/framed-focus-billericay-2174145",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-facebook-reviews",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#facebook-reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 412.15625,
+                "width": 166.75,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Facebook recommendations ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/reviews",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#facebook-reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 412.15625,
+              "width": 166.75,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Facebook recommendations ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/reviews",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-all-photos",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#all-photos",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 37.5,
+                "y": 409.765625,
+                "width": 218.046875,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Browse the Facebook photo gallery ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/photos",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#all-photos",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 409.765625,
+              "width": 218.046875,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Browse the Facebook photo gallery ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/photos",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-yell-gallery",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#yell-gallery",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 37.5,
+                "y": 409.765625,
+                "width": 191.1875,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "More framing examples on Yell ↗",
+              "actualHref": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#yell-gallery",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 409.765625,
+              "width": 191.1875,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "More framing examples on Yell ↗",
+            "actualHref": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-artwork-examples",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#artwork-examples",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 414.875,
+                "width": 330,
+                "height": 38.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Examples include graffiti art with a lilac insert, a Belgian limited edition print and an original film poster.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#artwork-examples",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 414.875,
+              "width": 330,
+              "height": 38.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Examples include graffiti art with a lilac insert, a Belgian limited edition print and an original film poster.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-sport-examples",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#sport-examples",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 415.296875,
+                "width": 330,
+                "height": 38.375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Past work includes Arsenal, Spurs and Millwall shirts, a Di Canio reframe, signed golf flags and Formula 1 memorabilia.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#sport-examples",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 415.296875,
+              "width": 330,
+              "height": 38.375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Past work includes Arsenal, Spurs and Millwall shirts, a Di Canio reframe, signed golf flags and Formula 1 memorabilia.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-object-examples",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#object-examples",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 405.6875,
+                "width": 330,
+                "height": 57.5625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Examples include vintage wooden printing blocks, Tower of London memorabilia and a Phil Collins × Swatch display case.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#object-examples",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 405.6875,
+              "width": 330,
+              "height": 57.5625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Examples include vintage wooden printing blocks, Tower of London memorabilia and a Phil Collins × Swatch display case.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-case-stories",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#case-stories",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 410.03125,
+                "width": 320.046875,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "See these projects and their stories on Facebook ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#case-stories",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 410.03125,
+              "width": 320.046875,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "See these projects and their stories on Facebook ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-whatsapp",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#whatsapp",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 410.484375,
+                "width": 132.890625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Chat on WhatsApp ↗",
+              "actualHref": "https://wa.me/447881275088",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#whatsapp",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 410.484375,
+              "width": 132.890625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Chat on WhatsApp ↗",
+            "actualHref": "https://wa.me/447881275088",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "FR-facebook-message",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#facebook-message",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 178.890625,
+                "y": 410.484375,
+                "width": 179.859375,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Contact Paul on Facebook ↗",
+              "actualHref": "https://www.facebook.com/Billericayframedfocus/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#facebook-message",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 178.890625,
+              "y": 410.484375,
+              "width": 179.859375,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Contact Paul on Facebook ↗",
+            "actualHref": "https://www.facebook.com/Billericayframedfocus/",
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/logo.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 14.5,
+              "width": 46,
+              "height": 46
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 480,
+          "height": 480
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-15.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 260.75,
+              "width": 346,
+              "height": 346
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-13.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 276.140625,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 315,
+          "height": 315
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-8.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 276.71875,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 315,
+          "height": 315
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-6.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 276.953125,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 315,
+          "height": 315
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/facebook-11.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 37.5,
+              "y": 276.15625,
+              "width": 315,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 315,
+          "height": 315
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Framed Focus Billericay, Essex"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "The work"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#service-directory",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Get in touch ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "#work",
+          "text": "Find your frame ↘"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-15.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#artwork",
+          "text": "Artwork & prints ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#shirts",
+          "text": "Shirts & medals ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#objects",
+          "text": "Objects & keepsakes ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-13.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "#art-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Artwork%20framing%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20framing%20my%20artwork.%0APiece%20type%3A%0AApproximate%20width%20and%20height%3A%0AExisting%20frame%20or%20display%20preference%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Ask about your artwork ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(4) > a:nth-of-type(1)",
+          "href": "#service-directory",
+          "text": "all framing services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-8.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "#shirt-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Shirt%20or%20medal%20framing%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20framing%20a%20shirt%20or%20medal.%0AItem%3A%0ASide%20to%20display%3A%0AOther%20items%20to%20include%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Discuss your memorabilia ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-6.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "#object-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Object%20display%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20displaying%20an%20object.%0AObject%3A%0AApproximate%20width%2C%20height%20and%20depth%3A%0ADisplay%20preference%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Talk through your object ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#artwork",
+          "text": "Explore artwork framing ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#objects",
+          "text": "Explore object framing ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Discuss your framing needs ↗"
+        },
+        {
+          "selector": "#case-stories",
+          "href": "https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l",
+          "text": "See these projects and their stories on Facebook ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "Talk it through with Paul ↓"
+        },
+        {
+          "selector": "#reviews",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "Read their experiences on Yell ↗"
+        },
+        {
+          "selector": "#write-review",
+          "href": "https://www.yell.com/reviews/places/addreview/id/framed-focus-billericay-2174145",
+          "text": "Share your experience on Yell ↗"
+        },
+        {
+          "selector": "#facebook-reviews",
+          "href": "https://www.facebook.com/Billericayframedfocus/reviews",
+          "text": "Facebook recommendations ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-11.jpg",
+          "text": "View photo ↗"
+        },
+        {
+          "selector": "#all-photos",
+          "href": "https://www.facebook.com/Billericayframedfocus/photos",
+          "text": "Browse the Facebook photo gallery ↗"
+        },
+        {
+          "selector": "#yell-gallery",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "More framing examples on Yell ↗"
+        },
+        {
+          "selector": "#yell-enquiry",
+          "href": "https://www.yell.com/customerneeds/sendenquiry/sendtoone/100040998079000020",
+          "text": "Send an enquiry on Yell ↗"
+        },
+        {
+          "selector": "#whatsapp",
+          "href": "https://wa.me/447881275088",
+          "text": "Chat on WhatsApp ↗"
+        },
+        {
+          "selector": "#facebook-message",
+          "href": "https://www.facebook.com/Billericayframedfocus/",
+          "text": "Contact Paul on Facebook ↗"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:+447881275088",
+          "text": "07881 275088 ↗"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#map",
+          "href": "https://www.google.com/maps/search/?api=1&query=1%20Beverley%20Rise%20Billericay%20CM11%202HU",
+          "text": "View the address on Maps ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(4) > p:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "Hours on Yell ↗"
+        },
+        {
+          "selector": "#facebook",
+          "href": "https://www.facebook.com/Billericayframedfocus/",
+          "text": "Explore more work on Facebook ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/logo.jpg"
+          ],
+          "section": "header",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-15.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-13.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-8.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-6.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/facebook-11.jpg"
+          ],
+          "section": "closing",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-15.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-15.jpg",
+          "text": "View photo ↗",
+          "section": "hero"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-13.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-13.jpg",
+          "text": "View photo ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#art-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Artwork%20framing%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20framing%20my%20artwork.%0APiece%20type%3A%0AApproximate%20width%20and%20height%3A%0AExisting%20frame%20or%20display%20preference%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Ask about your artwork ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-8.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-8.jpg",
+          "text": "View photo ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#shirt-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Shirt%20or%20medal%20framing%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20framing%20a%20shirt%20or%20medal.%0AItem%3A%0ASide%20to%20display%3A%0AOther%20items%20to%20include%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Discuss your memorabilia ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-6.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-6.jpg",
+          "text": "View photo ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#object-enquiry",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Object%20display%20enquiry&body=Hi%20Paul%2C%0A%0AI%27d%20like%20to%20discuss%20displaying%20an%20object.%0AObject%3A%0AApproximate%20width%2C%20height%20and%20depth%3A%0ADisplay%20preference%3A%0A%0AI%20can%20attach%20a%20photo.",
+          "text": "Talk through your object ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "#case-stories",
+          "href": "https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l",
+          "text": "See these projects and their stories on Facebook ↗",
+          "section": "service-directory"
+        },
+        {
+          "kind": "path",
+          "selector": "#reviews",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "Read their experiences on Yell ↗",
+          "section": "proof"
+        },
+        {
+          "kind": "path",
+          "selector": "#write-review",
+          "href": "https://www.yell.com/reviews/places/addreview/id/framed-focus-billericay-2174145",
+          "text": "Share your experience on Yell ↗",
+          "section": "proof"
+        },
+        {
+          "kind": "path",
+          "selector": "#facebook-reviews",
+          "href": "https://www.facebook.com/Billericayframedfocus/reviews",
+          "text": "Facebook recommendations ↗",
+          "section": "proof"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/assets/facebook-11.jpg",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "assets/facebook-11.jpg",
+          "text": "View photo ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#all-photos",
+          "href": "https://www.facebook.com/Billericayframedfocus/photos",
+          "text": "Browse the Facebook photo gallery ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#yell-gallery",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "More framing examples on Yell ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#yell-enquiry",
+          "href": "https://www.yell.com/customerneeds/sendenquiry/sendtoone/100040998079000020",
+          "text": "Send an enquiry on Yell ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#whatsapp",
+          "href": "https://wa.me/447881275088",
+          "text": "Chat on WhatsApp ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#facebook-message",
+          "href": "https://www.facebook.com/Billericayframedfocus/",
+          "text": "Contact Paul on Facebook ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:+447881275088",
+          "text": "07881 275088 ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#map",
+          "href": "https://www.google.com/maps/search/?api=1&query=1%20Beverley%20Rise%20Billericay%20CM11%202HU",
+          "text": "View the address on Maps ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(4) > p:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+          "text": "Hours on Yell ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "path",
+          "selector": "#facebook",
+          "href": "https://www.facebook.com/Billericayframedfocus/",
+          "text": "Explore more work on Facebook ↗",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Framing what matters.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "#work-title",
+          "text": "A frame for your kind of story.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Art, prints & photographs",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Shirts & medals",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Objects & keepsakes",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "More ways to frame your piece.",
+          "section": "service-directory"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Art & photography",
+          "section": "service-directory"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Objects & achievements",
+          "section": "service-directory"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Frames & finishing",
+          "section": "service-directory"
+        },
+        {
+          "kind": "fact",
+          "selector": "#prepare-title",
+          "text": "Start with what you have.",
+          "section": "prepare"
+        },
+        {
+          "kind": "fact",
+          "selector": "#proof-title",
+          "text": "The work. The word of customers.",
+          "section": "proof"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > figure:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Framing in Billericay since 2000.",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What would you like to frame?",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "#address",
+          "text": "1 Beverley Rise Billericay, Essex CM11 2HU",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(4) > h3:nth-of-type(1)",
+          "text": "Listed opening hours",
+          "section": "closing"
+        },
+        {
+          "kind": "fact",
+          "selector": "#viewer-title",
+          "text": "Framing photograph",
+          "section": "content"
+        }
+      ],
+      "width": 390,
+      "height": 8012
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

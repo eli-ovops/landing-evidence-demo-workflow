@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "client": "source filter",
+  "owner": "fixture-owner",
+  "activeVersion": "active",
+  "currentEvidence": "isolated source fixture",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-13-36-219Z/source-filter/site",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-13-36-219Z/source-filter/site/source.md",
+      "sha256": "166c28b6ad94a79ec17e1a9790a500ef21f6ca8deaf346b9dda5a63ca8aaf4e0"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S2",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S3",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S4",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S5",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S6",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S7",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A1",
+      "path": "logo.svg",
+      "sha256": "19cc18d8896628809f5d200a132311e3971a462f0cffac3d44c7e8c5d5fd7a65",
+      "originalPath": "logo.svg",
+      "originalSha256": "19cc18d8896628809f5d200a132311e3971a462f0cffac3d44c7e8c5d5fd7a65",
+      "sourceId": "S1",
+      "role": "hero",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A2",
+      "path": "real.svg",
+      "sha256": "076d2b184f650b044c7f82021e15fbb0357885dddec561a4e386d39f4930ef2a",
+      "originalPath": "real.svg",
+      "originalSha256": "076d2b184f650b044c7f82021e15fbb0357885dddec561a4e386d39f4930ef2a",
+      "sourceId": "S2",
+      "role": "services",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    }
+  ],
+  "items": [
+    {
+      "id": "R1",
+      "category": "image",
+      "baselineId": "B1",
+      "factState": "UNKNOWN",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "hero",
+      "selector": "#logo",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A1"
+    },
+    {
+      "id": "R2",
+      "category": "image",
+      "baselineId": "B2",
+      "factState": "UNKNOWN",
+      "sourceId": "S2",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "services",
+      "selector": "#real",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A2"
+    },
+    {
+      "id": "R3",
+      "category": "path",
+      "baselineId": "B3",
+      "factState": "UNKNOWN",
+      "sourceId": "S3",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "hero",
+      "selector": "#cta",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "tel:+441234567890",
+      "text": "Call the salon",
+      "promise": "Call the salon"
+    },
+    {
+      "id": "R4",
+      "category": "path",
+      "baselineId": "B4",
+      "factState": "UNKNOWN",
+      "sourceId": "S4",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "location",
+      "selector": "#map",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://example.invalid/map",
+      "text": "Get directions",
+      "promise": "Get directions"
+    },
+    {
+      "id": "R5",
+      "category": "path",
+      "baselineId": "B5",
+      "factState": "UNKNOWN",
+      "sourceId": "S5",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "location",
+      "selector": "#social",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://example.invalid/social",
+      "text": "See our work",
+      "promise": "See our work"
+    },
+    {
+      "id": "R6",
+      "category": "fact",
+      "baselineId": "B6",
+      "factState": "UNKNOWN",
+      "sourceId": "S6",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "hero",
+      "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Grooming in Example Town"
+    },
+    {
+      "id": "R7",
+      "category": "fact",
+      "baselineId": "B7",
+      "factState": "UNKNOWN",
+      "sourceId": "S7",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h2:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Dog grooming"
+    }
+  ],
+  "hero": {
+    "selector": "UNKNOWN",
+    "ctaSelector": "UNKNOWN"
+  },
+  "sections": [],
+  "coverageReview": "UNKNOWN — Owner reconcile imported material with existing research; initializer is not exhaustive",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "UNKNOWN",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-13-36-219Z/source-filter/site/source.md",
+      "line": 5,
+      "text": "| Official logo | published logo | official site |"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-05T15-13-36-219Z/source-filter/site/source.md",
+      "line": 5,
+      "excerpt": "| Official logo | published logo | official site |",
+      "excerptSha256": "843c9fabb0916c6c336746574f6eae43b172380cbe90977ff7f2c58b7ab40aa0",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    }
+  ]
+}

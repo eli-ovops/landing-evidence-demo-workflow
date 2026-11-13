@@ -1,0 +1,2290 @@
+{
+  "defects": [
+    {
+      "code": "HERO_MISSING",
+      "target": "UNKNOWN",
+      "detail": "missing",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "UNKNOWN",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "UNKNOWN",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_MISSING",
+      "target": "UNKNOWN",
+      "detail": "missing",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "UNKNOWN",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "UNKNOWN",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "document GET https://www.google.com/maps?q=Abbotsbury%2C%20Weymouth%2C%20UK&z=12&output=embed; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "stylesheet GET https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "document GET https://www.google.com/maps?q=Abbotsbury%2C%20Weymouth%2C%20UK&z=12&output=embed; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "stylesheet GET https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    }
+  ],
+  "views": {
+    "desktop": {
+      "issues": [
+        {
+          "code": "HERO_MISSING",
+          "target": "UNKNOWN",
+          "detail": "missing",
+          "level": "FAIL"
+        },
+        {
+          "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+          "target": "UNKNOWN",
+          "detail": "Core CTA not within first screen",
+          "level": "FAIL"
+        },
+        {
+          "code": "HERO_CTA_NOT_VISIBLE",
+          "target": "UNKNOWN",
+          "detail": "CTA hidden/clipped/occluded",
+          "level": "FAIL"
+        },
+        {
+          "code": "EMBED_UNVERIFIED",
+          "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > iframe:nth-of-type(1)",
+          "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+          "level": "UNKNOWN"
+        }
+      ],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_2870.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 74.875,
+              "y": 1.5,
+              "width": 88,
+              "height": 76
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1170,
+          "height": 1131
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0315.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 604.796875,
+              "y": 38,
+              "width": 835.1875,
+              "height": 823.3125
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0316.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 129.59375,
+              "y": 235.421875,
+              "width": 520.671875,
+              "height": 429
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0317.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1077.953125,
+              "y": 235.421875,
+              "width": 232.4375,
+              "height": 429
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0798.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 557.28125,
+              "y": 235.421875,
+              "width": 520.671875,
+              "height": 429
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1077.953125,
+              "y": 235.421875,
+              "width": 232.4375,
+              "height": 429
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 129.59375,
+              "y": 102.421875,
+              "width": 232.4375,
+              "height": 694.21875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 362.03125,
+              "y": 102.421875,
+              "width": 520.671875,
+              "height": 694.21875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0823.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 129.59375,
+              "y": 854.640625,
+              "width": 164.390625,
+              "height": 164.390625
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+          "url": "http://demo.local/assets/official/IMG_0868.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 298.984375,
+              "y": 854.640625,
+              "width": 164.40625,
+              "height": 164.40625
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+          "url": "http://demo.local/assets/official/IMG_0870.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 468.390625,
+              "y": 854.640625,
+              "width": 164.40625,
+              "height": 164.40625
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+          "url": "http://demo.local/assets/official/IMG_1070.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 637.796875,
+              "y": 854.640625,
+              "width": 164.390625,
+              "height": 164.390625
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1920,
+          "height": 2560
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+          "url": "http://demo.local/assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 807.1875,
+              "y": 854.640625,
+              "width": 164.40625,
+              "height": 164.40625
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+          "url": "http://demo.local/assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 976.59375,
+              "y": 854.640625,
+              "width": 164.40625,
+              "height": 164.40625
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)",
+          "url": "http://demo.local/assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 1146,
+              "y": 854.640625,
+              "width": 164.390625,
+              "height": 164.390625
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)",
+          "url": "http://demo.local/assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)",
+          "url": "http://demo.local/assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)",
+          "url": "http://demo.local/assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)",
+          "url": "http://demo.local/assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)",
+          "url": "http://demo.local/assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)",
+          "url": "http://demo.local/assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)",
+          "url": "http://demo.local/assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1920,
+          "height": 2560
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)",
+          "url": "http://demo.local/assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)",
+          "url": "http://demo.local/assets/official/IMG_1061.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 2174
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)",
+          "url": "http://demo.local/assets/official/IMG_2769.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 720
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)",
+          "url": "http://demo.local/assets/official/IMG_3003.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)",
+          "url": "http://demo.local/assets/official/IMG_3143.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 720
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)",
+          "url": "http://demo.local/assets/official/IMG_3146.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 720
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_2770.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 10,
+              "y": 187.578125,
+              "width": 700,
+              "height": 761.609375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 720
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_2766.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 10,
+              "y": 69.1875,
+              "width": 700,
+              "height": 761.609375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 959
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_2773.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 10,
+              "y": 68.796875,
+              "width": 700,
+              "height": 761.609375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1170,
+          "height": 1273
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "PROJECTS"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#services",
+          "text": "SERVICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "CONTACT"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "REQUEST A QUOTE ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#work",
+          "text": "EXPLORE RECENT WORK ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "START AN ENQUIRY ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/stonework",
+          "text": "VIEW STONEWORK ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/extensions",
+          "text": "EXPLORE EXTENSIONS ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "TALK THROUGH A PROJECT ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/extensions",
+          "text": "Extensions Make more of home. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://liluxdevelopments.co.uk/conversions",
+          "text": "Conversions Bring existing space into use. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://liluxdevelopments.co.uk/stonework",
+          "text": "Brick & stonework Repair, restoration and new work. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "https://liluxdevelopments.co.uk/chimney-repair",
+          "text": "Chimney repair Protect the building fabric. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "https://liluxdevelopments.co.uk/new-builds",
+          "text": "New builds From groundwork to finish. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/reviews",
+          "text": "READ CURRENT REVIEWS ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Abbotsbury%2C+Weymouth%2C+UK",
+          "text": "Get directions ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447734255885",
+          "text": "07734 255885 ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2870.jpeg"
+          ],
+          "section": "top",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0315.jpeg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0316.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0317.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0798.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0823.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0868.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0870.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_1070.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+          "urls": [
+            "http://demo.local/assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+          "urls": [
+            "http://demo.local/assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)",
+          "urls": [
+            "http://demo.local/assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)",
+          "urls": [
+            "http://demo.local/assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)",
+          "urls": [
+            "http://demo.local/assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)",
+          "urls": [
+            "http://demo.local/assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)",
+          "urls": [
+            "http://demo.local/assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)",
+          "urls": [
+            "http://demo.local/assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)",
+          "urls": [
+            "http://demo.local/assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)",
+          "urls": [
+            "http://demo.local/assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)",
+          "urls": [
+            "http://demo.local/assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_1061.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2769.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_3003.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_3143.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_3146.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2770.jpeg"
+          ],
+          "section": "proof",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2766.jpeg"
+          ],
+          "section": "proof",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2773.jpeg"
+          ],
+          "section": "proof",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "REQUEST A QUOTE ↗",
+          "section": "top"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "Discuss your project ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/stonework",
+          "text": "VIEW STONEWORK ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/extensions",
+          "text": "EXPLORE EXTENSIONS ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/extensions",
+          "text": "Extensions Make more of home. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://liluxdevelopments.co.uk/conversions",
+          "text": "Conversions Bring existing space into use. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://liluxdevelopments.co.uk/stonework",
+          "text": "Brick & stonework Repair, restoration and new work. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "https://liluxdevelopments.co.uk/chimney-repair",
+          "text": "Chimney repair Protect the building fabric. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "https://liluxdevelopments.co.uk/new-builds",
+          "text": "New builds From groundwork to finish. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/reviews",
+          "text": "READ CURRENT REVIEWS ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Abbotsbury%2C+Weymouth%2C+UK",
+          "text": "Get directions ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447734255885",
+          "text": "07734 255885 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Brick & stonework. Built properly.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Good building starts with a clear conversation, then earns trust in the detail.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > header:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Three ways craft shows up.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Built to hold its place.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Space that works harder.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Care you can see.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > header:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Built around real life.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Extensions",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Conversions",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Brick & stonework",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(4) > h3:nth-of-type(1)",
+          "text": "Chimney repair",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(5) > h3:nth-of-type(1)",
+          "text": "New builds",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "text": "Honesty in the process. Care in the finish.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Local, clear and easy to reach.",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > h2:nth-of-type(1)",
+          "text": "Tell Lilux what you have in mind.",
+          "section": "content"
+        }
+      ],
+      "width": 1440,
+      "height": 8761
+    },
+    "mobile": {
+      "issues": [
+        {
+          "code": "HERO_MISSING",
+          "target": "UNKNOWN",
+          "detail": "missing",
+          "level": "FAIL"
+        },
+        {
+          "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+          "target": "UNKNOWN",
+          "detail": "Core CTA not within first screen",
+          "level": "FAIL"
+        },
+        {
+          "code": "HERO_CTA_NOT_VISIBLE",
+          "target": "UNKNOWN",
+          "detail": "CTA hidden/clipped/occluded",
+          "level": "FAIL"
+        },
+        {
+          "code": "EMBED_UNVERIFIED",
+          "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > iframe:nth-of-type(1)",
+          "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+          "level": "UNKNOWN"
+        }
+      ],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_2870.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 18,
+              "y": 2.5,
+              "width": 75,
+              "height": 64
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1170,
+          "height": 1131
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0315.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 0,
+              "y": 262.25,
+              "width": 390,
+              "height": 320
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0316.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 179.328125,
+              "width": 173,
+              "height": 484.390625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0317.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "hidden ancestor"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0798.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 125.71875,
+              "width": 173,
+              "height": 592.609375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "hidden ancestor"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "hidden ancestor"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 179.328125,
+              "width": 173,
+              "height": 484.390625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_0823.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 22,
+              "y": 734.71875,
+              "width": 112,
+              "height": 112
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+          "url": "http://demo.local/assets/official/IMG_0868.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 139,
+              "y": 734.71875,
+              "width": 112,
+              "height": 112
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+          "url": "http://demo.local/assets/official/IMG_0870.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "occluded/clipped",
+            "rect": {
+              "x": 256,
+              "y": 734.71875,
+              "width": 112,
+              "height": 112
+            },
+            "samples": 0,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+          "url": "http://demo.local/assets/official/IMG_1070.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1920,
+          "height": 2560
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+          "url": "http://demo.local/assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+          "url": "http://demo.local/assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)",
+          "url": "http://demo.local/assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)",
+          "url": "http://demo.local/assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)",
+          "url": "http://demo.local/assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)",
+          "url": "http://demo.local/assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)",
+          "url": "http://demo.local/assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)",
+          "url": "http://demo.local/assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)",
+          "url": "http://demo.local/assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)",
+          "url": "http://demo.local/assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1920,
+          "height": 2560
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)",
+          "url": "http://demo.local/assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)",
+          "url": "http://demo.local/assets/official/IMG_1061.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 2174
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)",
+          "url": "http://demo.local/assets/official/IMG_2769.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 720
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)",
+          "url": "http://demo.local/assets/official/IMG_3003.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 2560,
+          "height": 1920
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)",
+          "url": "http://demo.local/assets/official/IMG_3143.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 720
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)",
+          "url": "http://demo.local/assets/official/IMG_3146.jpeg",
+          "visibility": {
+            "visible": false,
+            "reason": "outside viewport after scroll"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 720
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_2770.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 10,
+              "y": 220.96875,
+              "width": 370,
+              "height": 402.5625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 720
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_2766.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 10,
+              "y": 220.53125,
+              "width": 370,
+              "height": 402.5625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 960,
+          "height": 959
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official/IMG_2773.jpeg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 10,
+              "y": 221.09375,
+              "width": 370,
+              "height": 402.5625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1170,
+          "height": 1273
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#work",
+          "text": "Projects"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Contact"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "REQUEST A QUOTE ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#work",
+          "text": "EXPLORE RECENT WORK ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "START AN ENQUIRY ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/stonework",
+          "text": "VIEW STONEWORK ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/extensions",
+          "text": "EXPLORE EXTENSIONS ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#contact",
+          "text": "TALK THROUGH A PROJECT ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/extensions",
+          "text": "Extensions Make more of home. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://liluxdevelopments.co.uk/conversions",
+          "text": "Conversions Bring existing space into use. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://liluxdevelopments.co.uk/stonework",
+          "text": "Brick & stonework Repair, restoration and new work. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "https://liluxdevelopments.co.uk/chimney-repair",
+          "text": "Chimney repair Protect the building fabric. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "https://liluxdevelopments.co.uk/new-builds",
+          "text": "New builds From groundwork to finish. ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/reviews",
+          "text": "READ CURRENT REVIEWS ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Abbotsbury%2C+Weymouth%2C+UK",
+          "text": "Get directions ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447734255885",
+          "text": "07734 255885 ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2870.jpeg"
+          ],
+          "section": "top",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0315.jpeg"
+          ],
+          "section": "hero",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0316.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0317.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0798.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0823.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0868.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_0870.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_1070.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+          "urls": [
+            "http://demo.local/assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+          "urls": [
+            "http://demo.local/assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)",
+          "urls": [
+            "http://demo.local/assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)",
+          "urls": [
+            "http://demo.local/assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)",
+          "urls": [
+            "http://demo.local/assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)",
+          "urls": [
+            "http://demo.local/assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)",
+          "urls": [
+            "http://demo.local/assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)",
+          "urls": [
+            "http://demo.local/assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)",
+          "urls": [
+            "http://demo.local/assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)",
+          "urls": [
+            "http://demo.local/assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)",
+          "urls": [
+            "http://demo.local/assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_1061.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2769.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_3003.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_3143.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_3146.jpeg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2770.jpeg"
+          ],
+          "section": "proof",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2766.jpeg"
+          ],
+          "section": "proof",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official/IMG_2773.jpeg"
+          ],
+          "section": "proof",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "REQUEST A QUOTE ↗",
+          "section": "top"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "Discuss your project ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/stonework",
+          "text": "VIEW STONEWORK ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/extensions",
+          "text": "EXPLORE EXTENSIONS ↗",
+          "section": "work"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/extensions",
+          "text": "Extensions Make more of home. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://liluxdevelopments.co.uk/conversions",
+          "text": "Conversions Bring existing space into use. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://liluxdevelopments.co.uk/stonework",
+          "text": "Brick & stonework Repair, restoration and new work. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "https://liluxdevelopments.co.uk/chimney-repair",
+          "text": "Chimney repair Protect the building fabric. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "https://liluxdevelopments.co.uk/new-builds",
+          "text": "New builds From groundwork to finish. ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://liluxdevelopments.co.uk/reviews",
+          "text": "READ CURRENT REVIEWS ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Abbotsbury%2C+Weymouth%2C+UK",
+          "text": "Get directions ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447734255885",
+          "text": "07734 255885 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Brick & stonework. Built properly.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Good building starts with a clear conversation, then earns trust in the detail.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > header:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Three ways craft shows up.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Built to hold its place.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Space that works harder.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Care you can see.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > header:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Built around real life.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Extensions",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Conversions",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Brick & stonework",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(4) > h3:nth-of-type(1)",
+          "text": "Chimney repair",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(5) > h3:nth-of-type(1)",
+          "text": "New builds",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "text": "Honesty in the process. Care in the finish.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Local, clear and easy to reach.",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > h2:nth-of-type(1)",
+          "text": "Tell Lilux what you have in mind.",
+          "section": "content"
+        }
+      ],
+      "width": 390,
+      "height": 7809
+    }
+  },
+  "blocked": [
+    {
+      "viewport": "desktop",
+      "url": "https://www.google.com/maps?q=Abbotsbury%2C%20Weymouth%2C%20UK&z=12&output=embed",
+      "type": "document",
+      "method": "GET"
+    },
+    {
+      "viewport": "desktop",
+      "url": "https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap",
+      "type": "stylesheet",
+      "method": "GET"
+    },
+    {
+      "viewport": "mobile",
+      "url": "https://www.google.com/maps?q=Abbotsbury%2C%20Weymouth%2C%20UK&z=12&output=embed",
+      "type": "document",
+      "method": "GET"
+    },
+    {
+      "viewport": "mobile",
+      "url": "https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap",
+      "type": "stylesheet",
+      "method": "GET"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

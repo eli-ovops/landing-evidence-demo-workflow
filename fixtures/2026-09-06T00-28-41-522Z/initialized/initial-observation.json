@@ -1,0 +1,191 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "#real",
+          "url": "http://demo.local/real.svg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 249.8125,
+              "width": 600,
+              "height": 400
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "links": [
+        {
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon"
+        },
+        {
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions"
+        },
+        {
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#real",
+          "urls": [
+            "http://demo.local/real.svg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions",
+          "section": "location"
+        },
+        {
+          "kind": "path",
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work",
+          "section": "location"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Grooming in Example Town",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Dog grooming",
+          "section": "services"
+        }
+      ],
+      "width": 1440,
+      "height": 1322
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [],
+      "images": [
+        {
+          "selector": "#real",
+          "url": "http://demo.local/real.svg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 24,
+              "y": 307.8125,
+              "width": 342,
+              "height": 228
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "links": [
+        {
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon"
+        },
+        {
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions"
+        },
+        {
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#real",
+          "urls": [
+            "http://demo.local/real.svg"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#cta",
+          "href": "tel:+441234567890",
+          "text": "Call the salon",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#map",
+          "href": "https://example.invalid/map",
+          "text": "Get directions",
+          "section": "location"
+        },
+        {
+          "kind": "path",
+          "selector": "#social",
+          "href": "https://example.invalid/social",
+          "text": "See our work",
+          "section": "location"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Grooming in Example Town",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Dog grooming",
+          "section": "services"
+        }
+      ],
+      "width": 390,
+      "height": 1322
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

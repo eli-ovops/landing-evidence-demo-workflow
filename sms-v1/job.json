@@ -1,0 +1,10 @@
+{
+  "owner": "01a0793a-2eb8-7a22-a908-0aec95a59591",
+  "client": "S M S Handyman Services",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/demo",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/docs/FACT_ASSET_SOURCE_REGISTER.csv"
+  ],
+  "createdAt": "2026-09-07T00:50:38.758Z",
+  "scheduler": false
+}

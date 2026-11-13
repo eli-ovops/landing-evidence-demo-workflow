@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "01a07f53-672a-7770-afcc-243bc0a789db",
+  "activeVersion": "local-demo-v1-upgrade",
+  "inputHash": "ac4a951f790596c8f9fbaca94961f96f17ddd717489c5dc579f9b3e864e7ef87",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/chris-roach-upgrade-v1/runs/2026-09-08T05-38-52-426Z-9162eda9/result.json",
+  "resultSha256": "27e75d531ee3c3c0e0ef17f416182223a6512cb2880af568e669b5110a7753a7",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

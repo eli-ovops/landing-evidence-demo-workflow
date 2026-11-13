@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "01a07f53-6016-7802-986e-80e23e1259ab",
+  "activeVersion": "v1",
+  "inputHash": "f32a1fc046148c0053df81e1cf00616c8401925ebe4e72e980322e8d24f75977",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/jr-renovations-full-replacement-20260908/runs/2026-09-08T06-34-45-069Z-d6178ca0/result.json",
+  "resultSha256": "52930429c6d9e62a44b445072c602926bf1d9365d38c6f2d3384a7e6d1fcf10c",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

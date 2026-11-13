@@ -1,0 +1,10 @@
+{
+  "owner": "fixture-owner",
+  "client": "source filter",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-26-43-360Z/source-filter/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/fixtures/2026-09-06T00-26-43-360Z/source-filter/site/source.md"
+  ],
+  "createdAt": "2026-09-06T00:28:15.988Z",
+  "scheduler": false
+}

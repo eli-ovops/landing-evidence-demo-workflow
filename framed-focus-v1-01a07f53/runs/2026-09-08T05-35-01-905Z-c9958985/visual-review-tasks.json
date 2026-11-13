@@ -1,0 +1,116 @@
+{
+  "inputHash": "f2624e3b1cbf62528b559d741c33a1de8fee8e8ebc167a98d0fc30e97ddf77e7",
+  "assets": [
+    {
+      "assetId": "A-facebook-15",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-15.jpg",
+      "originalSha256": "893088b8ff79e80a2b9454af60c058b573c2f92d9d50aa914148a07e794d7765",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-15.jpg",
+      "sha256": "893088b8ff79e80a2b9454af60c058b573c2f92d9d50aa914148a07e794d7765",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "role": "hero",
+      "selectors": [
+        "#hero .facebook-15"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-facebook-6",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-6.jpg",
+      "originalSha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-6.jpg",
+      "sha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "role": "objects",
+      "selectors": [
+        "#objects .facebook-6"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-facebook-8",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-8.jpg",
+      "originalSha256": "be3cce96c27ac7849a9fc979dc873ed0a7cae8877f2871982299a6ccd4cc8a7f",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-8.jpg",
+      "sha256": "be3cce96c27ac7849a9fc979dc873ed0a7cae8877f2871982299a6ccd4cc8a7f",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "role": "shirts",
+      "selectors": [
+        "#shirts .facebook-8"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-facebook-11",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-11.jpg",
+      "originalSha256": "0340ba99f1903dfaf86f8a5d7b47f42d3aadb55cf2e018ad3e188f929e87e139",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-11.jpg",
+      "sha256": "0340ba99f1903dfaf86f8a5d7b47f42d3aadb55cf2e018ad3e188f929e87e139",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "role": "closing",
+      "selectors": [
+        "#closing .facebook-11"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-facebook-13",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-13.jpg",
+      "originalSha256": "64a1a218aa8fdbe9d9d68ac1257403ffaec3140a3b5ee9e9084c3731bc9b979c",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/facebook-13.jpg",
+      "sha256": "64a1a218aa8fdbe9d9d68ac1257403ffaec3140a3b5ee9e9084c3731bc9b979c",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "role": "artwork",
+      "selectors": [
+        "#artwork .facebook-13"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A-logo",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/logo.jpg",
+      "originalSha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/site/assets/logo.jpg",
+      "sha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6",
+      "focus": "50% 50%; contain original source rendition without additional crop",
+      "role": "header",
+      "selectors": [
+        "#header .logo"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

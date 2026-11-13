@@ -1,0 +1,3541 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "IA14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 17.5,
+                "width": 49,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 17.5,
+              "width": 49,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#before-after",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 264.828125,
+                "width": 586.140625,
+                "height": 390.453125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-15.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#before-after",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 264.828125,
+              "width": 586.140625,
+              "height": 390.453125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-15.jpg"
+            ]
+          }
+        },
+        {
+          "id": "F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#about",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 405,
+                "width": 1280,
+                "height": 110.984375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Since 2001 Renovating homes Roman Chojnacki Based in Charlton Read independent reviews ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#about",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 405,
+              "width": 1280,
+              "height": 110.984375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Since 2001 Renovating homes Roman Chojnacki Based in Charlton Read independent reviews ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 91.984375,
+                "width": 1280,
+                "height": 735.84375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "MADE FOR EVERYDAY LIVING Good spaces. Thoughtfully renovated. Kitchens Kitchen fitting, plumbing & tiling ↗ Bathrooms Fitting & complete refurbishment ↗ Interiors Carpentry, plastering & decorating ↗ From internal and external refurbishment to fencing and decking. Explore all services ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 91.984375,
+              "width": 1280,
+              "height": 735.84375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "MADE FOR EVERYDAY LIVING Good spaces. Thoughtfully renovated. Kitchens Kitchen fitting, plumbing & tiling ↗ Bathrooms Fitting & complete refurbishment ↗ Interiors Carpentry, plastering & decorating ↗ From internal and external refurbishment to fencing and decking. Explore all services ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#project-fit",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 779.140625,
+                "y": 304.3125,
+                "width": 532.859375,
+                "height": 311.0625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "The whole room. Every detail. Our focus is the whole project: complete renovations, with plumbing, carpentry, plastering, tiling and decorating brought together. Planning a smaller job? View all 12 gallery projects ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#project-fit",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 779.140625,
+              "y": 304.3125,
+              "width": 532.859375,
+              "height": 311.0625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "The whole room. Every detail. Our focus is the whole project: complete renovations, with plumbing, carpentry, plastering, tiling and decorating brought together. Planning a smaller job? View all 12 gallery projects ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 779.140625,
+                "y": 438.375,
+                "width": 170.296875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View all 12 gallery projects ↗",
+              "actualHref": "gallery.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 779.140625,
+              "y": 438.375,
+              "width": 170.296875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View all 12 gallery projects ↗",
+            "actualHref": "gallery.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1087.5625,
+                "y": 432.484375,
+                "width": 224.4375,
+                "height": 55
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read independent reviews ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1087.5625,
+              "y": 432.484375,
+              "width": 224.4375,
+              "height": 55
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read independent reviews ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 186.9375,
+                "width": 1280,
+                "height": 604.65625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "YOUR NEXT PROJECT Tell Roman what you have in mind. For advice and a free quotation, get in touch with your plans and property location. [REDACTED_EMAIL] ↗ Mobile 07704 668583 Landline 0208 3052969 Charlton, London SE7 7NN · London and the South East Full contact details ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 186.9375,
+              "width": 1280,
+              "height": 604.65625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "YOUR NEXT PROJECT Tell Roman what you have in mind. For advice and a free quotation, get in touch with your plans and property location. [REDACTED_EMAIL] ↗ Mobile 07704 668583 Landline 0208 3052969 Charlton, London SE7 7NN · London and the South East Full contact details ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 493.59375,
+                "width": 794,
+                "height": 58
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 493.59375,
+              "width": 794,
+              "height": 58
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F09",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".footer a[href=\"contact.html#complaints\"]",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 808.421875,
+                "y": 822.59375,
+                "width": 117.40625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Complaints procedure",
+              "actualHref": "contact.html#complaints",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".footer a[href=\"contact.html#complaints\"]",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 808.421875,
+              "y": 822.59375,
+              "width": 117.40625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Complaints procedure",
+            "actualHref": "contact.html#complaints",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 17.5,
+                "width": 49,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 17.5,
+              "width": 49,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "F12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact a[href=\"contact.html\"]",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 675.59375,
+                "width": 124.28125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Full contact details ↗",
+              "actualHref": "contact.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact a[href=\"contact.html\"]",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 675.59375,
+              "width": 124.28125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Full contact details ↗",
+            "actualHref": "contact.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 569.59375,
+                "width": 127.921875,
+                "height": 62
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Mobile 07704 668583",
+              "actualHref": "tel:+447704668583",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 569.59375,
+              "width": 127.921875,
+              "height": 62
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Mobile 07704 668583",
+            "actualHref": "tel:+447704668583",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 305.921875,
+                "y": 569.59375,
+                "width": 127.921875,
+                "height": 62
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Landline 0208 3052969",
+              "actualHref": "tel:+442083052969",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 305.921875,
+              "y": 569.59375,
+              "width": 127.921875,
+              "height": 62
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Landline 0208 3052969",
+            "actualHref": "tel:+442083052969",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 493.59375,
+                "width": 794,
+                "height": 58
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 493.59375,
+              "width": 794,
+              "height": 58
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1087.5625,
+                "y": 432.484375,
+                "width": 224.4375,
+                "height": 55
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read independent reviews ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1087.5625,
+              "y": 432.484375,
+              "width": 224.4375,
+              "height": 55
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read independent reviews ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 779.140625,
+                "y": 438.375,
+                "width": 170.296875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View all 12 gallery projects ↗",
+              "actualHref": "gallery.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 779.140625,
+              "y": 438.375,
+              "width": 170.296875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View all 12 gallery projects ↗",
+            "actualHref": "gallery.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".footer a[href=\"contact.html#complaints\"]",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 808.421875,
+                "y": 822.59375,
+                "width": 117.40625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Complaints procedure",
+              "actualHref": "contact.html#complaints",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".footer a[href=\"contact.html#complaints\"]",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 808.421875,
+              "y": 822.59375,
+              "width": 117.40625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Complaints procedure",
+            "actualHref": "contact.html#complaints",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 17.5,
+                "width": 189.078125,
+                "height": 45
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "JR Renovations London & the South East",
+              "actualHref": "index.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 17.5,
+              "width": 189.078125,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "JR Renovations London & the South East",
+            "actualHref": "index.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#testimonial-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 750,
+                "y": 437.9375,
+                "width": 191.484375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read the complete testimonial ↗",
+              "actualHref": "testimonial.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#testimonial-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 750,
+              "y": 437.9375,
+              "width": 191.484375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read the complete testimonial ↗",
+            "actualHref": "testimonial.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "IA02O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#bath-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 595.140625,
+                "y": 302.640625,
+                "width": 361.90625,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "55% 48%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A02.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#bath-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 595.140625,
+              "y": 302.640625,
+              "width": 361.90625,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "55% 48%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A02.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA03O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchen-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 128,
+                "y": 302.640625,
+                "width": 445.140625,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 58%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A03.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#kitchen-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 302.640625,
+              "width": 445.140625,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A03.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA09O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interior-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 979.046875,
+                "y": 302.640625,
+                "width": 332.953125,
+                "height": 315
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 58%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A09.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#interior-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 979.046875,
+              "y": 302.640625,
+              "width": 332.953125,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A09.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA10O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-room",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 80,
+                "width": 1440,
+                "height": 610
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 58%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A10.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-room",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 80,
+              "width": 1440,
+              "height": 610
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A10.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA12O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#closing-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1082,
+                "y": 314.265625,
+                "width": 230,
+                "height": 350
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 55%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A12.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#closing-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1082,
+              "y": 314.265625,
+              "width": 230,
+              "height": 350
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 55%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A12.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IWHICH",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".trust img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1087.5625,
+                "y": 434.984375,
+                "width": 51,
+                "height": 50
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/original-TT_W_icon.svg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".trust img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1087.5625,
+              "y": 434.984375,
+              "width": 51,
+              "height": 50
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/original-TT_W_icon.svg"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#brand-logo",
+          "url": "http://demo.local/assets/asset-14.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 17.5,
+              "width": 49,
+              "height": 45
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 75,
+          "height": 69
+        },
+        {
+          "selector": "#hero-room",
+          "url": "http://demo.local/assets/room-A10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 80,
+              "width": 1440,
+              "height": 610
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%"
+          },
+          "decoded": true,
+          "width": 4128,
+          "height": 3096
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/original-TT_W_icon.svg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1087.5625,
+              "y": 434.984375,
+              "width": 51,
+              "height": 50
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 189,
+          "height": 150
+        },
+        {
+          "selector": "#kitchen-work",
+          "url": "http://demo.local/assets/room-A03.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 302.640625,
+              "width": 445.140625,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%"
+          },
+          "decoded": true,
+          "width": 3096,
+          "height": 4128
+        },
+        {
+          "selector": "#bath-work",
+          "url": "http://demo.local/assets/room-A02.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 595.140625,
+              "y": 302.640625,
+              "width": 361.90625,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "55% 48%"
+          },
+          "decoded": true,
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "selector": "#interior-work",
+          "url": "http://demo.local/assets/room-A09.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 979.046875,
+              "y": 302.640625,
+              "width": 332.953125,
+              "height": 315
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%"
+          },
+          "decoded": true,
+          "width": 3096,
+          "height": 4128
+        },
+        {
+          "selector": "#before-after",
+          "url": "http://demo.local/assets/asset-15.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 128,
+              "y": 264.828125,
+              "width": 586.140625,
+              "height": 390.453125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 638,
+          "height": 425
+        },
+        {
+          "selector": "#closing-work",
+          "url": "http://demo.local/assets/room-A12.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1082,
+              "y": 314.265625,
+              "width": 230,
+              "height": 350
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 55%"
+          },
+          "decoded": true,
+          "width": 1960,
+          "height": 4032
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html",
+          "text": "JR Renovations London & the South East"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "gallery.html",
+          "text": "Gallery"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "testimonial.html",
+          "text": "Testimonials"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "contact.html",
+          "text": "Contact"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "contact.html",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "contact.html",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+          "text": "Read independent reviews ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "services.html#kitchens",
+          "text": "Kitchens Kitchen fitting, plumbing & tiling ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "services.html#bathrooms",
+          "text": "Bathrooms Fitting & complete refurbishment ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "href": "services.html#interiors",
+          "text": "Interiors Carpentry, plastering & decorating ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Explore all services ↗"
+        },
+        {
+          "selector": "#gallery-link",
+          "href": "gallery.html",
+          "text": "View all 12 gallery projects ↗"
+        },
+        {
+          "selector": "#testimonial-link",
+          "href": "testimonial.html",
+          "text": "Read the complete testimonial ↗"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:+447704668583",
+          "text": "Mobile 07704 668583"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:+442083052969",
+          "text": "Landline 0208 3052969"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "contact.html",
+          "text": "Full contact details ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "gallery.html",
+          "text": "Gallery"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "testimonial.html",
+          "text": "Testimonials"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "contact.html",
+          "text": "Contact"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "contact.html#complaints",
+          "text": "Complaints procedure"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#brand-logo",
+          "urls": [
+            "http://demo.local/assets/asset-14.jpg"
+          ],
+          "section": "shell header",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#hero-room",
+          "urls": [
+            "http://demo.local/assets/room-A10.jpg"
+          ],
+          "section": "hero",
+          "focus": "50% 58%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/original-TT_W_icon.svg"
+          ],
+          "section": "about",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-work",
+          "urls": [
+            "http://demo.local/assets/room-A03.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 58%"
+        },
+        {
+          "kind": "image",
+          "selector": "#bath-work",
+          "urls": [
+            "http://demo.local/assets/room-A02.jpg"
+          ],
+          "section": "services",
+          "focus": "55% 48%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-work",
+          "urls": [
+            "http://demo.local/assets/room-A09.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 58%"
+        },
+        {
+          "kind": "image",
+          "selector": "#before-after",
+          "urls": [
+            "http://demo.local/assets/asset-15.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#closing-work",
+          "urls": [
+            "http://demo.local/assets/room-A12.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 55%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html",
+          "text": "JR Renovations London & the South East",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/services.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Services",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/gallery.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "gallery.html",
+          "text": "Gallery",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "path": "/testimonial.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "testimonial.html",
+          "text": "Testimonials",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "contact.html",
+          "text": "Contact",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "contact.html",
+          "text": "Discuss your project ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#hero-cta",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-cta",
+          "href": "contact.html",
+          "text": "Discuss your project ↗",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+          "text": "Read independent reviews ↗",
+          "section": "about"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/services.html",
+          "hash": "#kitchens"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "services.html#kitchens",
+          "text": "Kitchens Kitchen fitting, plumbing & tiling ↗",
+          "section": "services"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "path": "/services.html",
+          "hash": "#bathrooms"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "services.html#bathrooms",
+          "text": "Bathrooms Fitting & complete refurbishment ↗",
+          "section": "services"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "path": "/services.html",
+          "hash": "#interiors"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "href": "services.html#interiors",
+          "text": "Interiors Carpentry, plastering & decorating ↗",
+          "section": "services"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/services.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Explore all services ↗",
+          "section": "services"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#gallery-link",
+          "path": "/gallery.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#gallery-link",
+          "href": "gallery.html",
+          "text": "View all 12 gallery projects ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#testimonial-link",
+          "path": "/testimonial.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#testimonial-link",
+          "href": "testimonial.html",
+          "text": "Read the complete testimonial ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:+447704668583",
+          "text": "Mobile 07704 668583",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:+442083052969",
+          "text": "Landline 0208 3052969",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "contact.html",
+          "text": "Full contact details ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/services.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Services",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/gallery.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "gallery.html",
+          "text": "Gallery",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "path": "/testimonial.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "testimonial.html",
+          "text": "Testimonials",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "contact.html",
+          "text": "Contact",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+          "path": "/contact.html",
+          "hash": "#complaints"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "contact.html#complaints",
+          "text": "Complaints procedure",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > h1:nth-of-type(1)",
+          "text": "A home to come back to.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Good spaces. Thoughtfully renovated.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1) > figure:nth-of-type(1) > figcaption:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Kitchens",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2) > figure:nth-of-type(1) > figcaption:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Bathrooms",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3) > figure:nth-of-type(1) > figcaption:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Interiors",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The whole room. Every detail.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Care in the work. Confidence in the people.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Tell Roman what you have in mind.",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 3044
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "IA14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 15.1875,
+                "width": 39,
+                "height": 36
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 15.1875,
+              "width": 39,
+              "height": 36
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#before-after",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 317.203125,
+                "width": 344,
+                "height": 229.140625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-15.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#before-after",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 317.203125,
+              "width": 344,
+              "height": 229.140625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-15.jpg"
+            ]
+          }
+        },
+        {
+          "id": "F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#about",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 346.390625,
+                "width": 390,
+                "height": 172.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Since 2001 Renovating homes Roman Chojnacki Based in Charlton Read independent reviews ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#about",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 346.390625,
+              "width": 390,
+              "height": 172.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Since 2001 Renovating homes Roman Chojnacki Based in Charlton Read independent reviews ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -65.421875,
+                "width": 390,
+                "height": 994.625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "MADE FOR EVERYDAY LIVING Good spaces. Thoughtfully renovated. Kitchens Kitchen fitting, plumbing & tiling ↗ Bathrooms Fitting & complete refurbishment ↗ Interiors Carpentry, plastering & decorating ↗ From internal and external refurbishment to fencing and decking. Explore all services ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -65.421875,
+              "width": 390,
+              "height": 994.625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "MADE FOR EVERYDAY LIVING Good spaces. Thoughtfully renovated. Kitchens Kitchen fitting, plumbing & tiling ↗ Bathrooms Fitting & complete refurbishment ↗ Interiors Carpentry, plastering & decorating ↗ From internal and external refurbishment to fencing and decking. Explore all services ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#project-fit",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 283.9375,
+                "width": 344,
+                "height": 296.109375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "The whole room. Every detail. Our focus is the whole project: complete renovations, with plumbing, carpentry, plastering, tiling and decorating brought together. Planning a smaller job? View all 12 gallery projects ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#project-fit",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 283.9375,
+              "width": 344,
+              "height": 296.109375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "The whole room. Every detail. Our focus is the whole project: complete renovations, with plumbing, carpentry, plastering, tiling and decorating brought together. Planning a smaller job? View all 12 gallery projects ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 410.046875,
+                "width": 170.296875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View all 12 gallery projects ↗",
+              "actualHref": "gallery.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 410.046875,
+              "width": 170.296875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View all 12 gallery projects ↗",
+            "actualHref": "gallery.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 402.578125,
+                "width": 344,
+                "height": 58
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read independent reviews ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 402.578125,
+              "width": 344,
+              "height": 58
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read independent reviews ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 38.75,
+                "width": 390,
+                "height": 785.890625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "YOUR NEXT PROJECT Tell Roman what you have in mind. For advice and a free quotation, get in touch with your plans and property location. [REDACTED_EMAIL] ↗ Mobile 07704 668583 Landline 0208 3052969 Charlton, London SE7 7NN · London and the South East Full contact details ↗",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 38.75,
+              "width": 390,
+              "height": 785.890625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "YOUR NEXT PROJECT Tell Roman what you have in mind. For advice and a free quotation, get in touch with your plans and property location. [REDACTED_EMAIL] ↗ Mobile 07704 668583 Landline 0208 3052969 Charlton, London SE7 7NN · London and the South East Full contact details ↗",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 403.859375,
+                "width": 344,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 403.859375,
+              "width": 344,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F09",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".footer a[href=\"contact.html#complaints\"]",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 738.640625,
+                "width": 117.40625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Complaints procedure",
+              "actualHref": "contact.html#complaints",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".footer a[href=\"contact.html#complaints\"]",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 738.640625,
+              "width": 117.40625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Complaints procedure",
+            "actualHref": "contact.html#complaints",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-logo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 15.1875,
+                "width": 39,
+                "height": 36
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/asset-14.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-logo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 15.1875,
+              "width": 39,
+              "height": 36
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/asset-14.jpg"
+            ]
+          }
+        },
+        {
+          "id": "F12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact a[href=\"contact.html\"]",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 409.640625,
+                "width": 124.28125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Full contact details ↗",
+              "actualHref": "contact.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact a[href=\"contact.html\"]",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 409.640625,
+              "width": 124.28125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Full contact details ↗",
+            "actualHref": "contact.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 401.859375,
+                "width": 108.734375,
+                "height": 60
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Mobile 07704 668583",
+              "actualHref": "tel:+447704668583",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 401.859375,
+              "width": 108.734375,
+              "height": 60
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Mobile 07704 668583",
+            "actualHref": "tel:+447704668583",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#landline",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 166.734375,
+                "y": 401.859375,
+                "width": 108.734375,
+                "height": 60
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Landline 0208 3052969",
+              "actualHref": "tel:+442083052969",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#landline",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 166.734375,
+              "y": 401.859375,
+              "width": 108.734375,
+              "height": 60
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Landline 0208 3052969",
+            "actualHref": "tel:+442083052969",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 403.859375,
+                "width": 344,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 403.859375,
+              "width": 344,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 402.578125,
+                "width": 344,
+                "height": 58
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read independent reviews ↗",
+              "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 402.578125,
+              "width": 344,
+              "height": 58
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read independent reviews ↗",
+            "actualHref": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#gallery-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 410.046875,
+                "width": 170.296875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "View all 12 gallery projects ↗",
+              "actualHref": "gallery.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#gallery-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 410.046875,
+              "width": 170.296875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "View all 12 gallery projects ↗",
+            "actualHref": "gallery.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".footer a[href=\"contact.html#complaints\"]",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 738.640625,
+                "width": 117.40625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Complaints procedure",
+              "actualHref": "contact.html#complaints",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".footer a[href=\"contact.html#complaints\"]",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 738.640625,
+              "width": 117.40625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Complaints procedure",
+            "actualHref": "contact.html#complaints",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".brand",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 13,
+                "width": 344,
+                "height": 40.390625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "JR Renovations London & the South East",
+              "actualHref": "index.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".brand",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 13,
+              "width": 344,
+              "height": 40.390625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "JR Renovations London & the South East",
+            "actualHref": "index.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "C8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#testimonial-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 409.75,
+                "width": 191.484375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read the complete testimonial ↗",
+              "actualHref": "testimonial.html",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#testimonial-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 409.75,
+              "width": 191.484375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read the complete testimonial ↗",
+            "actualHref": "testimonial.html",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "IA02O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#bath-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 329.015625,
+                "width": 164,
+                "height": 205
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "55% 48%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A02.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#bath-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 329.015625,
+              "width": 164,
+              "height": 205
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "55% 48%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A02.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA03O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#kitchen-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 291.515625,
+                "width": 344,
+                "height": 280
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 60%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A03.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#kitchen-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 291.515625,
+              "width": 344,
+              "height": 280
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 60%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A03.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA09O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#interior-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 203,
+                "y": 329.015625,
+                "width": 164,
+                "height": 205
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 58%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A09.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#interior-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.015625,
+              "width": 164,
+              "height": 205
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A09.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA10O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-room",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 118.390625,
+                "width": 390,
+                "height": 565
+              },
+              "samples": 7,
+              "objectFit": "cover",
+              "focus": "48% 52%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A10.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-room",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 118.390625,
+              "width": 390,
+              "height": 565
+            },
+            "samples": 7,
+            "objectFit": "cover",
+            "focus": "48% 52%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A10.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IA12O",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#closing-work",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 320.640625,
+                "width": 344,
+                "height": 240
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 68%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/room-A12.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#closing-work",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 320.640625,
+              "width": 344,
+              "height": 240
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 68%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/room-A12.jpg"
+            ]
+          }
+        },
+        {
+          "id": "IWHICH",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".trust img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 23,
+                "y": 412.078125,
+                "width": 41,
+                "height": 40
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/original-TT_W_icon.svg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".trust img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 412.078125,
+              "width": 41,
+              "height": 40
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/original-TT_W_icon.svg"
+            ]
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#brand-logo",
+          "url": "http://demo.local/assets/asset-14.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 15.1875,
+              "width": 39,
+              "height": 36
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 75,
+          "height": 69
+        },
+        {
+          "selector": "#hero-room",
+          "url": "http://demo.local/assets/room-A10.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 118.390625,
+              "width": 390,
+              "height": 565
+            },
+            "samples": 7,
+            "objectFit": "cover",
+            "focus": "48% 52%"
+          },
+          "decoded": true,
+          "width": 4128,
+          "height": 3096
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/original-TT_W_icon.svg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 412.078125,
+              "width": 41,
+              "height": 40
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 189,
+          "height": 150
+        },
+        {
+          "selector": "#kitchen-work",
+          "url": "http://demo.local/assets/room-A03.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 291.515625,
+              "width": 344,
+              "height": 280
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 60%"
+          },
+          "decoded": true,
+          "width": 3096,
+          "height": 4128
+        },
+        {
+          "selector": "#bath-work",
+          "url": "http://demo.local/assets/room-A02.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 329.015625,
+              "width": 164,
+              "height": 205
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "55% 48%"
+          },
+          "decoded": true,
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "selector": "#interior-work",
+          "url": "http://demo.local/assets/room-A09.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 203,
+              "y": 329.015625,
+              "width": 164,
+              "height": 205
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 58%"
+          },
+          "decoded": true,
+          "width": 3096,
+          "height": 4128
+        },
+        {
+          "selector": "#before-after",
+          "url": "http://demo.local/assets/asset-15.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 317.203125,
+              "width": 344,
+              "height": 229.140625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 638,
+          "height": 425
+        },
+        {
+          "selector": "#closing-work",
+          "url": "http://demo.local/assets/room-A12.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 23,
+              "y": 320.640625,
+              "width": 344,
+              "height": 240
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 68%"
+          },
+          "decoded": true,
+          "width": 1960,
+          "height": 4032
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html",
+          "text": "JR Renovations London & the South East"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "gallery.html",
+          "text": "Gallery"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "testimonial.html",
+          "text": "Testimonials"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "contact.html",
+          "text": "Contact"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "contact.html",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "contact.html",
+          "text": "Discuss your project ↗"
+        },
+        {
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+          "text": "Read independent reviews ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "services.html#kitchens",
+          "text": "Kitchens Kitchen fitting, plumbing & tiling ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "services.html#bathrooms",
+          "text": "Bathrooms Fitting & complete refurbishment ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "href": "services.html#interiors",
+          "text": "Interiors Carpentry, plastering & decorating ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Explore all services ↗"
+        },
+        {
+          "selector": "#gallery-link",
+          "href": "gallery.html",
+          "text": "View all 12 gallery projects ↗"
+        },
+        {
+          "selector": "#testimonial-link",
+          "href": "testimonial.html",
+          "text": "Read the complete testimonial ↗"
+        },
+        {
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#phone",
+          "href": "tel:+447704668583",
+          "text": "Mobile 07704 668583"
+        },
+        {
+          "selector": "#landline",
+          "href": "tel:+442083052969",
+          "text": "Landline 0208 3052969"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "contact.html",
+          "text": "Full contact details ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "gallery.html",
+          "text": "Gallery"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "testimonial.html",
+          "text": "Testimonials"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "contact.html",
+          "text": "Contact"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "contact.html#complaints",
+          "text": "Complaints procedure"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#brand-logo",
+          "urls": [
+            "http://demo.local/assets/asset-14.jpg"
+          ],
+          "section": "shell header",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#hero-room",
+          "urls": [
+            "http://demo.local/assets/room-A10.jpg"
+          ],
+          "section": "hero",
+          "focus": "48% 52%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/original-TT_W_icon.svg"
+          ],
+          "section": "about",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#kitchen-work",
+          "urls": [
+            "http://demo.local/assets/room-A03.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 60%"
+        },
+        {
+          "kind": "image",
+          "selector": "#bath-work",
+          "urls": [
+            "http://demo.local/assets/room-A02.jpg"
+          ],
+          "section": "services",
+          "focus": "55% 48%"
+        },
+        {
+          "kind": "image",
+          "selector": "#interior-work",
+          "urls": [
+            "http://demo.local/assets/room-A09.jpg"
+          ],
+          "section": "services",
+          "focus": "50% 58%"
+        },
+        {
+          "kind": "image",
+          "selector": "#before-after",
+          "urls": [
+            "http://demo.local/assets/asset-15.jpg"
+          ],
+          "section": "work",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#closing-work",
+          "urls": [
+            "http://demo.local/assets/room-A12.jpg"
+          ],
+          "section": "contact",
+          "focus": "50% 68%"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/index.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "index.html",
+          "text": "JR Renovations London & the South East",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/services.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Services",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/gallery.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "gallery.html",
+          "text": "Gallery",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "path": "/testimonial.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "testimonial.html",
+          "text": "Testimonials",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "contact.html",
+          "text": "Contact",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "contact.html",
+          "text": "Discuss your project ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#hero-cta",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-cta",
+          "href": "contact.html",
+          "text": "Discuss your project ↗",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "#review-link",
+          "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+          "text": "Read independent reviews ↗",
+          "section": "about"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "path": "/services.html",
+          "hash": "#kitchens"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "services.html#kitchens",
+          "text": "Kitchens Kitchen fitting, plumbing & tiling ↗",
+          "section": "services"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "path": "/services.html",
+          "hash": "#bathrooms"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "services.html#bathrooms",
+          "text": "Bathrooms Fitting & complete refurbishment ↗",
+          "section": "services"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "path": "/services.html",
+          "hash": "#interiors"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3)",
+          "href": "services.html#interiors",
+          "text": "Interiors Carpentry, plastering & decorating ↗",
+          "section": "services"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "path": "/services.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Explore all services ↗",
+          "section": "services"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#gallery-link",
+          "path": "/gallery.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#gallery-link",
+          "href": "gallery.html",
+          "text": "View all 12 gallery projects ↗",
+          "section": "work"
+        },
+        {
+          "kind": "local-link",
+          "selector": "#testimonial-link",
+          "path": "/testimonial.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "#testimonial-link",
+          "href": "testimonial.html",
+          "text": "Read the complete testimonial ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "#email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#phone",
+          "href": "tel:+447704668583",
+          "text": "Mobile 07704 668583",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#landline",
+          "href": "tel:+442083052969",
+          "text": "Landline 0208 3052969",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "contact.html",
+          "text": "Full contact details ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "path": "/services.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "services.html",
+          "text": "Services",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "path": "/gallery.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "gallery.html",
+          "text": "Gallery",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "path": "/testimonial.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "testimonial.html",
+          "text": "Testimonials",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "path": "/contact.html",
+          "hash": ""
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(4)",
+          "href": "contact.html",
+          "text": "Contact",
+          "section": "contact"
+        },
+        {
+          "kind": "local-link",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+          "path": "/contact.html",
+          "hash": "#complaints"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(5)",
+          "href": "contact.html#complaints",
+          "text": "Complaints procedure",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > h1:nth-of-type(1)",
+          "text": "A home to come back to.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Good spaces. Thoughtfully renovated.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1) > figure:nth-of-type(1) > figcaption:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Kitchens",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2) > figure:nth-of-type(1) > figcaption:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Bathrooms",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3) > figure:nth-of-type(1) > figcaption:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Interiors",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The whole room. Every detail.",
+          "section": "work"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Care in the work. Confidence in the people.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Tell Roman what you have in mind.",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 3875
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

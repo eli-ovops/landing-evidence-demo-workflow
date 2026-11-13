@@ -1,0 +1,652 @@
+{
+  "phase": "进行中",
+  "owner": "01a07433-2cdb-7131-be97-e0d626c14758",
+  "activeVersion": "demo_20260902/v6/index.html",
+  "inputHash": "c01481f9c35a8343e31bc83df24531a2cba3473bb39581244a6d989d54f9bb2e",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/lilux/runs/2026-09-06T14-01-56-716Z-83c70a28/result.json",
+  "resultSha256": "6535d82a0519875ab33ee78da403f781fa7facd7725ef3848c0d1eb75f3ccc78",
+  "mechanical": "FAIL",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R35",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R36",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R37",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R40",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R45",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R46",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R47",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R48",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R49",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R50",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R51",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R52",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R53",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R56",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R57",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R58",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R59",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R9",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)\",\"assetId\":\"A9\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R10",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)\",\"assetId\":\"A10\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R11",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)\",\"assetId\":\"A11\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R12",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)\",\"assetId\":\"A12\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R13",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)\",\"assetId\":\"A13\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R14",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)\",\"assetId\":\"A14\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R15",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)\",\"assetId\":\"A15\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R16",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)\",\"assetId\":\"A16\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R17",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)\",\"assetId\":\"A17\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R18",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)\",\"assetId\":\"A18\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R19",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)\",\"assetId\":\"A19\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R20",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)\",\"assetId\":\"A20\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R21",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)\",\"assetId\":\"A21\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R22",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)\",\"assetId\":\"A22\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R23",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)\",\"assetId\":\"A23\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R24",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)\",\"assetId\":\"A24\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R25",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)\",\"assetId\":\"A25\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R26",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)\",\"assetId\":\"A26\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R27",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)\",\"assetId\":\"A27\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R28",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)\",\"assetId\":\"A28\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "desktop",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R4",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)\",\"assetId\":\"A4\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R6",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)\",\"assetId\":\"A6\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R7",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)\",\"assetId\":\"A7\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R9",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)\",\"assetId\":\"A9\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R10",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)\",\"assetId\":\"A10\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R11",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)\",\"assetId\":\"A11\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R12",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)\",\"assetId\":\"A12\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R13",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)\",\"assetId\":\"A13\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R14",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)\",\"assetId\":\"A14\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R15",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)\",\"assetId\":\"A15\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R16",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)\",\"assetId\":\"A16\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R17",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)\",\"assetId\":\"A17\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R18",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)\",\"assetId\":\"A18\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R19",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)\",\"assetId\":\"A19\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R20",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)\",\"assetId\":\"A20\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R21",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)\",\"assetId\":\"A21\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R22",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)\",\"assetId\":\"A22\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R23",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)\",\"assetId\":\"A23\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R24",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)\",\"assetId\":\"A24\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R25",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)\",\"assetId\":\"A25\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R26",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)\",\"assetId\":\"A26\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R27",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)\",\"assetId\":\"A27\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R28",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)\",\"assetId\":\"A28\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "mobile",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "REMOTE_RESOURCE_LIMITATION",
+      "target": "desktop",
+      "detail": "document GET https://www.google.com/maps?q=Abbotsbury%2C%20Weymouth%2C%20UK&z=12&output=embed; destination behavior not verified",
+      "level": "LIMITATION",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "REMOTE_RESOURCE_LIMITATION",
+      "target": "desktop",
+      "detail": "stylesheet GET https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap; destination behavior not verified",
+      "level": "LIMITATION",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "REMOTE_RESOURCE_LIMITATION",
+      "target": "mobile",
+      "detail": "document GET https://www.google.com/maps?q=Abbotsbury%2C%20Weymouth%2C%20UK&z=12&output=embed; destination behavior not verified",
+      "level": "LIMITATION",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "REMOTE_RESOURCE_LIMITATION",
+      "target": "mobile",
+      "detail": "stylesheet GET https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap; destination behavior not verified",
+      "level": "LIMITATION",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

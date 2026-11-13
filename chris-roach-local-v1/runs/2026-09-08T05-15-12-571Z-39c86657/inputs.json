@@ -1,0 +1,74 @@
+{
+  "contractSha256": "f4531390480d20c7375db3ae53a623282c60a463da4a99df807139dde467d8e5",
+  "activeVersion": "local-demo-v1",
+  "manifest": [
+    {
+      "path": "assets/photo-0.jpg",
+      "sha256": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+      "bytes": 46927
+    },
+    {
+      "path": "assets/photo-1.jpg",
+      "sha256": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+      "bytes": 205301
+    },
+    {
+      "path": "assets/photo-10.jpg",
+      "sha256": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+      "bytes": 75665
+    },
+    {
+      "path": "assets/photo-2.jpg",
+      "sha256": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+      "bytes": 87264
+    },
+    {
+      "path": "assets/photo-6.jpg",
+      "sha256": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+      "bytes": 138934
+    },
+    {
+      "path": "assets/photo-7.jpg",
+      "sha256": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+      "bytes": 185657
+    },
+    {
+      "path": "index.html",
+      "sha256": "32c6f0d36b70c6ca29b76705ba57d9f7dd6ec71b8b81c81dba26e9b51ab9882f",
+      "bytes": 6116
+    },
+    {
+      "path": "styles.css",
+      "sha256": "30cfd5d6d22dee1695b93fc9e110d7c41e1fdd27dca5683ffaa86dc8940cc431",
+      "bytes": 8326
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "14d1383870c0bd1bd346a8366c5449068de3b6024d396e26d009a6d1e7e94027"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/ASSET_INVENTORY.csv",
+      "sha256": "dd042e3ff64167230076f55a9c84d5c256ff97c6c95d2f022cebd1afc80c68bb"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/source/assets.json",
+      "sha256": "862ff498d8e103e3f86389f59518648b995928e52f78edca0d44b4c19c78905f"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

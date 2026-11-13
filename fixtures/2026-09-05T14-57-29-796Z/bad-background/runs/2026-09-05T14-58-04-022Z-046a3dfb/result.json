@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:58:06.288Z",
+  "owner": "fixture-owner",
+  "client": "bad-background",
+  "activeVersion": "active",
+  "inputHash": "30bb6eb970310d475b0bad7f9a6274182deb873da9829dee96a37b4625492f2f",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile"
+    },
+    {
+      "code": "BROKEN_IMAGE",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1)",
+      "detail": "http://demo.local/broken.svg",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "224f4d5b459d28866b315b8c8256bd66b428497e1d0a894b4efce160e0007acc"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "d6e710cad4bf2f7463a99bad1df5733dbb0b13f8c0023f1b393978c16a9a1720"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "74168e2ad2ea107e11cbc03b4f44ee304ac8086715b1eb394fd982f04cbdeea6"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "2790dd40d9e7603551d9146f5cdd0b715e28e0eb2f1e828ca55384618c5be3e7"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "291afdfaad11a2c62629e5b8468722d02bf306c31768c921e4a71cdd9643e9eb"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "7a01f882459bba1be8eea2c37705561a4f50525f00175430c37eaf404a4aa297"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "36cf1cdc349872481b8474626c39f5868cb47b5a4a60846b47b86825e792ab0f"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "045a8dadbd79d6f4e70eaba7344db35a61cbd4785120c513ba96d0bf8b49735b"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}

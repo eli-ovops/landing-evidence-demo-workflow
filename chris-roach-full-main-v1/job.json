@@ -1,0 +1,11 @@
+{
+  "owner": "01a07f53-672a-7770-afcc-243bc0a789db",
+  "client": "Chris Roach Limited",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site",
+  "sourceAllowlist": [
+    "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-main.md",
+    "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/ALL_ASSETS.json"
+  ],
+  "createdAt": "2026-09-08T06:19:48.529Z",
+  "scheduler": false
+}

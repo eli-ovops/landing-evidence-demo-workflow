@@ -1,0 +1,1995 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "IMGA2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 689.703125,
+                "y": 122,
+                "width": 670.296875,
+                "height": 548
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "56% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/shower-concept.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 689.703125,
+              "y": 122,
+              "width": 670.296875,
+              "height": 548
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "56% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/shower-concept.png"
+            ]
+          }
+        },
+        {
+          "id": "IMGA3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#tap-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 250.03125,
+                "width": 634.84375,
+                "height": 423.21875
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/tap-concept.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#tap-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 250.03125,
+              "width": 634.84375,
+              "height": 423.21875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/tap-concept.png"
+            ]
+          }
+        },
+        {
+          "id": "IMGA4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#tools-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 286.53125,
+                "width": 566.1875,
+                "height": 377.453125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/tools-concept.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#tools-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 286.53125,
+              "width": 566.1875,
+              "height": 377.453125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/tools-concept.png"
+            ]
+          }
+        },
+        {
+          "id": "R01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 3.5,
+                "width": 138,
+                "height": 72
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/brand-complete.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 3.5,
+              "width": 138,
+              "height": 72
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/brand-complete.png"
+            ]
+          }
+        },
+        {
+          "id": "R02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-intro",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 408.515625,
+                "width": 370,
+                "height": 55.78125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "SealProof property maintenance for homes across South East London and Kent.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hero-intro",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 408.515625,
+              "width": 370,
+              "height": 55.78125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "SealProof property maintenance for homes across South East London and Kent.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#service-seals summary",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 782.84375,
+                "y": 425.03125,
+                "width": 577.15625,
+                "height": 74
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Shower sealing +",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#service-seals summary",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 782.84375,
+              "y": 425.03125,
+              "width": 577.15625,
+              "height": 74
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Shower sealing +",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#service-plumbing summary",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 782.84375,
+                "y": 419.21875,
+                "width": 577.15625,
+                "height": 85
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Tap & valve repairs +",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#service-plumbing summary",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 782.84375,
+              "y": 419.21875,
+              "width": 577.15625,
+              "height": 85
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Tap & valve repairs +",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#service-home summary",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 782.84375,
+                "y": 419.21875,
+                "width": 577.15625,
+                "height": 85
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Home maintenance +",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#service-home summary",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 782.84375,
+              "y": 419.21875,
+              "width": 577.15625,
+              "height": 85
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Home maintenance +",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact-phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 734.1875,
+                "y": 434.53125,
+                "width": 261.390625,
+                "height": 55.796875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07415 601494",
+              "actualHref": "tel:+447415601494",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact-phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 734.1875,
+              "y": 434.53125,
+              "width": 261.390625,
+              "height": 55.796875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07415 601494",
+            "actualHref": "tel:+447415601494",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact-email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 734.1875,
+                "y": 440.328125,
+                "width": 295.625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact-email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 734.1875,
+              "y": 440.328125,
+              "width": 295.625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#areas",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 663.984375,
+                "width": 566.1875,
+                "height": 92.171875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "London & Kent Including Plumstead, Woolwich, Greenwich and Bexleyheath. Ask about your area when you get in touch.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#areas",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 663.984375,
+              "width": 566.1875,
+              "height": 92.171875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "London & Kent Including Plumstead, Woolwich, Greenwich and Bexleyheath. Ask about your area when you get in touch.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-seal",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 379.5,
+                "width": 600,
+                "height": 165
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A shower reseal, carefully finished. AlisdareH describes replacing the silicone around a walk-in shower, with care taken over gaps and a neat finish. AlisdareH · 25 August 2026 Summary of a Yell review",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-seal",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 379.5,
+              "width": 600,
+              "height": 165
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A shower reseal, carefully finished. AlisdareH describes replacing the silicone around a walk-in shower, with care taken over gaps and a neat finish. AlisdareH · 25 August 2026 Summary of a Yell review",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-bathroom",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 760,
+                "y": 379.5,
+                "width": 600,
+                "height": 165
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Called back for another repair. JamesB-854998 reports using Scott for bathroom work, then again to resolve a plumbing vibration problem. JamesB-854998 · 4 September 2026 Summary of a Yell review",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-bathroom",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 760,
+              "y": 379.5,
+              "width": 600,
+              "height": 165
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Called back for another repair. JamesB-854998 reports using Scott for bathroom work, then again to resolve a plumbing vibration problem. JamesB-854998 · 4 September 2026 Summary of a Yell review",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R16",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 689.703125,
+                "y": 122,
+                "width": 670.296875,
+                "height": 548
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "56% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/shower-concept.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 689.703125,
+              "y": 122,
+              "width": 670.296875,
+              "height": 548
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "56% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/shower-concept.png"
+            ]
+          }
+        },
+        {
+          "id": "R22",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact-prep",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 734.1875,
+                "y": 487.328125,
+                "width": 625.8125,
+                "height": 161.75
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Helpful to include The problem What needs fixing and what you have noticed. Your postcode So the location is clear from the start. A useful photo You can attach a picture to your email.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact-prep",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 734.1875,
+              "y": 487.328125,
+              "width": 625.8125,
+              "height": 161.75
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Helpful to include The problem What needs fixing and what you have noticed. Your postcode So the location is clear from the start. A useful photo You can attach a picture to your email.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R23",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact-email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 734.1875,
+                "y": 440.328125,
+                "width": 295.625,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact-email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 734.1875,
+              "y": 440.328125,
+              "width": 295.625,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R24",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#nav-links",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1132.46875,
+                "y": 17.5,
+                "width": 227.53125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Repairs Reviews Contact",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#nav-links",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1132.46875,
+              "y": 17.5,
+              "width": 227.53125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Repairs Reviews Contact",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#brand-image",
+          "url": "http://demo.local/assets/brand-complete.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 3.5,
+              "width": 138,
+              "height": 72
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 640,
+          "height": 330
+        },
+        {
+          "selector": "#hero-image",
+          "url": "http://demo.local/assets/shower-concept.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 689.703125,
+              "y": 122,
+              "width": 670.296875,
+              "height": 548
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "56% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#tap-image",
+          "url": "http://demo.local/assets/tap-concept.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 250.03125,
+              "width": 634.84375,
+              "height": 423.21875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#tools-image",
+          "url": "http://demo.local/assets/tools-concept.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 286.53125,
+              "width": 566.1875,
+              "height": 377.453125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Repairs"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#reviews",
+          "text": "Reviews"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Contact"
+        },
+        {
+          "selector": "#hero-call",
+          "href": "tel:+447415601494",
+          "text": "Call SealProof ↗"
+        },
+        {
+          "selector": "#repairs-link",
+          "href": "#services",
+          "text": "Find your repair ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Shower%20repair%20enquiry",
+          "text": "Ask about shower repairs ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Plumbing%20repair%20enquiry",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Home%20maintenance%20enquiry",
+          "text": ""
+        },
+        {
+          "selector": "#yell-link",
+          "href": "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+          "text": "Read the reviews on Yell ↗"
+        },
+        {
+          "selector": "#contact-phone",
+          "href": "tel:+447415601494",
+          "text": "07415 601494"
+        },
+        {
+          "selector": "#contact-email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#brand-image",
+          "urls": [
+            "http://demo.local/assets/brand-complete.png"
+          ],
+          "section": "header",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#hero-image",
+          "urls": [
+            "http://demo.local/assets/shower-concept.png"
+          ],
+          "section": "hero",
+          "focus": "56% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#tap-image",
+          "urls": [
+            "http://demo.local/assets/tap-concept.png"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#tools-image",
+          "urls": [
+            "http://demo.local/assets/tools-concept.png"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-call",
+          "href": "tel:+447415601494",
+          "text": "Call SealProof ↗",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Shower%20repair%20enquiry",
+          "text": "Ask about shower repairs ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Plumbing%20repair%20enquiry",
+          "text": "",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Home%20maintenance%20enquiry",
+          "text": "",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "#yell-link",
+          "href": "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+          "text": "Read the reviews on Yell ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "#contact-phone",
+          "href": "tel:+447415601494",
+          "text": "07415 601494",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#contact-email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Shower & home repairs.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "For the jobs that need sorting.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The small details people remember.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A shower reseal, carefully finished.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Called back for another repair.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What needs a little attention?",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "London & Kent",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Helpful to include",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 2907
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "IMGA2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 290.21875,
+                "width": 346,
+                "height": 288.328125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "54% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/shower-concept.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 290.21875,
+              "width": 346,
+              "height": 288.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "54% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/shower-concept.png"
+            ]
+          }
+        },
+        {
+          "id": "IMGA3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#tap-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 318.484375,
+                "width": 346,
+                "height": 230.65625
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/tap-concept.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#tap-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 318.484375,
+              "width": 346,
+              "height": 230.65625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/tap-concept.png"
+            ]
+          }
+        },
+        {
+          "id": "IMGA4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#tools-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 318.609375,
+                "width": 346,
+                "height": 230.65625
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/tools-concept.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#tools-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 318.609375,
+              "width": 346,
+              "height": 230.65625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/tools-concept.png"
+            ]
+          }
+        },
+        {
+          "id": "R01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#brand-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 8,
+                "width": 112,
+                "height": 58
+              },
+              "samples": 9,
+              "objectFit": "contain",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/brand-complete.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#brand-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 8,
+              "width": 112,
+              "height": 58
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/brand-complete.png"
+            ]
+          }
+        },
+        {
+          "id": "R02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-intro",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 230.625,
+                "width": 325,
+                "height": 49.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "SealProof property maintenance for homes across South East London and Kent.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#hero-intro",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 230.625,
+              "width": 325,
+              "height": 49.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "SealProof property maintenance for homes across South East London and Kent.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#service-seals summary",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 397.140625,
+                "width": 346,
+                "height": 74
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Shower sealing +",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#service-seals summary",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 397.140625,
+              "width": 346,
+              "height": 74
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Shower sealing +",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#service-plumbing summary",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 394.140625,
+                "width": 346,
+                "height": 79
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Tap & valve repairs +",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#service-plumbing summary",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 394.140625,
+              "width": 346,
+              "height": 79
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Tap & valve repairs +",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#service-home summary",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 394.140625,
+                "width": 346,
+                "height": 79
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Home maintenance +",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#service-home summary",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 394.140625,
+              "width": 346,
+              "height": 79
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Home maintenance +",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact-phone",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 409.4375,
+                "width": 234.234375,
+                "height": 50
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07415 601494",
+              "actualHref": "tel:+447415601494",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact-phone",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 409.4375,
+              "width": 234.234375,
+              "height": 50
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07415 601494",
+            "actualHref": "tel:+447415601494",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R07",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact-email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 460.4375,
+                "width": 253.03125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact-email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 460.4375,
+              "width": 253.03125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#areas",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 372.265625,
+                "width": 346,
+                "height": 124.171875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "London & Kent Including Plumstead, Woolwich, Greenwich and Bexleyheath. Ask about your area when you get in touch.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#areas",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 372.265625,
+              "width": 346,
+              "height": 124.171875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "London & Kent Including Plumstead, Woolwich, Greenwich and Bexleyheath. Ask about your area when you get in touch.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-seal",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 336.484375,
+                "width": 346,
+                "height": 195.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "A shower reseal, carefully finished. AlisdareH describes replacing the silicone around a walk-in shower, with care taken over gaps and a neat finish. AlisdareH · 25 August 2026 Summary of a Yell review",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-seal",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 336.484375,
+              "width": 346,
+              "height": 195.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "A shower reseal, carefully finished. AlisdareH describes replacing the silicone around a walk-in shower, with care taken over gaps and a neat finish. AlisdareH · 25 August 2026 Summary of a Yell review",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#review-bathroom",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 336.078125,
+                "width": 346,
+                "height": 195.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Called back for another repair. JamesB-854998 reports using Scott for bathroom work, then again to resolve a plumbing vibration problem. JamesB-854998 · 4 September 2026 Summary of a Yell review",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#review-bathroom",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 336.078125,
+              "width": 346,
+              "height": 195.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Called back for another repair. JamesB-854998 reports using Scott for bathroom work, then again to resolve a plumbing vibration problem. JamesB-854998 · 4 September 2026 Summary of a Yell review",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R16",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#hero-image",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 290.21875,
+                "width": 346,
+                "height": 288.328125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "54% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/shower-concept.png"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#hero-image",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 290.21875,
+              "width": 346,
+              "height": 288.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "54% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/shower-concept.png"
+            ]
+          }
+        },
+        {
+          "id": "R22",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact-prep",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 527.4375,
+                "width": 346,
+                "height": 172.75
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Helpful to include The problem What needs fixing and what you have noticed. Your postcode So the location is clear from the start. A useful photo You can attach a picture to your email.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact-prep",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 527.4375,
+              "width": 346,
+              "height": 172.75
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Helpful to include The problem What needs fixing and what you have noticed. Your postcode So the location is clear from the start. A useful photo You can attach a picture to your email.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R23",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#contact-email",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 22,
+                "y": 460.4375,
+                "width": 253.03125,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#contact-email",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 460.4375,
+              "width": 253.03125,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R24",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#nav-links",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 195.265625,
+                "y": 15,
+                "width": 172.734375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Repairs Reviews Contact",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#nav-links",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 195.265625,
+              "y": 15,
+              "width": 172.734375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Repairs Reviews Contact",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "#brand-image",
+          "url": "http://demo.local/assets/brand-complete.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 8,
+              "width": 112,
+              "height": 58
+            },
+            "samples": 9,
+            "objectFit": "contain",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 640,
+          "height": 330
+        },
+        {
+          "selector": "#hero-image",
+          "url": "http://demo.local/assets/shower-concept.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 290.21875,
+              "width": 346,
+              "height": 288.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "54% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#tap-image",
+          "url": "http://demo.local/assets/tap-concept.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 318.484375,
+              "width": 346,
+              "height": 230.65625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "#tools-image",
+          "url": "http://demo.local/assets/tools-concept.png",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 22,
+              "y": 318.609375,
+              "width": 346,
+              "height": 230.65625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#hero",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Repairs"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#reviews",
+          "text": "Reviews"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#contact",
+          "text": "Contact"
+        },
+        {
+          "selector": "#hero-call",
+          "href": "tel:+447415601494",
+          "text": "Call SealProof ↗"
+        },
+        {
+          "selector": "#repairs-link",
+          "href": "#services",
+          "text": "Find your repair ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Shower%20repair%20enquiry",
+          "text": "Ask about shower repairs ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Plumbing%20repair%20enquiry",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Home%20maintenance%20enquiry",
+          "text": ""
+        },
+        {
+          "selector": "#yell-link",
+          "href": "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+          "text": "Read the reviews on Yell ↗"
+        },
+        {
+          "selector": "#contact-phone",
+          "href": "tel:+447415601494",
+          "text": "07415 601494"
+        },
+        {
+          "selector": "#contact-email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "#brand-image",
+          "urls": [
+            "http://demo.local/assets/brand-complete.png"
+          ],
+          "section": "header",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#hero-image",
+          "urls": [
+            "http://demo.local/assets/shower-concept.png"
+          ],
+          "section": "hero",
+          "focus": "54% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#tap-image",
+          "urls": [
+            "http://demo.local/assets/tap-concept.png"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "#tools-image",
+          "urls": [
+            "http://demo.local/assets/tools-concept.png"
+          ],
+          "section": "contact",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-call",
+          "href": "tel:+447415601494",
+          "text": "Call SealProof ↗",
+          "section": "hero"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Shower%20repair%20enquiry",
+          "text": "Ask about shower repairs ↗",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Plumbing%20repair%20enquiry",
+          "text": "",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > details:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]?subject=Home%20maintenance%20enquiry",
+          "text": "",
+          "section": "services"
+        },
+        {
+          "kind": "path",
+          "selector": "#yell-link",
+          "href": "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+          "text": "Read the reviews on Yell ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "#contact-phone",
+          "href": "tel:+447415601494",
+          "text": "07415 601494",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#contact-email",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Shower & home repairs.",
+          "section": "hero"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "For the jobs that need sorting.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "The small details people remember.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "A shower reseal, carefully finished.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Called back for another repair.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "What needs a little attention?",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "London & Kent",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "Helpful to include",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 3366
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

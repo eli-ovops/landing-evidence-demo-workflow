@@ -1,0 +1,90 @@
+{
+  "contractSha256": "6d394c09fbe30697b70e87742a7d3a30a0c33ddf87fb1f63d4c4e98b4ba39171",
+  "activeVersion": "v1",
+  "manifest": [
+    {
+      "path": "assets/boundary.jpg",
+      "sha256": "793a04abcb4298b679501b4ea5ded11af711cfe989d899927e904854706e52fd",
+      "bytes": 803824
+    },
+    {
+      "path": "assets/closing.jpg",
+      "sha256": "55e9b6482213cec975aeb39932131193de846e5d2af8c0a2c1e0212a33530fb9",
+      "bytes": 684321
+    },
+    {
+      "path": "assets/drive.jpg",
+      "sha256": "18f7d77a35dc9093cb3ca3cbccd41778c2af1d4a5aa7c7d3ebfcc1050576d3c1",
+      "bytes": 872301
+    },
+    {
+      "path": "assets/hero.jpg",
+      "sha256": "bc852e85cfd9baf2881ec1aa357ed2c40e7039e6b09bf3ebe82cd605c6076d33",
+      "bytes": 664134
+    },
+    {
+      "path": "assets/originals/boundary.png",
+      "sha256": "cfdcb78d52a943e0d4327544918bf46f96f97d54306da2e014945d9ca0772ea9",
+      "bytes": 3170123
+    },
+    {
+      "path": "assets/originals/closing.png",
+      "sha256": "da13d51537907756f0aad39c8767ed362c48cbf1737118fe5efab8b6bfbb500b",
+      "bytes": 2859267
+    },
+    {
+      "path": "assets/originals/drive.png",
+      "sha256": "2db21e3092536b91b7bd1a375077cc90afff0bcd803467fee6595ef3003733e4",
+      "bytes": 3268578
+    },
+    {
+      "path": "assets/originals/hero.png",
+      "sha256": "ebb1f2a9a823033aced5f3d76a9b49be488f55c8d526dbce8811710392c89e38",
+      "bytes": 2729982
+    },
+    {
+      "path": "assets/originals/patio.png",
+      "sha256": "2e678acb944c9a361c9cb13e206adf0f1d48aa089d95c5ab658e459f276481da",
+      "bytes": 2730569
+    },
+    {
+      "path": "assets/patio.jpg",
+      "sha256": "f8c451d395b2a4dee6d1b1eb4beed70a7537a0f6e3667bae63678296a564eb7a",
+      "bytes": 615149
+    },
+    {
+      "path": "index.html",
+      "sha256": "9b26462ef34032eaca46a14c5cb7dcb10f9b7748177e00120d38377599b4cfc0",
+      "bytes": 6644
+    },
+    {
+      "path": "style.css",
+      "sha256": "2d68d9e76987cacd4dfc932b7259d9f804429586a768987e1671543b799c6210",
+      "bytes": 9782
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/planning/RESEARCH_INPUT.csv",
+      "sha256": "e15dc5f8341be81b80b51d0fc599261426470e619bcdd8b0631d83f263ea77e6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/planning/ASSET_INVENTORY.csv",
+      "sha256": "cab0223da35a369e31419875bbdd6a87589be33d284a6d1851b04ead5e630c86"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

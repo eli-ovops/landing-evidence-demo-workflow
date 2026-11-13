@@ -1,0 +1,3761 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T13:43:43.266Z",
+  "owner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "client": "Washy Washy",
+  "activeVersion": "demo_20260902/index.html",
+  "inputHash": "a7190894c77bf278d4512b65ab25444dd1decb3070bfba6cf4fad627bc02b2cc",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BASELINE_RECONCILIATION_PENDING",
+      "target": "coverageReview",
+      "detail": "Owner reconcile independent source inventory; DOM observations alone are not coverage",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE1",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:2 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE2",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:3 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE3",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:4 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE4",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:5 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE5",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:6 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE6",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:7 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE7",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:8 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE8",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:9 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE9",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:5 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE10",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:7 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE11",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:8 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE12",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:9 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE13",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:10 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE14",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:11 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE15",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:12 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE16",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:13 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE17",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:14 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE18",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:15 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE19",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:16 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE20",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:9 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE21",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:11 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE22",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:12 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE23",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:13 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE24",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:14 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE25",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:15 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE26",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:16 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE27",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:17 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE28",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:45 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE29",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:47 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE30",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:48 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A1",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A1",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A1",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A2",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A2",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A2",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A3",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A3",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A3",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A4",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A4",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A4",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A5",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A5",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A5",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A6",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A6",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A6",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R1",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R1",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R2",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R2",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R3",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R3",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R4",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R4",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R5",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R5",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R6",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R6",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R7",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R7",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R8",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R8",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R9",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R9",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R10",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R10",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R11",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R11",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R12",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R12",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R13",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R13",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R14",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R14",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R15",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R15",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R16",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R16",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R17",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R17",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R18",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R18",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R19",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R19",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R20",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R20",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R21",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R21",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R22",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R22",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "MAPPING_STATUS",
+      "target": "R23",
+      "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R23",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    },
+    {
+      "code": "HERO_MAPPING",
+      "target": "hero",
+      "detail": "缺已确认 hero / CTA selector；跳过 contract-dependent hero mapping，不伪造页面缺陷",
+      "level": "UNKNOWN",
+      "repairClass": "CONTRACT_RECONCILIATION",
+      "nextAction": "Owner 仅用现有 source/asset/activation 资料补 source、适用性或 selector 映射，再 run；不是页面返修。",
+      "findingClass": "CONTRACT_RECONCILIATION_BLOCKED"
+    }
+  ],
+  "findingSummary": {
+    "contract": [
+      {
+        "code": "BASELINE_RECONCILIATION_PENDING",
+        "target": "coverageReview",
+        "detail": "Owner reconcile independent source inventory; DOM observations alone are not coverage",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE1",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:2 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE2",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:3 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE3",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:4 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE4",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:5 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE5",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:6 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE6",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:7 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE7",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:8 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE8",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/ASSET_INVENTORY.csv:9 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE9",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:5 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE10",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:7 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE11",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:8 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE12",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:9 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE13",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:10 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE14",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:11 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE15",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:12 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE16",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:13 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE17",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:14 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE18",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:15 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE19",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/CUSTOMER_PUBLIC_INTELLIGENCE.md:16 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE20",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:9 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE21",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:11 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE22",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:12 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE23",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:13 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE24",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:14 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE25",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:15 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE26",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:16 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE27",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:17 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE28",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:45 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE29",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:47 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "BASELINE_UNMAPPED",
+        "target": "BASE30",
+        "detail": "/Volumes/EXTERNAL/海外落地页/client_uk_washy_washy/demo_20260902/PRE_CODE_DECISION.md:48 — Owner map source item to contract item; no user JSON work",
+        "level": "FAIL"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S1",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S1",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S1",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S1",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S1",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S2",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S2",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S2",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S2",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S2",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S3",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S3",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S3",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S3",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S3",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S4",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S4",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S4",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S4",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S4",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S5",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S5",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S5",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S5",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S5",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S6",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S6",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S6",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S6",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S6",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S7",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S7",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S7",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S7",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S7",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S8",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S8",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S8",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S8",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S8",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S9",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S9",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S9",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S9",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S9",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S10",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S10",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S10",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S10",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S10",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S11",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S11",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S11",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S11",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S11",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S12",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S12",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S12",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S12",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S12",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S13",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S13",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S13",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S13",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S13",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S14",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S14",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S14",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S14",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S14",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S15",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S15",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S15",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S15",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S15",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S16",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S16",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S16",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S16",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S16",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S17",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S17",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S17",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S17",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S17",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S18",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S18",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S18",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S18",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S18",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S19",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S19",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S19",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S19",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S19",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S20",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S20",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S20",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S20",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S20",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S21",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S21",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S21",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S21",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S21",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S22",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S22",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S22",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S22",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S22",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S23",
+        "detail": "url 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S23",
+        "detail": "retrievedDate 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S23",
+        "detail": "platform 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S23",
+        "detail": "attribution 需 Owner 从资料补证",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SOURCE_UNKNOWN",
+        "target": "S23",
+        "detail": "来源等级未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A1",
+        "detail": "authenticity 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A1",
+        "detail": "rights 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "AUTHENTICITY_UNKNOWN",
+        "target": "A1",
+        "detail": "真实/概念属性未核",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A2",
+        "detail": "authenticity 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A2",
+        "detail": "rights 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "AUTHENTICITY_UNKNOWN",
+        "target": "A2",
+        "detail": "真实/概念属性未核",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A3",
+        "detail": "authenticity 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A3",
+        "detail": "rights 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "AUTHENTICITY_UNKNOWN",
+        "target": "A3",
+        "detail": "真实/概念属性未核",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A4",
+        "detail": "authenticity 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A4",
+        "detail": "rights 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "AUTHENTICITY_UNKNOWN",
+        "target": "A4",
+        "detail": "真实/概念属性未核",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A5",
+        "detail": "authenticity 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A5",
+        "detail": "rights 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "AUTHENTICITY_UNKNOWN",
+        "target": "A5",
+        "detail": "真实/概念属性未核",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A6",
+        "detail": "authenticity 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "ASSET_UNKNOWN",
+        "target": "A6",
+        "detail": "rights 未确认",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "AUTHENTICITY_UNKNOWN",
+        "target": "A6",
+        "detail": "真实/概念属性未核",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R1",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R1",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R2",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R2",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R3",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R3",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R4",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R4",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R5",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R5",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R6",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R6",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R7",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R7",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R8",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R8",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R9",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R9",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R10",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R10",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R11",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R11",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R12",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R12",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R13",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R13",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R14",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R14",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R15",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R15",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R16",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R16",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R17",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R17",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R18",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R18",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R19",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R19",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R20",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R20",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R21",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R21",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R22",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R22",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "MAPPING_STATUS",
+        "target": "R23",
+        "detail": "mappingStatus must be OWNER_CONFIRMED or UNCONFIRMED",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "FACT_UNKNOWN",
+        "target": "R23",
+        "detail": "不得以推断或未知自动通过",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "HERO_MAPPING",
+        "target": "hero",
+        "detail": "缺已确认 hero / CTA selector；跳过 contract-dependent hero mapping，不伪造页面缺陷",
+        "level": "UNKNOWN"
+      }
+    ],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {
+      "coverageReview": {
+        "codes": [
+          "BASELINE_RECONCILIATION_PENDING"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE1": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE2": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE3": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE4": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE5": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE6": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE7": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE8": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE9": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE10": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE11": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE12": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE13": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE14": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE15": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE16": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE17": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE18": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE19": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE20": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE21": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE22": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE23": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE24": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE25": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE26": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE27": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE28": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE29": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "BASE30": {
+        "codes": [
+          "BASELINE_UNMAPPED"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S1": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S2": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S3": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S4": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S5": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S6": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S7": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S8": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S9": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S10": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S11": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S12": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S13": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S14": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S15": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S16": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S17": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S18": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S19": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S20": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S21": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S22": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "S23": {
+        "codes": [
+          "SOURCE_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "A1": {
+        "codes": [
+          "ASSET_UNKNOWN",
+          "AUTHENTICITY_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "A2": {
+        "codes": [
+          "ASSET_UNKNOWN",
+          "AUTHENTICITY_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "A3": {
+        "codes": [
+          "ASSET_UNKNOWN",
+          "AUTHENTICITY_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "A4": {
+        "codes": [
+          "ASSET_UNKNOWN",
+          "AUTHENTICITY_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "A5": {
+        "codes": [
+          "ASSET_UNKNOWN",
+          "AUTHENTICITY_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "A6": {
+        "codes": [
+          "ASSET_UNKNOWN",
+          "AUTHENTICITY_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R1": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R2": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R3": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R4": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R5": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R6": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R7": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R8": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R9": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R10": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R11": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R12": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R13": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R14": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R15": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R16": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R17": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R18": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R19": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R20": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R21": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R22": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "R23": {
+        "codes": [
+          "MAPPING_STATUS",
+          "FACT_UNKNOWN"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      },
+      "hero": {
+        "codes": [
+          "HERO_MAPPING"
+        ],
+        "nextAction": "Use existing registered source/asset/activation material to reconcile this target; do not treat it as a page edit."
+      }
+    }
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "931abab1f53b621c28034a74f72843a83129928850e5b2dcd4711b1f2faac539"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "fc0cb456bc8ae4eefeeb399b39478b64be67e3836559ec993bd3b3c607b8c91a"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "0f42ace4b096b424f3e47c8766051b4d5763575299fda48c9d6e3a853be6e336"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "1b5ec6ebced9a01fe8de84ab89cec5f7e1fdc83c46fddfe621936b1131c7c94b"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "88f14d05f69717f035dd394b9403a6fef73cdb997ee636efba66e2617b385f0c"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "70b53b70ab9c0009806b348c76c5fa198a54b28442aa10303b049e66652da287"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c076afbcef8af33733bd03233b2db3e963ad37c0d79601a6f5fe9d55621b7c30"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "d46ee565b01e5b4a2d689d9dea50c6bee80c35cf755398f29b65a7b44ef5debf"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

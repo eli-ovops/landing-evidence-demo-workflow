@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-07T01:38:17.014Z",
+  "owner": "01a0793a-28ac-7e60-a889-1e1e21e491c3",
+  "client": "R C Contractors",
+  "activeVersion": "v1",
+  "inputHash": "a9fb871c0d966e96f984741c571fe547e31210ea34fa7c79c4cef64cabcc7372",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "ad7afe6f032a367099cc7154d14a6b24082ce98d7505cec6aed2fedda952d5a8"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "46b6471e142eec843d8210c221ca5049c706b4bc373b974e8692c03653f13df3"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "492dae930f0743af33246d8daec12591add4db45575484537e0be5ada42bcbcc"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "1c75c566f388350da98858e1752e0b311fb66b1323006f7010ffd86670174d4a"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "974eb416af55e2308978421299e32cab8187f8f93a1211542beea17188b59230"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "0d1e07b7e6f0562d3b76a3a75fd8d7b75748cfa24b7087bc93fb138189abcd0a"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "3caa4f7625a79e63fb840a9dcb0d3585b7082e3ee01f28d3299a1eba977f5e2e"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "5478cd6dc151f6277c0c401e8527ad41b5caf0471fb602bcdfa52cbc4e040d37"
+    },
+    {
+      "path": "desktop-section-5.png",
+      "sha256": "f46875e2589304de030380067e503b8de649211d5eceaa51a7393f8439bf0989"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "ee62428d83cbe6ec23aefd18699a2ff8c8d7966e5e703d8e1e6e4ae60129272a"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "9b70760cd7bafb4a354df62ac8a3e0bf9bbb75dfa6de30b3d8bdb7c9b0a51acd"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "2ee742488fe49df34befdd70f4d97a0b1dea0a36997fd3d2a043dcc406137311"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "677923ed448a329564e02a8f159471c218336e21cdecf0bc3196a636f9a6c060"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "9cc78cb56b225a8221a080d32583ffd9b4209b84a5ef88fef7796a8d3c00ced4"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "512ad77c7999a520ffb3d06e17d158e91f80ee6450caf7eb8887dba2265445ad"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "ea0b2b0b1f9c8313a00ffba8575fe650b37c3d6f8925531198328c5c62823399"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "b9a6e0a3d40d03e6d984d2fcf5710dc09af544a6b6e8f5498081440a6cac7df7"
+    },
+    {
+      "path": "mobile-section-5.png",
+      "sha256": "d31302edb022c7e67bbf7cad34f89094bf846d10fefc4fc4d461d3fc6d80025c"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "ab971292e67248e69aa0612229d81eedb115616c1a39da17bd736119bd20d112"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "9431432cd001672b35c077c25b10d791da399c25c7e19acfc5f317e1330df151"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

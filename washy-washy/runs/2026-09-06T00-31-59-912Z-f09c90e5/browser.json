@@ -1,0 +1,2649 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "R1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 57.59375,
+                "y": 9.5,
+                "width": 52,
+                "height": 52
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/washy-washy-official-logo-20260902.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 9.5,
+              "width": 52,
+              "height": 52
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/washy-washy-official-logo-20260902.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 590.390625,
+                "y": 36,
+                "width": 849.609375,
+                "height": 828
+              },
+              "samples": 6,
+              "objectFit": "cover",
+              "focus": "50% 45%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-04.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 590.390625,
+              "y": 36,
+              "width": 849.609375,
+              "height": 828
+            },
+            "samples": 6,
+            "objectFit": "cover",
+            "focus": "50% 45%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-04.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 57.59375,
+                "y": 19.427001953125,
+                "width": 538.671875,
+                "height": 861.03125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 45%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-01.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 19.427001953125,
+              "width": 538.671875,
+              "height": 861.03125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 45%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-01.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 612.265625,
+                "y": 35.382080078125,
+                "width": 353.359375,
+                "height": 829.03125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 42%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-02.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 612.265625,
+              "y": 35.382080078125,
+              "width": 353.359375,
+              "height": 829.03125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-02.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 981.625,
+                "y": 19.375,
+                "width": 400.78125,
+                "height": 861.03125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 40%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-05.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 981.625,
+              "y": 19.375,
+              "width": 400.78125,
+              "height": 861.03125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 40%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-05.webp"
+            ]
+          }
+        },
+        {
+          "id": "R6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -182.984375,
+                "width": 720,
+                "height": 1265.03125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 42%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-03.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -182.984375,
+              "width": 720,
+              "height": 1265.03125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-03.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1252.75,
+                "y": 11.5,
+                "width": 129.65625,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call or text",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1252.75,
+              "y": 11.5,
+              "width": 129.65625,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Call or text",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 361.15625,
+                "y": 431.453125,
+                "width": 144.40625,
+                "height": 36.171875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Treat your dog now",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 361.15625,
+              "y": 431.453125,
+              "width": 144.40625,
+              "height": 36.171875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Treat your dog now",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R9",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 820.796875,
+                "y": 425.609375,
+                "width": 200.078125,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Treat your dog now",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 820.796875,
+              "y": 425.609375,
+              "width": 200.078125,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Treat your dog now",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1106.578125,
+                "y": 431.90625,
+                "width": 101.703125,
+                "height": 35.40625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Instagram ↗",
+              "actualHref": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1106.578125,
+              "y": 431.90625,
+              "width": 101.703125,
+              "height": 35.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Instagram ↗",
+            "actualHref": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1220.28125,
+                "y": 431.90625,
+                "width": 98.1875,
+                "height": 35.40625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Facebook ↗",
+              "actualHref": "https://www.facebook.com/profile.php?id=100094918614918",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1220.28125,
+              "y": 431.90625,
+              "width": 98.1875,
+              "height": 35.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Facebook ↗",
+            "actualHref": "https://www.facebook.com/profile.php?id=100094918614918",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 825.109375,
+                "y": 520.03125,
+                "width": 309.75,
+                "height": 38.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07466 669399",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 825.109375,
+              "y": 520.03125,
+              "width": 309.75,
+              "height": 38.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07466 669399",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 825.109375,
+                "y": 685.234375,
+                "width": 176,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call or text",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 825.109375,
+              "y": 685.234375,
+              "width": 176,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Call or text",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 437.296875,
+                "y": 848.3125,
+                "width": 182.765625,
+                "height": 19.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL]",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 437.296875,
+              "y": 848.3125,
+              "width": 182.765625,
+              "height": 19.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL]",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 642.453125,
+                "y": 848.3125,
+                "width": 56.578125,
+                "height": 19.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Instagram",
+              "actualHref": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 642.453125,
+              "y": 848.3125,
+              "width": 56.578125,
+              "height": 19.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Instagram",
+            "actualHref": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R16",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 721.421875,
+                "y": 848.3125,
+                "width": 56.03125,
+                "height": 19.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Facebook",
+              "actualHref": "https://www.facebook.com/profile.php?id=100094918614918",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 721.421875,
+              "y": 848.3125,
+              "width": 56.03125,
+              "height": 19.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Facebook",
+            "actualHref": "https://www.facebook.com/profile.php?id=100094918614918",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R17",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 57.59375,
+                "y": 321.59375,
+                "width": 516.09375,
+                "height": 248.8125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Your dog’s day, made easier.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 321.59375,
+              "width": 516.09375,
+              "height": 248.8125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Your dog’s day, made easier.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R18",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 57.59375,
+                "y": 359.078125,
+                "width": 379,
+                "height": 182.71875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Two ways to care, at your door.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 359.078125,
+              "width": 379,
+              "height": 182.71875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Two ways to care, at your door.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R19",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 672.46875,
+                "y": 399.265625,
+                "width": 192,
+                "height": 101.15625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Wash & Go",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 672.46875,
+              "y": 399.265625,
+              "width": 192,
+              "height": 101.15625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Wash & Go",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R20",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 672.46875,
+                "y": 382.796875,
+                "width": 192,
+                "height": 134.734375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Washywashy Luxury",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 672.46875,
+              "y": 382.796875,
+              "width": 192,
+              "height": 134.734375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Washywashy Luxury",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R21",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 57.59375,
+                "y": 360.875,
+                "width": 404.640625,
+                "height": 178.5
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "From small puppy to large dog.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 360.875,
+              "width": 404.640625,
+              "height": 178.5
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "From small puppy to large dog.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R22",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > h2:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 820.796875,
+                "y": 332.21875,
+                "width": 458.5625,
+                "height": 235.8125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "We’re all about pampering your furry friend.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > h2:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 820.796875,
+              "y": 332.21875,
+              "width": 458.5625,
+              "height": 235.8125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "We’re all about pampering your furry friend.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R23",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 57.59375,
+                "y": 496.109375,
+                "width": 428.390625,
+                "height": 165.234375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "London care, without the journey.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 496.109375,
+              "width": 428.390625,
+              "height": 165.234375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "London care, without the journey.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/washy-washy-official-logo-20260902.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 9.5,
+              "width": 52,
+              "height": 52
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1170,
+          "height": 1156
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-04.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 590.390625,
+              "y": 36,
+              "width": 849.609375,
+              "height": 828
+            },
+            "samples": 6,
+            "objectFit": "cover",
+            "focus": "50% 45%"
+          },
+          "decoded": true,
+          "width": 1000,
+          "height": 1237
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-01.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 57.59375,
+              "y": 18.8670654296875,
+              "width": 538.671875,
+              "height": 861.0313720703125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 45%"
+          },
+          "decoded": true,
+          "width": 640,
+          "height": 1023
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-02.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 612.265625,
+              "y": 35.44775390625,
+              "width": 353.359375,
+              "height": 829.03125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%"
+          },
+          "decoded": true,
+          "width": 355,
+          "height": 569
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-05.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 981.625,
+              "y": 19.1153564453125,
+              "width": 400.78125,
+              "height": 861.0311279296875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 40%"
+          },
+          "decoded": true,
+          "width": 995,
+          "height": 1587
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-03.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -183.24462890625,
+              "width": 720,
+              "height": 1265.03125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%"
+          },
+          "decoded": true,
+          "width": 1000,
+          "height": 1757
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": "WASHY WASHY"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#dogs",
+          "text": "Dogs"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#area",
+          "text": "Coverage"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "07466 669399"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/washy-washy-official-logo-20260902.jpg"
+          ],
+          "section": "body",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-04.jpg"
+          ],
+          "section": "top",
+          "focus": "50% 45%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-01.jpg"
+          ],
+          "section": "dogs",
+          "focus": "50% 45%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-02.jpg"
+          ],
+          "section": "dogs",
+          "focus": "50% 42%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-05.webp"
+          ],
+          "section": "dogs",
+          "focus": "50% 40%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-03.jpg"
+          ],
+          "section": "proof reveal is-visible",
+          "focus": "50% 42%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now",
+          "section": "top"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "07466 669399",
+          "section": "area"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text",
+          "section": "area"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Your dog’s day, made easier.",
+          "section": "top"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Two ways to care, at your door.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Wash & Go",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Washywashy Luxury",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From small puppy to large dog.",
+          "section": "dogs"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "text": "We’re all about pampering your furry friend.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "London care, without the journey.",
+          "section": "area"
+        }
+      ],
+      "width": 1440,
+      "height": 4451
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "R1",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 9.5,
+                "width": 48,
+                "height": 48
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/washy-washy-official-logo-20260902.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 9.5,
+              "width": 48,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/washy-washy-official-logo-20260902.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R2",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 68,
+                "width": 390,
+                "height": 371.359375
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 45%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-04.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 68,
+              "width": 390,
+              "height": 371.359375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 45%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-04.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R3",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 141.8125,
+                "width": 350,
+                "height": 559.453125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 45%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-01.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 141.8125,
+              "width": 350,
+              "height": 559.453125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 45%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-01.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R4",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 286.265625,
+                "width": 169,
+                "height": 270.875
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 42%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-02.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 286.265625,
+              "width": 169,
+              "height": 270.875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-02.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R5",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 201,
+                "y": 270.265625,
+                "width": 169,
+                "height": 302.875
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 40%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-05.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 201,
+              "y": 270.265625,
+              "width": 169,
+              "height": 302.875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 40%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-05.webp"
+            ]
+          }
+        },
+        {
+          "id": "R6",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 79.859375,
+                "width": 390,
+                "height": 685.21875
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 42%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/official-dog-03.jpg"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 79.859375,
+              "width": 390,
+              "height": 685.21875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/official-dog-03.jpg"
+            ]
+          }
+        },
+        {
+          "id": "R7",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 245.125,
+                "y": 10.5,
+                "width": 124.875,
+                "height": 46
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call or text",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 245.125,
+              "y": 10.5,
+              "width": 124.875,
+              "height": 46
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Call or text",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R8",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 403.8125,
+                "width": 350,
+                "height": 36.171875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Treat your dog now",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 403.8125,
+              "width": 350,
+              "height": 36.171875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Treat your dog now",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R9",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 398.875,
+                "width": 350,
+                "height": 46
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Treat your dog now",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 398.875,
+              "width": 350,
+              "height": 46
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Treat your dog now",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R10",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 93.703125,
+                "y": 404.0625,
+                "width": 101.703125,
+                "height": 35.40625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Instagram ↗",
+              "actualHref": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 93.703125,
+              "y": 404.0625,
+              "width": 101.703125,
+              "height": 35.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Instagram ↗",
+            "actualHref": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R11",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 207.40625,
+                "y": 404.0625,
+                "width": 98.1875,
+                "height": 35.40625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Facebook ↗",
+              "actualHref": "https://www.facebook.com/profile.php?id=100094918614918",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 207.40625,
+              "y": 404.0625,
+              "width": 98.1875,
+              "height": 35.40625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Facebook ↗",
+            "actualHref": "https://www.facebook.com/profile.php?id=100094918614918",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R12",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 403.0625,
+                "width": 304.015625,
+                "height": 38.15625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07466 669399",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 403.0625,
+              "width": 304.015625,
+              "height": 38.15625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07466 669399",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R13",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 527.375,
+                "width": 350,
+                "height": 46
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Call or text",
+              "actualHref": "tel:+447466669399",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 527.375,
+              "width": 350,
+              "height": 46
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Call or text",
+            "actualHref": "tel:+447466669399",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 697.046875,
+                "width": 350,
+                "height": 19.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL]",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 697.046875,
+              "width": 350,
+              "height": 19.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL]",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R15",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 725.1875,
+                "width": 350,
+                "height": 19.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Instagram",
+              "actualHref": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 725.1875,
+              "width": 350,
+              "height": 19.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Instagram",
+            "actualHref": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R16",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 753.328125,
+                "width": 350,
+                "height": 19.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Facebook",
+              "actualHref": "https://www.facebook.com/profile.php?id=100094918614918",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 753.328125,
+              "width": 350,
+              "height": 19.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Facebook",
+            "actualHref": "https://www.facebook.com/profile.php?id=100094918614918",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R17",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 354.90625,
+                "width": 314.484375,
+                "height": 134.765625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Your dog’s day, made easier.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 354.90625,
+              "width": 314.484375,
+              "height": 134.765625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Your dog’s day, made easier.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R18",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 362.984375,
+                "width": 244.59375,
+                "height": 117.9375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Two ways to care, at your door.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 362.984375,
+              "width": 244.59375,
+              "height": 117.9375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Two ways to care, at your door.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R19",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.25,
+                "width": 350,
+                "height": 20.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Wash & Go",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.25,
+              "width": 350,
+              "height": 20.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Wash & Go",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R20",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.453125,
+                "width": 350,
+                "height": 20.875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Washywashy Luxury",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.453125,
+              "width": 350,
+              "height": 20.875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Washywashy Luxury",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R21",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 364.640625,
+                "width": 262.015625,
+                "height": 115.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "From small puppy to large dog.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 364.640625,
+              "width": 262.015625,
+              "height": 115.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "From small puppy to large dog.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R22",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > h2:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 341.265625,
+                "width": 313.9375,
+                "height": 161.4375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "We’re all about pampering your furry friend.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > h2:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 341.265625,
+              "width": 313.9375,
+              "height": 161.4375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "We’re all about pampering your furry friend.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "R23",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 364.15625,
+                "width": 300.296875,
+                "height": 115.828125
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "London care, without the journey.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 364.15625,
+              "width": 300.296875,
+              "height": 115.828125
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "London care, without the journey.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/washy-washy-official-logo-20260902.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 9.5,
+              "width": 48,
+              "height": 48
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1170,
+          "height": 1156
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-04.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 68,
+              "width": 390,
+              "height": 371.359375
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 45%"
+          },
+          "decoded": true,
+          "width": 1000,
+          "height": 1237
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-01.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 141.8125,
+              "width": 350,
+              "height": 559.453125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 45%"
+          },
+          "decoded": true,
+          "width": 640,
+          "height": 1023
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-02.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 286.265625,
+              "width": 169,
+              "height": 270.875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%"
+          },
+          "decoded": true,
+          "width": 355,
+          "height": 569
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-05.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 201,
+              "y": 270.265625,
+              "width": 169,
+              "height": 302.875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 40%"
+          },
+          "decoded": true,
+          "width": 995,
+          "height": 1587
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/official-dog-03.jpg",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 79.859375,
+              "width": 390,
+              "height": 685.21875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 42%"
+          },
+          "decoded": true,
+          "width": 1000,
+          "height": 1757
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#top",
+          "text": ""
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "Services"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#dogs",
+          "text": "Dogs"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#area",
+          "text": "Coverage"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "07466 669399"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/washy-washy-official-logo-20260902.jpg"
+          ],
+          "section": "body",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-04.jpg"
+          ],
+          "section": "top",
+          "focus": "50% 45%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-01.jpg"
+          ],
+          "section": "dogs",
+          "focus": "50% 45%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-02.jpg"
+          ],
+          "section": "dogs",
+          "focus": "50% 42%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) > figure:nth-of-type(3) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-05.webp"
+          ],
+          "section": "dogs",
+          "focus": "50% 40%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/official-dog-03.jpg"
+          ],
+          "section": "proof reveal is-visible",
+          "focus": "50% 42%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now",
+          "section": "top"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "Treat your dog now",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447466669399",
+          "text": "07466 669399",
+          "section": "area"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "tel:+447466669399",
+          "text": "Call or text",
+          "section": "area"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL]",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==",
+          "text": "Instagram",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "https://www.facebook.com/profile.php?id=100094918614918",
+          "text": "Facebook",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+          "text": "Your dog’s day, made easier.",
+          "section": "top"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "Two ways to care, at your door.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Wash & Go",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "Washywashy Luxury",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "From small puppy to large dog.",
+          "section": "dogs"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > h2:nth-of-type(1)",
+          "text": "We’re all about pampering your furry friend.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "text": "London care, without the journey.",
+          "section": "area"
+        }
+      ],
+      "width": 390,
+      "height": 5213
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

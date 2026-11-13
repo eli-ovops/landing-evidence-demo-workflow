@@ -1,0 +1,1 @@
+Official fixture: logo.svg, real.svg, grooming, map, social and telephone are required.

@@ -1,0 +1,61 @@
+{
+  "contractSha256": "af23738dd95ee8dd86989ab03e75fbe7cf936c7c929ada7748d4bff415001f2b",
+  "activeVersion": "v1",
+  "manifest": [
+    {
+      "path": "assets/antique-still-life.png",
+      "sha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581",
+      "bytes": 2312753
+    },
+    {
+      "path": "assets/objects-study.png",
+      "sha256": "a4333214311ced5a8f91cbd2c4a807b032ab03acd179417b465bdd94ced0392b",
+      "bytes": 2353973
+    },
+    {
+      "path": "assets/showroom-detail.jpg",
+      "sha256": "3cdba2effd6edf20c3d2d6e934c631ee6fcf538c40043e7c83ef0316f0abafce",
+      "bytes": 603011
+    },
+    {
+      "path": "assets/showroom-public.jpg",
+      "sha256": "a2faa3ae701303a5b8304a160c826c5be1a81ccc559ac3e24c26c52b3058b689",
+      "bytes": 120965
+    },
+    {
+      "path": "assets/silver-study.png",
+      "sha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1",
+      "bytes": 2349224
+    },
+    {
+      "path": "index.html",
+      "sha256": "927c67d25523aa426d2942991bd72402198dbc59a2ae3ce37182542c64899f80",
+      "bytes": 8671
+    },
+    {
+      "path": "styles.css",
+      "sha256": "ed73fb68db613af8565323a672af3e231f36e5f48d54e0b9d4e4f8f7cf70898f",
+      "bytes": 17563
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/docs/activation-source.csv",
+      "sha256": "4d4e041fe7b8803890d40cd37b68d916d33dd30d0a49ca8d1f1300fcb422c538"
+    }
+  ],
+  "engine": [
+    {
+      "path": "core.mjs",
+      "sha256": "3835c5ed4b4e697c68cb27c3fac20072b35097082db5281ac78137e89801d21e"
+    },
+    {
+      "path": "browser.mjs",
+      "sha256": "053d4fc0004e6cc67be6ca3f934fb83ebf8778251b4b47c720d9cbda758eb2be"
+    },
+    {
+      "path": "cli.mjs",
+      "sha256": "7346b822729975e77c7d13f96c48b3e10b66777779c4e94885460aa5b504130d"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T15:21:27.054Z",
+  "owner": "fixture-owner",
+  "client": "pseudo",
+  "activeVersion": "active",
+  "inputHash": "8d4baf8cc6fe4c6b1bc8f7c1216c6d236bff7630d207bd66c3c76088f9c5e24d",
+  "mechanical": "UNKNOWN",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "#real",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "desktop",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "BACKGROUND_PAINT_REVIEW",
+      "target": "#real",
+      "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "viewport": "mobile",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [
+      {
+        "code": "BACKGROUND_PAINT_REVIEW",
+        "target": "#real",
+        "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "BACKGROUND_PAINT_REVIEW",
+        "target": "#real",
+        "detail": "Background/pseudo decoded; paint occlusion, layering and crop require independent visual review",
+        "level": "UNKNOWN"
+      }
+    ],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "5d2146d7662ea425baee41905aff027a90de8d77435fe822ef02b87722ffb078"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "b5a7f3b4a8869fab85076db534effe91ee605a8d7a347cb24b44a8c66ce95305"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "304a79b66161c75c323adc94684f9a99ff0a93309f1c44f152f0a4a1b2aa1ed7"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "6f105946b8fa50209682d48ce35232b71c1da0846484657de21553dc6a9b7424"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "b3934d867bdda5bdd7272458b96bb9522fb047ca655c5b882cf58a4f91b06abc"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "e62e6a71ff4c9e6f735308114b58bb24756768ca56f8e8c47aacd88c9d45de22"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "b5ca507a4635757dde87f7591fae9bc920174d65973be32b5dfde279e128f868"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "6751a2b9f916cbaea44b6cc27e2fd36eff30df21dc956f4dc780d9e7cac71fa5"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-08T05:14:49.886Z",
+  "owner": "01a07f53-672a-7770-afcc-243bc0a789db",
+  "client": "Chris Roach Limited",
+  "activeVersion": "local-demo-v1",
+  "inputHash": "5cd5cdfd876dcf7b2ab42cacb45b187a33cef50bb26cf77d39ce3c49fed4a57f",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "INVALID_SELECTOR",
+      "target": "R19",
+      "detail": "#kitchen-photo;",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "INVALID_SELECTOR",
+      "target": "R20",
+      "detail": "#care-photo;",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "hero",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "work",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "care",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "testimonial",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "contact",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "INVALID_SELECTOR",
+      "target": "R19",
+      "detail": "#kitchen-photo;",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "INVALID_SELECTOR",
+      "target": "R20",
+      "detail": "#care-photo;",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "hero",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "work",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "care",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "testimonial",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    },
+    {
+      "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+      "target": "contact",
+      "detail": "Need independent evidence for this section",
+      "level": "UNKNOWN",
+      "repairClass": "EXTERNAL_OR_INDEPENDENT_REVIEW",
+      "nextAction": "保留离线/独立核验限制；不得静默当作页面 PASS，也不自动修改页面。",
+      "findingClass": "EXTERNAL/INDEPENDENT_REVIEW_UNKNOWN"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "INVALID_SELECTOR",
+        "target": "R19",
+        "detail": "#kitchen-photo;",
+        "level": "FAIL"
+      },
+      {
+        "code": "INVALID_SELECTOR",
+        "target": "R20",
+        "detail": "#care-photo;",
+        "level": "FAIL"
+      },
+      {
+        "code": "INVALID_SELECTOR",
+        "target": "R19",
+        "detail": "#kitchen-photo;",
+        "level": "FAIL"
+      },
+      {
+        "code": "INVALID_SELECTOR",
+        "target": "R20",
+        "detail": "#care-photo;",
+        "level": "FAIL"
+      }
+    ],
+    "external": [
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "hero",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "work",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "care",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "testimonial",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "contact",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "hero",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "work",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "care",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "testimonial",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      },
+      {
+        "code": "SECTION_SCREENSHOT_UNAVAILABLE",
+        "target": "contact",
+        "detail": "Need independent evidence for this section",
+        "level": "UNKNOWN"
+      }
+    ],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "5b5aa0529d7364cf4ce5da89b41f426ed23dc39c7a274a75640bafb1f960c238"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "8950d0f15467d949f2372c6224b7e28af91668cefac70c67e6316d5f7cec8180"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "82155b7cb16adca41f167752059df504ad75efc853a0bc7546ae5a7c7ef14fb5"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "da9a18a228a2e5682b926b4ae42c12e5ec8f716d1648b9013923f796d074ac41"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "3a0d9c8843cef46a330a96b51e6af4ba79c9115750b75b11ec09ebe48058c592"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "4ccb4b78f22b184580b65cd3f835e53e83c9e827db1098661ae1ec64b1e87159"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c0ac18f12cd59b3b3eb5f998535f01b528381dd68a1b8cbcb3cf5f1bb2f4badb"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "41b14264f26bab493f01a4953b056f39c10cbda6348982580f9536e54ee6b8d1"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

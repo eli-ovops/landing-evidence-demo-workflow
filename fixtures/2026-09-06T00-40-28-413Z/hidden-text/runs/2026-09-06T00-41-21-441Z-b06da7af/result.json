@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-06T00:41:23.269Z",
+  "owner": "fixture-owner",
+  "client": "hidden-text",
+  "activeVersion": "active",
+  "inputHash": "5b1b10dcb4af59977aa61592633416f91a53bd21d36c106a38ee70dcd7b74edb",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "desktop",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "I-fact",
+      "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复确证页面渲染/资源缺陷，再 run；不自动整体重做。",
+      "viewport": "mobile",
+      "findingClass": "PAGE_RENDER_DEFECT"
+    }
+  ],
+  "findingSummary": {
+    "contract": [],
+    "page": [
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-fact",
+        "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+        "level": "FAIL"
+      },
+      {
+        "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+        "target": "I-fact",
+        "detail": "Expected {\"selector\":\"#fact\",\"text\":\"Care for your dog\"}",
+        "level": "FAIL"
+      }
+    ],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "3cd3286ac5302f31678509cedf48f2fb369de532dbf4b1924eb93d0f49a89449"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "d8fb3805799857ba3497950386b1b74d800845ff6f04618a545917a1ffa09d9e"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "b936ec8cfc0c325cbe65e1a85f06cdadb9ee222e6f7d28560116689e083de89a"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "4e86472720adcd75242c526ce7f8fd448ddcf186fd9dc85224447eff8d0c92e5"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "d038e9f245933a0caa1803b456d50f82f56fd9d89186e8e215b46ea8507a6f2e"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "b8c9be053c8b812508d71a53a85c309cb2661fc61cf0284226f0aa3ba04b9683"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c578f7a747b06e6f8005c5648859d8c1721ac9e4374398698f0af5cb0ea94baf"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "3959dd0e1a72ec5fe83aca356e506bd72f6652ec80d3a5e45f98e7c94256cc0e"
+    }
+  ],
+  "nextAction": "Resolve the classed findings: contract reconciliation is not a page defect; only PAGE_RENDER DEFECT is a same-version page fix."
+}

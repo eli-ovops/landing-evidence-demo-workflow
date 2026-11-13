@@ -1,0 +1,2694 @@
+{
+  "schemaVersion": 1,
+  "client": "Lilux Developments",
+  "owner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "activeVersion": "demo_20260902/v6/index.html",
+  "currentEvidence": "v6/LOCAL_PREVIEW_PACKAGE_MANIFEST.md current index/style hashes",
+  "siteRoot": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "sha256": "95556d89a0a23b614c6b74d2a2050a276bf3fd56037e057651a02209ba32f3b1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "7ed4cf58cb7af8e6cee86305726ff65d9a2ca40d778711dd819806fd2c132a4b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "sha256": "e39f357f8e51ed188bf82a2cc8c127ad2cf8316c21f75fb36cedfc5b97679755"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S2",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S3",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S4",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S5",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S6",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S7",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S8",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S9",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S10",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S11",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S12",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S13",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S14",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S15",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S16",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S17",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S18",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S19",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S20",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S21",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S22",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S23",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S24",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S25",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S26",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S27",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S28",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S29",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S30",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S31",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S32",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S33",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S34",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S35",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S36",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S37",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S38",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S39",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S40",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S41",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S42",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S43",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S44",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S45",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S46",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S47",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S48",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S49",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S50",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S51",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S52",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S53",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S54",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S55",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S56",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S57",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S58",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    },
+    {
+      "id": "S59",
+      "grade": "UNKNOWN",
+      "url": "UNKNOWN",
+      "retrievedDate": "UNKNOWN",
+      "platform": "UNKNOWN",
+      "attribution": "UNKNOWN",
+      "importOrigin": "existing page observation; NOT proof of official provenance"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A1",
+      "path": "assets/official/IMG_2870.jpeg",
+      "sha256": "2e68f5d4acb0ddecd6128aa67093e82f5c211466fdb1f181cfde6f8addcb1915",
+      "originalPath": "assets/official/IMG_2870.jpeg",
+      "originalSha256": "2e68f5d4acb0ddecd6128aa67093e82f5c211466fdb1f181cfde6f8addcb1915",
+      "sourceId": "S1",
+      "role": "top",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A2",
+      "path": "assets/official/IMG_0315.jpeg",
+      "sha256": "08031b2a2fc23b56bebdd0156864c7bed762f7f78af8da83f35a2ecc8290b626",
+      "originalPath": "assets/official/IMG_0315.jpeg",
+      "originalSha256": "08031b2a2fc23b56bebdd0156864c7bed762f7f78af8da83f35a2ecc8290b626",
+      "sourceId": "S2",
+      "role": "hero",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A3",
+      "path": "assets/official/IMG_0316.jpeg",
+      "sha256": "9fa407c5b7b96e0d6ee8fea844cb0bfaf461e4f39b7229adf90f16dc1006ffc1",
+      "originalPath": "assets/official/IMG_0316.jpeg",
+      "originalSha256": "9fa407c5b7b96e0d6ee8fea844cb0bfaf461e4f39b7229adf90f16dc1006ffc1",
+      "sourceId": "S3",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A4",
+      "path": "assets/official/IMG_0317.jpeg",
+      "sha256": "579896e2175135552163d22d002729c74e0c618bf651f66fd35a40f72926e7fb",
+      "originalPath": "assets/official/IMG_0317.jpeg",
+      "originalSha256": "579896e2175135552163d22d002729c74e0c618bf651f66fd35a40f72926e7fb",
+      "sourceId": "S4",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A5",
+      "path": "assets/official/IMG_0798.jpeg",
+      "sha256": "c642bf5a23335291c4b9fa112c29e36027e3b8d66e35fecd81e5090b093a0404",
+      "originalPath": "assets/official/IMG_0798.jpeg",
+      "originalSha256": "c642bf5a23335291c4b9fa112c29e36027e3b8d66e35fecd81e5090b093a0404",
+      "sourceId": "S5",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A6",
+      "path": "assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg",
+      "sha256": "689bf46e085bab6fce36bdf3a07fb7c73766ef92ff6f8887b25cd18ee326db3d",
+      "originalPath": "assets/official/3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg",
+      "originalSha256": "689bf46e085bab6fce36bdf3a07fb7c73766ef92ff6f8887b25cd18ee326db3d",
+      "sourceId": "S6",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A7",
+      "path": "assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg",
+      "sha256": "8ccdfba774ba0ecba9c7b9d10a1f14d35a869833c69bebad76828548a949e162",
+      "originalPath": "assets/official/4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg",
+      "originalSha256": "8ccdfba774ba0ecba9c7b9d10a1f14d35a869833c69bebad76828548a949e162",
+      "sourceId": "S7",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A8",
+      "path": "assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg",
+      "sha256": "d90e9a923a5f9f4eb74d82138d7eee660bae65850c3feb0a59ac7aa19604b192",
+      "originalPath": "assets/official/16092f24-2457-4130-85b5-16dc0be81965.jpeg",
+      "originalSha256": "d90e9a923a5f9f4eb74d82138d7eee660bae65850c3feb0a59ac7aa19604b192",
+      "sourceId": "S8",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A9",
+      "path": "assets/official/IMG_0823.jpeg",
+      "sha256": "c0ee63dfc19dd4091e6d31baf2651ff565d4980fc28d695059c526e8d8e7fa02",
+      "originalPath": "assets/official/IMG_0823.jpeg",
+      "originalSha256": "c0ee63dfc19dd4091e6d31baf2651ff565d4980fc28d695059c526e8d8e7fa02",
+      "sourceId": "S9",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A10",
+      "path": "assets/official/IMG_0868.jpeg",
+      "sha256": "2c6ec6f0be2daf9298aeb4b16a2fc687858383c00904bc3103aa84df64981edc",
+      "originalPath": "assets/official/IMG_0868.jpeg",
+      "originalSha256": "2c6ec6f0be2daf9298aeb4b16a2fc687858383c00904bc3103aa84df64981edc",
+      "sourceId": "S10",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A11",
+      "path": "assets/official/IMG_0870.jpeg",
+      "sha256": "c1d12f08b88396dcb602c7b58f541ce9c56e498ff7c768e1672e55bc62ecf413",
+      "originalPath": "assets/official/IMG_0870.jpeg",
+      "originalSha256": "c1d12f08b88396dcb602c7b58f541ce9c56e498ff7c768e1672e55bc62ecf413",
+      "sourceId": "S11",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A12",
+      "path": "assets/official/IMG_1070.jpeg",
+      "sha256": "191e6d62718df5eace01894b442a3039e6968472b06fae450abb67748e961a2a",
+      "originalPath": "assets/official/IMG_1070.jpeg",
+      "originalSha256": "191e6d62718df5eace01894b442a3039e6968472b06fae450abb67748e961a2a",
+      "sourceId": "S12",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A13",
+      "path": "assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg",
+      "sha256": "9b23fc31e1fd716254b7ffb32186e5a9cd2dc09bca2c6d9fd28f4a71e6d40505",
+      "originalPath": "assets/official/408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg",
+      "originalSha256": "9b23fc31e1fd716254b7ffb32186e5a9cd2dc09bca2c6d9fd28f4a71e6d40505",
+      "sourceId": "S13",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A14",
+      "path": "assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg",
+      "sha256": "f94f3dacd26233e9e8ed735eb59e27da956313e1adc21c22d23fd9f2191c56e9",
+      "originalPath": "assets/official/4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg",
+      "originalSha256": "f94f3dacd26233e9e8ed735eb59e27da956313e1adc21c22d23fd9f2191c56e9",
+      "sourceId": "S14",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A15",
+      "path": "assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg",
+      "sha256": "49b8df8895c397352f96848e3ec29229811a2950cf914954c7fd1b0cab0a90ed",
+      "originalPath": "assets/official/5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg",
+      "originalSha256": "49b8df8895c397352f96848e3ec29229811a2950cf914954c7fd1b0cab0a90ed",
+      "sourceId": "S15",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A16",
+      "path": "assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg",
+      "sha256": "7d9ec537b43ad07c082d4e36564f6ca657c531dfc6f73e6e855fe19f8512e989",
+      "originalPath": "assets/official/81ee4574-e180-4919-9e48-0c0620ce120e.jpeg",
+      "originalSha256": "7d9ec537b43ad07c082d4e36564f6ca657c531dfc6f73e6e855fe19f8512e989",
+      "sourceId": "S16",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A17",
+      "path": "assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg",
+      "sha256": "bf34a21856b1c68918e5fbf757ed0e32119fe94213f148f812f74e5f2dab3752",
+      "originalPath": "assets/official/2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg",
+      "originalSha256": "bf34a21856b1c68918e5fbf757ed0e32119fe94213f148f812f74e5f2dab3752",
+      "sourceId": "S17",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A18",
+      "path": "assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg",
+      "sha256": "99a3a48b9fdd8a11b0fcbc644f315e6a9658ed5f0d66ee99d6fa3dc780c4d971",
+      "originalPath": "assets/official/af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg",
+      "originalSha256": "99a3a48b9fdd8a11b0fcbc644f315e6a9658ed5f0d66ee99d6fa3dc780c4d971",
+      "sourceId": "S18",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A19",
+      "path": "assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg",
+      "sha256": "c3e708037d37e757456faedee3c0258909b912a7596b81a4132e013378c7f101",
+      "originalPath": "assets/official/b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg",
+      "originalSha256": "c3e708037d37e757456faedee3c0258909b912a7596b81a4132e013378c7f101",
+      "sourceId": "S19",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A20",
+      "path": "assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg",
+      "sha256": "2ad2d7e6be975bc8860f8638f09a6b2dab9da0e1eb9651627fef7aa541f07d5f",
+      "originalPath": "assets/official/c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg",
+      "originalSha256": "2ad2d7e6be975bc8860f8638f09a6b2dab9da0e1eb9651627fef7aa541f07d5f",
+      "sourceId": "S20",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A21",
+      "path": "assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg",
+      "sha256": "65596ba7661b7c62767f9e90175dd890ce28c1a349e2c8c8c94a75c21bd59186",
+      "originalPath": "assets/official/32fea4df-7990-47cf-bfae-ca7078c62a90.jpeg",
+      "originalSha256": "65596ba7661b7c62767f9e90175dd890ce28c1a349e2c8c8c94a75c21bd59186",
+      "sourceId": "S21",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A22",
+      "path": "assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg",
+      "sha256": "3f842fb39a95d16f723250476648aa2e43812dd829d181f87b7ce8346be252e4",
+      "originalPath": "assets/official/3C58A51C-C747-4EDD-BFB1-B85FCABC9F74.jpeg",
+      "originalSha256": "3f842fb39a95d16f723250476648aa2e43812dd829d181f87b7ce8346be252e4",
+      "sourceId": "S22",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A23",
+      "path": "assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg",
+      "sha256": "d3eb19373fd5629f8b9f93ee9e48473c6d0d147be0b815cf7dfcabeef4147c1c",
+      "originalPath": "assets/official/5581b5a1-389d-4e66-bc6b-55699e206eed.jpeg",
+      "originalSha256": "d3eb19373fd5629f8b9f93ee9e48473c6d0d147be0b815cf7dfcabeef4147c1c",
+      "sourceId": "S23",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A24",
+      "path": "assets/official/IMG_1061.jpeg",
+      "sha256": "62d39eb1f2b39496ea7832579f3e5e378b929f9acbf92b5bc9f6e75d726e1d2b",
+      "originalPath": "assets/official/IMG_1061.jpeg",
+      "originalSha256": "62d39eb1f2b39496ea7832579f3e5e378b929f9acbf92b5bc9f6e75d726e1d2b",
+      "sourceId": "S24",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A25",
+      "path": "assets/official/IMG_2769.jpeg",
+      "sha256": "d179c71d77ebe8702b5ce10892e7aaf5b691ec3051de4c60732b827ea1d7c23c",
+      "originalPath": "assets/official/IMG_2769.jpeg",
+      "originalSha256": "d179c71d77ebe8702b5ce10892e7aaf5b691ec3051de4c60732b827ea1d7c23c",
+      "sourceId": "S25",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A26",
+      "path": "assets/official/IMG_3003.jpeg",
+      "sha256": "8dc0b3a18680e078c3eadd37db6c0d65d40506aa5af8c0c8020e8f66fb7c60e6",
+      "originalPath": "assets/official/IMG_3003.jpeg",
+      "originalSha256": "8dc0b3a18680e078c3eadd37db6c0d65d40506aa5af8c0c8020e8f66fb7c60e6",
+      "sourceId": "S26",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A27",
+      "path": "assets/official/IMG_3143.jpeg",
+      "sha256": "a9ab3b8579fc196b2e878b800f94979d018740862e46ba33a7de0c81a8b648c0",
+      "originalPath": "assets/official/IMG_3143.jpeg",
+      "originalSha256": "a9ab3b8579fc196b2e878b800f94979d018740862e46ba33a7de0c81a8b648c0",
+      "sourceId": "S27",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A28",
+      "path": "assets/official/IMG_3146.jpeg",
+      "sha256": "4c803a26daba7f69e1c0dba9a4419948f12694fce95ee78832b42d0f9ac9e931",
+      "originalPath": "assets/official/IMG_3146.jpeg",
+      "originalSha256": "4c803a26daba7f69e1c0dba9a4419948f12694fce95ee78832b42d0f9ac9e931",
+      "sourceId": "S28",
+      "role": "work",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A29",
+      "path": "assets/official/IMG_2770.jpeg",
+      "sha256": "77dfb1ad2dc60edd90292b899f652ff8695b3b237b9b177b93f5a7837b0e2620",
+      "originalPath": "assets/official/IMG_2770.jpeg",
+      "originalSha256": "77dfb1ad2dc60edd90292b899f652ff8695b3b237b9b177b93f5a7837b0e2620",
+      "sourceId": "S29",
+      "role": "proof",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A30",
+      "path": "assets/official/IMG_2766.jpeg",
+      "sha256": "b2fdd1b9df4e29fc8a1c7d31d6aa24c7e121e02181f1d937dcd28b9daff8fa83",
+      "originalPath": "assets/official/IMG_2766.jpeg",
+      "originalSha256": "b2fdd1b9df4e29fc8a1c7d31d6aa24c7e121e02181f1d937dcd28b9daff8fa83",
+      "sourceId": "S30",
+      "role": "proof",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    },
+    {
+      "id": "A31",
+      "path": "assets/official/IMG_2773.jpeg",
+      "sha256": "3fb0dcd240c9f351b227ed714cbd2dc268a7e2cecf97158c3af1043dd3583c91",
+      "originalPath": "assets/official/IMG_2773.jpeg",
+      "originalSha256": "3fb0dcd240c9f351b227ed714cbd2dc268a7e2cecf97158c3af1043dd3583c91",
+      "sourceId": "S31",
+      "role": "proof",
+      "focus": "50% 50%",
+      "authenticity": "UNKNOWN",
+      "rights": "UNKNOWN",
+      "permissionEvidence": "UNKNOWN"
+    }
+  ],
+  "items": [
+    {
+      "id": "R1",
+      "category": "image",
+      "baselineId": "B1",
+      "factState": "UNKNOWN",
+      "sourceId": "S1",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "top",
+      "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A1"
+    },
+    {
+      "id": "R2",
+      "category": "image",
+      "baselineId": "B2",
+      "factState": "UNKNOWN",
+      "sourceId": "S2",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "hero",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A2"
+    },
+    {
+      "id": "R3",
+      "category": "image",
+      "baselineId": "B3",
+      "factState": "UNKNOWN",
+      "sourceId": "S3",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A3"
+    },
+    {
+      "id": "R4",
+      "category": "image",
+      "baselineId": "B4",
+      "factState": "UNKNOWN",
+      "sourceId": "S4",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A4"
+    },
+    {
+      "id": "R5",
+      "category": "image",
+      "baselineId": "B5",
+      "factState": "UNKNOWN",
+      "sourceId": "S5",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A5"
+    },
+    {
+      "id": "R6",
+      "category": "image",
+      "baselineId": "B6",
+      "factState": "UNKNOWN",
+      "sourceId": "S6",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A6"
+    },
+    {
+      "id": "R7",
+      "category": "image",
+      "baselineId": "B7",
+      "factState": "UNKNOWN",
+      "sourceId": "S7",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A7"
+    },
+    {
+      "id": "R8",
+      "category": "image",
+      "baselineId": "B8",
+      "factState": "UNKNOWN",
+      "sourceId": "S8",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(2) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A8"
+    },
+    {
+      "id": "R9",
+      "category": "image",
+      "baselineId": "B9",
+      "factState": "UNKNOWN",
+      "sourceId": "S9",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A9"
+    },
+    {
+      "id": "R10",
+      "category": "image",
+      "baselineId": "B10",
+      "factState": "UNKNOWN",
+      "sourceId": "S10",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A10"
+    },
+    {
+      "id": "R11",
+      "category": "image",
+      "baselineId": "B11",
+      "factState": "UNKNOWN",
+      "sourceId": "S11",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A11"
+    },
+    {
+      "id": "R12",
+      "category": "image",
+      "baselineId": "B12",
+      "factState": "UNKNOWN",
+      "sourceId": "S12",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A12"
+    },
+    {
+      "id": "R13",
+      "category": "image",
+      "baselineId": "B13",
+      "factState": "UNKNOWN",
+      "sourceId": "S13",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A13"
+    },
+    {
+      "id": "R14",
+      "category": "image",
+      "baselineId": "B14",
+      "factState": "UNKNOWN",
+      "sourceId": "S14",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A14"
+    },
+    {
+      "id": "R15",
+      "category": "image",
+      "baselineId": "B15",
+      "factState": "UNKNOWN",
+      "sourceId": "S15",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A15"
+    },
+    {
+      "id": "R16",
+      "category": "image",
+      "baselineId": "B16",
+      "factState": "UNKNOWN",
+      "sourceId": "S16",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A16"
+    },
+    {
+      "id": "R17",
+      "category": "image",
+      "baselineId": "B17",
+      "factState": "UNKNOWN",
+      "sourceId": "S17",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A17"
+    },
+    {
+      "id": "R18",
+      "category": "image",
+      "baselineId": "B18",
+      "factState": "UNKNOWN",
+      "sourceId": "S18",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A18"
+    },
+    {
+      "id": "R19",
+      "category": "image",
+      "baselineId": "B19",
+      "factState": "UNKNOWN",
+      "sourceId": "S19",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A19"
+    },
+    {
+      "id": "R20",
+      "category": "image",
+      "baselineId": "B20",
+      "factState": "UNKNOWN",
+      "sourceId": "S20",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A20"
+    },
+    {
+      "id": "R21",
+      "category": "image",
+      "baselineId": "B21",
+      "factState": "UNKNOWN",
+      "sourceId": "S21",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A21"
+    },
+    {
+      "id": "R22",
+      "category": "image",
+      "baselineId": "B22",
+      "factState": "UNKNOWN",
+      "sourceId": "S22",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A22"
+    },
+    {
+      "id": "R23",
+      "category": "image",
+      "baselineId": "B23",
+      "factState": "UNKNOWN",
+      "sourceId": "S23",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A23"
+    },
+    {
+      "id": "R24",
+      "category": "image",
+      "baselineId": "B24",
+      "factState": "UNKNOWN",
+      "sourceId": "S24",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A24"
+    },
+    {
+      "id": "R25",
+      "category": "image",
+      "baselineId": "B25",
+      "factState": "UNKNOWN",
+      "sourceId": "S25",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A25"
+    },
+    {
+      "id": "R26",
+      "category": "image",
+      "baselineId": "B26",
+      "factState": "UNKNOWN",
+      "sourceId": "S26",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A26"
+    },
+    {
+      "id": "R27",
+      "category": "image",
+      "baselineId": "B27",
+      "factState": "UNKNOWN",
+      "sourceId": "S27",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A27"
+    },
+    {
+      "id": "R28",
+      "category": "image",
+      "baselineId": "B28",
+      "factState": "UNKNOWN",
+      "sourceId": "S28",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A28"
+    },
+    {
+      "id": "R29",
+      "category": "image",
+      "baselineId": "B29",
+      "factState": "UNKNOWN",
+      "sourceId": "S29",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "proof",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A29"
+    },
+    {
+      "id": "R30",
+      "category": "image",
+      "baselineId": "B30",
+      "factState": "UNKNOWN",
+      "sourceId": "S30",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "proof",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A30"
+    },
+    {
+      "id": "R31",
+      "category": "image",
+      "baselineId": "B31",
+      "factState": "UNKNOWN",
+      "sourceId": "S31",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "proof",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > figure:nth-of-type(3) > img:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A31"
+    },
+    {
+      "id": "R32",
+      "category": "path",
+      "baselineId": "B32",
+      "factState": "UNKNOWN",
+      "sourceId": "S32",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "top",
+      "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "mailto:[REDACTED_EMAIL]",
+      "text": "REQUEST A QUOTE ↗",
+      "promise": "REQUEST A QUOTE ↗"
+    },
+    {
+      "id": "R33",
+      "category": "path",
+      "baselineId": "B33",
+      "factState": "UNKNOWN",
+      "sourceId": "S33",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "mailto:[REDACTED_EMAIL]",
+      "text": "Discuss your project ↗",
+      "promise": "Discuss your project ↗"
+    },
+    {
+      "id": "R34",
+      "category": "path",
+      "baselineId": "B34",
+      "factState": "UNKNOWN",
+      "sourceId": "S34",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://liluxdevelopments.co.uk/stonework",
+      "text": "VIEW STONEWORK ↗",
+      "promise": "VIEW STONEWORK ↗"
+    },
+    {
+      "id": "R35",
+      "category": "path",
+      "baselineId": "B35",
+      "factState": "UNKNOWN",
+      "sourceId": "S35",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://liluxdevelopments.co.uk/extensions",
+      "text": "EXPLORE EXTENSIONS ↗",
+      "promise": "EXPLORE EXTENSIONS ↗"
+    },
+    {
+      "id": "R36",
+      "category": "path",
+      "baselineId": "B36",
+      "factState": "UNKNOWN",
+      "sourceId": "S36",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://liluxdevelopments.co.uk/extensions",
+      "text": "Extensions Make more of home. ↗",
+      "promise": "Extensions Make more of home. ↗"
+    },
+    {
+      "id": "R37",
+      "category": "path",
+      "baselineId": "B37",
+      "factState": "UNKNOWN",
+      "sourceId": "S37",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://liluxdevelopments.co.uk/conversions",
+      "text": "Conversions Bring existing space into use. ↗",
+      "promise": "Conversions Bring existing space into use. ↗"
+    },
+    {
+      "id": "R38",
+      "category": "path",
+      "baselineId": "B38",
+      "factState": "UNKNOWN",
+      "sourceId": "S38",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://liluxdevelopments.co.uk/stonework",
+      "text": "Brick & stonework Repair, restoration and new work. ↗",
+      "promise": "Brick & stonework Repair, restoration and new work. ↗"
+    },
+    {
+      "id": "R39",
+      "category": "path",
+      "baselineId": "B39",
+      "factState": "UNKNOWN",
+      "sourceId": "S39",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(4)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://liluxdevelopments.co.uk/chimney-repair",
+      "text": "Chimney repair Protect the building fabric. ↗",
+      "promise": "Chimney repair Protect the building fabric. ↗"
+    },
+    {
+      "id": "R40",
+      "category": "path",
+      "baselineId": "B40",
+      "factState": "UNKNOWN",
+      "sourceId": "S40",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(5)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://liluxdevelopments.co.uk/new-builds",
+      "text": "New builds From groundwork to finish. ↗",
+      "promise": "New builds From groundwork to finish. ↗"
+    },
+    {
+      "id": "R41",
+      "category": "path",
+      "baselineId": "B41",
+      "factState": "UNKNOWN",
+      "sourceId": "S41",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://liluxdevelopments.co.uk/reviews",
+      "text": "READ CURRENT REVIEWS ↗",
+      "promise": "READ CURRENT REVIEWS ↗"
+    },
+    {
+      "id": "R42",
+      "category": "path",
+      "baselineId": "B42",
+      "factState": "UNKNOWN",
+      "sourceId": "S42",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://www.google.com/maps/search/?api=1&query=Abbotsbury%2C+Weymouth%2C+UK",
+      "text": "Get directions ↗",
+      "promise": "Get directions ↗"
+    },
+    {
+      "id": "R43",
+      "category": "path",
+      "baselineId": "B43",
+      "factState": "UNKNOWN",
+      "sourceId": "S43",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "mailto:[REDACTED_EMAIL]",
+      "text": "[REDACTED_EMAIL] ↗",
+      "promise": "[REDACTED_EMAIL] ↗"
+    },
+    {
+      "id": "R44",
+      "category": "path",
+      "baselineId": "B44",
+      "factState": "UNKNOWN",
+      "sourceId": "S44",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "tel:+447734255885",
+      "text": "07734 255885 ↗",
+      "promise": "07734 255885 ↗"
+    },
+    {
+      "id": "R45",
+      "category": "fact",
+      "baselineId": "B45",
+      "factState": "UNKNOWN",
+      "sourceId": "S45",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "content",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Brick & stonework. Built properly."
+    },
+    {
+      "id": "R46",
+      "category": "fact",
+      "baselineId": "B46",
+      "factState": "UNKNOWN",
+      "sourceId": "S46",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "content",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Good building starts with a clear conversation, then earns trust in the detail."
+    },
+    {
+      "id": "R47",
+      "category": "fact",
+      "baselineId": "B47",
+      "factState": "UNKNOWN",
+      "sourceId": "S47",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "content",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > header:nth-of-type(1) > h2:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Three ways craft shows up."
+    },
+    {
+      "id": "R48",
+      "category": "fact",
+      "baselineId": "B48",
+      "factState": "UNKNOWN",
+      "sourceId": "S48",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Built to hold its place."
+    },
+    {
+      "id": "R49",
+      "category": "fact",
+      "baselineId": "B49",
+      "factState": "UNKNOWN",
+      "sourceId": "S49",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Space that works harder."
+    },
+    {
+      "id": "R50",
+      "category": "fact",
+      "baselineId": "B50",
+      "factState": "UNKNOWN",
+      "sourceId": "S50",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "work",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1) > h3:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Care you can see."
+    },
+    {
+      "id": "R51",
+      "category": "fact",
+      "baselineId": "B51",
+      "factState": "UNKNOWN",
+      "sourceId": "S51",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "content",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > header:nth-of-type(1) > h2:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Built around real life."
+    },
+    {
+      "id": "R52",
+      "category": "fact",
+      "baselineId": "B52",
+      "factState": "UNKNOWN",
+      "sourceId": "S52",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1) > h3:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Extensions"
+    },
+    {
+      "id": "R53",
+      "category": "fact",
+      "baselineId": "B53",
+      "factState": "UNKNOWN",
+      "sourceId": "S53",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2) > h3:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Conversions"
+    },
+    {
+      "id": "R54",
+      "category": "fact",
+      "baselineId": "B54",
+      "factState": "UNKNOWN",
+      "sourceId": "S54",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(3) > h3:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Brick & stonework"
+    },
+    {
+      "id": "R55",
+      "category": "fact",
+      "baselineId": "B55",
+      "factState": "UNKNOWN",
+      "sourceId": "S55",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(4) > h3:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Chimney repair"
+    },
+    {
+      "id": "R56",
+      "category": "fact",
+      "baselineId": "B56",
+      "factState": "UNKNOWN",
+      "sourceId": "S56",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "services",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(5) > h3:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "New builds"
+    },
+    {
+      "id": "R57",
+      "category": "fact",
+      "baselineId": "B57",
+      "factState": "UNKNOWN",
+      "sourceId": "S57",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "content",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(2) > h2:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Honesty in the process. Care in the finish."
+    },
+    {
+      "id": "R58",
+      "category": "fact",
+      "baselineId": "B58",
+      "factState": "UNKNOWN",
+      "sourceId": "S58",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "contact",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Local, clear and easy to reach."
+    },
+    {
+      "id": "R59",
+      "category": "fact",
+      "baselineId": "B59",
+      "factState": "UNKNOWN",
+      "sourceId": "S59",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "content",
+      "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8) > h2:nth-of-type(1)",
+      "reason": "",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Tell Lilux what you have in mind."
+    }
+  ],
+  "hero": {
+    "selector": "UNKNOWN",
+    "ctaSelector": "UNKNOWN"
+  },
+  "sections": [],
+  "coverageReview": "UNKNOWN — refreshed from source-only baseline; Owner reconcile required",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "UNKNOWN",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 16,
+      "text": "| File | SHA-256 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 18,
+      "text": "| 16092f24-2457-4130-85b5-16dc0be81965.jpeg | d90e9a923a5f9f4eb74d82138d7eee660bae65850c3feb0a59ac7aa19604b192 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 19,
+      "text": "| 2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg | bf34a21856b1c68918e5fbf757ed0e32119fe94213f148f812f74e5f2dab3752 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 20,
+      "text": "| 3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg | 689bf46e085bab6fce36bdf3a07fb7c73766ef92ff6f8887b25cd18ee326db3d |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 21,
+      "text": "| 408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg | 9b23fc31e1fd716254b7ffb32186e5a9cd2dc09bca2c6d9fd28f4a71e6d40505 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 22,
+      "text": "| 4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg | 8ccdfba774ba0ecba9c7b9d10a1f14d35a869833c69bebad76828548a949e162 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 23,
+      "text": "| 4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg | f94f3dacd26233e9e8ed735eb59e27da956313e1adc21c22d23fd9f2191c56e9 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 24,
+      "text": "| 5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg | 49b8df8895c397352f96848e3ec29229811a2950cf914954c7fd1b0cab0a90ed |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 25,
+      "text": "| 81ee4574-e180-4919-9e48-0c0620ce120e.jpeg | 7d9ec537b43ad07c082d4e36564f6ca657c531dfc6f73e6e855fe19f8512e989 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 26,
+      "text": "| IMG_0315.jpeg | 08031b2a2fc23b56bebdd0156864c7bed762f7f78af8da83f35a2ecc8290b626 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 27,
+      "text": "| IMG_0316.jpeg | 9fa407c5b7b96e0d6ee8fea844cb0bfaf461e4f39b7229adf90f16dc1006ffc1 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 28,
+      "text": "| IMG_0317.jpeg | 579896e2175135552163d22d002729c74e0c618bf651f66fd35a40f72926e7fb |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 29,
+      "text": "| IMG_0798.jpeg | c642bf5a23335291c4b9fa112c29e36027e3b8d66e35fecd81e5090b093a0404 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 30,
+      "text": "| IMG_0823.jpeg | c0ee63dfc19dd4091e6d31baf2651ff565d4980fc28d695059c526e8d8e7fa02 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 31,
+      "text": "| IMG_0868.jpeg | 2c6ec6f0be2daf9298aeb4b16a2fc687858383c00904bc3103aa84df64981edc |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 32,
+      "text": "| IMG_0870.jpeg | c1d12f08b88396dcb602c7b58f541ce9c56e498ff7c768e1672e55bc62ecf413 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 33,
+      "text": "| IMG_1070.jpeg | 191e6d62718df5eace01894b442a3039e6968472b06fae450abb67748e961a2a |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 34,
+      "text": "| IMG_2773.jpeg | 3fb0dcd240c9f351b227ed714cbd2dc268a7e2cecf97158c3af1043dd3583c91 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 35,
+      "text": "| IMG_2870.jpeg | 2e68f5d4acb0ddecd6128aa67093e82f5c211466fdb1f181cfde6f8addcb1915 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 36,
+      "text": "| af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg | 99a3a48b9fdd8a11b0fcbc644f315e6a9658ed5f0d66ee99d6fa3dc780c4d971 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 37,
+      "text": "| b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg | c3e708037d37e757456faedee3c0258909b912a7596b81a4132e013378c7f101 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 38,
+      "text": "| c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg | 2ad2d7e6be975bc8860f8638f09a6b2dab9da0e1eb9651627fef7aa541f07d5f |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 5,
+      "text": "| Item | Observed fact | Source | Disposition |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 7,
+      "text": "| Identity | LILUX DEVELOPMENTS LIMITED is an active UK private company, company no. 13954959; SIC 41100, development of building projects. | https://find-and-update.company-information.service.gov.uk/company/13954959 | FACT/PARAPHRASE USE: identity only, not displayed as a claim of endorsement. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 8,
+      "text": "| Location | Checkatrade lists Weymouth, Dorset; company site describes projects in the south west. | https://www.checkatrade.com/trades/liluxdevelopmentslimited ; https://liluxdevelopments.co.uk/ | LOCATION/VISIT USE: Dorset / south west context. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 9,
+      "text": "| Services | Checkatrade lists Brick / Concrete Structural Repairs, stonework, chimney repair/rebuild, foundations and general building. | https://www.checkatrade.com/trades/liluxdevelopmentslimited | DIRECT USE: three focused service categories, without adding unverified capabilities. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 10,
+      "text": "| Trust input | Checkatrade profile shows 10/10 and 8 reviews when checked. | https://www.checkatrade.com/trades/liluxdevelopmentslimited | FACT/PARAPHRASE USE: avoid exact score and review count in concept to prevent drift; use no invented testimonial. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 11,
+      "text": "| Contact | Official site visibly publishes [REDACTED_EMAIL] and 07734255885. | https://liluxdevelopments.co.uk/ | DIRECT USE: mailto and tel links. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 12,
+      "text": "| Current owned site | Public site has generic construction positioning and category-led project navigation. | https://liluxdevelopments.co.uk/ ; https://liluxdevelopments.co.uk/explore-our-work | Basis for an independent concept direction only. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 13,
+      "text": "| Official imagery | No official image files were downloaded or reused for this demo. | N/A | EXCLUDE: use original concept visuals. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 24,
+      "text": "| Direction | Summary | Decision |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 26,
+      "text": "| A: Civic material index | Dark coal surface, signal-red repair vocabulary, an original masonry specimen treated as an object, non-card service chapters. | **Selected**. It changes visual soul, palette, type, hero engine and section rhythm from V2. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 27,
+      "text": "| B: Quiet property journal | Pale editorial pages, large serif and architecture photography. | Rejected. It repeats V2's visual language and cannot credibly claim a project journal without verified customer work imagery. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 31,
+      "text": "| Public fact / permitted concept | Page role | V3 expression |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 33,
+      "text": "| Lilux Developments, Dorset | Identity | restrained masthead and close label |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 34,
+      "text": "| Structural masonry repair | Primary service | hero specimen and first full-width chapter |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 35,
+      "text": "| Chimney repair / rebuilding | Service | tall red-window chapter with original chimney concept visual |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 36,
+      "text": "| Stonework | Service | material strip and original stonework concept visual |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 37,
+      "text": "| Checkatrade public profile | Verification route | live external route, without copied scores/counts/reviews |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 38,
+      "text": "| Public email and telephone | Action | fixed, explicit final contact route |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 44,
+      "text": "| Skill | Decision that changes V3 |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 46,
+      "text": "| finesse-ui redesign + soul | Diagnosed V2's over-familiar editorial-serf/eyebrow/numbered-layout language and selected a new non-default civic material soul. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 47,
+      "text": "| finesse-ui premium substrate + anti-cheap | Grain, tinted coal, single locked red, no pure black/white, no card grid, no eye-brow repetition, no false metrics. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 48,
+      "text": "| design-taste-frontend | Requires a distinct visual hierarchy and content-first original composition rather than a recycled landing-page layout. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 49,
+      "text": "| imagegen | Generates service-specific original concept visual objects because no official project assets are available for safe use. |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 50,
+      "text": "| website-delivery-sop | Keeps V3 local/static only, with no data collection or deployment. |"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 16,
+      "excerpt": "| File | SHA-256 |",
+      "excerptSha256": "5cf3e79551580ba0027ef08e5be9c61049fcce9d2fda7c1faedee2c3e047adbb",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE2",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 18,
+      "excerpt": "| 16092f24-2457-4130-85b5-16dc0be81965.jpeg | d90e9a923a5f9f4eb74d82138d7eee660bae65850c3feb0a59ac7aa19604b192 |",
+      "excerptSha256": "d53d60b76195d826e42d3cc54d07996b4ecfec8ba48d7c4f0f8b1d4789e7fb20",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE3",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 19,
+      "excerpt": "| 2ce5f121-22b6-42f3-b88a-da2f21ff2196.jpeg | bf34a21856b1c68918e5fbf757ed0e32119fe94213f148f812f74e5f2dab3752 |",
+      "excerptSha256": "397430ca8296dedb5497c8f2059a6b8bae2969aeb6f57956a65ba90158d54cc7",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE4",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 20,
+      "excerpt": "| 3a08448e-7a8b-42b0-a207-e0b119640a00.jpeg | 689bf46e085bab6fce36bdf3a07fb7c73766ef92ff6f8887b25cd18ee326db3d |",
+      "excerptSha256": "07c1959da10b43ce6078fbd05c4baae79d20d76246cc44e6b6fdc6536a32aac9",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE5",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 21,
+      "excerpt": "| 408157cc-a9d3-460f-82f1-65f4aad2a37e.jpeg | 9b23fc31e1fd716254b7ffb32186e5a9cd2dc09bca2c6d9fd28f4a71e6d40505 |",
+      "excerptSha256": "8715e501d6abfac93617e45d8e63994b3a507fc3634302783cdeab5b556a987f",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE6",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 22,
+      "excerpt": "| 4822f805-1cfd-4547-bb49-e3e2a42be7da.jpeg | 8ccdfba774ba0ecba9c7b9d10a1f14d35a869833c69bebad76828548a949e162 |",
+      "excerptSha256": "0d47bf6fa20c9d023f9d4c56f6a2b8a34aa45bb7e11da16fb0fcea66d633ff77",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE7",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 23,
+      "excerpt": "| 4e51d113-4d71-4efd-8a2c-dc8160ee5204.jpeg | f94f3dacd26233e9e8ed735eb59e27da956313e1adc21c22d23fd9f2191c56e9 |",
+      "excerptSha256": "5c373fde13e5c2396d508619c2b13a91adadb3c57080b819037f1cd21699afff",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE8",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 24,
+      "excerpt": "| 5e9a96ad-3988-4881-92fb-73d511dcc4e9.jpeg | 49b8df8895c397352f96848e3ec29229811a2950cf914954c7fd1b0cab0a90ed |",
+      "excerptSha256": "c6f9c9c6f3b9977546bda85b5fbd45ba5090ad32bd60d016fbbe0b4f627e5c5c",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE9",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 25,
+      "excerpt": "| 81ee4574-e180-4919-9e48-0c0620ce120e.jpeg | 7d9ec537b43ad07c082d4e36564f6ca657c531dfc6f73e6e855fe19f8512e989 |",
+      "excerptSha256": "290e95d4d8f6fc672fe8e3b9587c5824a32426e5c60a4a156650c8efe754710d",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE10",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 26,
+      "excerpt": "| IMG_0315.jpeg | 08031b2a2fc23b56bebdd0156864c7bed762f7f78af8da83f35a2ecc8290b626 |",
+      "excerptSha256": "205ecc76f6a91bbd7ccd24c276ebd9bd351a02f7821dd57ab70f8dff59170cb6",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE11",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 27,
+      "excerpt": "| IMG_0316.jpeg | 9fa407c5b7b96e0d6ee8fea844cb0bfaf461e4f39b7229adf90f16dc1006ffc1 |",
+      "excerptSha256": "911b4e39fff7b8e96925271e14f1899684c2839e264408bd86c301a3954155f3",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE12",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 28,
+      "excerpt": "| IMG_0317.jpeg | 579896e2175135552163d22d002729c74e0c618bf651f66fd35a40f72926e7fb |",
+      "excerptSha256": "bdebcd0a7f07ed038d88ffcabdb9d75e3807c6e460a9b198603fe7b6aee2613b",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE13",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 29,
+      "excerpt": "| IMG_0798.jpeg | c642bf5a23335291c4b9fa112c29e36027e3b8d66e35fecd81e5090b093a0404 |",
+      "excerptSha256": "b9ca6bd573edfc529a1388436f7eae28299fa3c01b1a9a2c4ce4623b73708de0",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE14",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 30,
+      "excerpt": "| IMG_0823.jpeg | c0ee63dfc19dd4091e6d31baf2651ff565d4980fc28d695059c526e8d8e7fa02 |",
+      "excerptSha256": "adc59019152602025fff78784926bf3ae2df3c0e4cd41899b8c5d451b7887b72",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE15",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 31,
+      "excerpt": "| IMG_0868.jpeg | 2c6ec6f0be2daf9298aeb4b16a2fc687858383c00904bc3103aa84df64981edc |",
+      "excerptSha256": "bce997e13cb1b57a4c7e605c6d3d2bc4430f209cb0d4376ca14a824684d42c1d",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE16",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 32,
+      "excerpt": "| IMG_0870.jpeg | c1d12f08b88396dcb602c7b58f541ce9c56e498ff7c768e1672e55bc62ecf413 |",
+      "excerptSha256": "14a803e9ccc4d5b921152438a4c41daf7203d1ed3afe06d0fcf3196d963a3b2e",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE17",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 33,
+      "excerpt": "| IMG_1070.jpeg | 191e6d62718df5eace01894b442a3039e6968472b06fae450abb67748e961a2a |",
+      "excerptSha256": "5fe76b51ee5c9d6d619bbbad62eef13fe11739081c9201178f7620e8f7e086f4",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE18",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 34,
+      "excerpt": "| IMG_2773.jpeg | 3fb0dcd240c9f351b227ed714cbd2dc268a7e2cecf97158c3af1043dd3583c91 |",
+      "excerptSha256": "f65f58f725be22c3a2757cef1a1c3c6357c98f0fe579fcad14a12abacce28023",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE19",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 35,
+      "excerpt": "| IMG_2870.jpeg | 2e68f5d4acb0ddecd6128aa67093e82f5c211466fdb1f181cfde6f8addcb1915 |",
+      "excerptSha256": "a56acb346d5a943f0450c9803ee6a74006db46a8d869a9664dd301d6dd1ed253",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE20",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 36,
+      "excerpt": "| af82021d-4ca4-40a1-b51b-0b346287c4fc.jpeg | 99a3a48b9fdd8a11b0fcbc644f315e6a9658ed5f0d66ee99d6fa3dc780c4d971 |",
+      "excerptSha256": "bc881247c90ba12018ee181ad4938f1498085980ab29776b7fd36200268f1a24",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE21",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 37,
+      "excerpt": "| b01a87bc-ce0e-4f17-9cd5-ede2d15744d2.jpeg | c3e708037d37e757456faedee3c0258909b912a7596b81a4132e013378c7f101 |",
+      "excerptSha256": "a39e2bd180ede7fc9d8c279e2f36448bf33748d1def4c63088b61cd777962525",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE22",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md",
+      "line": 38,
+      "excerpt": "| c4e96da3-704b-4b8f-a26f-1f8b8d21bfe5.jpeg | 2ad2d7e6be975bc8860f8638f09a6b2dab9da0e1eb9651627fef7aa541f07d5f |",
+      "excerptSha256": "475cf427571ce61ef1d8134c7c707c2bb387efadb2acf4d005a55e429199b01b",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE23",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 5,
+      "excerpt": "| Item | Observed fact | Source | Disposition |",
+      "excerptSha256": "5cbc55238546006c93e8d01247be149d27fc352fa45a27ab0c8da63efabc8e47",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE24",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 7,
+      "excerpt": "| Identity | LILUX DEVELOPMENTS LIMITED is an active UK private company, company no. 13954959; SIC 41100, development of building projects. | https://find-and-update.company-information.service.gov.uk/company/13954959 | FACT/PARAPHRASE USE: identity only, not displayed as a claim of endorsement. |",
+      "excerptSha256": "2b0034c6bc0cc54e1d3b84610fd6d53d8b354ab5fc4f8d38a0dbe378d9ee6fa4",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE25",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 8,
+      "excerpt": "| Location | Checkatrade lists Weymouth, Dorset; company site describes projects in the south west. | https://www.checkatrade.com/trades/liluxdevelopmentslimited ; https://liluxdevelopments.co.uk/ | LOCATION/VISIT USE: Dorset / south west context. |",
+      "excerptSha256": "8da5523aa2399e94550ca28174e2f243bf7eff8af5285eb2f6802ff230aa4756",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE26",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 9,
+      "excerpt": "| Services | Checkatrade lists Brick / Concrete Structural Repairs, stonework, chimney repair/rebuild, foundations and general building. | https://www.checkatrade.com/trades/liluxdevelopmentslimited | DIRECT USE: three focused service categories, without adding unverified capabilities. |",
+      "excerptSha256": "6ca2227268392be1a0a9c5ef91b0915316ef079af9101522c3ab0f60ab7a0021",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE27",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 10,
+      "excerpt": "| Trust input | Checkatrade profile shows 10/10 and 8 reviews when checked. | https://www.checkatrade.com/trades/liluxdevelopmentslimited | FACT/PARAPHRASE USE: avoid exact score and review count in concept to prevent drift; use no invented testimonial. |",
+      "excerptSha256": "cb3a1623ba06203dc0d1594fded8c9b0656d574fad2830c683cb977771e9c77b",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE28",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 11,
+      "excerpt": "| Contact | Official site visibly publishes [REDACTED_EMAIL] and 07734255885. | https://liluxdevelopments.co.uk/ | DIRECT USE: mailto and tel links. |",
+      "excerptSha256": "445c2c2a70ba0b984205432dbba79165030ef9dc6c7f38b7892ce0adabc53d2d",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE29",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 12,
+      "excerpt": "| Current owned site | Public site has generic construction positioning and category-led project navigation. | https://liluxdevelopments.co.uk/ ; https://liluxdevelopments.co.uk/explore-our-work | Basis for an independent concept direction only. |",
+      "excerptSha256": "c75b052c8e3adb0a5dd1b4232c2be2bee3f2f8587304e5e4d90f3d50f6c7af1e",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE30",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 13,
+      "excerpt": "| Official imagery | No official image files were downloaded or reused for this demo. | N/A | EXCLUDE: use original concept visuals. |",
+      "excerptSha256": "465d510d110525a1230aa7473fe22c741e68d77e07dc68592e8a6c7c8642a8ca",
+      "disposition": "SUPERSEDED",
+      "itemIds": [],
+      "reason": "V6 ASSET_SOURCES.md lines 1-13 and 18-38 identify the current V6 local files as direct official public media with matching hashes; this V3-era no-official-imagery statement does not describe the active V6 package."
+    },
+    {
+      "id": "BASE31",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 24,
+      "excerpt": "| Direction | Summary | Decision |",
+      "excerptSha256": "cee04eef30167a5b3d3dfd3a5f33870e33be438ef10439e25941b4ac55af5e7e",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE32",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 26,
+      "excerpt": "| A: Civic material index | Dark coal surface, signal-red repair vocabulary, an original masonry specimen treated as an object, non-card service chapters. | **Selected**. It changes visual soul, palette, type, hero engine and section rhythm from V2. |",
+      "excerptSha256": "55782f2209dd8e8d17984158b962709e6d0aaf7bc7100a0e1e5855146bee65a7",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE33",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 27,
+      "excerpt": "| B: Quiet property journal | Pale editorial pages, large serif and architecture photography. | Rejected. It repeats V2's visual language and cannot credibly claim a project journal without verified customer work imagery. |",
+      "excerptSha256": "1c7f9a736c460cc6345c1831a09c208e77d01b8dceaa754eb35fea867b0c1362",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE34",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 31,
+      "excerpt": "| Public fact / permitted concept | Page role | V3 expression |",
+      "excerptSha256": "d042c0cf1b75bdbdc77ce7fa1e8f8418e685ae247ee321128207d3144ec9629f",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE35",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 33,
+      "excerpt": "| Lilux Developments, Dorset | Identity | restrained masthead and close label |",
+      "excerptSha256": "5aedd13de96869142643ad4e3c3b1462164ccba2f09e316e9afe97ed90f63e8d",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE36",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 34,
+      "excerpt": "| Structural masonry repair | Primary service | hero specimen and first full-width chapter |",
+      "excerptSha256": "2a2a6cfe24fe3a3015c443cf3f1f191aeb04b23d5188f441410d376baa322e6a",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE37",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 35,
+      "excerpt": "| Chimney repair / rebuilding | Service | tall red-window chapter with original chimney concept visual |",
+      "excerptSha256": "2b84d025884587046894a7baeb744630ea29199cb63f8dc6611b55fd133eb89d",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE38",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 36,
+      "excerpt": "| Stonework | Service | material strip and original stonework concept visual |",
+      "excerptSha256": "2073b8ae00f5dd5cd53b5dc989e7087e68f648bb2b4c0e018722803210d6b0a0",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE39",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 37,
+      "excerpt": "| Checkatrade public profile | Verification route | live external route, without copied scores/counts/reviews |",
+      "excerptSha256": "cedfe9613373bf38a1c899d4979e6193ae318b17d79a8a3467d486b948829782",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE40",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 38,
+      "excerpt": "| Public email and telephone | Action | fixed, explicit final contact route |",
+      "excerptSha256": "b78a2b2390c397d6ed918c4761aad8d03d5717da9bf866772ed155b113651ab1",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE41",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 44,
+      "excerpt": "| Skill | Decision that changes V3 |",
+      "excerptSha256": "9aebf71d51d539ba477313d21615649450879400e6d7c1b6c1ec216214def819",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE42",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 46,
+      "excerpt": "| finesse-ui redesign + soul | Diagnosed V2's over-familiar editorial-serf/eyebrow/numbered-layout language and selected a new non-default civic material soul. |",
+      "excerptSha256": "acca5765a4b7e4255725df49bf2e6c8a79d28ef463fea76840737fa255e29966",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE43",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 47,
+      "excerpt": "| finesse-ui premium substrate + anti-cheap | Grain, tinted coal, single locked red, no pure black/white, no card grid, no eye-brow repetition, no false metrics. |",
+      "excerptSha256": "b1cc4f509335f247a05bb0eae1fd8e6b0b0adc270c413c77e3700a33488ef78f",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE44",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 48,
+      "excerpt": "| design-taste-frontend | Requires a distinct visual hierarchy and content-first original composition rather than a recycled landing-page layout. |",
+      "excerptSha256": "a252f67ffd539ca5526b9756749b65c57a354cf3911fd7db6e7b959e7096760f",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    },
+    {
+      "id": "BASE45",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 49,
+      "excerpt": "| imagegen | Generates service-specific original concept visual objects because no official project assets are available for safe use. |",
+      "excerptSha256": "c86223985c2c100e15b9cce57fc3c9e09913a2c6432fb97a4d8fa18abf0d0e96",
+      "disposition": "SUPERSEDED",
+      "itemIds": [],
+      "reason": "V3's generated-concept asset decision conflicts with V6 ASSET_SOURCES.md lines 1-13, which provides source URLs and hashes for the current V6 official media. This records the version conflict; it does not assert transfer rights."
+    },
+    {
+      "id": "BASE46",
+      "file": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md",
+      "line": 50,
+      "excerpt": "| website-delivery-sop | Keeps V3 local/static only, with no data collection or deployment. |",
+      "excerptSha256": "3c06765212dafe1c2b6928678aac4df74d895f15bd9b9171d8da5504b791f55d",
+      "disposition": "UNMAPPED",
+      "itemIds": [],
+      "reason": ""
+    }
+  ]
+}

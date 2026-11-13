@@ -1,0 +1,1867 @@
+{
+  "defects": [],
+  "views": {
+    "desktop": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#location",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 755,
+                "y": 453.578125,
+                "width": 605,
+                "height": 16.5
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "BASED IN GRASSMOOR, CHESTERFIELD",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#location",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 755,
+              "y": 453.578125,
+              "width": 605,
+              "height": 16.5
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "BASED IN GRASSMOOR, CHESTERFIELD",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".phone-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 1214.21875,
+                "y": 38,
+                "width": 145.78125,
+                "height": 31
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "↗ 07725 999370",
+              "actualHref": "tel:+447725999370",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".phone-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 1214.21875,
+              "y": 38,
+              "width": 145.78125,
+              "height": 31
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "↗ 07725 999370",
+            "actualHref": "tel:+447725999370",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "EMAIL",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".email-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 755,
+                "y": 483.375,
+                "width": 605,
+                "height": 57.59375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".email-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 755,
+              "y": 483.375,
+              "width": 605,
+              "height": 57.59375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": -89.609375,
+                "width": 1280,
+                "height": 1104.171875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "AROUND YOUR HOME What’s on your to-do list? From a single fitting to a list of little repairs. Explore the kinds of work Steve helps with. 01 — INDOORS REPAIR · FIT · IMPROVE Shelves up. Little fixes done. Help with everyday fittings and the small repairs on your list. Shelves & cupboards Handrails & small repairs Kitchen tap replacements Wall-mounted TVs 02 — OUTDOORS ASSEMBLE · REPAIR More from your outdoor space. From assembling a garden building to useful repairs outside. Sheds & summerhouses Decking Outdoor handrails One small job is a good place to start. Not sure where your job fits? Describe it when you get in touch.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": -89.609375,
+              "width": 1280,
+              "height": 1104.171875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "AROUND YOUR HOME What’s on your to-do list? From a single fitting to a list of little repairs. Explore the kinds of work Steve helps with. 01 — INDOORS REPAIR · FIT · IMPROVE Shelves up. Little fixes done. Help with everyday fittings and the small repairs on your list. Shelves & cupboards Handrails & small repairs Kitchen tap replacements Wall-mounted TVs 02 — OUTDOORS ASSEMBLE · REPAIR More from your outdoor space. From assembling a garden building to useful repairs outside. Sheds & summerhouses Decking Outdoor handrails One small job is a good place to start. Not sure where your job fits? Describe it when you get in touch.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 62.5625,
+                "width": 1440,
+                "height": 799.015625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "IN CUSTOMERS’ WORDS The work matters. So does the care. 20 customer reviews 2019 joined the directory Derbyshire County Council’s Trusted Trader directory Read all customer feedback ↗ 16 JULY 2026 INDOOR & OUTDOOR HANDRAILS “We consider ourselves lucky to have found him and wouldn't hesitate to use him again.” Three handrail jobs around one home. The customer highlighted Steve’s care, hard work and skill. 28 APRIL 2026 SUMMERHOUSE ASSEMBLY A garden project, put together. The customer praised the summerhouse build, the hard work and the price. 14 DECEMBER 2025 KITCHEN TAP REPLACEMENT A small job worth doing. After struggling to find help for a small tap replacement, this customer appreciated Steve’s efficient, friendly and tidy work. Feedback and directory details checked 7 September 2026. Read the original entries using the directory link.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 62.5625,
+              "width": 1440,
+              "height": 799.015625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "IN CUSTOMERS’ WORDS The work matters. So does the care. 20 customer reviews 2019 joined the directory Derbyshire County Council’s Trusted Trader directory Read all customer feedback ↗ 16 JULY 2026 INDOOR & OUTDOOR HANDRAILS “We consider ourselves lucky to have found him and wouldn't hesitate to use him again.” Three handrail jobs around one home. The customer highlighted Steve’s care, hard work and skill. 28 APRIL 2026 SUMMERHOUSE ASSEMBLY A garden project, put together. The customer praised the summerhouse build, the hard work and the price. 14 DECEMBER 2025 KITCHEN TAP REPLACEMENT A small job worth doing. After struggling to find help for a small tap replacement, this customer appreciated Steve’s efficient, friendly and tidy work. Feedback and directory details checked 7 September 2026. Read the original entries using the directory link.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": 62.5625,
+                "width": 1440,
+                "height": 799.015625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "IN CUSTOMERS’ WORDS The work matters. So does the care. 20 customer reviews 2019 joined the directory Derbyshire County Council’s Trusted Trader directory Read all customer feedback ↗ 16 JULY 2026 INDOOR & OUTDOOR HANDRAILS “We consider ourselves lucky to have found him and wouldn't hesitate to use him again.” Three handrail jobs around one home. The customer highlighted Steve’s care, hard work and skill. 28 APRIL 2026 SUMMERHOUSE ASSEMBLY A garden project, put together. The customer praised the summerhouse build, the hard work and the price. 14 DECEMBER 2025 KITCHEN TAP REPLACEMENT A small job worth doing. After struggling to find help for a small tap replacement, this customer appreciated Steve’s efficient, friendly and tidy work. Feedback and directory details checked 7 September 2026. Read the original entries using the directory link.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": 62.5625,
+              "width": 1440,
+              "height": 799.015625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "IN CUSTOMERS’ WORDS The work matters. So does the care. 20 customer reviews 2019 joined the directory Derbyshire County Council’s Trusted Trader directory Read all customer feedback ↗ 16 JULY 2026 INDOOR & OUTDOOR HANDRAILS “We consider ourselves lucky to have found him and wouldn't hesitate to use him again.” Three handrail jobs around one home. The customer highlighted Steve’s care, hard work and skill. 28 APRIL 2026 SUMMERHOUSE ASSEMBLY A garden project, put together. The customer praised the summerhouse build, the hard work and the price. 14 DECEMBER 2025 KITCHEN TAP REPLACEMENT A small job worth doing. After struggling to find help for a small tap replacement, this customer appreciated Steve’s efficient, friendly and tidy work. Feedback and directory details checked 7 September 2026. Read the original entries using the directory link.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#indoor",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 137.859375,
+                "width": 663.265625,
+                "height": 648.546875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "01 — INDOORS REPAIR · FIT · IMPROVE Shelves up. Little fixes done. Help with everyday fittings and the small repairs on your list. Shelves & cupboards Handrails & small repairs Kitchen tap replacements Wall-mounted TVs",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#indoor",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 137.859375,
+              "width": 663.265625,
+              "height": 648.546875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "01 — INDOORS REPAIR · FIT · IMPROVE Shelves up. Little fixes done. Help with everyday fittings and the small repairs on your list. Shelves & cupboards Handrails & small repairs Kitchen tap replacements Wall-mounted TVs",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 440.09375,
+                "width": 223.1875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read all customer feedback ↗",
+              "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 440.09375,
+              "width": 223.1875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read all customer feedback ↗",
+            "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "MAP",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".map-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 755,
+                "y": 594.96875,
+                "width": 192.046875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "See Grassmoor on the map ↗",
+              "actualHref": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".map-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 755,
+              "y": 594.96875,
+              "width": 192.046875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "See Grassmoor on the map ↗",
+            "actualHref": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "VIS_hero",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".hero-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 745,
+                "y": 156,
+                "width": 615,
+                "height": 587.390625
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "55% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/hero.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".hero-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 745,
+              "y": 156,
+              "width": 615,
+              "height": 587.390625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "55% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/hero.webp"
+            ]
+          }
+        },
+        {
+          "id": "VIS_indoor",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#indoor img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 247.859375,
+                "width": 663.265625,
+                "height": 427.90625
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/indoor.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#indoor img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 247.859375,
+              "width": 663.265625,
+              "height": 427.90625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/indoor.webp"
+            ]
+          }
+        },
+        {
+          "id": "VIS_outdoor",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#outdoor img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 807.265625,
+                "y": 277.859375,
+                "width": 552.71875,
+                "height": 368.46875
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/outdoor-wide.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#outdoor img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 807.265625,
+              "y": 277.859375,
+              "width": 552.71875,
+              "height": 368.46875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/outdoor-wide.webp"
+            ]
+          }
+        },
+        {
+          "id": "VIS_handrail",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".contact-image img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 192.1875,
+                "width": 605,
+                "height": 540.171875
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "40% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/handrail.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".contact-image img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 192.1875,
+              "width": 605,
+              "height": 540.171875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "40% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/handrail.webp"
+            ]
+          }
+        },
+        {
+          "id": "F14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#linkedin-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 755,
+                "y": 550.96875,
+                "width": 188.671875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Stephen Shipp on LinkedIn ↗",
+              "actualHref": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#linkedin-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 755,
+              "y": 550.96875,
+              "width": 188.671875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Stephen Shipp on LinkedIn ↗",
+            "actualHref": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08_DETAIL",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".directory-facts",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 80,
+                "y": 422.53125,
+                "width": 605,
+                "height": 78.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "20 customer reviews 2019 joined the directory",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".directory-facts",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 422.53125,
+              "width": 605,
+              "height": 78.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "20 customer reviews 2019 joined the directory",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/hero.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 745,
+              "y": 156,
+              "width": 615,
+              "height": 587.390625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "55% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/indoor.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 247.859375,
+              "width": 663.265625,
+              "height": 427.90625
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/outdoor-wide.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 807.265625,
+              "y": 277.859375,
+              "width": 552.71875,
+              "height": 368.46875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/handrail.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 80,
+              "y": 192.1875,
+              "width": 605,
+              "height": 540.171875
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "40% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "S M S. HANDYMAN SERVICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "What needs doing?"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#reviews",
+          "text": "Customer feedback"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447725999370",
+          "text": "↗ 07725 999370"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "tel:+447725999370",
+          "text": "Call Steve about your job ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#services",
+          "text": "Explore the services ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#reviews",
+          "text": "20 customer reviews on Derbyshire Trusted Trader ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#indoor",
+          "text": "INDOOR JOBS ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#outdoor",
+          "text": "OUTDOOR PROJECTS ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#reviews",
+          "text": "WHAT CUSTOMERS SAY ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+          "text": "Read all customer feedback ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#linkedin-link",
+          "href": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+          "text": "Stephen Shipp on LinkedIn ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(4)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+          "text": "See Grassmoor on the map ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/hero.webp"
+          ],
+          "section": "hero wrap",
+          "focus": "55% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/indoor.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/outdoor-wide.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/handrail.webp"
+          ],
+          "section": "contact",
+          "focus": "40% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447725999370",
+          "text": "↗ 07725 999370",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-cta",
+          "href": "tel:+447725999370",
+          "text": "Call Steve about your job ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+          "text": "Read all customer feedback ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#linkedin-link",
+          "href": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+          "text": "Stephen Shipp on LinkedIn ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(4)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+          "text": "See Grassmoor on the map ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Practical help. Indoors & out.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "What’s on your to-do list?",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Shelves up. Little fixes done.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "More from your outdoor space.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#reviews-title",
+          "text": "The work matters. So does the care.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "A garden project, put together.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "A small job worth doing.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "#contact-title",
+          "text": "Let’s start with your job.",
+          "section": "contact"
+        }
+      ],
+      "width": 1440,
+      "height": 3855
+    },
+    "mobile": {
+      "issues": [],
+      "mapping": [
+        {
+          "id": "F01",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#location",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 426.21875,
+                "width": 350,
+                "height": 15
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "BASED IN GRASSMOOR, CHESTERFIELD",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#location",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 426.21875,
+              "width": 350,
+              "height": 15
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "BASED IN GRASSMOOR, CHESTERFIELD",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F02",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".phone-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 293.25,
+                "y": 31.40625,
+                "width": 76.75,
+                "height": 19.1875
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "07725 999370",
+              "actualHref": "tel:+447725999370",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".phone-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 293.25,
+              "y": 31.40625,
+              "width": 76.75,
+              "height": 19.1875
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "07725 999370",
+            "actualHref": "tel:+447725999370",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "EMAIL",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".email-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 455.140625,
+                "width": 350,
+                "height": 56
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "[REDACTED_EMAIL] ↗",
+              "actualHref": "mailto:[REDACTED_EMAIL]",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".email-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 455.140625,
+              "width": 350,
+              "height": 56
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "[REDACTED_EMAIL] ↗",
+            "actualHref": "mailto:[REDACTED_EMAIL]",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F03",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#services",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": -331.609375,
+                "width": 350,
+                "height": 1532.0625
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "AROUND YOUR HOME What’s on your to-do list? From a single fitting to a list of little repairs. Explore the kinds of work Steve helps with. 01 — INDOORS REPAIR · FIT · IMPROVE Shelves up. Little fixes done. Help with everyday fittings and the small repairs on your list. Shelves & cupboards Handrails & small repairs Kitchen tap replacements Wall-mounted TVs 02 — OUTDOORS ASSEMBLE · REPAIR More from your outdoor space. From assembling a garden building to useful repairs outside. Sheds & summerhouses Decking Outdoor handrails One small job is a good place to start. Not sure where your job fits? Describe it when you get in touch.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#services",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": -331.609375,
+              "width": 350,
+              "height": 1532.0625
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "AROUND YOUR HOME What’s on your to-do list? From a single fitting to a list of little repairs. Explore the kinds of work Steve helps with. 01 — INDOORS REPAIR · FIT · IMPROVE Shelves up. Little fixes done. Help with everyday fittings and the small repairs on your list. Shelves & cupboards Handrails & small repairs Kitchen tap replacements Wall-mounted TVs 02 — OUTDOORS ASSEMBLE · REPAIR More from your outdoor space. From assembling a garden building to useful repairs outside. Sheds & summerhouses Decking Outdoor handrails One small job is a good place to start. Not sure where your job fits? Describe it when you get in touch.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F04",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -75.546875,
+                "width": 390,
+                "height": 1019.25
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "IN CUSTOMERS’ WORDS The work matters. So does the care. 20 customer reviews 2019 joined the directory Derbyshire County Council’s Trusted Trader directory Read all customer feedback ↗ 16 JULY 2026 INDOOR & OUTDOOR HANDRAILS “We consider ourselves lucky to have found him and wouldn't hesitate to use him again.” Three handrail jobs around one home. The customer highlighted Steve’s care, hard work and skill. 28 APRIL 2026 SUMMERHOUSE ASSEMBLY A garden project, put together. The customer praised the summerhouse build, the hard work and the price. 14 DECEMBER 2025 KITCHEN TAP REPLACEMENT A small job worth doing. After struggling to find help for a small tap replacement, this customer appreciated Steve’s efficient, friendly and tidy work. Feedback and directory details checked 7 September 2026. Read the original entries using the directory link.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -75.546875,
+              "width": 390,
+              "height": 1019.25
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "IN CUSTOMERS’ WORDS The work matters. So does the care. 20 customer reviews 2019 joined the directory Derbyshire County Council’s Trusted Trader directory Read all customer feedback ↗ 16 JULY 2026 INDOOR & OUTDOOR HANDRAILS “We consider ourselves lucky to have found him and wouldn't hesitate to use him again.” Three handrail jobs around one home. The customer highlighted Steve’s care, hard work and skill. 28 APRIL 2026 SUMMERHOUSE ASSEMBLY A garden project, put together. The customer praised the summerhouse build, the hard work and the price. 14 DECEMBER 2025 KITCHEN TAP REPLACEMENT A small job worth doing. After struggling to find help for a small tap replacement, this customer appreciated Steve’s efficient, friendly and tidy work. Feedback and directory details checked 7 September 2026. Read the original entries using the directory link.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F05",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#reviews",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 0,
+                "y": -75.546875,
+                "width": 390,
+                "height": 1019.25
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "IN CUSTOMERS’ WORDS The work matters. So does the care. 20 customer reviews 2019 joined the directory Derbyshire County Council’s Trusted Trader directory Read all customer feedback ↗ 16 JULY 2026 INDOOR & OUTDOOR HANDRAILS “We consider ourselves lucky to have found him and wouldn't hesitate to use him again.” Three handrail jobs around one home. The customer highlighted Steve’s care, hard work and skill. 28 APRIL 2026 SUMMERHOUSE ASSEMBLY A garden project, put together. The customer praised the summerhouse build, the hard work and the price. 14 DECEMBER 2025 KITCHEN TAP REPLACEMENT A small job worth doing. After struggling to find help for a small tap replacement, this customer appreciated Steve’s efficient, friendly and tidy work. Feedback and directory details checked 7 September 2026. Read the original entries using the directory link.",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#reviews",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 0,
+              "y": -75.546875,
+              "width": 390,
+              "height": 1019.25
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "IN CUSTOMERS’ WORDS The work matters. So does the care. 20 customer reviews 2019 joined the directory Derbyshire County Council’s Trusted Trader directory Read all customer feedback ↗ 16 JULY 2026 INDOOR & OUTDOOR HANDRAILS “We consider ourselves lucky to have found him and wouldn't hesitate to use him again.” Three handrail jobs around one home. The customer highlighted Steve’s care, hard work and skill. 28 APRIL 2026 SUMMERHOUSE ASSEMBLY A garden project, put together. The customer praised the summerhouse build, the hard work and the price. 14 DECEMBER 2025 KITCHEN TAP REPLACEMENT A small job worth doing. After struggling to find help for a small tap replacement, this customer appreciated Steve’s efficient, friendly and tidy work. Feedback and directory details checked 7 September 2026. Read the original entries using the directory link.",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F06",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#indoor",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 185.984375,
+                "width": 350,
+                "height": 496.34375
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "01 — INDOORS REPAIR · FIT · IMPROVE Shelves up. Little fixes done. Help with everyday fittings and the small repairs on your list. Shelves & cupboards Handrails & small repairs Kitchen tap replacements Wall-mounted TVs",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#indoor",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 185.984375,
+              "width": 350,
+              "height": 496.34375
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "01 — INDOORS REPAIR · FIT · IMPROVE Shelves up. Little fixes done. Help with everyday fittings and the small repairs on your list. Shelves & cupboards Handrails & small repairs Kitchen tap replacements Wall-mounted TVs",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".review-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 411.703125,
+                "width": 194.734375,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Read all customer feedback ↗",
+              "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".review-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 411.703125,
+              "width": 194.734375,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Read all customer feedback ↗",
+            "actualHref": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "MAP",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".map-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 565.140625,
+                "width": 192.046875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "See Grassmoor on the map ↗",
+              "actualHref": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".map-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 565.140625,
+              "width": 192.046875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "See Grassmoor on the map ↗",
+            "actualHref": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "VIS_hero",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".hero-photo",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 317.0625,
+                "width": 350,
+                "height": 233.328125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/hero.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".hero-photo",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.0625,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/hero.webp"
+            ]
+          }
+        },
+        {
+          "id": "VIS_indoor",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#indoor img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 316.984375,
+                "width": 350,
+                "height": 233.328125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/indoor.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#indoor img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 316.984375,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/indoor.webp"
+            ]
+          }
+        },
+        {
+          "id": "VIS_outdoor",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#outdoor img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 317.328125,
+                "width": 350,
+                "height": 233.328125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "50% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/outdoor-wide.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": "#outdoor img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.328125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/outdoor-wide.webp"
+            ]
+          }
+        },
+        {
+          "id": "VIS_handrail",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".contact-image img",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 317.703125,
+                "width": 350,
+                "height": 233.328125
+              },
+              "samples": 9,
+              "objectFit": "cover",
+              "focus": "40% 50%",
+              "actualText": "",
+              "actualHref": null,
+              "actualUrls": [
+                "http://demo.local/assets/handrail.webp"
+              ]
+            }
+          ],
+          "match": {
+            "selector": ".contact-image img",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.703125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "40% 50%",
+            "actualText": "",
+            "actualHref": null,
+            "actualUrls": [
+              "http://demo.local/assets/handrail.webp"
+            ]
+          }
+        },
+        {
+          "id": "F14",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": "#linkedin-link",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 521.140625,
+                "width": 188.671875,
+                "height": 44
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "Stephen Shipp on LinkedIn ↗",
+              "actualHref": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": "#linkedin-link",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 521.140625,
+              "width": 188.671875,
+              "height": 44
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "Stephen Shipp on LinkedIn ↗",
+            "actualHref": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+            "actualUrls": []
+          }
+        },
+        {
+          "id": "F08_DETAIL",
+          "pass": true,
+          "attempts": [
+            {
+              "selector": ".directory-facts",
+              "visible": true,
+              "reason": "paint/hit-test sample",
+              "rect": {
+                "x": 20,
+                "y": 420.515625,
+                "width": 350,
+                "height": 27
+              },
+              "samples": 9,
+              "objectFit": "fill",
+              "focus": "50% 50%",
+              "actualText": "20 customer reviews 2019 joined the directory",
+              "actualHref": null,
+              "actualUrls": []
+            }
+          ],
+          "match": {
+            "selector": ".directory-facts",
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 420.515625,
+              "width": 350,
+              "height": 27
+            },
+            "samples": 9,
+            "objectFit": "fill",
+            "focus": "50% 50%",
+            "actualText": "20 customer reviews 2019 joined the directory",
+            "actualHref": null,
+            "actualUrls": []
+          }
+        }
+      ],
+      "images": [
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/hero.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.0625,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/indoor.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 316.984375,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/outdoor-wide.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.328125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "50% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "url": "http://demo.local/assets/handrail.webp",
+          "visibility": {
+            "visible": true,
+            "reason": "paint/hit-test sample",
+            "rect": {
+              "x": 20,
+              "y": 317.703125,
+              "width": 350,
+              "height": 233.328125
+            },
+            "samples": 9,
+            "objectFit": "cover",
+            "focus": "40% 50%"
+          },
+          "decoded": true,
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "links": [
+        {
+          "selector": "html > body:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Skip to content"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "S M S. HANDYMAN SERVICES"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#services",
+          "text": "What needs doing?"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#reviews",
+          "text": "Customer feedback"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370"
+        },
+        {
+          "selector": "#hero-cta",
+          "href": "tel:+447725999370",
+          "text": "Call Steve about your job ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#services",
+          "text": "Explore the services ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#reviews",
+          "text": "20 customer reviews on Derbyshire Trusted Trader ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#indoor",
+          "text": "INDOOR JOBS ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "#outdoor",
+          "text": "OUTDOOR PROJECTS ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "href": "#reviews",
+          "text": "WHAT CUSTOMERS SAY ↓"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+          "text": "Read all customer feedback ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370 ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗"
+        },
+        {
+          "selector": "#linkedin-link",
+          "href": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+          "text": "Stephen Shipp on LinkedIn ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(4)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+          "text": "See Grassmoor on the map ↗"
+        },
+        {
+          "selector": "html > body:nth-of-type(1) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "#main",
+          "text": "Back to top ↑"
+        }
+      ],
+      "discovered": [
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/hero.webp"
+          ],
+          "section": "hero wrap",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/indoor.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > figure:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/outdoor-wide.webp"
+          ],
+          "section": "services",
+          "focus": "50% 50%"
+        },
+        {
+          "kind": "image",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "urls": [
+            "http://demo.local/assets/handrail.webp"
+          ],
+          "section": "contact",
+          "focus": "40% 50%"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > header:nth-of-type(1) > a:nth-of-type(2)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#hero-cta",
+          "href": "tel:+447725999370",
+          "text": "Call Steve about your job ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418",
+          "text": "Read all customer feedback ↗",
+          "section": "reviews"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(1)",
+          "href": "tel:+447725999370",
+          "text": "07725 999370 ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(2)",
+          "href": "mailto:[REDACTED_EMAIL]",
+          "text": "[REDACTED_EMAIL] ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "#linkedin-link",
+          "href": "https://uk.linkedin.com/in/stephen-shipp-76154043",
+          "text": "Stephen Shipp on LinkedIn ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "path",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > a:nth-of-type(4)",
+          "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield",
+          "text": "See Grassmoor on the map ↗",
+          "section": "contact"
+        },
+        {
+          "kind": "fact",
+          "selector": "#hero-title",
+          "text": "Practical help. Indoors & out.",
+          "section": "content"
+        },
+        {
+          "kind": "fact",
+          "selector": "#services-title",
+          "text": "What’s on your to-do list?",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(1) > h3:nth-of-type(1)",
+          "text": "Shelves up. Little fixes done.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "More from your outdoor space.",
+          "section": "services"
+        },
+        {
+          "kind": "fact",
+          "selector": "#reviews-title",
+          "text": "The work matters. So does the care.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(2) > h3:nth-of-type(1)",
+          "text": "A garden project, put together.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > article:nth-of-type(3) > h3:nth-of-type(1)",
+          "text": "A small job worth doing.",
+          "section": "reviews"
+        },
+        {
+          "kind": "fact",
+          "selector": "#contact-title",
+          "text": "Let’s start with your job.",
+          "section": "contact"
+        }
+      ],
+      "width": 390,
+      "height": 4838
+    }
+  },
+  "blocked": [],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "phase": "待验收",
+  "owner": "01a0793a-28ac-7e60-a889-1e1e21e491c3",
+  "activeVersion": "v1",
+  "inputHash": "b1a862572c2964d34e69999d9449e4ece9b678c0a0433d9fba35cb5daec91392",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/rc-contractors-v1-20260907/runs/2026-09-07T01-38-56-004Z-e88774c6/result.json",
+  "resultSha256": "c31f0bb35781e6670f637e5dfc18833cf8d2cd390ade0f2f52a08dfcf1b11d9f",
+  "mechanical": "PASS",
+  "scheduler": false,
+  "defects": [],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA"
+}

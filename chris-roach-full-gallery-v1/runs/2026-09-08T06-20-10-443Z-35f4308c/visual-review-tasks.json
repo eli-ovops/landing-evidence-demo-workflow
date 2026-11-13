@@ -1,0 +1,184 @@
+{
+  "inputHash": "eea621945d489a3e592082de741d8cd2efb14979b2c4c9e8783e9edc63133082",
+  "assets": [
+    {
+      "assetId": "A6",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-6.jpg",
+      "originalSha256": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-6.jpg",
+      "sha256": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-6"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A7",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-7.jpg",
+      "originalSha256": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-7.jpg",
+      "sha256": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-7"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A9",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-9.jpg",
+      "originalSha256": "a3a8670fee32cacd84291e8a61277d70c3a4599b81c70208efbecef5c6a77b1a",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-9.jpg",
+      "sha256": "a3a8670fee32cacd84291e8a61277d70c3a4599b81c70208efbecef5c6a77b1a",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-9"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A5",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-5.jpg",
+      "originalSha256": "a789fb968825073cec50afec074c367610077e26704f7b0085fc773c8fe8f72b",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-5.jpg",
+      "sha256": "a789fb968825073cec50afec074c367610077e26704f7b0085fc773c8fe8f72b",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-5"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A8",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-8.jpg",
+      "originalSha256": "185ac13032ad9ee9412cc2b3b747f09fd534bd2194275fc7863703082228f10e",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-8.jpg",
+      "sha256": "185ac13032ad9ee9412cc2b3b747f09fd534bd2194275fc7863703082228f10e",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-8"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A11",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-11.jpg",
+      "originalSha256": "852f2125277a79fbd423540d3d4800b07d6dbce0c44f49c2a12ca7e35f323f85",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-11.jpg",
+      "sha256": "852f2125277a79fbd423540d3d4800b07d6dbce0c44f49c2a12ca7e35f323f85",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-11"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A12",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-12.jpg",
+      "originalSha256": "044fa3927cef639cacab29ae244440b57a1fa9ebbe6c2da6fdbcf3b9b96cc03a",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-12.jpg",
+      "sha256": "044fa3927cef639cacab29ae244440b57a1fa9ebbe6c2da6fdbcf3b9b96cc03a",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-12"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A13",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-13.jpg",
+      "originalSha256": "756403a6e7d0f13ad264223d4417f6789fead4686e3500af019e8ca483971eca",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-13.jpg",
+      "sha256": "756403a6e7d0f13ad264223d4417f6789fead4686e3500af019e8ca483971eca",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-13"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A14",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-14.jpg",
+      "originalSha256": "69981339cd92e1055f2b623daa73f20ae74e896889bf77a7195112bad9bb7a66",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-14.jpg",
+      "sha256": "69981339cd92e1055f2b623daa73f20ae74e896889bf77a7195112bad9bb7a66",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-14"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    },
+    {
+      "assetId": "A15",
+      "source": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-15.jpg",
+      "originalSha256": "fa71a7340ca4be7f164d8f280cd43fab152b5f17b38a4386d35033948fdbefbf",
+      "renderFile": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site/assets/photo-15.jpg",
+      "sha256": "fa71a7340ca4be7f164d8f280cd43fab152b5f17b38a4386d35033948fdbefbf",
+      "focus": "contain entire original",
+      "role": "Original business photograph",
+      "selectors": [
+        "#gallery-photo-15"
+      ],
+      "evidence": [
+        "desktop-full.png",
+        "mobile-full.png"
+      ],
+      "question": "Independent reviewer compare original with both renders: subject crop, truthfulness, quality and commercial role; mechanical decoding does not answer these"
+    }
+  ],
+  "businessReview": [
+    "brand/IA/storyboard",
+    "5-second recognition",
+    "before/after commercial increment",
+    "Bottom 40%",
+    "Gate E positive retention questions",
+    "existing ten-part visual rubric"
+  ],
+  "identity": "Independent reviewer provenance must be verified by PMO, never a generic string"
+}

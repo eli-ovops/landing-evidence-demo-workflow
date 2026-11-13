@@ -1,0 +1,682 @@
+{
+  "schemaVersion": 1,
+  "client": "Chris Roach Limited",
+  "owner": "01a07f53-672a-7770-afcc-243bc0a789db",
+  "activeVersion": "full-local-gallery",
+  "currentEvidence": "Full replacement local coverage; external transactions and rights BLOCKED",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/site",
+  "entry": "more-work.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "sha256": "5bd984ddedddfc82c45a8cc79cb49ff220177473c95da2af77acb4962acbaaf0"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/ALL_ASSETS.json",
+      "sha256": "96cc86a6d7a88297c869591973e7fa9670ab5cdf3754cfacedcebe4d27ffa6a4"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "B",
+      "url": "https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Which Trusted Traders",
+      "attribution": "Business-managed profile and My work gallery; reviews separately attributed to customers"
+    },
+    {
+      "id": "Soriginal",
+      "grade": "A",
+      "url": "local:original-guidance",
+      "retrievedDate": "2026-09-08",
+      "platform": "Local original copy",
+      "attribution": "Owner authored visitor guidance"
+    },
+    {
+      "id": "S3",
+      "grade": "B",
+      "url": "https://www.hamuch.com/1005434/chris-roach-limited",
+      "retrievedDate": "2026-09-08",
+      "platform": "HaMuch",
+      "attribution": "Existing merchant profile"
+    },
+    {
+      "id": "SA6",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95057/gallery_large_8143549B-EACE-44F9-99FD-4F0CDE8279B3.jpeg",
+      "retrievedDate": "2026-09-08T05:03:30.550Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA7",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95060/gallery_large_E2A5DFBB-7C80-4349-990C-3DFCB6EC54B5.jpeg",
+      "retrievedDate": "2026-09-08T05:03:31.168Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA9",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82698/gallery_large_ED20BD77-81AB-45A6-A0AE-95805B8C686C.jpeg",
+      "retrievedDate": "2026-09-08T05:03:31.520Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image"
+    },
+    {
+      "id": "SA5",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/103355/gallery_large_IMG_4399.jpeg",
+      "retrievedDate": "2026-09-08T05:26:05.525Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business-managed My work gallery distinct from customer review uploads"
+    },
+    {
+      "id": "SA8",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95058/gallery_large_66F3CE94-B5A6-407E-BB00-2889E94B912B.jpeg",
+      "retrievedDate": "2026-09-08T05:26:08.216Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business-managed My work gallery distinct from customer review uploads"
+    },
+    {
+      "id": "SA11",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82697/gallery_large_D795F9DD-AEC5-41AB-920F-54F750D06554.jpeg",
+      "retrievedDate": "2026-09-08T05:26:08.580Z",
+      "platform": "Which My work gallery",
+      "attribution": "Business-managed My work gallery distinct from customer review uploads"
+    },
+    {
+      "id": "SA12",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/76079/gallery_large_22F90032-96E9-41DE-816B-E1ADBE80D552.jpeg",
+      "retrievedDate": "2026-09-08T06:03:10.977Z",
+      "platform": "Which My work gallery",
+      "attribution": "Which business My work gallery position11 imageWrapper / fancybox_gallery, not review-upload image"
+    },
+    {
+      "id": "SA13",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/76080/gallery_large_74D2EFC3-C7EF-4298-A8E4-B547346EB3E1.jpeg",
+      "retrievedDate": "2026-09-08T06:03:11.499Z",
+      "platform": "Which My work gallery",
+      "attribution": "Which business My work gallery position12 imageWrapper / fancybox_gallery, not review-upload image"
+    },
+    {
+      "id": "SA14",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/1091/gallery_large_IMG_1798.JPG",
+      "retrievedDate": "2026-09-08T06:03:12.997Z",
+      "platform": "Which My work gallery",
+      "attribution": "Which business My work gallery position13 imageWrapper / fancybox_gallery, not review-upload image"
+    },
+    {
+      "id": "SA15",
+      "grade": "B",
+      "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/1085/gallery_large_IMG_6474_1_.JPG",
+      "retrievedDate": "2026-09-08T06:03:13.266Z",
+      "platform": "Which My work gallery",
+      "attribution": "Which business My work gallery position14 imageWrapper / fancybox_gallery, not review-upload image"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A6",
+      "path": "assets/photo-6.jpg",
+      "originalPath": "assets/photo-6.jpg",
+      "sha256": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+      "originalSha256": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+      "sourceId": "SA6",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A7",
+      "path": "assets/photo-7.jpg",
+      "originalPath": "assets/photo-7.jpg",
+      "sha256": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+      "originalSha256": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+      "sourceId": "SA7",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A9",
+      "path": "assets/photo-9.jpg",
+      "originalPath": "assets/photo-9.jpg",
+      "sha256": "a3a8670fee32cacd84291e8a61277d70c3a4599b81c70208efbecef5c6a77b1a",
+      "originalSha256": "a3a8670fee32cacd84291e8a61277d70c3a4599b81c70208efbecef5c6a77b1a",
+      "sourceId": "SA9",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+    },
+    {
+      "id": "A5",
+      "path": "assets/photo-5.jpg",
+      "originalPath": "assets/photo-5.jpg",
+      "sha256": "a789fb968825073cec50afec074c367610077e26704f7b0085fc773c8fe8f72b",
+      "originalSha256": "a789fb968825073cec50afec074c367610077e26704f7b0085fc773c8fe8f72b",
+      "sourceId": "SA5",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "Local concept only; final transfer UNKNOWN"
+    },
+    {
+      "id": "A8",
+      "path": "assets/photo-8.jpg",
+      "originalPath": "assets/photo-8.jpg",
+      "sha256": "185ac13032ad9ee9412cc2b3b747f09fd534bd2194275fc7863703082228f10e",
+      "originalSha256": "185ac13032ad9ee9412cc2b3b747f09fd534bd2194275fc7863703082228f10e",
+      "sourceId": "SA8",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "Local concept only; final transfer UNKNOWN"
+    },
+    {
+      "id": "A11",
+      "path": "assets/photo-11.jpg",
+      "originalPath": "assets/photo-11.jpg",
+      "sha256": "852f2125277a79fbd423540d3d4800b07d6dbce0c44f49c2a12ca7e35f323f85",
+      "originalSha256": "852f2125277a79fbd423540d3d4800b07d6dbce0c44f49c2a12ca7e35f323f85",
+      "sourceId": "SA11",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "Local concept only; final transfer UNKNOWN"
+    },
+    {
+      "id": "A12",
+      "path": "assets/photo-12.jpg",
+      "originalPath": "assets/photo-12.jpg",
+      "sha256": "044fa3927cef639cacab29ae244440b57a1fa9ebbe6c2da6fdbcf3b9b96cc03a",
+      "originalSha256": "044fa3927cef639cacab29ae244440b57a1fa9ebbe6c2da6fdbcf3b9b96cc03a",
+      "sourceId": "SA12",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; local concept use; final transfer UNKNOWN"
+    },
+    {
+      "id": "A13",
+      "path": "assets/photo-13.jpg",
+      "originalPath": "assets/photo-13.jpg",
+      "sha256": "756403a6e7d0f13ad264223d4417f6789fead4686e3500af019e8ca483971eca",
+      "originalSha256": "756403a6e7d0f13ad264223d4417f6789fead4686e3500af019e8ca483971eca",
+      "sourceId": "SA13",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; local concept use; final transfer UNKNOWN"
+    },
+    {
+      "id": "A14",
+      "path": "assets/photo-14.jpg",
+      "originalPath": "assets/photo-14.jpg",
+      "sha256": "69981339cd92e1055f2b623daa73f20ae74e896889bf77a7195112bad9bb7a66",
+      "originalSha256": "69981339cd92e1055f2b623daa73f20ae74e896889bf77a7195112bad9bb7a66",
+      "sourceId": "SA14",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; local concept use; final transfer UNKNOWN"
+    },
+    {
+      "id": "A15",
+      "path": "assets/photo-15.jpg",
+      "originalPath": "assets/photo-15.jpg",
+      "sha256": "fa71a7340ca4be7f164d8f280cd43fab152b5f17b38a4386d35033948fdbefbf",
+      "originalSha256": "fa71a7340ca4be7f164d8f280cd43fab152b5f17b38a4386d35033948fdbefbf",
+      "sourceId": "SA15",
+      "role": "Original business photograph",
+      "focus": "contain entire original",
+      "authenticity": "REAL",
+      "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; local concept use; final transfer UNKNOWN"
+    }
+  ],
+  "items": [
+    {
+      "id": "image5",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-5",
+      "sourceId": "SA5",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-5",
+      "assetId": "A5",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B1",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image6",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-6",
+      "sourceId": "SA6",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-6",
+      "assetId": "A6",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B2",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image7",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-7",
+      "sourceId": "SA7",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-7",
+      "assetId": "A7",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B3",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image8",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-8",
+      "sourceId": "SA8",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-8",
+      "assetId": "A8",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B4",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image9",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-9",
+      "sourceId": "SA9",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-9",
+      "assetId": "A9",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B5",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image11",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-11",
+      "sourceId": "SA11",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-11",
+      "assetId": "A11",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B6",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image12",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-12",
+      "sourceId": "SA12",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-12",
+      "assetId": "A12",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B7",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image13",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-13",
+      "sourceId": "SA13",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-13",
+      "assetId": "A13",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B8",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image14",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-14",
+      "sourceId": "SA14",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-14",
+      "assetId": "A14",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B9",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "image15",
+      "page": "more-work.html",
+      "selector": "#gallery-photo-15",
+      "sourceId": "SA15",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "applicability": "YES",
+      "section": "#gallery-photo-15",
+      "assetId": "A15",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B10",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "gallery-heading",
+      "page": "more-work.html",
+      "selector": "#gallery-hero",
+      "sourceId": "Soriginal",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#gallery-hero",
+      "text": "More of Chris's work",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B11",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "gallery-contact",
+      "page": "more-work.html",
+      "selector": "#gallery-contact",
+      "sourceId": "Soriginal",
+      "disposition": "LOCATION/VISIT USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#gallery-contact",
+      "text": "Discuss your decorating project",
+      "href": "index.html#contact",
+      "promise": "Discuss your decorating project",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B12",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "gallery-return",
+      "page": "more-work.html",
+      "selector": "#gallery-next",
+      "sourceId": "Soriginal",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "applicability": "YES",
+      "section": "#gallery-next",
+      "text": "Return to services",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "baselineId": "B13",
+      "category": "content and existing action",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    }
+  ],
+  "hero": {
+    "selector": "#gallery-hero",
+    "ctaSelector": "#gallery-contact"
+  },
+  "sections": [
+    "#gallery-hero",
+    "#additional-work",
+    "#gallery-next"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "BLOCKED",
+  "researchCandidates": [],
+  "baseline": [
+    {
+      "id": "B1",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 1,
+      "excerpt": "{\"id\": \"image5\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-5\", \"sourceId\": \"SA5\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-5\", \"assetId\": \"A5\"}",
+      "excerptSha256": "391b373f495b90fe158d186a23ed5d4e2c2e418f56148e03ca894c0a37d9a38e",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image5"
+      ],
+      "sourceIds": [
+        "SA5"
+      ]
+    },
+    {
+      "id": "B2",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 2,
+      "excerpt": "{\"id\": \"image6\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-6\", \"sourceId\": \"SA6\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-6\", \"assetId\": \"A6\"}",
+      "excerptSha256": "76b7ca7ff45f4abc8c25bff2c1e21926293db60ab91c4da62518d9a5cee07eb3",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image6"
+      ],
+      "sourceIds": [
+        "SA6"
+      ]
+    },
+    {
+      "id": "B3",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 3,
+      "excerpt": "{\"id\": \"image7\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-7\", \"sourceId\": \"SA7\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-7\", \"assetId\": \"A7\"}",
+      "excerptSha256": "1e27ebb7949ace88cac3a0d716497bbcc2ee0798d6e6d76aa471400535b418b7",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image7"
+      ],
+      "sourceIds": [
+        "SA7"
+      ]
+    },
+    {
+      "id": "B4",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 4,
+      "excerpt": "{\"id\": \"image8\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-8\", \"sourceId\": \"SA8\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-8\", \"assetId\": \"A8\"}",
+      "excerptSha256": "c01d058f714eeea1990e6492497fb1255662cbb8bdfc171f4610ac0dba415ad3",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image8"
+      ],
+      "sourceIds": [
+        "SA8"
+      ]
+    },
+    {
+      "id": "B5",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 5,
+      "excerpt": "{\"id\": \"image9\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-9\", \"sourceId\": \"SA9\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-9\", \"assetId\": \"A9\"}",
+      "excerptSha256": "a7274999233f58a9a68e89505fa4ef35d0cfd613cb673ceb65fc27df106c5350",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image9"
+      ],
+      "sourceIds": [
+        "SA9"
+      ]
+    },
+    {
+      "id": "B6",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 6,
+      "excerpt": "{\"id\": \"image11\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-11\", \"sourceId\": \"SA11\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-11\", \"assetId\": \"A11\"}",
+      "excerptSha256": "e92114b93855f3efdde51fd29bdae05c0510eb682e6ae27b8a307ee3167c7da4",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image11"
+      ],
+      "sourceIds": [
+        "SA11"
+      ]
+    },
+    {
+      "id": "B7",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 7,
+      "excerpt": "{\"id\": \"image12\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-12\", \"sourceId\": \"SA12\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-12\", \"assetId\": \"A12\"}",
+      "excerptSha256": "9d14b3f34f7a37f9e343864219d00f2e586b52db8515a9329c9115eed866b9a1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image12"
+      ],
+      "sourceIds": [
+        "SA12"
+      ]
+    },
+    {
+      "id": "B8",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 8,
+      "excerpt": "{\"id\": \"image13\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-13\", \"sourceId\": \"SA13\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-13\", \"assetId\": \"A13\"}",
+      "excerptSha256": "7ba34d96c69e890a00e35a73b83a531c3bc6cf7018673ca162aaa84c037e45f8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image13"
+      ],
+      "sourceIds": [
+        "SA13"
+      ]
+    },
+    {
+      "id": "B9",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 9,
+      "excerpt": "{\"id\": \"image14\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-14\", \"sourceId\": \"SA14\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-14\", \"assetId\": \"A14\"}",
+      "excerptSha256": "f9515a23566a073a8934a2d732c4ab6344b3d8d323e9d44875ebe2b5645f4e20",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image14"
+      ],
+      "sourceIds": [
+        "SA14"
+      ]
+    },
+    {
+      "id": "B10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 10,
+      "excerpt": "{\"id\": \"image15\", \"page\": \"more-work.html\", \"selector\": \"#gallery-photo-15\", \"sourceId\": \"SA15\", \"disposition\": \"DIRECT USE\", \"factState\": \"OBSERVED FACT\", \"applicability\": \"YES\", \"section\": \"#gallery-photo-15\", \"assetId\": \"A15\"}",
+      "excerptSha256": "44690eda7b8e979e35b5089cc5c72ccf797350216edb20f40ddfbb03efda3873",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "image15"
+      ],
+      "sourceIds": [
+        "SA15"
+      ]
+    },
+    {
+      "id": "B11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 11,
+      "excerpt": "{\"id\": \"gallery-heading\", \"page\": \"more-work.html\", \"selector\": \"#gallery-hero\", \"sourceId\": \"Soriginal\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#gallery-hero\", \"text\": \"More of Chris's work\"}",
+      "excerptSha256": "bf1cade95ecfd77ad8b4d1dca4df288e22b2f1c4afc420ff7287abbfc6245544",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "gallery-heading"
+      ],
+      "sourceIds": [
+        "Soriginal"
+      ]
+    },
+    {
+      "id": "B12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 12,
+      "excerpt": "{\"id\": \"gallery-contact\", \"page\": \"more-work.html\", \"selector\": \"#gallery-contact\", \"sourceId\": \"Soriginal\", \"disposition\": \"LOCATION/VISIT USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#gallery-contact\", \"text\": \"Discuss your decorating project\", \"href\": \"index.html#contact\", \"promise\": \"Discuss your decorating project\"}",
+      "excerptSha256": "9d13dd46982594df61c712c64d0215b691ad0c87838632c1b3cb4b96c335322d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "gallery-contact"
+      ],
+      "sourceIds": [
+        "Soriginal"
+      ]
+    },
+    {
+      "id": "B13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/full-replacement/baseline-gallery.md",
+      "line": 13,
+      "excerpt": "{\"id\": \"gallery-return\", \"page\": \"more-work.html\", \"selector\": \"#gallery-next\", \"sourceId\": \"Soriginal\", \"disposition\": \"FACT/PARAPHRASE USE\", \"factState\": \"SOURCE CLAIM\", \"applicability\": \"YES\", \"section\": \"#gallery-next\", \"text\": \"Return to services\"}",
+      "excerptSha256": "719acaec832819563c75639e588e10dda1dcba0329b6ea3d4f1be8a97ee5467f",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "gallery-return"
+      ],
+      "sourceIds": [
+        "Soriginal"
+      ]
+    }
+  ]
+}

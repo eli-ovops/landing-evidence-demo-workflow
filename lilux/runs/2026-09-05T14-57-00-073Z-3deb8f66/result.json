@@ -1,0 +1,4300 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-05T14:57:12.987Z",
+  "owner": "01a071f1-3577-77a0-b510-101f0bcc3fb9",
+  "client": "Lilux Developments",
+  "activeVersion": "demo_20260902/v6/index.html",
+  "inputHash": "78f458b806aa9df05f9e06ded569d19944a5b83ed097224a73063b97e3f34771",
+  "mechanical": "FAIL",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [
+    {
+      "code": "BASELINE_RECONCILIATION_PENDING",
+      "target": "coverageReview",
+      "detail": "Owner reconcile independent source inventory; DOM observations alone are not coverage",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE1",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md:4 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE2",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md:8 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE3",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md:10 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE4",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md:11 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE5",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md:12 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE6",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md:14 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE7",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/v6/ASSET_SOURCES.md:37 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE8",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md:7 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE9",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md:8 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE10",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md:9 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE11",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md:10 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE12",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md:11 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE13",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/docs/CUSTOMER_PUBLIC_INTELLIGENCE.md:12 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE14",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md:11 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE15",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md:26 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE16",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md:34 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE17",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md:35 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE18",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md:36 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "BASELINE_UNMAPPED",
+      "target": "BASE19",
+      "detail": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/V3_PRE_CODE_DECISION.md:49 — Owner map source item to contract item; no user JSON work",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S1",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S2",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S3",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S4",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S5",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S6",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S7",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S8",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S9",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S10",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S11",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S12",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S13",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S14",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S15",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S16",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S17",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S18",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S19",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S20",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S21",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S22",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S23",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S24",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S24",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S24",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S24",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S24",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S25",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S25",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S25",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S25",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S25",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S26",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S26",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S26",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S26",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S26",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S27",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S27",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S27",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S27",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S27",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S28",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S28",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S28",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S28",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S28",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S29",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S29",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S29",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S29",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S29",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S30",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S30",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S30",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S30",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S30",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S31",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S31",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S31",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S31",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S31",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S32",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S32",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S32",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S32",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S32",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S33",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S33",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S33",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S33",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S33",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S34",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S34",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S34",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S34",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S34",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S35",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S35",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S35",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S35",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S35",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S36",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S36",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S36",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S36",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S36",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S37",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S37",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S37",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S37",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S37",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S38",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S38",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S38",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S38",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S38",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S39",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S39",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S39",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S39",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S39",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S40",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S40",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S40",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S40",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S40",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S41",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S41",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S41",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S41",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S41",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S42",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S42",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S42",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S42",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S42",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S43",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S43",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S43",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S43",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S43",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S44",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S44",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S44",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S44",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S44",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S45",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S45",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S45",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S45",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S45",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S46",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S46",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S46",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S46",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S46",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S47",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S47",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S47",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S47",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S47",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S48",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S48",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S48",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S48",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S48",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S49",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S49",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S49",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S49",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S49",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S50",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S50",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S50",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S50",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S50",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S51",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S51",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S51",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S51",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S51",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S52",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S52",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S52",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S52",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S52",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S53",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S53",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S53",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S53",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S53",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S54",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S54",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S54",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S54",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S54",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S55",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S55",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S55",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S55",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S55",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S56",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S56",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S56",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S56",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S56",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S57",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S57",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S57",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S57",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S57",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S58",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S58",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S58",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S58",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S58",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S59",
+      "detail": "url 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S59",
+      "detail": "retrievedDate 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S59",
+      "detail": "platform 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S59",
+      "detail": "attribution 需 Owner 从资料补证",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "SOURCE_UNKNOWN",
+      "target": "S59",
+      "detail": "来源等级未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A1",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A1",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A1",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A2",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A2",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A2",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A3",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A3",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A3",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A4",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A4",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A4",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A5",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A5",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A5",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A6",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A6",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A6",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A7",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A7",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A7",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A8",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A8",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A8",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A9",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A9",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A9",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A10",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A10",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A10",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A11",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A11",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A11",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A12",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A12",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A12",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A13",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A13",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A13",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A14",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A14",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A14",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A15",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A15",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A15",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A16",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A16",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A16",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A17",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A17",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A17",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A18",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A18",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A18",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A19",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A19",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A19",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A20",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A20",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A20",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A21",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A21",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A21",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A22",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A22",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A22",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A23",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A23",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A23",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A24",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A24",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A24",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A25",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A25",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A25",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A26",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A26",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A26",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A27",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A27",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A27",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A28",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A28",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A28",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A29",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A29",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A29",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A30",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A30",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A30",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A31",
+      "detail": "authenticity 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "ASSET_UNKNOWN",
+      "target": "A31",
+      "detail": "rights 未确认",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "AUTHENTICITY_UNKNOWN",
+      "target": "A31",
+      "detail": "真实/概念属性未核",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R1",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R2",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R3",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R4",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R5",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R6",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R7",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R8",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R9",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R10",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R11",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R12",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R13",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R14",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R15",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R16",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R17",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R18",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R19",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R20",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R21",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R22",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R23",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R24",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R25",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R26",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R27",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R28",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R29",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R30",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R31",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R32",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R33",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R34",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R35",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R36",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R37",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R38",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R39",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R40",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R41",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R42",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R43",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R44",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R45",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R46",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R47",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R48",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R49",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R50",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R51",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R52",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R53",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R54",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R55",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R56",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R57",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R58",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "FACT_UNKNOWN",
+      "target": "R59",
+      "detail": "不得以推断或未知自动通过",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R2",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)\",\"assetId\":\"A2\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R9",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)\",\"assetId\":\"A9\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R10",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)\",\"assetId\":\"A10\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R11",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)\",\"assetId\":\"A11\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R12",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)\",\"assetId\":\"A12\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R13",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)\",\"assetId\":\"A13\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R14",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)\",\"assetId\":\"A14\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R15",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)\",\"assetId\":\"A15\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R16",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)\",\"assetId\":\"A16\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R17",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)\",\"assetId\":\"A17\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R18",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)\",\"assetId\":\"A18\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R19",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)\",\"assetId\":\"A19\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R20",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)\",\"assetId\":\"A20\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R21",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)\",\"assetId\":\"A21\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R22",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)\",\"assetId\":\"A22\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R23",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)\",\"assetId\":\"A23\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R24",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)\",\"assetId\":\"A24\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R25",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)\",\"assetId\":\"A25\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R26",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)\",\"assetId\":\"A26\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R27",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)\",\"assetId\":\"A27\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R28",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)\",\"assetId\":\"A28\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_MISSING",
+      "target": "UNKNOWN",
+      "detail": "missing",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "UNKNOWN",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "UNKNOWN",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "desktop"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "desktop"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R2",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > figure:nth-of-type(1) > img:nth-of-type(1)\",\"assetId\":\"A2\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R4",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(1) > figure:nth-of-type(2) > img:nth-of-type(1)\",\"assetId\":\"A4\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R6",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(2) > figure:nth-of-type(2) > img:nth-of-type(1)\",\"assetId\":\"A6\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R7",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > article:nth-of-type(3) > figure:nth-of-type(1) > img:nth-of-type(1)\",\"assetId\":\"A7\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R9",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)\",\"assetId\":\"A9\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R10",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(2)\",\"assetId\":\"A10\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R11",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(3)\",\"assetId\":\"A11\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R12",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(4)\",\"assetId\":\"A12\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R13",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(5)\",\"assetId\":\"A13\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R14",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(6)\",\"assetId\":\"A14\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R15",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(7)\",\"assetId\":\"A15\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R16",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(8)\",\"assetId\":\"A16\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R17",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(9)\",\"assetId\":\"A17\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R18",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(10)\",\"assetId\":\"A18\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R19",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(11)\",\"assetId\":\"A19\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R20",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(12)\",\"assetId\":\"A20\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R21",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(13)\",\"assetId\":\"A21\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R22",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(14)\",\"assetId\":\"A22\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R23",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(15)\",\"assetId\":\"A23\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R24",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(16)\",\"assetId\":\"A24\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R25",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(17)\",\"assetId\":\"A25\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R26",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(18)\",\"assetId\":\"A26\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R27",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(19)\",\"assetId\":\"A27\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "MAPPED_CONTENT_NOT_VISIBLE_OR_MISMATCH",
+      "target": "R28",
+      "detail": "Expected {\"selector\":\"html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4) > details:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(20)\",\"assetId\":\"A28\"}",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HERO_MISSING",
+      "target": "UNKNOWN",
+      "detail": "missing",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HERO_CTA_BELOW_FOLD_OR_OUTSIDE",
+      "target": "UNKNOWN",
+      "detail": "Core CTA not within first screen",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "HERO_CTA_NOT_VISIBLE",
+      "target": "UNKNOWN",
+      "detail": "CTA hidden/clipped/occluded",
+      "level": "FAIL",
+      "repairClass": "SAME_VERSION_FIX",
+      "nextAction": "Owner 在 active version 修复该项，再 run；不自动整体重做",
+      "viewport": "mobile"
+    },
+    {
+      "code": "EMBED_UNVERIFIED",
+      "target": "html > body:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7) > iframe:nth-of-type(1)",
+      "detail": "Remote iframe blocked; inspect registered src and independent rendering",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run",
+      "viewport": "mobile"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "document GET https://www.google.com/maps?q=Abbotsbury%2C%20Weymouth%2C%20UK&z=12&output=embed; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "desktop",
+      "detail": "stylesheet GET https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "document GET https://www.google.com/maps?q=Abbotsbury%2C%20Weymouth%2C%20UK&z=12&output=embed; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    },
+    {
+      "code": "NETWORK_BLOCKED",
+      "target": "mobile",
+      "detail": "stylesheet GET https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap; destination behavior not verified",
+      "level": "UNKNOWN",
+      "repairClass": "OWNER_EVIDENCE",
+      "nextAction": "Owner 补齐该项来源/适用性或工具证据，再 run"
+    }
+  ],
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "9871dce51320ca6a3b4cc4ab5d23e92dd9247314444aed8aa4481d3f4c0fd914"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "9283c99e6de86759862e5d4ec9c419511fc969fefa97a70a3bf96a5eabbde602"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "b2bd5b6cf12eba982a81d0508a2bdd8e31d1f3e8fe270829fe9765d6e2af2f4b"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "5a184ad59f0040f2f31fe47ea75d1faa4b7db6267f4a433518cd55b14fdcf331"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "ff145a6762342abd7efdf115909c0b21b187e46bc14eaf7c233438f5e525fa8b"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "a7be614d0ac1be1ef711b4179a2fa9b55b4013bfbbbc085730b90f75eb7dd16f"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "14a91ae79ce5accf14a158e5f966d66ad34c2ead592634c3cec137f1ec5bfead"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "b052222c56b135c85fec64f04300322a6e43a8d5ed1cb2b5789690e295ff9c37"
+    }
+  ],
+  "nextAction": "Owner fix listed items in same version and rerun; only evidenced brand/IA/storyboard failure requires redesign"
+}
